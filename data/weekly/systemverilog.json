@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 09:55:43 GMT",
   "items": [
     {
       "title": "verilator/verilator",
@@ -10,9 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,931",
-      "forks": "903",
-      "addStars": "15",
+      "stars": "3,933",
+      "forks": "906",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
@@ -42,51 +42,46 @@
       ]
     },
     {
-      "title": "lowRISC/opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
+      "title": "adam-maj/tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,645",
-      "forks": "1,113",
-      "addStars": "14",
+      "stars": "12,982",
+      "forks": "1,247",
+      "addStars": "57",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
-          "name": "rswarbrick",
-          "url": "https://github.com/rswarbrick"
+          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
+          "name": "adam-maj",
+          "url": "https://github.com/adam-maj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
+          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
+          "name": "ashaltu",
+          "url": "https://github.com/ashaltu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
-          "name": "cindychip",
-          "url": "https://github.com/cindychip"
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
-          "name": "timothytrippel",
-          "url": "https://github.com/timothytrippel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
-          "name": "vogelpi",
-          "url": "https://github.com/vogelpi"
+          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
+          "name": "xianbaoqian",
+          "url": "https://github.com/xianbaoqian"
         }
       ]
     },
     {
-      "title": "openhwgroup/cvw",
-      "url": "https://github.com/openhwgroup/cvw",
+      "title": "openhwfoundation/cvw",
+      "url": "https://github.com/openhwfoundation/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": "627",
-      "forks": "569",
-      "addStars": "6",
+      "forks": "571",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
@@ -116,14 +111,51 @@
       ]
     },
     {
+      "title": "lowRISC/opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "3,647",
+      "forks": "1,116",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
+          "name": "rswarbrick",
+          "url": "https://github.com/rswarbrick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
+          "name": "cindychip",
+          "url": "https://github.com/cindychip"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
+          "name": "timothytrippel",
+          "url": "https://github.com/timothytrippel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
+          "name": "vogelpi",
+          "url": "https://github.com/vogelpi"
+        }
+      ]
+    },
+    {
       "title": "lowRISC/ibex",
       "url": "https://github.com/lowRISC/ibex",
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "2,058",
-      "forks": "808",
-      "addStars": "16",
+      "stars": "2,060",
+      "forks": "810",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/471032?s=40&v=4",

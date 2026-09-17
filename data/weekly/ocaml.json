@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Weekly Trending",
   "description": "Weekly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 09:55:43 GMT",
   "items": [
     {
       "title": "ocaml/ocaml",
@@ -10,8 +10,8 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "6,563",
-      "forks": "1,408",
+      "stars": "6,561",
+      "forks": "1,409",
       "addStars": "14",
       "contributors": [
         {
@@ -42,14 +42,46 @@
       ]
     },
     {
+      "title": "rocq-prover/rocq",
+      "url": "https://github.com/rocq-prover/rocq",
+      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "5,576",
+      "forks": "763",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1202327?s=40&v=4",
+          "name": "ppedrot",
+          "url": "https://github.com/ppedrot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2461932?s=40&v=4",
+          "name": "SkySkimmer",
+          "url": "https://github.com/SkySkimmer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/460771?s=40&v=4",
+          "name": "herbelin",
+          "url": "https://github.com/herbelin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/647105?s=40&v=4",
+          "name": "maximedenes",
+          "url": "https://github.com/maximedenes"
+        }
+      ]
+    },
+    {
       "title": "MinaProtocol/mina",
       "url": "https://github.com/MinaProtocol/mina",
       "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "2,120",
+      "stars": "2,121",
       "forks": "585",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1847343?s=40&v=4",
@@ -75,38 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/5480925?s=40&v=4",
           "name": "lk86",
           "url": "https://github.com/lk86"
-        }
-      ]
-    },
-    {
-      "title": "rocq-prover/rocq",
-      "url": "https://github.com/rocq-prover/rocq",
-      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "5,575",
-      "forks": "763",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1202327?s=40&v=4",
-          "name": "ppedrot",
-          "url": "https://github.com/ppedrot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2461932?s=40&v=4",
-          "name": "SkySkimmer",
-          "url": "https://github.com/SkySkimmer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/460771?s=40&v=4",
-          "name": "herbelin",
-          "url": "https://github.com/herbelin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/647105?s=40&v=4",
-          "name": "maximedenes",
-          "url": "https://github.com/maximedenes"
         }
       ]
     },
@@ -144,6 +144,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/113560?s=40&v=4",
           "name": "nojb",
           "url": "https://github.com/nojb"
+        }
+      ]
+    },
+    {
+      "title": "oxcaml/oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "883",
+      "forks": "182",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5250680?s=40&v=4",
+          "name": "dra27",
+          "url": "https://github.com/dra27"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118852?s=40&v=4",
+          "name": "trefis",
+          "url": "https://github.com/trefis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1315488?s=40&v=4",
+          "name": "mshinwell",
+          "url": "https://github.com/mshinwell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1379116?s=40&v=4",
+          "name": "xclerc",
+          "url": "https://github.com/xclerc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3360383?s=40&v=4",
+          "name": "liam923",
+          "url": "https://github.com/liam923"
         }
       ]
     },
@@ -190,9 +227,9 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "965",
+      "stars": "967",
       "forks": "106",
-      "addStars": "13",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14029289?s=40&v=4",
@@ -227,9 +264,9 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "3,081",
+      "stars": "3,083",
       "forks": "263",
-      "addStars": "24",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22649114?s=40&v=4",
@@ -250,43 +287,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/343265?s=40&v=4",
           "name": "mjambon",
           "url": "https://github.com/mjambon"
-        }
-      ]
-    },
-    {
-      "title": "oxcaml/oxcaml",
-      "url": "https://github.com/oxcaml/oxcaml",
-      "description": "OCaml - Oxidized!",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "883",
-      "forks": "182",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5250680?s=40&v=4",
-          "name": "dra27",
-          "url": "https://github.com/dra27"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118852?s=40&v=4",
-          "name": "trefis",
-          "url": "https://github.com/trefis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1315488?s=40&v=4",
-          "name": "mshinwell",
-          "url": "https://github.com/mshinwell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1379116?s=40&v=4",
-          "name": "xclerc",
-          "url": "https://github.com/xclerc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3360383?s=40&v=4",
-          "name": "liam923",
-          "url": "https://github.com/liam923"
         }
       ]
     }

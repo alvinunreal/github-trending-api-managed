@@ -2,17 +2,54 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 09:55:43 GMT",
   "items": [
+    {
+      "title": "bazelbuild/bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "386",
+      "forks": "897",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
+          "name": "Vertexwahn",
+          "url": "https://github.com/Vertexwahn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
+          "name": "aspect-marvin",
+          "url": "https://github.com/aspect-marvin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
+          "name": "meteorcloudy",
+          "url": "https://github.com/meteorcloudy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
+          "name": "jbedard",
+          "url": "https://github.com/jbedard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
+        }
+      ]
+    },
     {
       "title": "googleapis/googleapis",
       "url": "https://github.com/googleapis/googleapis",
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,758",
-      "forks": "2,631",
-      "addStars": "78",
+      "stars": "8,759",
+      "forks": "2,632",
+      "addStars": "80",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
@@ -37,51 +74,14 @@
       ]
     },
     {
-      "title": "bazelbuild/bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "386",
-      "forks": "895",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
-          "name": "Vertexwahn",
-          "url": "https://github.com/Vertexwahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
-          "name": "aspect-marvin",
-          "url": "https://github.com/aspect-marvin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
-          "name": "meteorcloudy",
-          "url": "https://github.com/meteorcloudy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
-          "name": "fmeum",
-          "url": "https://github.com/fmeum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
-          "name": "jbedard",
-          "url": "https://github.com/jbedard"
-        }
-      ]
-    },
-    {
       "title": "GoogleContainerTools/distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "23,075",
-      "forks": "1,434",
-      "addStars": "88",
+      "stars": "23,079",
+      "forks": "1,436",
+      "addStars": "89",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
@@ -102,38 +102,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
           "name": "distroless-bot",
           "url": "https://github.com/distroless-bot"
-        }
-      ]
-    },
-    {
-      "title": "bazel-contrib/rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "689",
-      "forks": "722",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
-          "name": "rickeylev",
-          "url": "https://github.com/rickeylev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/240938?s=40&v=4",
-          "name": "aignas",
-          "url": "https://github.com/aignas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
-          "name": "f0rmiga",
-          "url": "https://github.com/f0rmiga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
-          "name": "UebelAndre",
-          "url": "https://github.com/UebelAndre"
         }
       ]
     },
@@ -172,7 +140,7 @@
       "languageColor": "#76d275",
       "stars": "247",
       "forks": "196",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
@@ -234,12 +202,49 @@
       ]
     },
     {
+      "title": "bazelbuild/rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "594",
+      "forks": "334",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
+          "name": "sergiocampama",
+          "url": "https://github.com/sergiocampama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
+          "name": "brentleyjones",
+          "url": "https://github.com/brentleyjones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
+          "name": "nglevin",
+          "url": "https://github.com/nglevin"
+        }
+      ]
+    },
+    {
       "title": "cel-expr/cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,976",
+      "stars": "3,980",
       "forks": "303",
       "addStars": "40",
       "contributors": [
@@ -271,39 +276,34 @@
       ]
     },
     {
-      "title": "bazelbuild/rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
+      "title": "bazel-contrib/rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "593",
-      "forks": "334",
+      "stars": "689",
+      "forks": "722",
       "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
+          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
+          "name": "rickeylev",
+          "url": "https://github.com/rickeylev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
-          "name": "sergiocampama",
-          "url": "https://github.com/sergiocampama"
+          "avatar": "https://avatars.githubusercontent.com/u/240938?s=40&v=4",
+          "name": "aignas",
+          "url": "https://github.com/aignas"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
-          "name": "thomasvl",
-          "url": "https://github.com/thomasvl"
+          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
+          "name": "f0rmiga",
+          "url": "https://github.com/f0rmiga"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
-          "name": "brentleyjones",
-          "url": "https://github.com/brentleyjones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
-          "name": "nglevin",
-          "url": "https://github.com/nglevin"
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
         }
       ]
     },
@@ -313,9 +313,9 @@
       "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "843",
+      "stars": "844",
       "forks": "652",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
@@ -336,38 +336,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/29306214?s=40&v=4",
           "name": "krasimirgg",
           "url": "https://github.com/krasimirgg"
-        }
-      ]
-    },
-    {
-      "title": "ethpandaops/ethereum-package",
-      "url": "https://github.com/ethpandaops/ethereum-package",
-      "description": "A Kurtosis package that deploys a private, portable, and modular Ethereum devnet",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "479",
-      "forks": "349",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21987084?s=40&v=4",
-          "name": "barnabasbusa",
-          "url": "https://github.com/barnabasbusa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6670312?s=40&v=4",
-          "name": "h4ck3rk3y",
-          "url": "https://github.com/h4ck3rk3y"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/491045?s=40&v=4",
-          "name": "pk910",
-          "url": "https://github.com/pk910"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17509050?s=40&v=4",
-          "name": "parithosh",
-          "url": "https://github.com/parithosh"
         }
       ]
     },
@@ -404,76 +372,39 @@
       ]
     },
     {
-      "title": "grpc/grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "title": "aspect-build/aspect-cli",
+      "url": "https://github.com/aspect-build/aspect-cli",
+      "description": "{ Correct, Fast, Usable } -- Choose three",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "295",
-      "forks": "115",
-      "addStars": "1",
+      "stars": "165",
+      "forks": "45",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2819812?s=40&v=4",
-          "name": "zpencer",
-          "url": "https://github.com/zpencer"
+          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
+          "name": "gregmagolan",
+          "url": "https://github.com/gregmagolan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2811396?s=40&v=4",
-          "name": "ejona86",
-          "url": "https://github.com/ejona86"
+          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
+          "name": "jbedard",
+          "url": "https://github.com/jbedard"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8943572?s=40&v=4",
-          "name": "carl-mastrangelo",
-          "url": "https://github.com/carl-mastrangelo"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18664614?s=40&v=4",
-          "name": "markdroth",
-          "url": "https://github.com/markdroth"
+          "avatar": "https://avatars.githubusercontent.com/u/20563340?s=40&v=4",
+          "name": "thesayyn",
+          "url": "https://github.com/thesayyn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44212643?s=40&v=4",
-          "name": "cdmetcalf",
-          "url": "https://github.com/cdmetcalf"
-        }
-      ]
-    },
-    {
-      "title": "openconfig/gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "195",
-      "forks": "90",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4836821?s=40&v=4",
-          "name": "robshakir",
-          "url": "https://github.com/robshakir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45811936?s=40&v=4",
-          "name": "Raj998",
-          "url": "https://github.com/Raj998"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80116818?s=40&v=4",
-          "name": "marcushines",
-          "url": "https://github.com/marcushines"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16645799?s=40&v=4",
-          "name": "samribeiro",
-          "url": "https://github.com/samribeiro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19435055?s=40&v=4",
-          "name": "ejbrever",
-          "url": "https://github.com/ejbrever"
+          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
+          "name": "f0rmiga",
+          "url": "https://github.com/f0rmiga"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Monthly Trending",
   "description": "Monthly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 09:55:43 GMT",
   "items": [
     {
       "title": "LazyVim/LazyVim",
@@ -10,8 +10,8 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "27,483",
-      "forks": "1,820",
+      "stars": "27,490",
+      "forks": "1,819",
       "addStars": "375",
       "contributors": [
         {
@@ -42,9 +42,9 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "17,128",
-      "forks": "2,946",
-      "addStars": "153",
+      "stars": "17,130",
+      "forks": "2,947",
+      "addStars": "151",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4161644?s=40&v=4",
@@ -74,12 +74,81 @@
       ]
     },
     {
+      "title": "iDvel/rime-ice",
+      "url": "https://github.com/iDvel/rime-ice",
+      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "19,378",
+      "forks": "1,185",
+      "addStars": "569",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14658234?s=40&v=4",
+          "name": "iDvel",
+          "url": "https://github.com/iDvel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46740470?s=40&v=4",
+          "name": "Lithium-7",
+          "url": "https://github.com/Lithium-7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76689045?s=40&v=4",
+          "name": "mirtlecn",
+          "url": "https://github.com/mirtlecn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/153287866?s=40&v=4",
+          "name": "hegotit",
+          "url": "https://github.com/hegotit"
+        }
+      ]
+    },
+    {
+      "title": "xmake-io/xmake",
+      "url": "https://github.com/xmake-io/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "12,219",
+      "forks": "954",
+      "addStars": "91",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/151335?s=40&v=4",
+          "name": "waruqi",
+          "url": "https://github.com/waruqi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27437334?s=40&v=4",
+          "name": "Arthapz",
+          "url": "https://github.com/Arthapz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13471233?s=40&v=4",
+          "name": "OpportunityLiu",
+          "url": "https://github.com/OpportunityLiu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109693307?s=40&v=4",
+          "name": "luadebug",
+          "url": "https://github.com/luadebug"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3002461?s=40&v=4",
+          "name": "SirLynix",
+          "url": "https://github.com/SirLynix"
+        }
+      ]
+    },
+    {
       "title": "nvim-mini/mini.nvim",
       "url": "https://github.com/nvim-mini/mini.nvim",
       "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "9,525",
+      "stars": "9,528",
       "forks": "310",
       "addStars": "106",
       "contributors": [
@@ -111,14 +180,41 @@
       ]
     },
     {
+      "title": "folke/lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "21,566",
+      "forks": "590",
+      "addStars": "205",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+          "name": "folke",
+          "url": "https://github.com/folke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81827001?s=40&v=4",
+          "name": "max397574",
+          "url": "https://github.com/max397574"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20475201?s=40&v=4",
+          "name": "tsakirist",
+          "url": "https://github.com/tsakirist"
+        }
+      ]
+    },
+    {
       "title": "koreader/koreader",
       "url": "https://github.com/koreader/koreader",
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "29,728",
+      "stars": "29,754",
       "forks": "1,908",
-      "addStars": "745",
+      "addStars": "726",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/670302?s=40&v=4",
@@ -148,199 +244,34 @@
       ]
     },
     {
-      "title": "xmake-io/xmake",
-      "url": "https://github.com/xmake-io/xmake",
-      "description": "🔥 A cross-platform build utility based on Lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "12,221",
-      "forks": "953",
-      "addStars": "89",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/151335?s=40&v=4",
-          "name": "waruqi",
-          "url": "https://github.com/waruqi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27437334?s=40&v=4",
-          "name": "Arthapz",
-          "url": "https://github.com/Arthapz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13471233?s=40&v=4",
-          "name": "OpportunityLiu",
-          "url": "https://github.com/OpportunityLiu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109693307?s=40&v=4",
-          "name": "luadebug",
-          "url": "https://github.com/luadebug"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3002461?s=40&v=4",
-          "name": "SirLynix",
-          "url": "https://github.com/SirLynix"
-        }
-      ]
-    },
-    {
-      "title": "folke/lazy.nvim",
-      "url": "https://github.com/folke/lazy.nvim",
-      "description": "💤 A modern plugin manager for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "21,561",
-      "forks": "590",
-      "addStars": "196",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
-          "name": "folke",
-          "url": "https://github.com/folke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81827001?s=40&v=4",
-          "name": "max397574",
-          "url": "https://github.com/max397574"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20475201?s=40&v=4",
-          "name": "tsakirist",
-          "url": "https://github.com/tsakirist"
-        }
-      ]
-    },
-    {
-      "title": "nvim-lua/kickstart.nvim",
-      "url": "https://github.com/nvim-lua/kickstart.nvim",
-      "description": "A launch point for your personal nvim configuration",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "31,467",
-      "forks": "46,575",
-      "addStars": "270",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/330070?s=40&v=4",
-          "name": "feoh",
-          "url": "https://github.com/feoh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48057913?s=40&v=4",
-          "name": "oriori1703",
-          "url": "https://github.com/oriori1703"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/148590335?s=40&v=4",
-          "name": "dam9000",
-          "url": "https://github.com/dam9000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4466899?s=40&v=4",
-          "name": "tjdevries",
-          "url": "https://github.com/tjdevries"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52157081?s=40&v=4",
-          "name": "VlaDexa",
-          "url": "https://github.com/VlaDexa"
-        }
-      ]
-    },
-    {
-      "title": "dariulone/cyberpunk-vr-port",
-      "url": "https://github.com/dariulone/cyberpunk-vr-port",
+      "title": "PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
       "description": "",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "270",
-      "forks": "35",
-      "addStars": "84",
+      "stars": "1,883",
+      "forks": "450",
+      "addStars": "42",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/120137964?s=40&v=4",
-          "name": "dariulone",
-          "url": "https://github.com/dariulone"
+          "avatar": "https://avatars.githubusercontent.com/u/1209372?s=40&v=4",
+          "name": "Wires77",
+          "url": "https://github.com/Wires77"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4934309?s=40&v=4",
-          "name": "iPowerTech",
-          "url": "https://github.com/iPowerTech"
-        }
-      ]
-    },
-    {
-      "title": "opentibiabr/canary",
-      "url": "https://github.com/opentibiabr/canary",
-      "description": "Canary Server 15.25 for OpenTibia community.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "646",
-      "forks": "896",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8551443?s=40&v=4",
-          "name": "dudantas",
-          "url": "https://github.com/dudantas"
+          "avatar": "https://avatars.githubusercontent.com/u/31035929?s=40&v=4",
+          "name": "LocalIdentity",
+          "url": "https://github.com/LocalIdentity"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/223760?s=40&v=4",
-          "name": "luan",
-          "url": "https://github.com/luan"
+          "avatar": "https://avatars.githubusercontent.com/u/33464174?s=40&v=4",
+          "name": "ppoelzl",
+          "url": "https://github.com/ppoelzl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/61994374?s=40&v=4",
-          "name": "beats-dh",
-          "url": "https://github.com/beats-dh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34237492?s=40&v=4",
-          "name": "lgrossi",
-          "url": "https://github.com/lgrossi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7812282?s=40&v=4",
-          "name": "elsongabriel",
-          "url": "https://github.com/elsongabriel"
-        }
-      ]
-    },
-    {
-      "title": "AndyHazz/bookshelf.koplugin",
-      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
-      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "857",
-      "forks": "34",
-      "addStars": "245",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/517731?s=40&v=4",
-          "name": "AndyHazz",
-          "url": "https://github.com/AndyHazz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130438938?s=40&v=4",
-          "name": "peterboda236",
-          "url": "https://github.com/peterboda236"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31612605?s=40&v=4",
-          "name": "yefq",
-          "url": "https://github.com/yefq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65865663?s=40&v=4",
-          "name": "rapinoinfeliz",
-          "url": "https://github.com/rapinoinfeliz"
+          "avatar": "https://avatars.githubusercontent.com/u/7105377?s=40&v=4",
+          "name": "Blitz54",
+          "url": "https://github.com/Blitz54"
         }
       ]
     },
@@ -350,9 +281,9 @@
       "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,208",
-      "forks": "669",
-      "addStars": "64",
+      "stars": "4,213",
+      "forks": "671",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11016921?s=40&v=4",
@@ -382,34 +313,93 @@
       ]
     },
     {
-      "title": "PathOfBuildingCommunity/PathOfBuilding-PoE2",
-      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "title": "dariulone/cyberpunk-vr-port",
+      "url": "https://github.com/dariulone/cyberpunk-vr-port",
       "description": "",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,881",
-      "forks": "449",
-      "addStars": "43",
+      "stars": "271",
+      "forks": "35",
+      "addStars": "80",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1209372?s=40&v=4",
-          "name": "Wires77",
-          "url": "https://github.com/Wires77"
+          "avatar": "https://avatars.githubusercontent.com/u/120137964?s=40&v=4",
+          "name": "dariulone",
+          "url": "https://github.com/dariulone"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31035929?s=40&v=4",
-          "name": "LocalIdentity",
-          "url": "https://github.com/LocalIdentity"
+          "avatar": "https://avatars.githubusercontent.com/u/4934309?s=40&v=4",
+          "name": "iPowerTech",
+          "url": "https://github.com/iPowerTech"
+        }
+      ]
+    },
+    {
+      "title": "AndyHazz/bookshelf.koplugin",
+      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
+      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "860",
+      "forks": "35",
+      "addStars": "238",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/517731?s=40&v=4",
+          "name": "AndyHazz",
+          "url": "https://github.com/AndyHazz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33464174?s=40&v=4",
-          "name": "ppoelzl",
-          "url": "https://github.com/ppoelzl"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7105377?s=40&v=4",
-          "name": "Blitz54",
-          "url": "https://github.com/Blitz54"
+          "avatar": "https://avatars.githubusercontent.com/u/130438938?s=40&v=4",
+          "name": "peterboda236",
+          "url": "https://github.com/peterboda236"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31612605?s=40&v=4",
+          "name": "yefq",
+          "url": "https://github.com/yefq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65865663?s=40&v=4",
+          "name": "rapinoinfeliz",
+          "url": "https://github.com/rapinoinfeliz"
+        }
+      ]
+    },
+    {
+      "title": "olimorris/codecompanion.nvim",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "description": "✨ AI Coding, Vim Style",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "6,863",
+      "forks": "455",
+      "addStars": "79",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9512444?s=40&v=4",
+          "name": "olimorris",
+          "url": "https://github.com/olimorris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105807570?s=40&v=4",
+          "name": "bassamsdata",
+          "url": "https://github.com/bassamsdata"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30951234?s=40&v=4",
+          "name": "Davidyz",
+          "url": "https://github.com/Davidyz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80028678?s=40&v=4",
+          "name": "ravitemer",
+          "url": "https://github.com/ravitemer"
         }
       ]
     },
@@ -419,8 +409,8 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "13,955",
-      "forks": "2,493",
+      "stars": "13,956",
+      "forks": "2,495",
       "addStars": "113",
       "contributors": [
         {
@@ -441,78 +431,14 @@
       ]
     },
     {
-      "title": "Chrrxs/robloxstudio-mcp",
-      "url": "https://github.com/Chrrxs/robloxstudio-mcp",
-      "description": "MCP server for Roblox Studio runtime debugging, playtest control, screenshots/input, multiplayer testing, and per-peer server/client eval from AI agents.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "224",
-      "forks": "37",
-      "addStars": "53",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67719167?s=40&v=4",
-          "name": "Chrrxs",
-          "url": "https://github.com/Chrrxs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5518808?s=40&v=4",
-          "name": "ozskywalker",
-          "url": "https://github.com/ozskywalker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22204477?s=40&v=4",
-          "name": "Dvitash",
-          "url": "https://github.com/Dvitash"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78801499?s=40&v=4",
-          "name": "N-ov",
-          "url": "https://github.com/N-ov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/87551761?s=40&v=4",
-          "name": "TabooHarmony",
-          "url": "https://github.com/TabooHarmony"
-        }
-      ]
-    },
-    {
-      "title": "bol-van/zapret-win-bundle",
-      "url": "https://github.com/bol-van/zapret-win-bundle",
-      "description": "zapret and blockcheck binary bundle for windows",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "1,851",
-      "forks": "261",
-      "addStars": "44",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9076680?s=40&v=4",
-          "name": "bol-van",
-          "url": "https://github.com/bol-van"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/268321423?s=40&v=4",
-          "name": "k38f",
-          "url": "https://github.com/k38f"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3179266?s=40&v=4",
-          "name": "SagePtr",
-          "url": "https://github.com/SagePtr"
-        }
-      ]
-    },
-    {
       "title": "MeanderingProgrammer/render-markdown.nvim",
       "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
       "description": "Improve viewing Markdown in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,057",
+      "stars": "5,066",
       "forks": "139",
-      "addStars": "155",
+      "addStars": "164",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52591095?s=40&v=4",
@@ -538,6 +464,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/3357792?s=40&v=4",
           "name": "Zeioth",
           "url": "https://github.com/Zeioth"
+        }
+      ]
+    },
+    {
+      "title": "PortsMaster/PortMaster-New",
+      "url": "https://github.com/PortsMaster/PortMaster-New",
+      "description": "New PortMaster repo",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "364",
+      "forks": "245",
+      "addStars": "22",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9858145?s=40&v=4",
+          "name": "tabreturn",
+          "url": "https://github.com/tabreturn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7762208?s=40&v=4",
+          "name": "Cebion",
+          "url": "https://github.com/Cebion"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4617076?s=40&v=4",
+          "name": "kloptops",
+          "url": "https://github.com/kloptops"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172666798?s=40&v=4",
+          "name": "smiluredev",
+          "url": "https://github.com/smiluredev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/143072466?s=40&v=4",
+          "name": "Ganimoth",
+          "url": "https://github.com/Ganimoth"
+        }
+      ]
+    },
+    {
+      "title": "LuaLS/lua-language-server",
+      "url": "https://github.com/LuaLS/lua-language-server",
+      "description": "A language server that offers Lua language support - programmed in Lua",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "4,370",
+      "forks": "442",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5213431?s=40&v=4",
+          "name": "sumneko",
+          "url": "https://github.com/sumneko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40318218?s=40&v=4",
+          "name": "CppCXY",
+          "url": "https://github.com/CppCXY"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15152525?s=40&v=4",
+          "name": "fesily",
+          "url": "https://github.com/fesily"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1836844?s=40&v=4",
+          "name": "actboy168",
+          "url": "https://github.com/actboy168"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61925890?s=40&v=4",
+          "name": "carsakiller",
+          "url": "https://github.com/carsakiller"
         }
       ]
     }

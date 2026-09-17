@@ -2,54 +2,17 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 09:55:43 GMT",
   "items": [
-    {
-      "title": "lowRISC/opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "3,645",
-      "forks": "1,113",
-      "addStars": "52",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
-          "name": "rswarbrick",
-          "url": "https://github.com/rswarbrick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
-          "name": "cindychip",
-          "url": "https://github.com/cindychip"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
-          "name": "timothytrippel",
-          "url": "https://github.com/timothytrippel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
-          "name": "vogelpi",
-          "url": "https://github.com/vogelpi"
-        }
-      ]
-    },
     {
       "title": "lowRISC/ibex",
       "url": "https://github.com/lowRISC/ibex",
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "2,058",
-      "forks": "808",
-      "addStars": "44",
+      "stars": "2,060",
+      "forks": "810",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/471032?s=40&v=4",
@@ -84,9 +47,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,931",
-      "forks": "903",
-      "addStars": "88",
+      "stars": "3,933",
+      "forks": "906",
+      "addStars": "87",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
@@ -112,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
           "name": "toddstrader",
           "url": "https://github.com/toddstrader"
+        }
+      ]
+    },
+    {
+      "title": "lowRISC/opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "3,647",
+      "forks": "1,116",
+      "addStars": "52",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
+          "name": "rswarbrick",
+          "url": "https://github.com/rswarbrick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
+          "name": "cindychip",
+          "url": "https://github.com/cindychip"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
+          "name": "timothytrippel",
+          "url": "https://github.com/timothytrippel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
+          "name": "vogelpi",
+          "url": "https://github.com/vogelpi"
         }
       ]
     },
@@ -190,14 +190,14 @@
       ]
     },
     {
-      "title": "openhwgroup/cvw",
-      "url": "https://github.com/openhwgroup/cvw",
+      "title": "openhwfoundation/cvw",
+      "url": "https://github.com/openhwfoundation/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": "627",
-      "forks": "569",
-      "addStars": "25",
+      "forks": "571",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "12,973",
+      "stars": "12,982",
       "forks": "1,247",
-      "addStars": "142",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
@@ -296,39 +296,39 @@
       ]
     },
     {
-      "title": "pulp-platform/riscv-dbg",
-      "url": "https://github.com/pulp-platform/riscv-dbg",
-      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
+      "title": "pulp-platform/axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "328",
-      "forks": "102",
-      "addStars": "6",
+      "stars": "1,700",
+      "forks": "373",
+      "addStars": "41",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
-          "name": "bluewww",
-          "url": "https://github.com/bluewww"
+          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
+          "name": "andreaskurth",
+          "url": "https://github.com/andreaskurth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65011851?s=40&v=4",
+          "name": "thommythomaso",
+          "url": "https://github.com/thommythomaso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6088584?s=40&v=4",
+          "name": "micprog",
+          "url": "https://github.com/micprog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6261373?s=40&v=4",
+          "name": "suehtamacv",
+          "url": "https://github.com/suehtamacv"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
           "name": "zarubaf",
           "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109749469?s=40&v=4",
-          "name": "phsauter",
-          "url": "https://github.com/phsauter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
         }
       ]
     }
