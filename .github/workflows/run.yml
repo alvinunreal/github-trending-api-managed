@@ -5,7 +5,7 @@ on:
   schedule:
     # Temporary off-peak scheduler verification; restored after a
     # schedule-triggered run is observed.
-    - cron: '30 * * * *'
+    - cron: '45 * * * *'
 
 jobs:
   build:
