@@ -2,8 +2,30 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 07:17:49 GMT",
+  "pubDate": "Fri, 18 Sep 2026 12:13:38 GMT",
   "items": [
+    {
+      "title": "rdpeng/ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "892",
+      "forks": "143,344",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9612?s=40&v=4",
+          "name": "rdpeng",
+          "url": "https://github.com/rdpeng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1340713?s=40&v=4",
+          "name": "gustavdelius",
+          "url": "https://github.com/gustavdelius"
+        }
+      ]
+    },
     {
       "title": "nflverse/nflverse-data",
       "url": "https://github.com/nflverse/nflverse-data",
@@ -28,28 +50,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/38586519?s=40&v=4",
           "name": "mrcaseb",
           "url": "https://github.com/mrcaseb"
-        }
-      ]
-    },
-    {
-      "title": "rdpeng/ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": "892",
-      "forks": "143,342",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9612?s=40&v=4",
-          "name": "rdpeng",
-          "url": "https://github.com/rdpeng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1340713?s=40&v=4",
-          "name": "gustavdelius",
-          "url": "https://github.com/gustavdelius"
         }
       ]
     },
@@ -202,43 +202,6 @@
       ]
     },
     {
-      "title": "r-spatial/sf",
-      "url": "https://github.com/r-spatial/sf",
-      "description": "Simple Features for R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": "1,447",
-      "forks": "303",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/520851?s=40&v=4",
-          "name": "edzer",
-          "url": "https://github.com/edzer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
-          "name": "web-flow",
-          "url": "https://github.com/web-flow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10198404?s=40&v=4",
-          "name": "rsbivand",
-          "url": "https://github.com/rsbivand"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393576?s=40&v=4",
-          "name": "etiennebr",
-          "url": "https://github.com/etiennebr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1825120?s=40&v=4",
-          "name": "Robinlovelace",
-          "url": "https://github.com/Robinlovelace"
-        }
-      ]
-    },
-    {
       "title": "tidyverse/ggplot2",
       "url": "https://github.com/tidyverse/ggplot2",
       "description": "An implementation of the Grammar of Graphics in R",
@@ -276,13 +239,50 @@
       ]
     },
     {
+      "title": "r-spatial/sf",
+      "url": "https://github.com/r-spatial/sf",
+      "description": "Simple Features for R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "1,447",
+      "forks": "303",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/520851?s=40&v=4",
+          "name": "edzer",
+          "url": "https://github.com/edzer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
+          "name": "web-flow",
+          "url": "https://github.com/web-flow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10198404?s=40&v=4",
+          "name": "rsbivand",
+          "url": "https://github.com/rsbivand"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393576?s=40&v=4",
+          "name": "etiennebr",
+          "url": "https://github.com/etiennebr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1825120?s=40&v=4",
+          "name": "Robinlovelace",
+          "url": "https://github.com/Robinlovelace"
+        }
+      ]
+    },
+    {
       "title": "rstudio/shiny",
       "url": "https://github.com/rstudio/shiny",
       "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
       "stars": "5,690",
-      "forks": "1,890",
+      "forks": "1,889",
       "addStars": "18",
       "contributors": [
         {
@@ -392,7 +392,7 @@
       "description": "A collection of Claude Skills from Posit",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "515",
+      "stars": "516",
       "forks": "53",
       "addStars": "42",
       "contributors": [
@@ -420,6 +420,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1775316?s=40&v=4",
           "name": "thomasp85",
           "url": "https://github.com/thomasp85"
+        }
+      ]
+    },
+    {
+      "title": "stan-dev/cmdstanr",
+      "url": "https://github.com/stan-dev/cmdstanr",
+      "description": "CmdStanR: the R interface to CmdStan",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "160",
+      "forks": "69",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7796803?s=40&v=4",
+          "name": "jgabry",
+          "url": "https://github.com/jgabry"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28476796?s=40&v=4",
+          "name": "rok-cesnovar",
+          "url": "https://github.com/rok-cesnovar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27717896?s=40&v=4",
+          "name": "andrjohns",
+          "url": "https://github.com/andrjohns"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5857231?s=40&v=4",
+          "name": "SteveBronder",
+          "url": "https://github.com/SteveBronder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67435125?s=40&v=4",
+          "name": "VisruthSK",
+          "url": "https://github.com/VisruthSK"
         }
       ]
     }

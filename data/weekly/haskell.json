@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 07:17:49 GMT",
+  "pubDate": "Fri, 18 Sep 2026 12:13:38 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,8 +10,8 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,324",
-      "forks": "4,121",
+      "stars": "46,325",
+      "forks": "4,158",
       "addStars": "104",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "2,930",
+      "stars": "2,928",
       "forks": "429",
       "addStars": "2",
       "contributors": [
@@ -144,107 +144,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
           "name": "jespercockx",
           "url": "https://github.com/jespercockx"
-        }
-      ]
-    },
-    {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "12,413",
-      "forks": "502",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
-        }
-      ]
-    },
-    {
-      "title": "koalaman/shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "40,053",
-      "forks": "1,945",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
-          "name": "koalaman",
-          "url": "https://github.com/koalaman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
-          "name": "josephcsible",
-          "url": "https://github.com/josephcsible"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
-          "name": "ngzhian",
-          "url": "https://github.com/ngzhian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
-          "name": "e-kwsm",
-          "url": "https://github.com/e-kwsm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
-          "name": "contivero",
-          "url": "https://github.com/contivero"
-        }
-      ]
-    },
-    {
-      "title": "digital-asset/daml",
-      "url": "https://github.com/digital-asset/daml",
-      "description": "The Daml smart contract language",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "917",
-      "forks": "263",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1313584?s=40&v=4",
-          "name": "cocreature",
-          "url": "https://github.com/cocreature"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45566104?s=40&v=4",
-          "name": "remyhaemmerle-da",
-          "url": "https://github.com/remyhaemmerle-da"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45561385?s=40&v=4",
-          "name": "garyverhaegen-da",
-          "url": "https://github.com/garyverhaegen-da"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43749967?s=40&v=4",
-          "name": "stefanobaghino-da",
-          "url": "https://github.com/stefanobaghino-da"
         }
       ]
     },
@@ -281,29 +180,103 @@
       ]
     },
     {
-      "title": "monoscope-tech/monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "title": "digital-asset/daml",
+      "url": "https://github.com/digital-asset/daml",
+      "description": "The Daml smart contract language",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,802",
-      "forks": "73",
-      "addStars": "52",
+      "stars": "917",
+      "forks": "263",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6564482?s=40&v=4",
-          "name": "tonyalaribe",
-          "url": "https://github.com/tonyalaribe"
+          "avatar": "https://avatars.githubusercontent.com/u/1313584?s=40&v=4",
+          "name": "cocreature",
+          "url": "https://github.com/cocreature"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/49823605?s=40&v=4",
-          "name": "dawkaka",
-          "url": "https://github.com/dawkaka"
+          "avatar": "https://avatars.githubusercontent.com/u/45566104?s=40&v=4",
+          "name": "remyhaemmerle-da",
+          "url": "https://github.com/remyhaemmerle-da"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99889673?s=40&v=4",
-          "name": "jesseamos",
-          "url": "https://github.com/jesseamos"
+          "avatar": "https://avatars.githubusercontent.com/u/45561385?s=40&v=4",
+          "name": "garyverhaegen-da",
+          "url": "https://github.com/garyverhaegen-da"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43749967?s=40&v=4",
+          "name": "stefanobaghino-da",
+          "url": "https://github.com/stefanobaghino-da"
+        }
+      ]
+    },
+    {
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "12,414",
+      "forks": "502",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
+        }
+      ]
+    },
+    {
+      "title": "koalaman/shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "40,054",
+      "forks": "1,945",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
+          "name": "koalaman",
+          "url": "https://github.com/koalaman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
+          "name": "josephcsible",
+          "url": "https://github.com/josephcsible"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
+          "name": "ngzhian",
+          "url": "https://github.com/ngzhian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
+          "name": "e-kwsm",
+          "url": "https://github.com/e-kwsm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
+          "name": "contivero",
+          "url": "https://github.com/contivero"
         }
       ]
     },
@@ -340,39 +313,29 @@
       ]
     },
     {
-      "title": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "title": "monoscope-tech/monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "19,456",
-      "forks": "1,353",
-      "addStars": "55",
+      "stars": "1,805",
+      "forks": "73",
+      "addStars": "52",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
-          "name": "epoberezkin",
-          "url": "https://github.com/epoberezkin"
+          "avatar": "https://avatars.githubusercontent.com/u/6564482?s=40&v=4",
+          "name": "tonyalaribe",
+          "url": "https://github.com/tonyalaribe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
-          "name": "spaced4ndy",
-          "url": "https://github.com/spaced4ndy"
+          "avatar": "https://avatars.githubusercontent.com/u/49823605?s=40&v=4",
+          "name": "dawkaka",
+          "url": "https://github.com/dawkaka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
-          "name": "avently",
-          "url": "https://github.com/avently"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
-          "name": "shumvgolove",
-          "url": "https://github.com/shumvgolove"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&v=4",
-          "name": "mlanp",
-          "url": "https://github.com/mlanp"
+          "avatar": "https://avatars.githubusercontent.com/u/99889673?s=40&v=4",
+          "name": "jesseamos",
+          "url": "https://github.com/jesseamos"
         }
       ]
     }

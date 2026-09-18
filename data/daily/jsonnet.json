@@ -2,16 +2,16 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 07:17:49 GMT",
+  "pubDate": "Fri, 18 Sep 2026 12:13:38 GMT",
   "items": [
     {
-      "title": "prometheus-operator/kube-prometheus",
-      "url": "https://github.com/prometheus-operator/kube-prometheus",
-      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "title": "kubernetes-sigs/kubernetes-mixin",
+      "url": "https://github.com/kubernetes-sigs/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "7,730",
-      "forks": "2,044",
+      "stars": "2,450",
+      "forks": "649",
       "addStars": "1",
       "contributors": [
         {
@@ -20,19 +20,56 @@
           "url": "https://github.com/brancz"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/872251?s=40&v=4",
+          "name": "metalmatze",
+          "url": "https://github.com/metalmatze"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22289110?s=40&v=4",
+          "name": "povilasv",
+          "url": "https://github.com/povilasv"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/3531758?s=40&v=4",
           "name": "paulfantom",
           "url": "https://github.com/paulfantom"
+        }
+      ]
+    },
+    {
+      "title": "argoproj/argocd-example-apps",
+      "url": "https://github.com/argoproj/argocd-example-apps",
+      "description": "Example Apps to Demonstrate Argo CD",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": "2,179",
+      "forks": "10,325",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12677113?s=40&v=4",
+          "name": "jessesuen",
+          "url": "https://github.com/jessesuen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/85787986?s=40&v=4",
-          "name": "prom-op-bot",
-          "url": "https://github.com/prom-op-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/1142830?s=40&v=4",
+          "name": "alexec",
+          "url": "https://github.com/alexec"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2587585?s=40&v=4",
-          "name": "simonpasquier",
-          "url": "https://github.com/simonpasquier"
+          "avatar": "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
+          "name": "alexmt",
+          "url": "https://github.com/alexmt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47184027?s=40&v=4",
+          "name": "agaudreault",
+          "url": "https://github.com/agaudreault"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/410404?s=40&v=4",
+          "name": "limnick",
+          "url": "https://github.com/limnick"
         }
       ]
     }

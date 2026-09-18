@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Fri, 18 Sep 2026 07:17:49 GMT</pubDate>
+    <pubDate>Fri, 18 Sep 2026 12:13:38 GMT</pubDate>
     <item>
       <title>googleapis/googleapis</title>
       <link>https://github.com/googleapis/googleapis</link>
@@ -38,6 +38,39 @@
       </contributors>
     </item>
     <item>
+      <title>bazelbuild/rules_cc</title>
+      <link>https://github.com/bazelbuild/rules_cc</link>
+      <description>C++ Rules for Bazel</description>
+      <guid>https://github.com/bazelbuild/rules_cc</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>247</stars>
+      <forks>196</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4</avatar>
+          <name>keith</name>
+          <url>https://github.com/keith</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23365806?s=40&amp;v=4</avatar>
+          <name>oquenchil</name>
+          <url>https://github.com/oquenchil</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/814566?s=40&amp;v=4</avatar>
+          <name>hlopko</name>
+          <url>https://github.com/hlopko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1796240?s=40&amp;v=4</avatar>
+          <name>comius</name>
+          <url>https://github.com/comius</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>bazelbuild/bazel-central-registry</title>
       <link>https://github.com/bazelbuild/bazel-central-registry</link>
       <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
@@ -45,7 +78,7 @@
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
       <stars>386</stars>
-      <forks>900</forks>
+      <forks>899</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -76,15 +109,15 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/rules_cc</title>
-      <link>https://github.com/bazelbuild/rules_cc</link>
-      <description>C++ Rules for Bazel</description>
-      <guid>https://github.com/bazelbuild/rules_cc</guid>
+      <title>bazelbuild/rules_apple</title>
+      <link>https://github.com/bazelbuild/rules_apple</link>
+      <description>Bazel rules to build apps for Apple platforms.</description>
+      <guid>https://github.com/bazelbuild/rules_apple</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>247</stars>
-      <forks>196</forks>
-      <addStars>0</addStars>
+      <stars>594</stars>
+      <forks>334</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4</avatar>
@@ -92,19 +125,24 @@
           <url>https://github.com/keith</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23365806?s=40&amp;v=4</avatar>
-          <name>oquenchil</name>
-          <url>https://github.com/oquenchil</url>
+          <avatar>https://avatars.githubusercontent.com/u/689198?s=40&amp;v=4</avatar>
+          <name>sergiocampama</name>
+          <url>https://github.com/sergiocampama</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/814566?s=40&amp;v=4</avatar>
-          <name>hlopko</name>
-          <url>https://github.com/hlopko</url>
+          <avatar>https://avatars.githubusercontent.com/u/5279928?s=40&amp;v=4</avatar>
+          <name>thomasvl</name>
+          <url>https://github.com/thomasvl</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1796240?s=40&amp;v=4</avatar>
-          <name>comius</name>
-          <url>https://github.com/comius</url>
+          <avatar>https://avatars.githubusercontent.com/u/158658?s=40&amp;v=4</avatar>
+          <name>brentleyjones</name>
+          <url>https://github.com/brentleyjones</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/122120823?s=40&amp;v=4</avatar>
+          <name>nglevin</name>
+          <url>https://github.com/nglevin</url>
         </contributor>
       </contributors>
     </item>
@@ -218,44 +256,6 @@
       </contributors>
     </item>
     <item>
-      <title>bazel-contrib/rules_perl</title>
-      <link>https://github.com/bazel-contrib/rules_perl</link>
-      <description>Perl rules for Bazel</description>
-      <guid>https://github.com/bazel-contrib/rules_perl</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>31</stars>
-      <forks>49</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/190297?s=40&amp;v=4</avatar>
-          <name>PiotrSikora</name>
-          <url>https://github.com/PiotrSikora</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
-          <name>UebelAndre</name>
-          <url>https://github.com/UebelAndre</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1487600?s=40&amp;v=4</avatar>
-          <name>skeletonkey</name>
-          <url>https://github.com/skeletonkey</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48310225?s=40&amp;v=4</avatar>
-          <name>jheaff1</name>
-          <url>https://github.com/jheaff1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>cel-expr/cel-spec</title>
       <link>https://github.com/cel-expr/cel-spec</link>
       <description>Common Expression Language -- specification and binary representation</description>
@@ -332,35 +332,73 @@
       </contributors>
     </item>
     <item>
-      <title>bazel-contrib/rules_python</title>
-      <link>https://github.com/bazel-contrib/rules_python</link>
-      <description>Bazel Python Rules</description>
-      <guid>https://github.com/bazel-contrib/rules_python</guid>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>🥑 Language focused docker images, minus the operating system.</description>
+      <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>690</stars>
-      <forks>722</forks>
-      <addStars>2</addStars>
+      <stars>23,085</stars>
+      <forks>1,436</forks>
+      <addStars>22</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34175098?s=40&amp;v=4</avatar>
-          <name>rickeylev</name>
-          <url>https://github.com/rickeylev</url>
+          <avatar>https://avatars.githubusercontent.com/u/1304826?s=40&amp;v=4</avatar>
+          <name>loosebazooka</name>
+          <url>https://github.com/loosebazooka</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/240938?s=40&amp;v=4</avatar>
-          <name>aignas</name>
-          <url>https://github.com/aignas</url>
+          <avatar>https://avatars.githubusercontent.com/u/1681525?s=40&amp;v=4</avatar>
+          <name>omBratteng</name>
+          <url>https://github.com/omBratteng</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
-          <name>f0rmiga</name>
-          <url>https://github.com/f0rmiga</url>
+          <avatar>https://avatars.githubusercontent.com/u/10523105?s=40&amp;v=4</avatar>
+          <name>chanseokoh</name>
+          <url>https://github.com/chanseokoh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99663502?s=40&amp;v=4</avatar>
+          <name>distroless-bot</name>
+          <url>https://github.com/distroless-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>bazel-contrib/rules_perl</title>
+      <link>https://github.com/bazel-contrib/rules_perl</link>
+      <description>Perl rules for Bazel</description>
+      <guid>https://github.com/bazel-contrib/rules_perl</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>31</stars>
+      <forks>49</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/190297?s=40&amp;v=4</avatar>
+          <name>PiotrSikora</name>
+          <url>https://github.com/PiotrSikora</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
           <name>UebelAndre</name>
           <url>https://github.com/UebelAndre</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1487600?s=40&amp;v=4</avatar>
+          <name>skeletonkey</name>
+          <url>https://github.com/skeletonkey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48310225?s=40&amp;v=4</avatar>
+          <name>jheaff1</name>
+          <url>https://github.com/jheaff1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
         </contributor>
       </contributors>
     </item>
