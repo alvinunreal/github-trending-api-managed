@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 07:17:44 GMT",
+  "pubDate": "Sat, 19 Sep 2026 11:55:20 GMT",
   "items": [
     {
       "title": "leanprover/lean4",
@@ -11,7 +11,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "9,220",
-      "forks": "987",
+      "forks": "988",
       "addStars": "399",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "4,147",
+      "stars": "4,148",
       "forks": "1,696",
       "addStars": "275",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "1,275",
-      "forks": "485",
+      "stars": "1,276",
+      "forks": "486",
       "addStars": "90",
       "contributors": [
         {
@@ -153,38 +153,6 @@
       ]
     },
     {
-      "title": "LionSR/TNLean",
-      "url": "https://github.com/LionSR/TNLean",
-      "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "37",
-      "forks": "3",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14889516?s=40&v=4",
-          "name": "LionSR",
-          "url": "https://github.com/LionSR"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/207051187?s=40&v=4",
-          "name": "texra-ai",
-          "url": "https://github.com/texra-ai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28591335?s=40&v=4",
-          "name": "QuantumMachineLearningLab",
-          "url": "https://github.com/QuantumMachineLearningLab"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/quote4",
       "url": "https://github.com/leanprover-community/quote4",
       "description": "Intuitive, type-safe expression quotations for Lean 4.",
@@ -213,6 +181,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
           "name": "Garmelon",
           "url": "https://github.com/Garmelon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
+          "name": "Vierkantor",
+          "url": "https://github.com/Vierkantor"
+        }
+      ]
+    },
+    {
+      "title": "leanprover-community/aesop",
+      "url": "https://github.com/leanprover-community/aesop",
+      "description": "White-box automation for Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "404",
+      "forks": "59",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/529014?s=40&v=4",
+          "name": "JLimperg",
+          "url": "https://github.com/JLimperg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109126?s=40&v=4",
+          "name": "Kha",
+          "url": "https://github.com/Kha"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/235307?s=40&v=4",
+          "name": "kmill",
+          "url": "https://github.com/kmill"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
@@ -259,80 +264,6 @@
       ]
     },
     {
-      "title": "leanprover-community/plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "115",
-      "forks": "30",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
-          "name": "Garmelon",
-          "url": "https://github.com/Garmelon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33270164?s=40&v=4",
-          "name": "hargoniX",
-          "url": "https://github.com/hargoniX"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4193616?s=40&v=4",
-          "name": "codyroux",
-          "url": "https://github.com/codyroux"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
-          "name": "jcommelin",
-          "url": "https://github.com/jcommelin"
-        }
-      ]
-    },
-    {
-      "title": "leanprover-community/aesop",
-      "url": "https://github.com/leanprover-community/aesop",
-      "description": "White-box automation for Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "404",
-      "forks": "59",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/529014?s=40&v=4",
-          "name": "JLimperg",
-          "url": "https://github.com/JLimperg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109126?s=40&v=4",
-          "name": "Kha",
-          "url": "https://github.com/Kha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/235307?s=40&v=4",
-          "name": "kmill",
-          "url": "https://github.com/kmill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
-          "name": "Vierkantor",
-          "url": "https://github.com/Vierkantor"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/ProofWidgets4",
       "url": "https://github.com/leanprover-community/ProofWidgets4",
       "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
@@ -370,57 +301,15 @@
       ]
     },
     {
-      "title": "Verified-zkEVM/evm-asm",
-      "url": "https://github.com/Verified-zkEVM/evm-asm",
+      "title": "leanprover-community/plausible",
+      "url": "https://github.com/leanprover-community/plausible",
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "57",
-      "forks": "13",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44281?s=40&v=4",
-          "name": "pirapira",
-          "url": "https://github.com/pirapira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-          "name": "codex",
-          "url": "https://github.com/codex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37916362?s=40&v=4",
-          "name": "dhsorens",
-          "url": "https://github.com/dhsorens"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/260240736?s=40&v=4",
-          "name": "VoxlyAi-studios",
-          "url": "https://github.com/VoxlyAi-studios"
-        }
-      ]
-    },
-    {
-      "title": "leanprover/lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "120",
+      "stars": "115",
       "forks": "30",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
-          "name": "mhuisi",
-          "url": "https://github.com/mhuisi"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
           "name": "kim-em",
@@ -432,9 +321,14 @@
           "url": "https://github.com/Garmelon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
-          "name": "Vierkantor",
-          "url": "https://github.com/Vierkantor"
+          "avatar": "https://avatars.githubusercontent.com/u/33270164?s=40&v=4",
+          "name": "hargoniX",
+          "url": "https://github.com/hargoniX"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4193616?s=40&v=4",
+          "name": "codyroux",
+          "url": "https://github.com/codyroux"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
@@ -481,6 +375,43 @@
       ]
     },
     {
+      "title": "leanprover/lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "120",
+      "forks": "30",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
+          "name": "mhuisi",
+          "url": "https://github.com/mhuisi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
+          "name": "Garmelon",
+          "url": "https://github.com/Garmelon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
+          "name": "Vierkantor",
+          "url": "https://github.com/Vierkantor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
+          "name": "jcommelin",
+          "url": "https://github.com/jcommelin"
+        }
+      ]
+    },
+    {
       "title": "leanprover-community/physlib",
       "url": "https://github.com/leanprover-community/physlib",
       "description": "A project to digitalise results from physics into Lean.",
@@ -518,12 +449,81 @@
       ]
     },
     {
+      "title": "LionSR/TNLean",
+      "url": "https://github.com/LionSR/TNLean",
+      "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "37",
+      "forks": "3",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14889516?s=40&v=4",
+          "name": "LionSR",
+          "url": "https://github.com/LionSR"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/207051187?s=40&v=4",
+          "name": "texra-ai",
+          "url": "https://github.com/texra-ai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28591335?s=40&v=4",
+          "name": "QuantumMachineLearningLab",
+          "url": "https://github.com/QuantumMachineLearningLab"
+        }
+      ]
+    },
+    {
+      "title": "Verified-zkEVM/evm-asm",
+      "url": "https://github.com/Verified-zkEVM/evm-asm",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "57",
+      "forks": "13",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44281?s=40&v=4",
+          "name": "pirapira",
+          "url": "https://github.com/pirapira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37916362?s=40&v=4",
+          "name": "dhsorens",
+          "url": "https://github.com/dhsorens"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/260240736?s=40&v=4",
+          "name": "VoxlyAi-studios",
+          "url": "https://github.com/VoxlyAi-studios"
+        }
+      ]
+    },
+    {
       "title": "leanprover/cslib",
       "url": "https://github.com/leanprover/cslib",
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "706",
+      "stars": "707",
       "forks": "200",
       "addStars": "52",
       "contributors": [

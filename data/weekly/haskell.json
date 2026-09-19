@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 07:17:44 GMT",
+  "pubDate": "Sat, 19 Sep 2026 11:55:20 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,7 +10,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,332",
+      "stars": "46,334",
       "forks": "4,245",
       "addStars": "103",
       "contributors": [
@@ -75,6 +75,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
           "name": "laurenceisla",
           "url": "https://github.com/laurenceisla"
+        }
+      ]
+    },
+    {
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "12,416",
+      "forks": "502",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
         }
       ]
     },
@@ -212,44 +244,12 @@
       ]
     },
     {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "12,416",
-      "forks": "502",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
-        }
-      ]
-    },
-    {
       "title": "koalaman/shellcheck",
       "url": "https://github.com/koalaman/shellcheck",
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,055",
+      "stars": "40,056",
       "forks": "1,945",
       "addStars": "37",
       "contributors": [
@@ -287,7 +287,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "2,957",
-      "forks": "456",
+      "forks": "455",
       "addStars": "4",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,812",
+      "stars": "1,813",
       "forks": "74",
       "addStars": "53",
       "contributors": [
@@ -336,6 +336,65 @@
           "avatar": "https://avatars.githubusercontent.com/u/99889673?s=40&v=4",
           "name": "jesseamos",
           "url": "https://github.com/jesseamos"
+        }
+      ]
+    },
+    {
+      "title": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "19,462",
+      "forks": "1,354",
+      "addStars": "57",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
+          "name": "epoberezkin",
+          "url": "https://github.com/epoberezkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
+          "name": "spaced4ndy",
+          "url": "https://github.com/spaced4ndy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
+          "name": "avently",
+          "url": "https://github.com/avently"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
+          "name": "shumvgolove",
+          "url": "https://github.com/shumvgolove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&v=4",
+          "name": "mlanp",
+          "url": "https://github.com/mlanp"
+        }
+      ]
+    },
+    {
+      "title": "mtolly/onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "297",
+      "forks": "23",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1427698?s=40&v=4",
+          "name": "mtolly",
+          "url": "https://github.com/mtolly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74471839?s=40&v=4",
+          "name": "AddyMills",
+          "url": "https://github.com/AddyMills"
         }
       ]
     }

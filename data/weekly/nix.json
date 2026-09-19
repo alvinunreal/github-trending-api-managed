@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 07:17:44 GMT",
+  "pubDate": "Sat, 19 Sep 2026 11:55:20 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -11,7 +11,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "26,187",
-      "forks": "20,134",
+      "forks": "20,136",
       "addStars": "111",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,972",
+      "stars": "1,973",
       "forks": "255",
       "addStars": "43",
       "contributors": [
@@ -92,6 +92,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/50653293?s=40&v=4",
           "name": "mksafavi",
           "url": "https://github.com/mksafavi"
+        }
+      ]
+    },
+    {
+      "title": "supabase/postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful extensions",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,788",
+      "forks": "266",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115821?s=40&v=4",
+          "name": "samrose",
+          "url": "https://github.com/samrose"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26374889?s=40&v=4",
+          "name": "dragarcia",
+          "url": "https://github.com/dragarcia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/397622?s=40&v=4",
+          "name": "darora",
+          "url": "https://github.com/darora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30039543?s=40&v=4",
+          "name": "pcnc",
+          "url": "https://github.com/pcnc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31685197?s=40&v=4",
+          "name": "soedirgo",
+          "url": "https://github.com/soedirgo"
         }
       ]
     },
@@ -170,7 +207,7 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "5,937",
+      "stars": "5,938",
       "forks": "659",
       "addStars": "27",
       "contributors": [
@@ -197,67 +234,13 @@
       ]
     },
     {
-      "title": "numtide/system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,734",
-      "forks": "63",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
-          "name": "r-vdp",
-          "url": "https://github.com/r-vdp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
-          "name": "jfroche",
-          "url": "https://github.com/jfroche"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,329",
-      "forks": "331",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
-          "name": "Lassulus",
-          "url": "https://github.com/Lassulus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
-          "name": "iFreilicht",
-          "url": "https://github.com/iFreilicht"
-        }
-      ]
-    },
-    {
       "title": "Mic92/sops-nix",
       "url": "https://github.com/Mic92/sops-nix",
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,171",
-      "forks": "235",
+      "stars": "3,172",
+      "forks": "236",
       "addStars": "15",
       "contributors": [
         {
@@ -269,6 +252,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
           "name": "dasJ",
           "url": "https://github.com/dasJ"
+        }
+      ]
+    },
+    {
+      "title": "NixOS/nix.dev",
+      "url": "https://github.com/NixOS/nix.dev",
+      "description": "Official documentation for getting things done with Nix.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,970",
+      "forks": "339",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6599296?s=40&v=4",
+          "name": "fricklerhandwerk",
+          "url": "https://github.com/fricklerhandwerk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/126339?s=40&v=4",
+          "name": "domenkozar",
+          "url": "https://github.com/domenkozar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74747193?s=40&v=4",
+          "name": "proofconstruction",
+          "url": "https://github.com/proofconstruction"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20525370?s=40&v=4",
+          "name": "infinisil",
+          "url": "https://github.com/infinisil"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10246891?s=40&v=4",
+          "name": "zmitchell",
+          "url": "https://github.com/zmitchell"
         }
       ]
     }
