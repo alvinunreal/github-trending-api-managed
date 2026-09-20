@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 07:17:50 GMT",
+  "pubDate": "Sun, 20 Sep 2026 12:20:56 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -10,8 +10,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,455",
-      "forks": "1,474",
+      "stars": "6,460",
+      "forks": "1,476",
       "addStars": "70",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "10,171",
-      "forks": "1,444",
+      "forks": "1,445",
       "addStars": "37",
       "contributors": [
         {
@@ -79,50 +79,13 @@
       ]
     },
     {
-      "title": "karpathy/llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "31,027",
-      "forks": "3,761",
-      "addStars": "53",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
-          "name": "karpathy",
-          "url": "https://github.com/karpathy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
-          "name": "ngc92",
-          "url": "https://github.com/ngc92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
-          "name": "gordicaleksa",
-          "url": "https://github.com/gordicaleksa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
-          "name": "ademeure",
-          "url": "https://github.com/ademeure"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
-          "name": "rosslwheeler",
-          "url": "https://github.com/rosslwheeler"
-        }
-      ]
-    },
-    {
       "title": "thu-ml/SageAttention",
       "url": "https://github.com/thu-ml/SageAttention",
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,833",
-      "forks": "511",
+      "stars": "3,838",
+      "forks": "512",
       "addStars": "101",
       "contributors": [
         {
@@ -190,6 +153,43 @@
       ]
     },
     {
+      "title": "karpathy/llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "31,027",
+      "forks": "3,761",
+      "addStars": "53",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
+          "name": "karpathy",
+          "url": "https://github.com/karpathy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
+          "name": "ngc92",
+          "url": "https://github.com/ngc92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
+          "name": "gordicaleksa",
+          "url": "https://github.com/gordicaleksa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
+          "name": "ademeure",
+          "url": "https://github.com/ademeure"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
+          "name": "rosslwheeler",
+          "url": "https://github.com/rosslwheeler"
+        }
+      ]
+    },
+    {
       "title": "mirage-project/mirage",
       "url": "https://github.com/mirage-project/mirage",
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
@@ -232,8 +232,8 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "7,848",
-      "forks": "1,269",
+      "stars": "7,849",
+      "forks": "1,271",
       "addStars": "32",
       "contributors": [
         {
@@ -338,43 +338,6 @@
       ]
     },
     {
-      "title": "BBuf/how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "3,278",
-      "forks": "291",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35585791?s=40&v=4",
-          "name": "BBuf",
-          "url": "https://github.com/BBuf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67543126?s=40&v=4",
-          "name": "peakcrosser7",
-          "url": "https://github.com/peakcrosser7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
-          "name": "Dessalines39394",
-          "url": "https://github.com/Dessalines39394"
-        }
-      ]
-    },
-    {
       "title": "NVIDIA/cuvs",
       "url": "https://github.com/NVIDIA/cuvs",
       "description": "cuVS - a library for vector search and clustering on the GPU",
@@ -408,6 +371,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
           "name": "cjnolet",
           "url": "https://github.com/cjnolet"
+        }
+      ]
+    },
+    {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "3,279",
+      "forks": "291",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35585791?s=40&v=4",
+          "name": "BBuf",
+          "url": "https://github.com/BBuf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67543126?s=40&v=4",
+          "name": "peakcrosser7",
+          "url": "https://github.com/peakcrosser7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
+          "name": "Dessalines39394",
+          "url": "https://github.com/Dessalines39394"
         }
       ]
     }

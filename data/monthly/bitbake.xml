@@ -3,7 +3,7 @@
     <title>GitHub Bitbake Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Bitbake Languages in GitHub</description>
-    <pubDate>Sun, 20 Sep 2026 07:17:50 GMT</pubDate>
+    <pubDate>Sun, 20 Sep 2026 12:20:56 GMT</pubDate>
     <item>
       <title>qualcomm-linux/meta-qcom</title>
       <link>https://github.com/qualcomm-linux/meta-qcom</link>
@@ -157,6 +157,44 @@
       </contributors>
     </item>
     <item>
+      <title>aws4embeddedlinux/meta-aws</title>
+      <link>https://github.com/aws4embeddedlinux/meta-aws</link>
+      <description>The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.</description>
+      <guid>https://github.com/aws4embeddedlinux/meta-aws</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>141</stars>
+      <forks>105</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91150960?s=40&amp;v=4</avatar>
+          <name>aws-iot-embedded-linux-ci</name>
+          <url>https://github.com/aws-iot-embedded-linux-ci</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/270470376?s=40&amp;v=4</avatar>
+          <name>meta-aws-maintainer</name>
+          <url>https://github.com/meta-aws-maintainer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2113279?s=40&amp;v=4</avatar>
+          <name>rpcme</name>
+          <url>https://github.com/rpcme</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3642427?s=40&amp;v=4</avatar>
+          <name>nateglims</name>
+          <url>https://github.com/nateglims</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2006441?s=40&amp;v=4</avatar>
+          <name>AdnaneKhan</name>
+          <url>https://github.com/AdnaneKhan</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>rauc/meta-rauc</title>
       <link>https://github.com/rauc/meta-rauc</link>
       <description>Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</description>
@@ -191,44 +229,6 @@
           <avatar>https://avatars.githubusercontent.com/u/19584951?s=40&amp;v=4</avatar>
           <name>OnkelUlla</name>
           <url>https://github.com/OnkelUlla</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Xilinx/meta-xilinx</title>
-      <link>https://github.com/Xilinx/meta-xilinx</link>
-      <description>Collection of Yocto Project layers to enable AMD Xilinx products</description>
-      <guid>https://github.com/Xilinx/meta-xilinx</guid>
-      <language>BitBake</language>
-      <languageColor>#00bce4</languageColor>
-      <stars>183</stars>
-      <forks>149</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7375778?s=40&amp;v=4</avatar>
-          <name>mhatle</name>
-          <url>https://github.com/mhatle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8731280?s=40&amp;v=4</avatar>
-          <name>grsandeep85</name>
-          <url>https://github.com/grsandeep85</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20096230?s=40&amp;v=4</avatar>
-          <name>saddepal</name>
-          <url>https://github.com/saddepal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60687110?s=40&amp;v=4</avatar>
-          <name>msreeram-xilinx</name>
-          <url>https://github.com/msreeram-xilinx</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1016397?s=40&amp;v=4</avatar>
-          <name>nathanrossi</name>
-          <url>https://github.com/nathanrossi</url>
         </contributor>
       </contributors>
     </item>
@@ -271,78 +271,78 @@
       </contributors>
     </item>
     <item>
-      <title>meta-qt5/meta-qt5</title>
-      <link>https://github.com/meta-qt5/meta-qt5</link>
-      <description>QT5 layer for openembedded</description>
-      <guid>https://github.com/meta-qt5/meta-qt5</guid>
+      <title>Xilinx/meta-xilinx</title>
+      <link>https://github.com/Xilinx/meta-xilinx</link>
+      <description>Collection of Yocto Project layers to enable AMD Xilinx products</description>
+      <guid>https://github.com/Xilinx/meta-xilinx</guid>
       <language>BitBake</language>
       <languageColor>#00bce4</languageColor>
-      <stars>275</stars>
-      <forks>369</forks>
-      <addStars>0</addStars>
+      <stars>183</stars>
+      <forks>149</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1234642?s=40&amp;v=4</avatar>
-          <name>shr-project</name>
-          <url>https://github.com/shr-project</url>
+          <avatar>https://avatars.githubusercontent.com/u/7375778?s=40&amp;v=4</avatar>
+          <name>mhatle</name>
+          <url>https://github.com/mhatle</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
-          <name>kraj</name>
-          <url>https://github.com/kraj</url>
+          <avatar>https://avatars.githubusercontent.com/u/8731280?s=40&amp;v=4</avatar>
+          <name>grsandeep85</name>
+          <url>https://github.com/grsandeep85</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13902279?s=40&amp;v=4</avatar>
-          <name>sapiippo</name>
-          <url>https://github.com/sapiippo</url>
+          <avatar>https://avatars.githubusercontent.com/u/20096230?s=40&amp;v=4</avatar>
+          <name>saddepal</name>
+          <url>https://github.com/saddepal</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2571823?s=40&amp;v=4</avatar>
-          <name>schnitzeltony</name>
-          <url>https://github.com/schnitzeltony</url>
+          <avatar>https://avatars.githubusercontent.com/u/60687110?s=40&amp;v=4</avatar>
+          <name>msreeram-xilinx</name>
+          <url>https://github.com/msreeram-xilinx</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/884177?s=40&amp;v=4</avatar>
-          <name>net147</name>
-          <url>https://github.com/net147</url>
+          <avatar>https://avatars.githubusercontent.com/u/1016397?s=40&amp;v=4</avatar>
+          <name>nathanrossi</name>
+          <url>https://github.com/nathanrossi</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>aws4embeddedlinux/meta-aws</title>
-      <link>https://github.com/aws4embeddedlinux/meta-aws</link>
-      <description>The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.</description>
-      <guid>https://github.com/aws4embeddedlinux/meta-aws</guid>
+      <title>OpenCentauri/cosmos</title>
+      <link>https://github.com/OpenCentauri/cosmos</link>
+      <description>Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer</description>
+      <guid>https://github.com/OpenCentauri/cosmos</guid>
       <language>BitBake</language>
       <languageColor>#00bce4</languageColor>
-      <stars>141</stars>
-      <forks>105</forks>
-      <addStars>1</addStars>
+      <stars>254</stars>
+      <forks>47</forks>
+      <addStars>23</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91150960?s=40&amp;v=4</avatar>
-          <name>aws-iot-embedded-linux-ci</name>
-          <url>https://github.com/aws-iot-embedded-linux-ci</url>
+          <avatar>https://avatars.githubusercontent.com/u/6130792?s=40&amp;v=4</avatar>
+          <name>jamesturton</name>
+          <url>https://github.com/jamesturton</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/270470376?s=40&amp;v=4</avatar>
-          <name>meta-aws-maintainer</name>
-          <url>https://github.com/meta-aws-maintainer</url>
+          <avatar>https://avatars.githubusercontent.com/u/38142618?s=40&amp;v=4</avatar>
+          <name>suchmememanyskill</name>
+          <url>https://github.com/suchmememanyskill</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2113279?s=40&amp;v=4</avatar>
-          <name>rpcme</name>
-          <url>https://github.com/rpcme</url>
+          <avatar>https://avatars.githubusercontent.com/u/31422391?s=40&amp;v=4</avatar>
+          <name>Atomique13</name>
+          <url>https://github.com/Atomique13</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3642427?s=40&amp;v=4</avatar>
-          <name>nateglims</name>
-          <url>https://github.com/nateglims</url>
+          <avatar>https://avatars.githubusercontent.com/u/7476666?s=40&amp;v=4</avatar>
+          <name>timiv</name>
+          <url>https://github.com/timiv</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2006441?s=40&amp;v=4</avatar>
-          <name>AdnaneKhan</name>
-          <url>https://github.com/AdnaneKhan</url>
+          <avatar>https://avatars.githubusercontent.com/u/99679894?s=40&amp;v=4</avatar>
+          <name>Bad-Hackerman</name>
+          <url>https://github.com/Bad-Hackerman</url>
         </contributor>
       </contributors>
     </item>
@@ -385,6 +385,44 @@
       </contributors>
     </item>
     <item>
+      <title>meta-qt5/meta-qt5</title>
+      <link>https://github.com/meta-qt5/meta-qt5</link>
+      <description>QT5 layer for openembedded</description>
+      <guid>https://github.com/meta-qt5/meta-qt5</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>275</stars>
+      <forks>369</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1234642?s=40&amp;v=4</avatar>
+          <name>shr-project</name>
+          <url>https://github.com/shr-project</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
+          <name>kraj</name>
+          <url>https://github.com/kraj</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13902279?s=40&amp;v=4</avatar>
+          <name>sapiippo</name>
+          <url>https://github.com/sapiippo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2571823?s=40&amp;v=4</avatar>
+          <name>schnitzeltony</name>
+          <url>https://github.com/schnitzeltony</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/884177?s=40&amp;v=4</avatar>
+          <name>net147</name>
+          <url>https://github.com/net147</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>OSSystems/meta-browser</title>
       <link>https://github.com/OSSystems/meta-browser</link>
       <description>OpenEmbedded/Yocto BSP layer for Web Browsers</description>
@@ -423,44 +461,6 @@
       </contributors>
     </item>
     <item>
-      <title>kraj/meta-clang</title>
-      <link>https://github.com/kraj/meta-clang</link>
-      <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
-      <guid>https://github.com/kraj/meta-clang</guid>
-      <language>BitBake</language>
-      <languageColor>#00bce4</languageColor>
-      <stars>197</stars>
-      <forks>252</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
-          <name>kraj</name>
-          <url>https://github.com/kraj</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1234642?s=40&amp;v=4</avatar>
-          <name>shr-project</name>
-          <url>https://github.com/shr-project</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32394?s=40&amp;v=4</avatar>
-          <name>rossburton</name>
-          <url>https://github.com/rossburton</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/179131?s=40&amp;v=4</avatar>
-          <name>dankm</name>
-          <url>https://github.com/dankm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9674237?s=40&amp;v=4</avatar>
-          <name>Ecordonnier</name>
-          <url>https://github.com/Ecordonnier</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>openbmc/openbmc</title>
       <link>https://github.com/openbmc/openbmc</link>
       <description>OpenBMC Distribution</description>
@@ -495,6 +495,44 @@
           <avatar>https://avatars.githubusercontent.com/u/526481?s=40&amp;v=4</avatar>
           <name>amboar</name>
           <url>https://github.com/amboar</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>kraj/meta-clang</title>
+      <link>https://github.com/kraj/meta-clang</link>
+      <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
+      <guid>https://github.com/kraj/meta-clang</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>197</stars>
+      <forks>252</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
+          <name>kraj</name>
+          <url>https://github.com/kraj</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1234642?s=40&amp;v=4</avatar>
+          <name>shr-project</name>
+          <url>https://github.com/shr-project</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32394?s=40&amp;v=4</avatar>
+          <name>rossburton</name>
+          <url>https://github.com/rossburton</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/179131?s=40&amp;v=4</avatar>
+          <name>dankm</name>
+          <url>https://github.com/dankm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9674237?s=40&amp;v=4</avatar>
+          <name>Ecordonnier</name>
+          <url>https://github.com/Ecordonnier</url>
         </contributor>
       </contributors>
     </item>
@@ -604,6 +642,44 @@
           <avatar>https://avatars.githubusercontent.com/u/12238099?s=40&amp;v=4</avatar>
           <name>GregorioDiStefano</name>
           <url>https://github.com/GregorioDiStefano</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rust-embedded/meta-rust-bin</title>
+      <link>https://github.com/rust-embedded/meta-rust-bin</link>
+      <description>Yocto layer for installing Rust toolchain from pre-built binaries</description>
+      <guid>https://github.com/rust-embedded/meta-rust-bin</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>124</stars>
+      <forks>92</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/41714?s=40&amp;v=4</avatar>
+          <name>posborne</name>
+          <url>https://github.com/posborne</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1500008?s=40&amp;v=4</avatar>
+          <name>nastevens</name>
+          <url>https://github.com/nastevens</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43125?s=40&amp;v=4</avatar>
+          <name>eldruin</name>
+          <url>https://github.com/eldruin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25278?s=40&amp;v=4</avatar>
+          <name>otavio</name>
+          <url>https://github.com/otavio</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/109770420?s=40&amp;v=4</avatar>
+          <name>eric-seppanen</name>
+          <url>https://github.com/eric-seppanen</url>
         </contributor>
       </contributors>
     </item>

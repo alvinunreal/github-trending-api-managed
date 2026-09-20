@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Weekly Trending",
   "description": "Weekly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 07:17:50 GMT",
+  "pubDate": "Sun, 20 Sep 2026 12:20:56 GMT",
   "items": [
     {
       "title": "openai/symphony",
@@ -10,8 +10,8 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "27,295",
-      "forks": "2,825",
+      "stars": "27,301",
+      "forks": "2,823",
       "addStars": "139",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": "4,701",
-      "forks": "3,179",
+      "forks": "3,180",
       "addStars": "23",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "7,636",
+      "stars": "7,635",
       "forks": "468",
       "addStars": "5",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "26,663",
+      "stars": "26,665",
       "forks": "3,671",
       "addStars": "40",
       "contributors": [
@@ -217,13 +217,50 @@
       ]
     },
     {
+      "title": "Tymeslot/tymeslot",
+      "url": "https://github.com/Tymeslot/tymeslot",
+      "description": "Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "205",
+      "forks": "39",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24662784?s=40&v=4",
+          "name": "wahve3",
+          "url": "https://github.com/wahve3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/133923483?s=40&v=4",
+          "name": "ToxicToxster",
+          "url": "https://github.com/ToxicToxster"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3321655?s=40&v=4",
+          "name": "jacotec",
+          "url": "https://github.com/jacotec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5434875?s=40&v=4",
+          "name": "PixelJonas",
+          "url": "https://github.com/PixelJonas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36459148?s=40&v=4",
+          "name": "evoludigit",
+          "url": "https://github.com/evoludigit"
+        }
+      ]
+    },
+    {
       "title": "firezone/firezone",
       "url": "https://github.com/firezone/firezone",
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": "9,101",
-      "forks": "457",
+      "forks": "458",
       "addStars": "15",
       "contributors": [
         {
@@ -254,7 +291,7 @@
       "description": "Your platform team, as a service",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "5,810",
+      "stars": "5,811",
       "forks": "779",
       "addStars": "14",
       "contributors": [
@@ -387,33 +424,6 @@
       ]
     },
     {
-      "title": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "9,009",
-      "forks": "1,005",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
-          "name": "adriankumpf",
-          "url": "https://github.com/adriankumpf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
-          "name": "JakobLichterfeld",
-          "url": "https://github.com/JakobLichterfeld"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
-          "name": "swiffer",
-          "url": "https://github.com/swiffer"
-        }
-      ]
-    },
-    {
       "title": "elixir-lsp/elixir-ls",
       "url": "https://github.com/elixir-lsp/elixir-ls",
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
@@ -447,6 +457,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/55809?s=40&v=4",
           "name": "scohen",
           "url": "https://github.com/scohen"
+        }
+      ]
+    },
+    {
+      "title": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "9,012",
+      "forks": "1,005",
+      "addStars": "28",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
+          "name": "adriankumpf",
+          "url": "https://github.com/adriankumpf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
+          "name": "JakobLichterfeld",
+          "url": "https://github.com/JakobLichterfeld"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
+          "name": "swiffer",
+          "url": "https://github.com/swiffer"
         }
       ]
     }

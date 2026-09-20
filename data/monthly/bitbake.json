@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Monthly Trending",
   "description": "Monthly Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 07:17:50 GMT",
+  "pubDate": "Sun, 20 Sep 2026 12:20:56 GMT",
   "items": [
     {
       "title": "qualcomm-linux/meta-qcom",
@@ -153,6 +153,43 @@
       ]
     },
     {
+      "title": "aws4embeddedlinux/meta-aws",
+      "url": "https://github.com/aws4embeddedlinux/meta-aws",
+      "description": "The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "141",
+      "forks": "105",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/91150960?s=40&v=4",
+          "name": "aws-iot-embedded-linux-ci",
+          "url": "https://github.com/aws-iot-embedded-linux-ci"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/270470376?s=40&v=4",
+          "name": "meta-aws-maintainer",
+          "url": "https://github.com/meta-aws-maintainer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2113279?s=40&v=4",
+          "name": "rpcme",
+          "url": "https://github.com/rpcme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3642427?s=40&v=4",
+          "name": "nateglims",
+          "url": "https://github.com/nateglims"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2006441?s=40&v=4",
+          "name": "AdnaneKhan",
+          "url": "https://github.com/AdnaneKhan"
+        }
+      ]
+    },
+    {
       "title": "rauc/meta-rauc",
       "url": "https://github.com/rauc/meta-rauc",
       "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
@@ -186,43 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/19584951?s=40&v=4",
           "name": "OnkelUlla",
           "url": "https://github.com/OnkelUlla"
-        }
-      ]
-    },
-    {
-      "title": "Xilinx/meta-xilinx",
-      "url": "https://github.com/Xilinx/meta-xilinx",
-      "description": "Collection of Yocto Project layers to enable AMD Xilinx products",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "183",
-      "forks": "149",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7375778?s=40&v=4",
-          "name": "mhatle",
-          "url": "https://github.com/mhatle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8731280?s=40&v=4",
-          "name": "grsandeep85",
-          "url": "https://github.com/grsandeep85"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20096230?s=40&v=4",
-          "name": "saddepal",
-          "url": "https://github.com/saddepal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60687110?s=40&v=4",
-          "name": "msreeram-xilinx",
-          "url": "https://github.com/msreeram-xilinx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1016397?s=40&v=4",
-          "name": "nathanrossi",
-          "url": "https://github.com/nathanrossi"
         }
       ]
     },
@@ -264,76 +264,76 @@
       ]
     },
     {
-      "title": "meta-qt5/meta-qt5",
-      "url": "https://github.com/meta-qt5/meta-qt5",
-      "description": "QT5 layer for openembedded",
+      "title": "Xilinx/meta-xilinx",
+      "url": "https://github.com/Xilinx/meta-xilinx",
+      "description": "Collection of Yocto Project layers to enable AMD Xilinx products",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "275",
-      "forks": "369",
-      "addStars": "0",
+      "stars": "183",
+      "forks": "149",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
-          "name": "shr-project",
-          "url": "https://github.com/shr-project"
+          "avatar": "https://avatars.githubusercontent.com/u/7375778?s=40&v=4",
+          "name": "mhatle",
+          "url": "https://github.com/mhatle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
-          "name": "kraj",
-          "url": "https://github.com/kraj"
+          "avatar": "https://avatars.githubusercontent.com/u/8731280?s=40&v=4",
+          "name": "grsandeep85",
+          "url": "https://github.com/grsandeep85"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13902279?s=40&v=4",
-          "name": "sapiippo",
-          "url": "https://github.com/sapiippo"
+          "avatar": "https://avatars.githubusercontent.com/u/20096230?s=40&v=4",
+          "name": "saddepal",
+          "url": "https://github.com/saddepal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2571823?s=40&v=4",
-          "name": "schnitzeltony",
-          "url": "https://github.com/schnitzeltony"
+          "avatar": "https://avatars.githubusercontent.com/u/60687110?s=40&v=4",
+          "name": "msreeram-xilinx",
+          "url": "https://github.com/msreeram-xilinx"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/884177?s=40&v=4",
-          "name": "net147",
-          "url": "https://github.com/net147"
+          "avatar": "https://avatars.githubusercontent.com/u/1016397?s=40&v=4",
+          "name": "nathanrossi",
+          "url": "https://github.com/nathanrossi"
         }
       ]
     },
     {
-      "title": "aws4embeddedlinux/meta-aws",
-      "url": "https://github.com/aws4embeddedlinux/meta-aws",
-      "description": "The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.",
+      "title": "OpenCentauri/cosmos",
+      "url": "https://github.com/OpenCentauri/cosmos",
+      "description": "Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "141",
-      "forks": "105",
-      "addStars": "1",
+      "stars": "254",
+      "forks": "47",
+      "addStars": "23",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/91150960?s=40&v=4",
-          "name": "aws-iot-embedded-linux-ci",
-          "url": "https://github.com/aws-iot-embedded-linux-ci"
+          "avatar": "https://avatars.githubusercontent.com/u/6130792?s=40&v=4",
+          "name": "jamesturton",
+          "url": "https://github.com/jamesturton"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/270470376?s=40&v=4",
-          "name": "meta-aws-maintainer",
-          "url": "https://github.com/meta-aws-maintainer"
+          "avatar": "https://avatars.githubusercontent.com/u/38142618?s=40&v=4",
+          "name": "suchmememanyskill",
+          "url": "https://github.com/suchmememanyskill"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2113279?s=40&v=4",
-          "name": "rpcme",
-          "url": "https://github.com/rpcme"
+          "avatar": "https://avatars.githubusercontent.com/u/31422391?s=40&v=4",
+          "name": "Atomique13",
+          "url": "https://github.com/Atomique13"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3642427?s=40&v=4",
-          "name": "nateglims",
-          "url": "https://github.com/nateglims"
+          "avatar": "https://avatars.githubusercontent.com/u/7476666?s=40&v=4",
+          "name": "timiv",
+          "url": "https://github.com/timiv"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2006441?s=40&v=4",
-          "name": "AdnaneKhan",
-          "url": "https://github.com/AdnaneKhan"
+          "avatar": "https://avatars.githubusercontent.com/u/99679894?s=40&v=4",
+          "name": "Bad-Hackerman",
+          "url": "https://github.com/Bad-Hackerman"
         }
       ]
     },
@@ -375,6 +375,43 @@
       ]
     },
     {
+      "title": "meta-qt5/meta-qt5",
+      "url": "https://github.com/meta-qt5/meta-qt5",
+      "description": "QT5 layer for openembedded",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "275",
+      "forks": "369",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
+          "name": "kraj",
+          "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13902279?s=40&v=4",
+          "name": "sapiippo",
+          "url": "https://github.com/sapiippo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2571823?s=40&v=4",
+          "name": "schnitzeltony",
+          "url": "https://github.com/schnitzeltony"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/884177?s=40&v=4",
+          "name": "net147",
+          "url": "https://github.com/net147"
+        }
+      ]
+    },
+    {
       "title": "OSSystems/meta-browser",
       "url": "https://github.com/OSSystems/meta-browser",
       "description": "OpenEmbedded/Yocto BSP layer for Web Browsers",
@@ -412,43 +449,6 @@
       ]
     },
     {
-      "title": "kraj/meta-clang",
-      "url": "https://github.com/kraj/meta-clang",
-      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "197",
-      "forks": "252",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
-          "name": "kraj",
-          "url": "https://github.com/kraj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
-          "name": "shr-project",
-          "url": "https://github.com/shr-project"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
-          "name": "rossburton",
-          "url": "https://github.com/rossburton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
-          "name": "dankm",
-          "url": "https://github.com/dankm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9674237?s=40&v=4",
-          "name": "Ecordonnier",
-          "url": "https://github.com/Ecordonnier"
-        }
-      ]
-    },
-    {
       "title": "openbmc/openbmc",
       "url": "https://github.com/openbmc/openbmc",
       "description": "OpenBMC Distribution",
@@ -482,6 +482,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/526481?s=40&v=4",
           "name": "amboar",
           "url": "https://github.com/amboar"
+        }
+      ]
+    },
+    {
+      "title": "kraj/meta-clang",
+      "url": "https://github.com/kraj/meta-clang",
+      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "197",
+      "forks": "252",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
+          "name": "kraj",
+          "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
+          "name": "rossburton",
+          "url": "https://github.com/rossburton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
+          "name": "dankm",
+          "url": "https://github.com/dankm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9674237?s=40&v=4",
+          "name": "Ecordonnier",
+          "url": "https://github.com/Ecordonnier"
         }
       ]
     },
@@ -588,6 +625,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/12238099?s=40&v=4",
           "name": "GregorioDiStefano",
           "url": "https://github.com/GregorioDiStefano"
+        }
+      ]
+    },
+    {
+      "title": "rust-embedded/meta-rust-bin",
+      "url": "https://github.com/rust-embedded/meta-rust-bin",
+      "description": "Yocto layer for installing Rust toolchain from pre-built binaries",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "124",
+      "forks": "92",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41714?s=40&v=4",
+          "name": "posborne",
+          "url": "https://github.com/posborne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1500008?s=40&v=4",
+          "name": "nastevens",
+          "url": "https://github.com/nastevens"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43125?s=40&v=4",
+          "name": "eldruin",
+          "url": "https://github.com/eldruin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25278?s=40&v=4",
+          "name": "otavio",
+          "url": "https://github.com/otavio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109770420?s=40&v=4",
+          "name": "eric-seppanen",
+          "url": "https://github.com/eric-seppanen"
         }
       ]
     }

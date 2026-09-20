@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 07:17:50 GMT",
+  "pubDate": "Sun, 20 Sep 2026 12:20:56 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,7 +10,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,343",
+      "stars": "46,347",
       "forks": "4,339",
       "addStars": "100",
       "contributors": [
@@ -111,6 +111,38 @@
       ]
     },
     {
+      "title": "IntersectMBO/cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "3,178",
+      "forks": "755",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9418537?s=40&v=4",
+          "name": "Jimbo4350",
+          "url": "https://github.com/Jimbo4350"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63014?s=40&v=4",
+          "name": "newhoggy",
+          "url": "https://github.com/newhoggy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
+          "name": "dcoutts",
+          "url": "https://github.com/dcoutts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
+          "name": "deepfire",
+          "url": "https://github.com/deepfire"
+        }
+      ]
+    },
+    {
       "title": "haskell/cabal",
       "url": "https://github.com/haskell/cabal",
       "description": "Official upstream development repository for Cabal and cabal-install",
@@ -176,38 +208,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
           "name": "jespercockx",
           "url": "https://github.com/jespercockx"
-        }
-      ]
-    },
-    {
-      "title": "IntersectMBO/cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "3,178",
-      "forks": "755",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9418537?s=40&v=4",
-          "name": "Jimbo4350",
-          "url": "https://github.com/Jimbo4350"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63014?s=40&v=4",
-          "name": "newhoggy",
-          "url": "https://github.com/newhoggy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
-          "name": "dcoutts",
-          "url": "https://github.com/dcoutts"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
-          "name": "deepfire",
-          "url": "https://github.com/deepfire"
         }
       ]
     },
@@ -281,38 +281,6 @@
       ]
     },
     {
-      "title": "haskell/haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,957",
-      "forks": "455",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
-          "name": "pepeiborra",
-          "url": "https://github.com/pepeiborra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
-          "name": "jneira",
-          "url": "https://github.com/jneira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
-          "name": "fendor",
-          "url": "https://github.com/fendor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
-          "name": "wz1000",
-          "url": "https://github.com/wz1000"
-        }
-      ]
-    },
-    {
       "title": "monoscope-tech/monoscope",
       "url": "https://github.com/monoscope-tech/monoscope",
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
@@ -345,7 +313,7 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "19,462",
+      "stars": "19,463",
       "forks": "1,356",
       "addStars": "60",
       "contributors": [
@@ -373,6 +341,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&v=4",
           "name": "mlanp",
           "url": "https://github.com/mlanp"
+        }
+      ]
+    },
+    {
+      "title": "haskell/haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,957",
+      "forks": "455",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
+          "name": "pepeiborra",
+          "url": "https://github.com/pepeiborra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
+          "name": "jneira",
+          "url": "https://github.com/jneira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
+          "name": "fendor",
+          "url": "https://github.com/fendor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
+          "name": "wz1000",
+          "url": "https://github.com/wz1000"
         }
       ]
     },
