@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Sep 2026 07:17:44 GMT",
+  "pubDate": "Mon, 21 Sep 2026 13:17:45 GMT",
   "items": [
     {
       "title": "max-sixty/worktrunk",
@@ -10,8 +10,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,240",
-      "forks": "284",
+      "stars": "8,260",
+      "forks": "286",
       "addStars": "822",
       "contributors": [
         {
@@ -32,13 +32,45 @@
       ]
     },
     {
+      "title": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "12,179",
+      "forks": "1,125",
+      "addStars": "317",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
+          "name": "ghedo",
+          "url": "https://github.com/ghedo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
+          "name": "LPardue",
+          "url": "https://github.com/LPardue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28556681?s=40&v=4",
+          "name": "antoniovicente",
+          "url": "https://github.com/antoniovicente"
+        }
+      ]
+    },
+    {
       "title": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,482",
-      "forks": "336",
+      "stars": "5,499",
+      "forks": "338",
       "addStars": "3,835",
       "contributors": [
         {
@@ -74,8 +106,8 @@
       "description": "Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, MCP server, 156 tools, course player. Free and open source for Windows, macOS and Linux. No terminal. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,060",
-      "forks": "1,236",
+      "stars": "14,086",
+      "forks": "1,238",
       "addStars": "2,938",
       "contributors": [
         {
@@ -106,12 +138,49 @@
       ]
     },
     {
+      "title": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "31,384",
+      "forks": "3,251",
+      "addStars": "1,037",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
+          "name": "dae",
+          "url": "https://github.com/dae"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&v=4",
+          "name": "hgiesel",
+          "url": "https://github.com/hgiesel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&v=4",
+          "name": "RumovZ",
+          "url": "https://github.com/RumovZ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&v=4",
+          "name": "abdnh",
+          "url": "https://github.com/abdnh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4",
+          "name": "Arthur-Milchior",
+          "url": "https://github.com/Arthur-Milchior"
+        }
+      ]
+    },
+    {
       "title": "rustfs/rustfs",
       "url": "https://github.com/rustfs/rustfs",
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,545",
+      "stars": "33,575",
       "forks": "1,502",
       "addStars": "1,682",
       "contributors": [
@@ -143,56 +212,19 @@
       ]
     },
     {
-      "title": "ankitects/anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
+      "title": "yyjeqhc/webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,374",
-      "forks": "3,249",
-      "addStars": "1,037",
+      "stars": "1,590",
+      "forks": "201",
+      "addStars": "789",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
-          "name": "dae",
-          "url": "https://github.com/dae"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&v=4",
-          "name": "hgiesel",
-          "url": "https://github.com/hgiesel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&v=4",
-          "name": "RumovZ",
-          "url": "https://github.com/RumovZ"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&v=4",
-          "name": "abdnh",
-          "url": "https://github.com/abdnh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4",
-          "name": "Arthur-Milchior",
-          "url": "https://github.com/Arthur-Milchior"
-        }
-      ]
-    },
-    {
-      "title": "HakanSeven12/OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "2,148",
-      "forks": "218",
-      "addStars": "373",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3831435?s=40&v=4",
-          "name": "HakanSeven12",
-          "url": "https://github.com/HakanSeven12"
+          "avatar": "https://avatars.githubusercontent.com/u/51790758?s=40&v=4",
+          "name": "yyjeqhc",
+          "url": "https://github.com/yyjeqhc"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -200,19 +232,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/184937705?s=40&v=4",
-          "name": "ramox81",
-          "url": "https://github.com/ramox81"
+          "avatar": "https://avatars.githubusercontent.com/u/138988108?s=40&v=4",
+          "name": "franksong2702",
+          "url": "https://github.com/franksong2702"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/162724803?s=40&v=4",
-          "name": "KarimJerbi",
-          "url": "https://github.com/KarimJerbi"
+          "avatar": "https://avatars.githubusercontent.com/u/133723203?s=40&v=4",
+          "name": "ITSGJY",
+          "url": "https://github.com/ITSGJY"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50465150?s=40&v=4",
-          "name": "gianlucafiore",
-          "url": "https://github.com/gianlucafiore"
+          "avatar": "https://avatars.githubusercontent.com/u/5344173?s=40&v=4",
+          "name": "syhyz1990",
+          "url": "https://github.com/syhyz1990"
         }
       ]
     },
@@ -222,7 +254,7 @@
       "description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,032",
+      "stars": "7,038",
       "forks": "387",
       "addStars": "252",
       "contributors": [
@@ -254,39 +286,39 @@
       ]
     },
     {
-      "title": "raine/workmux",
-      "url": "https://github.com/raine/workmux",
-      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "title": "HakanSeven12/OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,685",
-      "forks": "331",
-      "addStars": "136",
+      "stars": "2,161",
+      "forks": "218",
+      "addStars": "373",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11027?s=40&v=4",
-          "name": "raine",
-          "url": "https://github.com/raine"
+          "avatar": "https://avatars.githubusercontent.com/u/3831435?s=40&v=4",
+          "name": "HakanSeven12",
+          "url": "https://github.com/HakanSeven12"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5521648?s=40&v=4",
-          "name": "leodnlv",
-          "url": "https://github.com/leodnlv"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/74385?s=40&v=4",
-          "name": "rstacruz",
-          "url": "https://github.com/rstacruz"
+          "avatar": "https://avatars.githubusercontent.com/u/184937705?s=40&v=4",
+          "name": "ramox81",
+          "url": "https://github.com/ramox81"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9909?s=40&v=4",
-          "name": "bps",
-          "url": "https://github.com/bps"
+          "avatar": "https://avatars.githubusercontent.com/u/162724803?s=40&v=4",
+          "name": "KarimJerbi",
+          "url": "https://github.com/KarimJerbi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39844139?s=40&v=4",
-          "name": "evatths",
-          "url": "https://github.com/evatths"
+          "avatar": "https://avatars.githubusercontent.com/u/50465150?s=40&v=4",
+          "name": "gianlucafiore",
+          "url": "https://github.com/gianlucafiore"
         }
       ]
     },
@@ -296,7 +328,7 @@
       "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,531",
+      "stars": "3,536",
       "forks": "280",
       "addStars": "223",
       "contributors": [
@@ -328,34 +360,98 @@
       ]
     },
     {
-      "title": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "title": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,142",
-      "forks": "1,123",
-      "addStars": "317",
+      "stars": "124,154",
+      "forks": "19,202",
+      "addStars": "1,005",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
-          "name": "ghedo",
-          "url": "https://github.com/ghedo"
+          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
+          "name": "rustdesk",
+          "url": "https://github.com/rustdesk"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
+          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
+          "name": "fufesou",
+          "url": "https://github.com/fufesou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
-          "name": "LPardue",
-          "url": "https://github.com/LPardue"
+          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
+          "name": "21pages",
+          "url": "https://github.com/21pages"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28556681?s=40&v=4",
-          "name": "antoniovicente",
-          "url": "https://github.com/antoniovicente"
+          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
+          "name": "Kingtous",
+          "url": "https://github.com/Kingtous"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
+          "name": "Heap-Hop",
+          "url": "https://github.com/Heap-Hop"
+        }
+      ]
+    },
+    {
+      "title": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "15,778",
+      "forks": "666",
+      "addStars": "400",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17440968?s=40&v=4",
+          "name": "elijah-potter",
+          "url": "https://github.com/elijah-potter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/533619?s=40&v=4",
+          "name": "hippietrail",
+          "url": "https://github.com/hippietrail"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9543284?s=40&v=4",
+          "name": "grantlemons",
+          "url": "https://github.com/grantlemons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65783406?s=40&v=4",
+          "name": "mcecode",
+          "url": "https://github.com/mcecode"
+        }
+      ]
+    },
+    {
+      "title": "mesamirh/MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "2,162",
+      "forks": "236",
+      "addStars": "220",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73069638?s=40&v=4",
+          "name": "mesamirh",
+          "url": "https://github.com/mesamirh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10160991?s=40&v=4",
+          "name": "fredIV",
+          "url": "https://github.com/fredIV"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/151343422?s=40&v=4",
+          "name": "M-Nabeegh",
+          "url": "https://github.com/M-Nabeegh"
         }
       ]
     },
@@ -365,7 +461,7 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,590",
+      "stars": "31,603",
       "forks": "3,398",
       "addStars": "328",
       "contributors": [
@@ -397,77 +493,13 @@
       ]
     },
     {
-      "title": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "124,119",
-      "forks": "19,189",
-      "addStars": "1,005",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
-          "name": "rustdesk",
-          "url": "https://github.com/rustdesk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
-          "name": "fufesou",
-          "url": "https://github.com/fufesou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
-          "name": "21pages",
-          "url": "https://github.com/21pages"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
-          "name": "Kingtous",
-          "url": "https://github.com/Kingtous"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
-          "name": "Heap-Hop",
-          "url": "https://github.com/Heap-Hop"
-        }
-      ]
-    },
-    {
-      "title": "mesamirh/MovieBox-Tui",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "2,152",
-      "forks": "234",
-      "addStars": "220",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73069638?s=40&v=4",
-          "name": "mesamirh",
-          "url": "https://github.com/mesamirh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10160991?s=40&v=4",
-          "name": "fredIV",
-          "url": "https://github.com/fredIV"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/151343422?s=40&v=4",
-          "name": "M-Nabeegh",
-          "url": "https://github.com/M-Nabeegh"
-        }
-      ]
-    },
-    {
       "title": "zeronsh/zeron",
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,828",
-      "forks": "189",
+      "stars": "1,829",
+      "forks": "190",
       "addStars": "394",
       "contributors": [
         {
@@ -498,209 +530,103 @@
       ]
     },
     {
-      "title": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "title": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,606",
-      "forks": "12,522",
-      "addStars": "1,498",
+      "stars": "48,309",
+      "forks": "4,850",
+      "addStars": "191",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
-          "name": "ruvnet",
-          "url": "https://github.com/ruvnet"
+          "avatar": "https://avatars.githubusercontent.com/u/2694663?s=40&v=4",
+          "name": "cart",
+          "url": "https://github.com/cart"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/8672791?s=40&v=4",
+          "name": "mockersf",
+          "url": "https://github.com/mockersf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/214853444?s=40&v=4",
-          "name": "proffesor-for-testing",
-          "url": "https://github.com/proffesor-for-testing"
+          "avatar": "https://avatars.githubusercontent.com/u/3579909?s=40&v=4",
+          "name": "alice-i-cecile",
+          "url": "https://github.com/alice-i-cecile"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27962798?s=40&v=4",
+          "name": "ickshonpe",
+          "url": "https://github.com/ickshonpe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11307157?s=40&v=4",
+          "name": "atlv24",
+          "url": "https://github.com/atlv24"
         }
       ]
     },
     {
-      "title": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "title": "raine/workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,762",
-      "forks": "664",
-      "addStars": "400",
+      "stars": "2,690",
+      "forks": "331",
+      "addStars": "136",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17440968?s=40&v=4",
-          "name": "elijah-potter",
-          "url": "https://github.com/elijah-potter"
+          "avatar": "https://avatars.githubusercontent.com/u/11027?s=40&v=4",
+          "name": "raine",
+          "url": "https://github.com/raine"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/533619?s=40&v=4",
-          "name": "hippietrail",
-          "url": "https://github.com/hippietrail"
+          "avatar": "https://avatars.githubusercontent.com/u/5521648?s=40&v=4",
+          "name": "leodnlv",
+          "url": "https://github.com/leodnlv"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9543284?s=40&v=4",
-          "name": "grantlemons",
-          "url": "https://github.com/grantlemons"
+          "avatar": "https://avatars.githubusercontent.com/u/74385?s=40&v=4",
+          "name": "rstacruz",
+          "url": "https://github.com/rstacruz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65783406?s=40&v=4",
-          "name": "mcecode",
-          "url": "https://github.com/mcecode"
+          "avatar": "https://avatars.githubusercontent.com/u/9909?s=40&v=4",
+          "name": "bps",
+          "url": "https://github.com/bps"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39844139?s=40&v=4",
+          "name": "evatths",
+          "url": "https://github.com/evatths"
         }
       ]
     },
     {
-      "title": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "title": "arcboxlabs/arcbox",
+      "url": "https://github.com/arcboxlabs/arcbox",
+      "description": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "90,641",
-      "forks": "10,710",
-      "addStars": "491",
+      "stars": "6,184",
+      "forks": "216",
+      "addStars": "2,501",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
-          "name": "as-cii",
-          "url": "https://github.com/as-cii"
+          "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
+          "name": "AprilNEA",
+          "url": "https://github.com/AprilNEA"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&v=4",
-          "name": "maxbrunsfeld",
-          "url": "https://github.com/maxbrunsfeld"
+          "avatar": "https://avatars.githubusercontent.com/u/18367871?s=40&v=4",
+          "name": "PeronGH",
+          "url": "https://github.com/PeronGH"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&v=4",
-          "name": "maxdeviant",
-          "url": "https://github.com/maxdeviant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&v=4",
-          "name": "nathansobo",
-          "url": "https://github.com/nathansobo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&v=4",
-          "name": "ConradIrwin",
-          "url": "https://github.com/ConradIrwin"
-        }
-      ]
-    },
-    {
-      "title": "yyjeqhc/webcodex",
-      "url": "https://github.com/yyjeqhc/webcodex",
-      "description": "Give cloud AI agents a real development environment on your own machines.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "1,550",
-      "forks": "197",
-      "addStars": "789",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51790758?s=40&v=4",
-          "name": "yyjeqhc",
-          "url": "https://github.com/yyjeqhc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/138988108?s=40&v=4",
-          "name": "franksong2702",
-          "url": "https://github.com/franksong2702"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133723203?s=40&v=4",
-          "name": "ITSGJY",
-          "url": "https://github.com/ITSGJY"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5344173?s=40&v=4",
-          "name": "syhyz1990",
-          "url": "https://github.com/syhyz1990"
-        }
-      ]
-    },
-    {
-      "title": "CluvexStudio/Aether",
-      "url": "https://github.com/CluvexStudio/Aether",
-      "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "1,940",
-      "forks": "152",
-      "addStars": "135",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/125141320?s=40&v=4",
-          "name": "CluvexStudio",
-          "url": "https://github.com/CluvexStudio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38935870?s=40&v=4",
-          "name": "abolfazlakbarzadeh",
-          "url": "https://github.com/abolfazlakbarzadeh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62159058?s=40&v=4",
-          "name": "AzureLeMoon",
-          "url": "https://github.com/AzureLeMoon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68429735?s=40&v=4",
-          "name": "Vonarian",
-          "url": "https://github.com/Vonarian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "BurntSushi/ripgrep",
-      "url": "https://github.com/BurntSushi/ripgrep",
-      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "68,480",
-      "forks": "3,288",
-      "addStars": "293",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/456674?s=40&v=4",
-          "name": "BurntSushi",
-          "url": "https://github.com/BurntSushi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/122095?s=40&v=4",
-          "name": "okdana",
-          "url": "https://github.com/okdana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47760695?s=40&v=4",
-          "name": "jgarte",
-          "url": "https://github.com/jgarte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1876249?s=40&v=4",
-          "name": "balajisivaraman",
-          "url": "https://github.com/balajisivaraman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2866862?s=40&v=4",
-          "name": "igor-raits",
-          "url": "https://github.com/igor-raits"
+          "avatar": "https://avatars.githubusercontent.com/u/117573780?s=40&v=4",
+          "name": "lucas77778",
+          "url": "https://github.com/lucas77778"
         }
       ]
     }
