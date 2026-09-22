@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Monthly Trending",
   "description": "Monthly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 22 Sep 2026 07:17:44 GMT",
+  "pubDate": "Tue, 22 Sep 2026 12:36:16 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,400",
-      "forks": "2,823",
+      "stars": "39,531",
+      "forks": "2,831",
       "addStars": "18,217",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "28,677",
-      "forks": "3,858",
+      "stars": "28,799",
+      "forks": "3,872",
       "addStars": "8,321",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,508",
+      "stars": "5,525",
       "forks": "235",
       "addStars": "3,533",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,344",
+      "stars": "11,353",
       "forks": "945",
       "addStars": "1,515",
       "contributors": [
@@ -138,13 +138,50 @@
       ]
     },
     {
+      "title": "bjarneo/cliamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "description": "cliamp - Terminal music player inspired by winamp",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "4,277",
+      "forks": "287",
+      "addStars": "953",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1419214?s=40&v=4",
+          "name": "bjarneo",
+          "url": "https://github.com/bjarneo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5014172?s=40&v=4",
+          "name": "coryshaw1",
+          "url": "https://github.com/coryshaw1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152646159?s=40&v=4",
+          "name": "tahadx",
+          "url": "https://github.com/tahadx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90428464?s=40&v=4",
+          "name": "oweneldridge",
+          "url": "https://github.com/oweneldridge"
+        }
+      ]
+    },
+    {
       "title": "glanceapp/glance",
       "url": "https://github.com/glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "37,154",
-      "forks": "1,464",
+      "stars": "37,157",
+      "forks": "1,465",
       "addStars": "732",
       "contributors": [
         {
@@ -175,86 +212,12 @@
       ]
     },
     {
-      "title": "rorkai/App-Store-Connect-CLI",
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
-      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "7,327",
-      "forks": "618",
-      "addStars": "1,319",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&v=4",
-          "name": "rudrankriyam",
-          "url": "https://github.com/rudrankriyam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35962266?s=40&v=4",
-          "name": "mithileshchellappan",
-          "url": "https://github.com/mithileshchellappan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80545944?s=40&v=4",
-          "name": "Abdo-codes",
-          "url": "https://github.com/Abdo-codes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "1Panel-dev/1Panel",
-      "url": "https://github.com/1Panel-dev/1Panel",
-      "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "36,992",
-      "forks": "3,361",
-      "addStars": "476",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31820853?s=40&v=4",
-          "name": "zhengkunwang223",
-          "url": "https://github.com/zhengkunwang223"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73214554?s=40&v=4",
-          "name": "ssongliu",
-          "url": "https://github.com/ssongliu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81747598?s=40&v=4",
-          "name": "lan-yonghui",
-          "url": "https://github.com/lan-yonghui"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46734380?s=40&v=4",
-          "name": "wanghe-fit2cloud",
-          "url": "https://github.com/wanghe-fit2cloud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20227709?s=40&v=4",
-          "name": "HynoR",
-          "url": "https://github.com/HynoR"
-        }
-      ]
-    },
-    {
       "title": "cloudflare/cloudflared",
       "url": "https://github.com/cloudflare/cloudflared",
       "description": "Cloudflare Tunnel client",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,856",
+      "stars": "15,862",
       "forks": "1,452",
       "addStars": "544",
       "contributors": [
@@ -286,29 +249,39 @@
       ]
     },
     {
-      "title": "seaweedfs/seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "title": "rorkai/App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "34,891",
-      "forks": "3,000",
-      "addStars": "780",
+      "stars": "7,330",
+      "forks": "618",
+      "addStars": "1,319",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1543151?s=40&v=4",
-          "name": "chrislusf",
-          "url": "https://github.com/chrislusf"
+          "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&v=4",
+          "name": "rudrankriyam",
+          "url": "https://github.com/rudrankriyam"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9497591?s=40&v=4",
-          "name": "kmlebedev",
-          "url": "https://github.com/kmlebedev"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37195999?s=40&v=4",
-          "name": "chrisluuber",
-          "url": "https://github.com/chrisluuber"
+          "avatar": "https://avatars.githubusercontent.com/u/35962266?s=40&v=4",
+          "name": "mithileshchellappan",
+          "url": "https://github.com/mithileshchellappan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80545944?s=40&v=4",
+          "name": "Abdo-codes",
+          "url": "https://github.com/Abdo-codes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -318,7 +291,7 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,387",
+      "stars": "8,390",
       "forks": "446",
       "addStars": "557",
       "contributors": [
@@ -345,34 +318,71 @@
       ]
     },
     {
-      "title": "henrygd/beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "title": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,610",
-      "forks": "1,027",
-      "addStars": "1,136",
+      "stars": "36,995",
+      "forks": "3,362",
+      "addStars": "476",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8519632?s=40&v=4",
-          "name": "henrygd",
-          "url": "https://github.com/henrygd"
+          "avatar": "https://avatars.githubusercontent.com/u/31820853?s=40&v=4",
+          "name": "zhengkunwang223",
+          "url": "https://github.com/zhengkunwang223"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4511676?s=40&v=4",
-          "name": "svenvg93",
-          "url": "https://github.com/svenvg93"
+          "avatar": "https://avatars.githubusercontent.com/u/73214554?s=40&v=4",
+          "name": "ssongliu",
+          "url": "https://github.com/ssongliu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56564725?s=40&v=4",
-          "name": "a-mnich",
-          "url": "https://github.com/a-mnich"
+          "avatar": "https://avatars.githubusercontent.com/u/81747598?s=40&v=4",
+          "name": "lan-yonghui",
+          "url": "https://github.com/lan-yonghui"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/27770896?s=40&v=4",
-          "name": "stanol",
-          "url": "https://github.com/stanol"
+          "avatar": "https://avatars.githubusercontent.com/u/46734380?s=40&v=4",
+          "name": "wanghe-fit2cloud",
+          "url": "https://github.com/wanghe-fit2cloud"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20227709?s=40&v=4",
+          "name": "HynoR",
+          "url": "https://github.com/HynoR"
+        }
+      ]
+    },
+    {
+      "title": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "16,577",
+      "forks": "1,576",
+      "addStars": "2,270",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
+          "name": "kylecarbs",
+          "url": "https://github.com/kylecarbs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/147409?s=40&v=4",
+          "name": "mafredri",
+          "url": "https://github.com/mafredri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4949514?s=40&v=4",
+          "name": "johnstcn",
+          "url": "https://github.com/johnstcn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5446298?s=40&v=4",
+          "name": "Emyrk",
+          "url": "https://github.com/Emyrk"
         }
       ]
     },
@@ -382,7 +392,7 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,679",
+      "stars": "4,726",
       "forks": "128",
       "addStars": "3,633",
       "contributors": [
@@ -409,12 +419,113 @@
       ]
     },
     {
+      "title": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "2,717",
+      "forks": "367",
+      "addStars": "1,085",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
+          "name": "BenTheElder",
+          "url": "https://github.com/BenTheElder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/680407?s=40&v=4",
+          "name": "juli4n",
+          "url": "https://github.com/juli4n"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55463354?s=40&v=4",
+          "name": "HavenXia",
+          "url": "https://github.com/HavenXia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5595220?s=40&v=4",
+          "name": "thockin",
+          "url": "https://github.com/thockin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35669350?s=40&v=4",
+          "name": "zoez7",
+          "url": "https://github.com/zoez7"
+        }
+      ]
+    },
+    {
+      "title": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "25,624",
+      "forks": "1,029",
+      "addStars": "1,136",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8519632?s=40&v=4",
+          "name": "henrygd",
+          "url": "https://github.com/henrygd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4511676?s=40&v=4",
+          "name": "svenvg93",
+          "url": "https://github.com/svenvg93"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56564725?s=40&v=4",
+          "name": "a-mnich",
+          "url": "https://github.com/a-mnich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27770896?s=40&v=4",
+          "name": "stanol",
+          "url": "https://github.com/stanol"
+        }
+      ]
+    },
+    {
+      "title": "projectdiscovery/katana",
+      "url": "https://github.com/projectdiscovery/katana",
+      "description": "A next-generation crawling and spidering framework.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "17,546",
+      "forks": "1,186",
+      "addStars": "240",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
+          "name": "Mzack9999",
+          "url": "https://github.com/Mzack9999"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65292895?s=40&v=4",
+          "name": "dogancanbakir",
+          "url": "https://github.com/dogancanbakir"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4",
+          "name": "ehsandeep",
+          "url": "https://github.com/ehsandeep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/466878?s=40&v=4",
+          "name": "geeknik",
+          "url": "https://github.com/geeknik"
+        }
+      ]
+    },
+    {
       "title": "authelia/authelia",
       "url": "https://github.com/authelia/authelia",
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,042",
+      "stars": "29,047",
       "forks": "1,490",
       "addStars": "444",
       "contributors": [
@@ -441,66 +552,98 @@
       ]
     },
     {
-      "title": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
+      "title": "seaweedfs/seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,526",
-      "forks": "1,571",
-      "addStars": "2,270",
+      "stars": "34,896",
+      "forks": "3,001",
+      "addStars": "780",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
-          "name": "kylecarbs",
-          "url": "https://github.com/kylecarbs"
+          "avatar": "https://avatars.githubusercontent.com/u/1543151?s=40&v=4",
+          "name": "chrislusf",
+          "url": "https://github.com/chrislusf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/147409?s=40&v=4",
-          "name": "mafredri",
-          "url": "https://github.com/mafredri"
+          "avatar": "https://avatars.githubusercontent.com/u/9497591?s=40&v=4",
+          "name": "kmlebedev",
+          "url": "https://github.com/kmlebedev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4949514?s=40&v=4",
-          "name": "johnstcn",
-          "url": "https://github.com/johnstcn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5446298?s=40&v=4",
-          "name": "Emyrk",
-          "url": "https://github.com/Emyrk"
+          "avatar": "https://avatars.githubusercontent.com/u/37195999?s=40&v=4",
+          "name": "chrisluuber",
+          "url": "https://github.com/chrisluuber"
         }
       ]
     },
     {
-      "title": "projectdiscovery/katana",
-      "url": "https://github.com/projectdiscovery/katana",
-      "description": "A next-generation crawling and spidering framework.",
+      "title": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,543",
-      "forks": "1,186",
-      "addStars": "240",
+      "stars": "38,209",
+      "forks": "4,632",
+      "addStars": "1,158",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
-          "name": "Mzack9999",
-          "url": "https://github.com/Mzack9999"
+          "avatar": "https://avatars.githubusercontent.com/u/56506714?s=40&v=4",
+          "name": "nekohasekai",
+          "url": "https://github.com/nekohasekai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65292895?s=40&v=4",
-          "name": "dogancanbakir",
-          "url": "https://github.com/dogancanbakir"
+          "avatar": "https://avatars.githubusercontent.com/u/4027187?s=40&v=4",
+          "name": "macronut",
+          "url": "https://github.com/macronut"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4",
-          "name": "ehsandeep",
-          "url": "https://github.com/ehsandeep"
+          "avatar": "https://avatars.githubusercontent.com/u/94161727?s=40&v=4",
+          "name": "flyzstu",
+          "url": "https://github.com/flyzstu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/466878?s=40&v=4",
-          "name": "geeknik",
-          "url": "https://github.com/geeknik"
+          "avatar": "https://avatars.githubusercontent.com/u/80738880?s=40&v=4",
+          "name": "NagaseMinato",
+          "url": "https://github.com/NagaseMinato"
+        }
+      ]
+    },
+    {
+      "title": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "7,279",
+      "forks": "1,518",
+      "addStars": "224",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184815?s=40&v=4",
+          "name": "andig",
+          "url": "https://github.com/andig"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152287?s=40&v=4",
+          "name": "naltatis",
+          "url": "https://github.com/naltatis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4681172?s=40&v=4",
+          "name": "premultiply",
+          "url": "https://github.com/premultiply"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42185?s=40&v=4",
+          "name": "DerAndereAndi",
+          "url": "https://github.com/DerAndereAndi"
         }
       ]
     },
@@ -542,50 +685,13 @@
       ]
     },
     {
-      "title": "milvus-io/milvus",
-      "url": "https://github.com/milvus-io/milvus",
-      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "46,203",
-      "forks": "4,258",
-      "addStars": "519",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84113973?s=40&v=4",
-          "name": "congqixia",
-          "url": "https://github.com/congqixia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33142505?s=40&v=4",
-          "name": "JinHai-CN",
-          "url": "https://github.com/JinHai-CN"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42060877?s=40&v=4",
-          "name": "bigsheeper",
-          "url": "https://github.com/bigsheeper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12268675?s=40&v=4",
-          "name": "zhuwenxing",
-          "url": "https://github.com/zhuwenxing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46207236?s=40&v=4",
-          "name": "xiaocai2333",
-          "url": "https://github.com/xiaocai2333"
-        }
-      ]
-    },
-    {
       "title": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,848",
-      "forks": "3,198",
+      "stars": "24,859",
+      "forks": "3,201",
       "addStars": "3,015",
       "contributors": [
         {
@@ -616,103 +722,39 @@
       ]
     },
     {
-      "title": "evcc-io/evcc",
-      "url": "https://github.com/evcc-io/evcc",
-      "description": "solar charging ☀️🚘",
+      "title": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,280",
-      "forks": "1,518",
-      "addStars": "224",
+      "stars": "46,211",
+      "forks": "4,262",
+      "addStars": "519",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/184815?s=40&v=4",
-          "name": "andig",
-          "url": "https://github.com/andig"
+          "avatar": "https://avatars.githubusercontent.com/u/84113973?s=40&v=4",
+          "name": "congqixia",
+          "url": "https://github.com/congqixia"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/152287?s=40&v=4",
-          "name": "naltatis",
-          "url": "https://github.com/naltatis"
+          "avatar": "https://avatars.githubusercontent.com/u/33142505?s=40&v=4",
+          "name": "JinHai-CN",
+          "url": "https://github.com/JinHai-CN"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4681172?s=40&v=4",
-          "name": "premultiply",
-          "url": "https://github.com/premultiply"
+          "avatar": "https://avatars.githubusercontent.com/u/42060877?s=40&v=4",
+          "name": "bigsheeper",
+          "url": "https://github.com/bigsheeper"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
-          "name": "weblate",
-          "url": "https://github.com/weblate"
+          "avatar": "https://avatars.githubusercontent.com/u/12268675?s=40&v=4",
+          "name": "zhuwenxing",
+          "url": "https://github.com/zhuwenxing"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42185?s=40&v=4",
-          "name": "DerAndereAndi",
-          "url": "https://github.com/DerAndereAndi"
-        }
-      ]
-    },
-    {
-      "title": "slackhq/nebula",
-      "url": "https://github.com/slackhq/nebula",
-      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "18,370",
-      "forks": "1,187",
-      "addStars": "765",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/957319?s=40&v=4",
-          "name": "nbrownus",
-          "url": "https://github.com/nbrownus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18437?s=40&v=4",
-          "name": "wadey",
-          "url": "https://github.com/wadey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1024837?s=40&v=4",
-          "name": "JackDoan",
-          "url": "https://github.com/JackDoan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/440033?s=40&v=4",
-          "name": "johnmaguire",
-          "url": "https://github.com/johnmaguire"
-        }
-      ]
-    },
-    {
-      "title": "SagerNet/sing-box",
-      "url": "https://github.com/SagerNet/sing-box",
-      "description": "The universal proxy platform",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "38,203",
-      "forks": "4,631",
-      "addStars": "1,158",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56506714?s=40&v=4",
-          "name": "nekohasekai",
-          "url": "https://github.com/nekohasekai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4027187?s=40&v=4",
-          "name": "macronut",
-          "url": "https://github.com/macronut"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94161727?s=40&v=4",
-          "name": "flyzstu",
-          "url": "https://github.com/flyzstu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80738880?s=40&v=4",
-          "name": "NagaseMinato",
-          "url": "https://github.com/NagaseMinato"
+          "avatar": "https://avatars.githubusercontent.com/u/46207236?s=40&v=4",
+          "name": "xiaocai2333",
+          "url": "https://github.com/xiaocai2333"
         }
       ]
     },
@@ -722,8 +764,8 @@
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,895",
-      "forks": "968",
+      "stars": "5,896",
+      "forks": "969",
       "addStars": "690",
       "contributors": [
         {
@@ -745,43 +787,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/90186852?s=40&v=4",
           "name": "theohsiung",
           "url": "https://github.com/theohsiung"
-        }
-      ]
-    },
-    {
-      "title": "bjarneo/cliamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "description": "cliamp - Terminal music player inspired by winamp",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "4,271",
-      "forks": "286",
-      "addStars": "953",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1419214?s=40&v=4",
-          "name": "bjarneo",
-          "url": "https://github.com/bjarneo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5014172?s=40&v=4",
-          "name": "coryshaw1",
-          "url": "https://github.com/coryshaw1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152646159?s=40&v=4",
-          "name": "tahadx",
-          "url": "https://github.com/tahadx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90428464?s=40&v=4",
-          "name": "oweneldridge",
-          "url": "https://github.com/oweneldridge"
         }
       ]
     }
