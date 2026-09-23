@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 07:17:31 GMT",
+  "pubDate": "Wed, 23 Sep 2026 12:44:56 GMT",
   "items": [
     {
       "title": "ExTV/Podroid",
@@ -10,7 +10,7 @@
       "description": "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,925",
+      "stars": "2,926",
       "forks": "191",
       "addStars": "285",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,105",
+      "stars": "1,110",
       "forks": "70",
       "addStars": "106",
       "contributors": [
@@ -74,12 +74,66 @@
       ]
     },
     {
+      "title": "zhanghai/MaterialFiles",
+      "url": "https://github.com/zhanghai/MaterialFiles",
+      "description": "Material Design file manager for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "9,039",
+      "forks": "741",
+      "addStars": "127",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4469895?s=40&v=4",
+          "name": "zhanghai",
+          "url": "https://github.com/zhanghai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7046617?s=40&v=4",
+          "name": "david082321",
+          "url": "https://github.com/david082321"
+        }
+      ]
+    },
+    {
+      "title": "KernelSU-Next/KernelSU-Next",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next",
+      "description": "An advanced Kernel based root solution for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "4,290",
+      "forks": "1,123",
+      "addStars": "46",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
+          "name": "tiann",
+          "url": "https://github.com/tiann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33044977?s=40&v=4",
+          "name": "rifsxd",
+          "url": "https://github.com/rifsxd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30978685?s=40&v=4",
+          "name": "Ylarod",
+          "url": "https://github.com/Ylarod"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56485584?s=40&v=4",
+          "name": "5ec1cff",
+          "url": "https://github.com/5ec1cff"
+        }
+      ]
+    },
+    {
       "title": "deniscerri/ytdlnis",
       "url": "https://github.com/deniscerri/ytdlnis",
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,230",
+      "stars": "10,235",
       "forks": "470",
       "addStars": "122",
       "contributors": [
@@ -106,66 +160,12 @@
       ]
     },
     {
-      "title": "Hy4ri/hermes-mobile",
-      "url": "https://github.com/Hy4ri/hermes-mobile",
-      "description": "Native Android client for Hermes Agent. Your agent, in your pocket.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "197",
-      "forks": "48",
-      "addStars": "58",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41645758?s=40&v=4",
-          "name": "Hy4ri",
-          "url": "https://github.com/Hy4ri"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56083016?s=40&v=4",
-          "name": "alexdev03",
-          "url": "https://github.com/alexdev03"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2040873?s=40&v=4",
-          "name": "Alorse",
-          "url": "https://github.com/Alorse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38858193?s=40&v=4",
-          "name": "Genesi599",
-          "url": "https://github.com/Genesi599"
-        }
-      ]
-    },
-    {
-      "title": "zhanghai/MaterialFiles",
-      "url": "https://github.com/zhanghai/MaterialFiles",
-      "description": "Material Design file manager for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "9,039",
-      "forks": "740",
-      "addStars": "127",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4469895?s=40&v=4",
-          "name": "zhanghai",
-          "url": "https://github.com/zhanghai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7046617?s=40&v=4",
-          "name": "david082321",
-          "url": "https://github.com/david082321"
-        }
-      ]
-    },
-    {
       "title": "HuangZhuoRui/LocationSpoofer",
       "url": "https://github.com/HuangZhuoRui/LocationSpoofer",
       "description": "虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,178",
+      "stars": "1,194",
       "forks": "225",
       "addStars": "88",
       "contributors": [
@@ -187,66 +187,34 @@
       ]
     },
     {
-      "title": "KernelSU-Next/KernelSU-Next",
-      "url": "https://github.com/KernelSU-Next/KernelSU-Next",
-      "description": "An advanced Kernel based root solution for Android",
+      "title": "ximeiorg/Xime",
+      "url": "https://github.com/ximeiorg/Xime",
+      "description": "我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "4,291",
-      "forks": "1,121",
-      "addStars": "46",
+      "stars": "1,012",
+      "forks": "76",
+      "addStars": "82",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
-          "name": "tiann",
-          "url": "https://github.com/tiann"
+          "avatar": "https://avatars.githubusercontent.com/u/12839855?s=40&v=4",
+          "name": "kingzcheung",
+          "url": "https://github.com/kingzcheung"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33044977?s=40&v=4",
-          "name": "rifsxd",
-          "url": "https://github.com/rifsxd"
+          "avatar": "https://avatars.githubusercontent.com/u/7126461?s=40&v=4",
+          "name": "minilulubai",
+          "url": "https://github.com/minilulubai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30978685?s=40&v=4",
-          "name": "Ylarod",
-          "url": "https://github.com/Ylarod"
+          "avatar": "https://avatars.githubusercontent.com/u/108364043?s=40&v=4",
+          "name": "jolchmo",
+          "url": "https://github.com/jolchmo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56485584?s=40&v=4",
-          "name": "5ec1cff",
-          "url": "https://github.com/5ec1cff"
-        }
-      ]
-    },
-    {
-      "title": "frknkrc44/HMA-OSS",
-      "url": "https://github.com/frknkrc44/HMA-OSS",
-      "description": "A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "3,275",
-      "forks": "218",
-      "addStars": "89",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45714956?s=40&v=4",
-          "name": "frknkrc44",
-          "url": "https://github.com/frknkrc44"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20322043?s=40&v=4",
-          "name": "lelemka0",
-          "url": "https://github.com/lelemka0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18079988?s=40&v=4",
-          "name": "aviraxp",
-          "url": "https://github.com/aviraxp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41381927?s=40&v=4",
-          "name": "keta1",
-          "url": "https://github.com/keta1"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -256,8 +224,8 @@
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,479",
-      "forks": "207",
+      "stars": "2,480",
+      "forks": "208",
       "addStars": "83",
       "contributors": [
         {
@@ -283,44 +251,12 @@
       ]
     },
     {
-      "title": "zly2006/zhihu-plus-plus",
-      "url": "https://github.com/zly2006/zhihu-plus-plus",
-      "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "4,093",
-      "forks": "193",
-      "addStars": "76",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66198935?s=40&v=4",
-          "name": "zly2006",
-          "url": "https://github.com/zly2006"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161262739?s=40&v=4",
-          "name": "zyl6932",
-          "url": "https://github.com/zyl6932"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12569997?s=40&v=4",
-          "name": "123Duo3",
-          "url": "https://github.com/123Duo3"
-        }
-      ]
-    },
-    {
       "title": "mobile-dev-inc/Maestro",
       "url": "https://github.com/mobile-dev-inc/Maestro",
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "15,762",
+      "stars": "15,768",
       "forks": "969",
       "addStars": "122",
       "contributors": [
@@ -352,12 +288,71 @@
       ]
     },
     {
+      "title": "frknkrc44/HMA-OSS",
+      "url": "https://github.com/frknkrc44/HMA-OSS",
+      "description": "A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "3,279",
+      "forks": "219",
+      "addStars": "89",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45714956?s=40&v=4",
+          "name": "frknkrc44",
+          "url": "https://github.com/frknkrc44"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20322043?s=40&v=4",
+          "name": "lelemka0",
+          "url": "https://github.com/lelemka0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18079988?s=40&v=4",
+          "name": "aviraxp",
+          "url": "https://github.com/aviraxp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41381927?s=40&v=4",
+          "name": "keta1",
+          "url": "https://github.com/keta1"
+        }
+      ]
+    },
+    {
+      "title": "bitwarden/android",
+      "url": "https://github.com/bitwarden/android",
+      "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "9,392",
+      "forks": "1,056",
+      "addStars": "39",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125928928?s=40&v=4",
+          "name": "david-livefront",
+          "url": "https://github.com/david-livefront"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1883101?s=40&v=4",
+          "name": "SaintPatrck",
+          "url": "https://github.com/SaintPatrck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/126027223?s=40&v=4",
+          "name": "brian-livefront",
+          "url": "https://github.com/brian-livefront"
+        }
+      ]
+    },
+    {
       "title": "music-assistant/mobile-app",
       "url": "https://github.com/music-assistant/mobile-app",
       "description": "The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "613",
+      "stars": "614",
       "forks": "60",
       "addStars": "40",
       "contributors": [
@@ -380,6 +375,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "anilbeesetti/nextplayer",
+      "url": "https://github.com/anilbeesetti/nextplayer",
+      "description": "An Android native video player",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "4,424",
+      "forks": "330",
+      "addStars": "48",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66936649?s=40&v=4",
+          "name": "anilbeesetti",
+          "url": "https://github.com/anilbeesetti"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12777771?s=40&v=4",
+          "name": "VasilisKos",
+          "url": "https://github.com/VasilisKos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103105829?s=40&v=4",
+          "name": "Kefir2105",
+          "url": "https://github.com/Kefir2105"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/134558370?s=40&v=4",
+          "name": "fosslatic",
+          "url": "https://github.com/fosslatic"
         }
       ]
     }

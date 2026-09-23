@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Wed, 23 Sep 2026 07:17:31 GMT</pubDate>
+    <pubDate>Wed, 23 Sep 2026 12:44:56 GMT</pubDate>
     <item>
       <title>flashinfer-ai/flashinfer</title>
       <link>https://github.com/flashinfer-ai/flashinfer</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/flashinfer-ai/flashinfer</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>6,486</stars>
-      <forks>1,488</forks>
+      <stars>6,492</stars>
+      <forks>1,491</forks>
       <addStars>73</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/deepseek-ai/DeepEP</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>10,183</stars>
-      <forks>1,448</forks>
+      <stars>10,186</stars>
+      <forks>1,449</forks>
       <addStars>36</addStars>
       <contributors>
         <contributor>
@@ -81,13 +81,51 @@
       </contributors>
     </item>
     <item>
+      <title>thu-ml/SpargeAttn</title>
+      <link>https://github.com/thu-ml/SpargeAttn</link>
+      <description>[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.</description>
+      <guid>https://github.com/thu-ml/SpargeAttn</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>1,226</stars>
+      <forks>107</forks>
+      <addStars>126</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59364182?s=40&amp;v=4</avatar>
+          <name>jt-zhang</name>
+          <url>https://github.com/jt-zhang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66510463?s=40&amp;v=4</avatar>
+          <name>Xiang-cd</name>
+          <url>https://github.com/Xiang-cd</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38180676?s=40&amp;v=4</avatar>
+          <name>whx1003</name>
+          <url>https://github.com/whx1003</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/110245937?s=40&amp;v=4</avatar>
+          <name>jason-huang03</name>
+          <url>https://github.com/jason-huang03</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37583905?s=40&amp;v=4</avatar>
+          <name>XiaomingXu1995</name>
+          <url>https://github.com/XiaomingXu1995</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>thu-ml/SageAttention</title>
       <link>https://github.com/thu-ml/SageAttention</link>
       <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
       <guid>https://github.com/thu-ml/SageAttention</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>3,902</stars>
+      <stars>3,908</stars>
       <forks>516</forks>
       <addStars>135</addStars>
       <contributors>
@@ -115,158 +153,6 @@
           <avatar>https://avatars.githubusercontent.com/u/2712115?s=40&amp;v=4</avatar>
           <name>guilhermeleobas</name>
           <url>https://github.com/guilhermeleobas</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mirage-project/mirage</title>
-      <link>https://github.com/mirage-project/mirage</link>
-      <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-      <guid>https://github.com/mirage-project/mirage</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>2,511</stars>
-      <forks>257</forks>
-      <addStars>19</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1669058?s=40&amp;v=4</avatar>
-          <name>jiazhihao</name>
-          <url>https://github.com/jiazhihao</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82456363?s=40&amp;v=4</avatar>
-          <name>yzhou442</name>
-          <url>https://github.com/yzhou442</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99570243?s=40&amp;v=4</avatar>
-          <name>xinhaoc</name>
-          <url>https://github.com/xinhaoc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48128384?s=40&amp;v=4</avatar>
-          <name>wmdi</name>
-          <url>https://github.com/wmdi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/145248565?s=40&amp;v=4</avatar>
-          <name>undefined-c0der</name>
-          <url>https://github.com/undefined-c0der</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>karpathy/llm.c</title>
-      <link>https://github.com/karpathy/llm.c</link>
-      <description>LLM training in simple, raw C/CUDA</description>
-      <guid>https://github.com/karpathy/llm.c</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>31,047</stars>
-      <forks>3,764</forks>
-      <addStars>56</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
-          <name>karpathy</name>
-          <url>https://github.com/karpathy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
-          <name>ngc92</name>
-          <url>https://github.com/ngc92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
-          <name>gordicaleksa</name>
-          <url>https://github.com/gordicaleksa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
-          <name>ademeure</name>
-          <url>https://github.com/ademeure</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
-          <name>rosslwheeler</name>
-          <url>https://github.com/rosslwheeler</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>HazyResearch/ThunderKittens</title>
-      <link>https://github.com/HazyResearch/ThunderKittens</link>
-      <description>Tile primitives for speedy kernels</description>
-      <guid>https://github.com/HazyResearch/ThunderKittens</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>3,724</stars>
-      <forks>329</forks>
-      <addStars>20</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11230781?s=40&amp;v=4</avatar>
-          <name>benjaminfspector</name>
-          <url>https://github.com/benjaminfspector</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31910389?s=40&amp;v=4</avatar>
-          <name>StuartSul</name>
-          <url>https://github.com/StuartSul</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48185825?s=40&amp;v=4</avatar>
-          <name>Aaryan0404</name>
-          <url>https://github.com/Aaryan0404</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42813008?s=40&amp;v=4</avatar>
-          <name>jordan-benjamin</name>
-          <url>https://github.com/jordan-benjamin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29069240?s=40&amp;v=4</avatar>
-          <name>simran-arora</name>
-          <url>https://github.com/simran-arora</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>deepseek-ai/DeepGEMM</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM</link>
-      <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
-      <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>7,859</stars>
-      <forks>1,275</forks>
-      <addStars>31</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4</avatar>
-          <name>LyricZhao</name>
-          <url>https://github.com/LyricZhao</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44948473?s=40&amp;v=4</avatar>
-          <name>soundOfDestiny</name>
-          <url>https://github.com/soundOfDestiny</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/94977922?s=40&amp;v=4</avatar>
-          <name>zheanxu</name>
-          <url>https://github.com/zheanxu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34201481?s=40&amp;v=4</avatar>
-          <name>RayWang96</name>
-          <url>https://github.com/RayWang96</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16716991?s=40&amp;v=4</avatar>
-          <name>ko3n1g</name>
-          <url>https://github.com/ko3n1g</url>
         </contributor>
       </contributors>
     </item>
@@ -309,6 +195,82 @@
       </contributors>
     </item>
     <item>
+      <title>karpathy/llm.c</title>
+      <link>https://github.com/karpathy/llm.c</link>
+      <description>LLM training in simple, raw C/CUDA</description>
+      <guid>https://github.com/karpathy/llm.c</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>31,047</stars>
+      <forks>3,765</forks>
+      <addStars>56</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
+          <name>karpathy</name>
+          <url>https://github.com/karpathy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
+          <name>ngc92</name>
+          <url>https://github.com/ngc92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
+          <name>gordicaleksa</name>
+          <url>https://github.com/gordicaleksa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
+          <name>ademeure</name>
+          <url>https://github.com/ademeure</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
+          <name>rosslwheeler</name>
+          <url>https://github.com/rosslwheeler</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mirage-project/mirage</title>
+      <link>https://github.com/mirage-project/mirage</link>
+      <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+      <guid>https://github.com/mirage-project/mirage</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>2,511</stars>
+      <forks>257</forks>
+      <addStars>19</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1669058?s=40&amp;v=4</avatar>
+          <name>jiazhihao</name>
+          <url>https://github.com/jiazhihao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82456363?s=40&amp;v=4</avatar>
+          <name>yzhou442</name>
+          <url>https://github.com/yzhou442</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99570243?s=40&amp;v=4</avatar>
+          <name>xinhaoc</name>
+          <url>https://github.com/xinhaoc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48128384?s=40&amp;v=4</avatar>
+          <name>wmdi</name>
+          <url>https://github.com/wmdi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/145248565?s=40&amp;v=4</avatar>
+          <name>undefined-c0der</name>
+          <url>https://github.com/undefined-c0der</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>BBuf/how-to-optim-algorithm-in-cuda</title>
       <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
       <description>how to optimize some algorithm in cuda.</description>
@@ -347,6 +309,82 @@
       </contributors>
     </item>
     <item>
+      <title>deepseek-ai/DeepGEMM</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM</link>
+      <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+      <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>7,863</stars>
+      <forks>1,275</forks>
+      <addStars>31</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4</avatar>
+          <name>LyricZhao</name>
+          <url>https://github.com/LyricZhao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44948473?s=40&amp;v=4</avatar>
+          <name>soundOfDestiny</name>
+          <url>https://github.com/soundOfDestiny</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/94977922?s=40&amp;v=4</avatar>
+          <name>zheanxu</name>
+          <url>https://github.com/zheanxu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34201481?s=40&amp;v=4</avatar>
+          <name>RayWang96</name>
+          <url>https://github.com/RayWang96</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16716991?s=40&amp;v=4</avatar>
+          <name>ko3n1g</name>
+          <url>https://github.com/ko3n1g</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>HazyResearch/ThunderKittens</title>
+      <link>https://github.com/HazyResearch/ThunderKittens</link>
+      <description>Tile primitives for speedy kernels</description>
+      <guid>https://github.com/HazyResearch/ThunderKittens</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>3,724</stars>
+      <forks>329</forks>
+      <addStars>20</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11230781?s=40&amp;v=4</avatar>
+          <name>benjaminfspector</name>
+          <url>https://github.com/benjaminfspector</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31910389?s=40&amp;v=4</avatar>
+          <name>StuartSul</name>
+          <url>https://github.com/StuartSul</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48185825?s=40&amp;v=4</avatar>
+          <name>Aaryan0404</name>
+          <url>https://github.com/Aaryan0404</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42813008?s=40&amp;v=4</avatar>
+          <name>jordan-benjamin</name>
+          <url>https://github.com/jordan-benjamin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29069240?s=40&amp;v=4</avatar>
+          <name>simran-arora</name>
+          <url>https://github.com/simran-arora</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>NVIDIA/cuopt</title>
       <link>https://github.com/NVIDIA/cuopt</link>
       <description>GPU accelerated decision optimization</description>
@@ -354,7 +392,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>1,044</stars>
-      <forks>237</forks>
+      <forks>236</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

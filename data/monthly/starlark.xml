@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Wed, 23 Sep 2026 07:17:31 GMT</pubDate>
+    <pubDate>Wed, 23 Sep 2026 12:44:56 GMT</pubDate>
     <item>
       <title>bazelbuild/bazel-central-registry</title>
       <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -82,7 +82,7 @@
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>23,093</stars>
+      <stars>23,094</stars>
       <forks>1,436</forks>
       <addStars>93</addStars>
       <contributors>
@@ -175,6 +175,39 @@
       </contributors>
     </item>
     <item>
+      <title>tronbyt/apps</title>
+      <link>https://github.com/tronbyt/apps</link>
+      <description>Hard Fork of Tidbyt Community Repo</description>
+      <guid>https://github.com/tronbyt/apps</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>60</stars>
+      <forks>145</forks>
+      <addStars>11</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8324295?s=40&amp;v=4</avatar>
+          <name>tavdog</name>
+          <url>https://github.com/tavdog</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/490610?s=40&amp;v=4</avatar>
+          <name>IngmarStein</name>
+          <url>https://github.com/IngmarStein</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27781329?s=40&amp;v=4</avatar>
+          <name>rjison</name>
+          <url>https://github.com/rjison</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/992033?s=40&amp;v=4</avatar>
+          <name>radiocolin</name>
+          <url>https://github.com/radiocolin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>bazel-contrib/rules_distroless</title>
       <link>https://github.com/bazel-contrib/rules_distroless</link>
       <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
@@ -213,35 +246,40 @@
       </contributors>
     </item>
     <item>
-      <title>bazel-contrib/toolchains_llvm</title>
-      <link>https://github.com/bazel-contrib/toolchains_llvm</link>
-      <description>LLVM toolchain for bazel</description>
-      <guid>https://github.com/bazel-contrib/toolchains_llvm</guid>
+      <title>cel-expr/cel-spec</title>
+      <link>https://github.com/cel-expr/cel-spec</link>
+      <description>Common Expression Language -- specification and binary representation</description>
+      <guid>https://github.com/cel-expr/cel-spec</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>372</stars>
-      <forks>283</forks>
-      <addStars>2</addStars>
+      <stars>3,984</stars>
+      <forks>305</forks>
+      <addStars>33</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6420169?s=40&amp;v=4</avatar>
-          <name>helly25</name>
-          <url>https://github.com/helly25</url>
+          <avatar>https://avatars.githubusercontent.com/u/483300?s=40&amp;v=4</avatar>
+          <name>TristonianJones</name>
+          <url>https://github.com/TristonianJones</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1929612?s=40&amp;v=4</avatar>
-          <name>siddharthab</name>
-          <url>https://github.com/siddharthab</url>
+          <avatar>https://avatars.githubusercontent.com/u/32469398?s=40&amp;v=4</avatar>
+          <name>JimLarson</name>
+          <url>https://github.com/JimLarson</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
+          <avatar>https://avatars.githubusercontent.com/u/997958?s=40&amp;v=4</avatar>
+          <name>jcking</name>
+          <url>https://github.com/jcking</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1565842?s=40&amp;v=4</avatar>
-          <name>dzbarsky</name>
-          <url>https://github.com/dzbarsky</url>
+          <avatar>https://avatars.githubusercontent.com/u/2355949?s=40&amp;v=4</avatar>
+          <name>l46kok</name>
+          <url>https://github.com/l46kok</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/179320?s=40&amp;v=4</avatar>
+          <name>eobrain</name>
+          <url>https://github.com/eobrain</url>
         </contributor>
       </contributors>
     </item>
@@ -279,78 +317,35 @@
       </contributors>
     </item>
     <item>
-      <title>cel-expr/cel-spec</title>
-      <link>https://github.com/cel-expr/cel-spec</link>
-      <description>Common Expression Language -- specification and binary representation</description>
-      <guid>https://github.com/cel-expr/cel-spec</guid>
+      <title>bazel-contrib/toolchains_llvm</title>
+      <link>https://github.com/bazel-contrib/toolchains_llvm</link>
+      <description>LLVM toolchain for bazel</description>
+      <guid>https://github.com/bazel-contrib/toolchains_llvm</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>3,983</stars>
-      <forks>305</forks>
-      <addStars>33</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/483300?s=40&amp;v=4</avatar>
-          <name>TristonianJones</name>
-          <url>https://github.com/TristonianJones</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32469398?s=40&amp;v=4</avatar>
-          <name>JimLarson</name>
-          <url>https://github.com/JimLarson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/997958?s=40&amp;v=4</avatar>
-          <name>jcking</name>
-          <url>https://github.com/jcking</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2355949?s=40&amp;v=4</avatar>
-          <name>l46kok</name>
-          <url>https://github.com/l46kok</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/179320?s=40&amp;v=4</avatar>
-          <name>eobrain</name>
-          <url>https://github.com/eobrain</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>grpc/grpc-proto</title>
-      <link>https://github.com/grpc/grpc-proto</link>
-      <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
-      <guid>https://github.com/grpc/grpc-proto</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>295</stars>
-      <forks>115</forks>
+      <stars>372</stars>
+      <forks>283</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2819812?s=40&amp;v=4</avatar>
-          <name>zpencer</name>
-          <url>https://github.com/zpencer</url>
+          <avatar>https://avatars.githubusercontent.com/u/6420169?s=40&amp;v=4</avatar>
+          <name>helly25</name>
+          <url>https://github.com/helly25</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2811396?s=40&amp;v=4</avatar>
-          <name>ejona86</name>
-          <url>https://github.com/ejona86</url>
+          <avatar>https://avatars.githubusercontent.com/u/1929612?s=40&amp;v=4</avatar>
+          <name>siddharthab</name>
+          <url>https://github.com/siddharthab</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8943572?s=40&amp;v=4</avatar>
-          <name>carl-mastrangelo</name>
-          <url>https://github.com/carl-mastrangelo</url>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18664614?s=40&amp;v=4</avatar>
-          <name>markdroth</name>
-          <url>https://github.com/markdroth</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1638487?s=40&amp;v=4</avatar>
-          <name>easwars</name>
-          <url>https://github.com/easwars</url>
+          <avatar>https://avatars.githubusercontent.com/u/1565842?s=40&amp;v=4</avatar>
+          <name>dzbarsky</name>
+          <url>https://github.com/dzbarsky</url>
         </contributor>
       </contributors>
     </item>
@@ -393,6 +388,44 @@
       </contributors>
     </item>
     <item>
+      <title>grpc/grpc-proto</title>
+      <link>https://github.com/grpc/grpc-proto</link>
+      <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
+      <guid>https://github.com/grpc/grpc-proto</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>295</stars>
+      <forks>115</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2819812?s=40&amp;v=4</avatar>
+          <name>zpencer</name>
+          <url>https://github.com/zpencer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2811396?s=40&amp;v=4</avatar>
+          <name>ejona86</name>
+          <url>https://github.com/ejona86</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8943572?s=40&amp;v=4</avatar>
+          <name>carl-mastrangelo</name>
+          <url>https://github.com/carl-mastrangelo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18664614?s=40&amp;v=4</avatar>
+          <name>markdroth</name>
+          <url>https://github.com/markdroth</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1638487?s=40&amp;v=4</avatar>
+          <name>easwars</name>
+          <url>https://github.com/easwars</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>tidbyt/community</title>
       <link>https://github.com/tidbyt/community</link>
       <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
@@ -431,6 +464,39 @@
       </contributors>
     </item>
     <item>
+      <title>aspect-build/rules_lint</title>
+      <link>https://github.com/aspect-build/rules_lint</link>
+      <description>Run static analysis tools with Bazel</description>
+      <guid>https://github.com/aspect-build/rules_lint</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>155</stars>
+      <forks>126</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
+          <name>alexeagle</name>
+          <url>https://github.com/alexeagle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/208529797?s=40&amp;v=4</avatar>
+          <name>aspect-marvin</name>
+          <url>https://github.com/aspect-marvin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/520826?s=40&amp;v=4</avatar>
+          <name>gregmagolan</name>
+          <url>https://github.com/gregmagolan</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>googleapis/api-common-protos</title>
       <link>https://github.com/googleapis/api-common-protos</link>
       <description>A standard library for use in specifying protocol buffer APIs.</description>
@@ -460,6 +526,44 @@
           <avatar>https://avatars.githubusercontent.com/u/2960535?s=40&amp;v=4</avatar>
           <name>software-dov</name>
           <url>https://github.com/software-dov</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>aspect-build/aspect-cli</title>
+      <link>https://github.com/aspect-build/aspect-cli</link>
+      <description>{ Correct, Fast, Usable } -- Choose three</description>
+      <guid>https://github.com/aspect-build/aspect-cli</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>166</stars>
+      <forks>45</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/520826?s=40&amp;v=4</avatar>
+          <name>gregmagolan</name>
+          <url>https://github.com/gregmagolan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89246?s=40&amp;v=4</avatar>
+          <name>jbedard</name>
+          <url>https://github.com/jbedard</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20563340?s=40&amp;v=4</avatar>
+          <name>thesayyn</name>
+          <url>https://github.com/thesayyn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
+          <name>f0rmiga</name>
+          <url>https://github.com/f0rmiga</url>
         </contributor>
       </contributors>
     </item>

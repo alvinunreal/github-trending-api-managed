@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 07:17:31 GMT",
+  "pubDate": "Wed, 23 Sep 2026 12:44:56 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,908",
-      "forks": "2,864",
+      "stars": "40,048",
+      "forks": "2,878",
       "addStars": "12,590",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,129",
-      "forks": "3,925",
+      "stars": "29,233",
+      "forks": "3,936",
       "addStars": "5,303",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,470",
-      "forks": "4,091",
+      "stars": "25,476",
+      "forks": "4,094",
       "addStars": "431",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,623",
+      "stars": "16,638",
       "forks": "1,580",
       "addStars": "2,260",
       "contributors": [
@@ -143,45 +143,13 @@
       ]
     },
     {
-      "title": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "5,555",
-      "forks": "238",
-      "addStars": "1,786",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20240?s=40&v=4",
-          "name": "asciimoo",
-          "url": "https://github.com/asciimoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57304299?s=40&v=4",
-          "name": "4evy",
-          "url": "https://github.com/4evy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15271137?s=40&v=4",
-          "name": "ISSOtm",
-          "url": "https://github.com/ISSOtm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/169397554?s=40&v=4",
-          "name": "Shadowbee27",
-          "url": "https://github.com/Shadowbee27"
-        }
-      ]
-    },
-    {
       "title": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,132",
-      "forks": "392",
+      "stars": "3,270",
+      "forks": "397",
       "addStars": "965",
       "contributors": [
         {
@@ -212,36 +180,46 @@
       ]
     },
     {
-      "title": "openai/tunnel-client",
-      "url": "https://github.com/openai/tunnel-client",
-      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "title": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "480",
-      "forks": "93",
-      "addStars": "82",
+      "stars": "5,576",
+      "forks": "239",
+      "addStars": "1,786",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/201815723?s=40&v=4",
-          "name": "hintz-openai",
-          "url": "https://github.com/hintz-openai"
+          "avatar": "https://avatars.githubusercontent.com/u/20240?s=40&v=4",
+          "name": "asciimoo",
+          "url": "https://github.com/asciimoo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/226171314?s=40&v=4",
-          "name": "denyska-oai",
-          "url": "https://github.com/denyska-oai"
+          "avatar": "https://avatars.githubusercontent.com/u/57304299?s=40&v=4",
+          "name": "4evy",
+          "url": "https://github.com/4evy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15271137?s=40&v=4",
+          "name": "ISSOtm",
+          "url": "https://github.com/ISSOtm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/169397554?s=40&v=4",
+          "name": "Shadowbee27",
+          "url": "https://github.com/Shadowbee27"
         }
       ]
     },
     {
-      "title": "Gentleman-Programming/engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "title": "Gentleman-Programming/gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,768",
-      "forks": "695",
-      "addStars": "145",
+      "stars": "7,173",
+      "forks": "782",
+      "addStars": "363",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6935240?s=40&v=4",
@@ -254,19 +232,56 @@
           "url": "https://github.com/dnlrsls"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5764171?s=40&v=4",
-          "name": "danielgap",
-          "url": "https://github.com/danielgap"
+          "avatar": "https://avatars.githubusercontent.com/u/9351115?s=40&v=4",
+          "name": "decode2",
+          "url": "https://github.com/decode2"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18334564?s=40&v=4",
-          "name": "egdev6",
-          "url": "https://github.com/egdev6"
+          "avatar": "https://avatars.githubusercontent.com/u/88510389?s=40&v=4",
+          "name": "ElCaaarnal",
+          "url": "https://github.com/ElCaaarnal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/231132982?s=40&v=4",
-          "name": "Reaan06",
-          "url": "https://github.com/Reaan06"
+          "avatar": "https://avatars.githubusercontent.com/u/19401953?s=40&v=4",
+          "name": "ardelperal",
+          "url": "https://github.com/ardelperal"
+        }
+      ]
+    },
+    {
+      "title": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "138,962",
+      "forks": "20,080",
+      "addStars": "220",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104030?s=40&v=4",
+          "name": "rsc",
+          "url": "https://github.com/rsc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8528975?s=40&v=4",
+          "name": "griesemer",
+          "url": "https://github.com/griesemer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?s=40&v=4",
+          "name": "robpike",
+          "url": "https://github.com/robpike"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?s=40&v=4",
+          "name": "ianlancetaylor",
+          "url": "https://github.com/ianlancetaylor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
+          "name": "bradfitz",
+          "url": "https://github.com/bradfitz"
         }
       ]
     },
@@ -276,7 +291,7 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "76,009",
+      "stars": "76,016",
       "forks": "4,992",
       "addStars": "332",
       "contributors": [
@@ -308,177 +323,24 @@
       ]
     },
     {
-      "title": "junegunn/fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
+      "title": "openai/tunnel-client",
+      "url": "https://github.com/openai/tunnel-client",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "83,209",
-      "forks": "3,313",
-      "addStars": "252",
+      "stars": "481",
+      "forks": "93",
+      "addStars": "82",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
-          "name": "junegunn",
-          "url": "https://github.com/junegunn"
+          "avatar": "https://avatars.githubusercontent.com/u/201815723?s=40&v=4",
+          "name": "hintz-openai",
+          "url": "https://github.com/hintz-openai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4866740?s=40&v=4",
-          "name": "bitraid",
-          "url": "https://github.com/bitraid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92653266?s=40&v=4",
-          "name": "LangLangBart",
-          "url": "https://github.com/LangLangBart"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
-          "name": "janlazo",
-          "url": "https://github.com/janlazo"
-        }
-      ]
-    },
-    {
-      "title": "Gentleman-Programming/gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "7,168",
-      "forks": "779",
-      "addStars": "363",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6935240?s=40&v=4",
-          "name": "Alan-TheGentleman",
-          "url": "https://github.com/Alan-TheGentleman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/111561081?s=40&v=4",
-          "name": "dnlrsls",
-          "url": "https://github.com/dnlrsls"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9351115?s=40&v=4",
-          "name": "decode2",
-          "url": "https://github.com/decode2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88510389?s=40&v=4",
-          "name": "ElCaaarnal",
-          "url": "https://github.com/ElCaaarnal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19401953?s=40&v=4",
-          "name": "ardelperal",
-          "url": "https://github.com/ardelperal"
-        }
-      ]
-    },
-    {
-      "title": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "27,378",
-      "forks": "1,855",
-      "addStars": "276",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&v=4",
-          "name": "steveyegge",
-          "url": "https://github.com/steveyegge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/486200?s=40&v=4",
-          "name": "maphew",
-          "url": "https://github.com/maphew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43383835?s=40&v=4",
-          "name": "coffeegoddd",
-          "url": "https://github.com/coffeegoddd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8082291?s=40&v=4",
-          "name": "julianknutsen",
-          "url": "https://github.com/julianknutsen"
-        }
-      ]
-    },
-    {
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "107,431",
-      "forks": "6,222",
-      "addStars": "1,837",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
-          "name": "JuliusBrussee",
-          "url": "https://github.com/JuliusBrussee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2753418?s=40&v=4",
-          "name": "hunleyd",
-          "url": "https://github.com/hunleyd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26088029?s=40&v=4",
-          "name": "AmirF194",
-          "url": "https://github.com/AmirF194"
-        }
-      ]
-    },
-    {
-      "title": "kubernetes-sigs/agent-sandbox",
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "3,998",
-      "forks": "525",
-      "addStars": "192",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4876867?s=40&v=4",
-          "name": "janetkuo",
-          "url": "https://github.com/janetkuo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100893?s=40&v=4",
-          "name": "justinsb",
-          "url": "https://github.com/justinsb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11148185?s=40&v=4",
-          "name": "aditya-shantanu",
-          "url": "https://github.com/aditya-shantanu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
-          "name": "k8s-ci-robot",
-          "url": "https://github.com/k8s-ci-robot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/237342122?s=40&v=4",
-          "name": "shrutiyam-glitch",
-          "url": "https://github.com/shrutiyam-glitch"
+          "avatar": "https://avatars.githubusercontent.com/u/226171314?s=40&v=4",
+          "name": "denyska-oai",
+          "url": "https://github.com/denyska-oai"
         }
       ]
     },
@@ -488,8 +350,8 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "51,168",
-      "forks": "6,628",
+      "stars": "51,204",
+      "forks": "6,633",
       "addStars": "1,284",
       "contributors": [
         {
@@ -525,8 +387,8 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "127,920",
-      "forks": "44,803",
+      "stars": "127,925",
+      "forks": "44,810",
       "addStars": "274",
       "contributors": [
         {
@@ -557,39 +419,167 @@
       ]
     },
     {
-      "title": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "title": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,667",
-      "forks": "1,146",
-      "addStars": "275",
+      "stars": "27,382",
+      "forks": "1,855",
+      "addStars": "276",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
-          "name": "fslongjin",
-          "url": "https://github.com/fslongjin"
+          "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&v=4",
+          "name": "steveyegge",
+          "url": "https://github.com/steveyegge"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
-          "name": "chenhengqi",
-          "url": "https://github.com/chenhengqi"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48054568?s=40&v=4",
-          "name": "ls-ggg",
-          "url": "https://github.com/ls-ggg"
+          "avatar": "https://avatars.githubusercontent.com/u/486200?s=40&v=4",
+          "name": "maphew",
+          "url": "https://github.com/maphew"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/62997582?s=40&v=4",
-          "name": "zyl1121",
-          "url": "https://github.com/zyl1121"
+          "avatar": "https://avatars.githubusercontent.com/u/43383835?s=40&v=4",
+          "name": "coffeegoddd",
+          "url": "https://github.com/coffeegoddd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/8082291?s=40&v=4",
+          "name": "julianknutsen",
+          "url": "https://github.com/julianknutsen"
+        }
+      ]
+    },
+    {
+      "title": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "83,212",
+      "forks": "3,318",
+      "addStars": "252",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
+          "name": "junegunn",
+          "url": "https://github.com/junegunn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4866740?s=40&v=4",
+          "name": "bitraid",
+          "url": "https://github.com/bitraid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92653266?s=40&v=4",
+          "name": "LangLangBart",
+          "url": "https://github.com/LangLangBart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
+          "name": "janlazo",
+          "url": "https://github.com/janlazo"
+        }
+      ]
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "107,480",
+      "forks": "6,228",
+      "addStars": "1,837",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+          "name": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2753418?s=40&v=4",
+          "name": "hunleyd",
+          "url": "https://github.com/hunleyd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26088029?s=40&v=4",
+          "name": "AmirF194",
+          "url": "https://github.com/AmirF194"
+        }
+      ]
+    },
+    {
+      "title": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "38,207",
+      "forks": "5,833",
+      "addStars": "70",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132757?s=40&v=4",
+          "name": "ndeloof",
+          "url": "https://github.com/ndeloof"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/705411?s=40&v=4",
+          "name": "glours",
+          "url": "https://github.com/glours"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/437958?s=40&v=4",
+          "name": "gtardif",
+          "url": "https://github.com/gtardif"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99933?s=40&v=4",
+          "name": "rumpl",
+          "url": "https://github.com/rumpl"
+        }
+      ]
+    },
+    {
+      "title": "qax-os/excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "20,933",
+      "forks": "1,960",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2809468?s=40&v=4",
+          "name": "xuri",
+          "url": "https://github.com/xuri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4331955?s=40&v=4",
+          "name": "mlh758",
+          "url": "https://github.com/mlh758"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3242828?s=40&v=4",
+          "name": "arpitjain099",
+          "url": "https://github.com/arpitjain099"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129536?s=40&v=4",
+          "name": "dolmen",
+          "url": "https://github.com/dolmen"
         }
       ]
     },
@@ -599,7 +589,7 @@
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,714",
+      "stars": "4,719",
       "forks": "457",
       "addStars": "388",
       "contributors": [
