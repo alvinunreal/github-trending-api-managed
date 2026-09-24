@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Sep 2026 13:17:52 GMT",
+  "pubDate": "Thu, 24 Sep 2026 17:51:34 GMT",
   "items": [
     {
       "title": "google/ax",
@@ -10,8 +10,8 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,769",
-      "forks": "480",
+      "stars": "10,042",
+      "forks": "491",
       "addStars": "1,376",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,692",
-      "forks": "427",
+      "stars": "3,710",
+      "forks": "429",
       "addStars": "439",
       "contributors": [
         {
@@ -79,14 +79,51 @@
       ]
     },
     {
+      "title": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness self-improving memory layer for AI agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "1,478",
+      "forks": "119",
+      "addStars": "218",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13512741?s=40&v=4",
+          "name": "jqdsouza",
+          "url": "https://github.com/jqdsouza"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21977216?s=40&v=4",
+          "name": "shukieshah",
+          "url": "https://github.com/shukieshah"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7275943?s=40&v=4",
+          "name": "AnandSundar",
+          "url": "https://github.com/AnandSundar"
+        }
+      ]
+    },
+    {
       "title": "maximhq/bifrost",
       "url": "https://github.com/maximhq/bifrost",
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,317",
-      "forks": "1,278",
-      "addStars": "48",
+      "stars": "8,321",
+      "forks": "1,281",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1050029?s=40&v=4",
@@ -116,9 +153,9 @@
       "description": "cliamp - Terminal music player inspired by winamp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,324",
+      "stars": "4,328",
       "forks": "291",
-      "addStars": "23",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1419214?s=40&v=4",
@@ -153,9 +190,9 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,067",
-      "forks": "138",
-      "addStars": "185",
+      "stars": "5,092",
+      "forks": "139",
+      "addStars": "154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56594084?s=40&v=4",
@@ -185,9 +222,9 @@
       "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,934",
-      "forks": "997",
-      "addStars": "617",
+      "stars": "6,936",
+      "forks": "996",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57660189?s=40&v=4",
@@ -222,7 +259,7 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,689",
+      "stars": "7,694",
       "forks": "1,346",
       "addStars": "87",
       "contributors": [
@@ -249,7 +286,7 @@
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,057",
+      "stars": "6,067",
       "forks": "965",
       "addStars": "38",
       "contributors": [
@@ -286,8 +323,8 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,577",
-      "forks": "318",
+      "stars": "7,583",
+      "forks": "317",
       "addStars": "30",
       "contributors": [
         {
@@ -318,7 +355,7 @@
       "description": "Modern, easy to use download automation for torrents and usenet.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,083",
+      "stars": "3,084",
       "forks": "219",
       "addStars": "33",
       "contributors": [
@@ -350,8 +387,8 @@
       "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,849",
-      "forks": "504",
+      "stars": "5,851",
+      "forks": "507",
       "addStars": "19",
       "contributors": [
         {
@@ -382,9 +419,9 @@
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "53,103",
-      "forks": "8,015",
-      "addStars": "179",
+      "stars": "53,123",
+      "forks": "8,016",
+      "addStars": "124",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4966831?s=40&v=4",
@@ -419,9 +456,9 @@
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,486",
-      "forks": "3,890",
-      "addStars": "33",
+      "stars": "31,490",
+      "forks": "3,891",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
@@ -488,9 +525,9 @@
       "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,491",
+      "stars": "3,492",
       "forks": "454",
-      "addStars": "2",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5464991?s=40&v=4",
@@ -515,7 +552,7 @@
       "description": "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,462",
+      "stars": "3,463",
       "forks": "222",
       "addStars": "9",
       "contributors": [
@@ -547,7 +584,7 @@
       "description": "A platform for building proxies to bypass network restrictions.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "34,620",
+      "stars": "34,622",
       "forks": "5,069",
       "addStars": "9",
       "contributors": [
@@ -579,8 +616,8 @@
       "description": "The task manager you actually own.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,498",
-      "forks": "710",
+      "stars": "5,500",
+      "forks": "711",
       "addStars": "10",
       "contributors": [
         {
@@ -611,8 +648,8 @@
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,310",
-      "forks": "10,514",
+      "stars": "52,309",
+      "forks": "10,516",
       "addStars": "9",
       "contributors": [
         {
