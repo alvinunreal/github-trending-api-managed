@@ -2,15 +2,42 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Sep 2026 07:17:25 GMT",
+  "pubDate": "Thu, 24 Sep 2026 12:43:14 GMT",
   "items": [
+    {
+      "title": "jaywcjlove/reference",
+      "url": "https://github.com/jaywcjlove/reference",
+      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "15,256",
+      "forks": "2,226",
+      "addStars": "85",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
+          "name": "jaywcjlove",
+          "url": "https://github.com/jaywcjlove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82551626?s=40&v=4",
+          "name": "fwqaaq",
+          "url": "https://github.com/fwqaaq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40376181?s=40&v=4",
+          "name": "zhangymPerson",
+          "url": "https://github.com/zhangymPerson"
+        }
+      ]
+    },
     {
       "title": "goldbergyoni/nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,633",
+      "stars": "105,635",
       "forks": "10,723",
       "addStars": "156",
       "contributors": [
@@ -37,29 +64,24 @@
       ]
     },
     {
-      "title": "jaywcjlove/reference",
-      "url": "https://github.com/jaywcjlove/reference",
-      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
+      "title": "oxsecurity/megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "15,255",
-      "forks": "2,225",
-      "addStars": "85",
+      "stars": "2,603",
+      "forks": "310",
+      "addStars": "37",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
-          "name": "jaywcjlove",
-          "url": "https://github.com/jaywcjlove"
+          "avatar": "https://avatars.githubusercontent.com/u/17500430?s=40&v=4",
+          "name": "nvuillam",
+          "url": "https://github.com/nvuillam"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/82551626?s=40&v=4",
-          "name": "fwqaaq",
-          "url": "https://github.com/fwqaaq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40376181?s=40&v=4",
-          "name": "zhangymPerson",
-          "url": "https://github.com/zhangymPerson"
+          "avatar": "https://avatars.githubusercontent.com/u/129584137?s=40&v=4",
+          "name": "megalinter-bot",
+          "url": "https://github.com/megalinter-bot"
         }
       ]
     },
@@ -69,7 +91,7 @@
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "21,268",
+      "stars": "21,271",
       "forks": "4,810",
       "addStars": "141",
       "contributors": [
@@ -101,34 +123,12 @@
       ]
     },
     {
-      "title": "oxsecurity/megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "2,601",
-      "forks": "310",
-      "addStars": "37",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17500430?s=40&v=4",
-          "name": "nvuillam",
-          "url": "https://github.com/nvuillam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/129584137?s=40&v=4",
-          "name": "megalinter-bot",
-          "url": "https://github.com/megalinter-bot"
-        }
-      ]
-    },
-    {
       "title": "autowarefoundation/autoware",
       "url": "https://github.com/autowarefoundation/autoware",
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,086",
+      "stars": "12,087",
       "forks": "3,718",
       "addStars": "92",
       "contributors": [
@@ -146,43 +146,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/31987104?s=40&v=4",
           "name": "kenji-miyake",
           "url": "https://github.com/kenji-miyake"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/vscode-remote-release",
-      "url": "https://github.com/microsoft/vscode-remote-release",
-      "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "4,179",
-      "forks": "470",
-      "addStars": "35",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26030610?s=40&v=4",
-          "name": "eleanorjboyd",
-          "url": "https://github.com/eleanorjboyd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/312252?s=40&v=4",
-          "name": "Chuxel",
-          "url": "https://github.com/Chuxel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25044782?s=40&v=4",
-          "name": "bhavyaus",
-          "url": "https://github.com/bhavyaus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25310137?s=40&v=4",
-          "name": "bamurtaugh",
-          "url": "https://github.com/bamurtaugh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8586769?s=40&v=4",
-          "name": "JacksonKearl",
-          "url": "https://github.com/JacksonKearl"
         }
       ]
     },
@@ -224,34 +187,39 @@
       ]
     },
     {
-      "title": "laradock/laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "title": "microsoft/vscode-remote-release",
+      "url": "https://github.com/microsoft/vscode-remote-release",
+      "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,675",
-      "forks": "4,341",
-      "addStars": "16",
+      "stars": "4,179",
+      "forks": "470",
+      "addStars": "35",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1983984?s=40&v=4",
-          "name": "Mahmoudz",
-          "url": "https://github.com/Mahmoudz"
+          "avatar": "https://avatars.githubusercontent.com/u/26030610?s=40&v=4",
+          "name": "eleanorjboyd",
+          "url": "https://github.com/eleanorjboyd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4023909?s=40&v=4",
-          "name": "bestlong",
-          "url": "https://github.com/bestlong"
+          "avatar": "https://avatars.githubusercontent.com/u/312252?s=40&v=4",
+          "name": "Chuxel",
+          "url": "https://github.com/Chuxel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
+          "avatar": "https://avatars.githubusercontent.com/u/25044782?s=40&v=4",
+          "name": "bhavyaus",
+          "url": "https://github.com/bhavyaus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/756956?s=40&v=4",
-          "name": "winfried-van-loon",
-          "url": "https://github.com/winfried-van-loon"
+          "avatar": "https://avatars.githubusercontent.com/u/25310137?s=40&v=4",
+          "name": "bamurtaugh",
+          "url": "https://github.com/bamurtaugh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8586769?s=40&v=4",
+          "name": "JacksonKearl",
+          "url": "https://github.com/JacksonKearl"
         }
       ]
     },
@@ -293,13 +261,72 @@
       ]
     },
     {
+      "title": "nodejs/docker-node",
+      "url": "https://github.com/nodejs/docker-node",
+      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "8,594",
+      "forks": "1,978",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
+          "name": "PeterDaveHello",
+          "url": "https://github.com/PeterDaveHello"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1297909?s=40&v=4",
+          "name": "nschonni",
+          "url": "https://github.com/nschonni"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2781?s=40&v=4",
+          "name": "chorrell",
+          "url": "https://github.com/chorrell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1404810?s=40&v=4",
+          "name": "SimenB",
+          "url": "https://github.com/SimenB"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18269663?s=40&v=4",
+          "name": "nodejs-github-bot",
+          "url": "https://github.com/nodejs-github-bot"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp/rdb-alpha",
+      "url": "https://github.com/freeCodeCamp/rdb-alpha",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "173",
+      "forks": "1,151",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2051070?s=40&v=4",
+          "name": "scissorsneedfoodtoo",
+          "url": "https://github.com/scissorsneedfoodtoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20648924?s=40&v=4",
+          "name": "moT01",
+          "url": "https://github.com/moT01"
+        }
+      ]
+    },
+    {
       "title": "zoltanctoth/dbt-student-repo",
       "url": "https://github.com/zoltanctoth/dbt-student-repo",
       "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "24",
-      "forks": "3,411",
+      "forks": "3,413",
       "addStars": "2",
       "contributors": [
         {
@@ -338,43 +365,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/250951891?s=40&v=4",
           "name": "famoustech2026",
           "url": "https://github.com/famoustech2026"
-        }
-      ]
-    },
-    {
-      "title": "nodejs/docker-node",
-      "url": "https://github.com/nodejs/docker-node",
-      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "8,594",
-      "forks": "1,978",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
-          "name": "PeterDaveHello",
-          "url": "https://github.com/PeterDaveHello"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1297909?s=40&v=4",
-          "name": "nschonni",
-          "url": "https://github.com/nschonni"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2781?s=40&v=4",
-          "name": "chorrell",
-          "url": "https://github.com/chorrell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1404810?s=40&v=4",
-          "name": "SimenB",
-          "url": "https://github.com/SimenB"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18269663?s=40&v=4",
-          "name": "nodejs-github-bot",
-          "url": "https://github.com/nodejs-github-bot"
         }
       ]
     },

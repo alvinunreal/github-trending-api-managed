@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Thu, 24 Sep 2026 07:17:25 GMT</pubDate>
+    <pubDate>Thu, 24 Sep 2026 12:43:14 GMT</pubDate>
     <item>
       <title>bazelbuild/rules_apple</title>
       <link>https://github.com/bazelbuild/rules_apple</link>
@@ -147,6 +147,44 @@
       </contributors>
     </item>
     <item>
+      <title>bazel-contrib/rules_perl</title>
+      <link>https://github.com/bazel-contrib/rules_perl</link>
+      <description>Perl rules for Bazel</description>
+      <guid>https://github.com/bazel-contrib/rules_perl</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>31</stars>
+      <forks>49</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/190297?s=40&amp;v=4</avatar>
+          <name>PiotrSikora</name>
+          <url>https://github.com/PiotrSikora</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
+          <name>UebelAndre</name>
+          <url>https://github.com/UebelAndre</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1487600?s=40&amp;v=4</avatar>
+          <name>skeletonkey</name>
+          <url>https://github.com/skeletonkey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48310225?s=40&amp;v=4</avatar>
+          <name>jheaff1</name>
+          <url>https://github.com/jheaff1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>uber/hermetic_cc_toolchain</title>
       <link>https://github.com/uber/hermetic_cc_toolchain</link>
       <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
@@ -185,39 +223,6 @@
       </contributors>
     </item>
     <item>
-      <title>GoogleContainerTools/distroless</title>
-      <link>https://github.com/GoogleContainerTools/distroless</link>
-      <description>🥑 Language focused docker images, minus the operating system.</description>
-      <guid>https://github.com/GoogleContainerTools/distroless</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>23,094</stars>
-      <forks>1,436</forks>
-      <addStars>22</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1304826?s=40&amp;v=4</avatar>
-          <name>loosebazooka</name>
-          <url>https://github.com/loosebazooka</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1681525?s=40&amp;v=4</avatar>
-          <name>omBratteng</name>
-          <url>https://github.com/omBratteng</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10523105?s=40&amp;v=4</avatar>
-          <name>chanseokoh</name>
-          <url>https://github.com/chanseokoh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99663502?s=40&amp;v=4</avatar>
-          <name>distroless-bot</name>
-          <url>https://github.com/distroless-bot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>tilt-dev/tilt-extensions</title>
       <link>https://github.com/tilt-dev/tilt-extensions</link>
       <description>Extensions for Tilt</description>
@@ -247,44 +252,6 @@
           <avatar>https://avatars.githubusercontent.com/u/7453991?s=40&amp;v=4</avatar>
           <name>landism</name>
           <url>https://github.com/landism</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bazel-contrib/rules_perl</title>
-      <link>https://github.com/bazel-contrib/rules_perl</link>
-      <description>Perl rules for Bazel</description>
-      <guid>https://github.com/bazel-contrib/rules_perl</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>31</stars>
-      <forks>49</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/190297?s=40&amp;v=4</avatar>
-          <name>PiotrSikora</name>
-          <url>https://github.com/PiotrSikora</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
-          <name>UebelAndre</name>
-          <url>https://github.com/UebelAndre</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1487600?s=40&amp;v=4</avatar>
-          <name>skeletonkey</name>
-          <url>https://github.com/skeletonkey</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48310225?s=40&amp;v=4</avatar>
-          <name>jheaff1</name>
-          <url>https://github.com/jheaff1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
         </contributor>
       </contributors>
     </item>
@@ -327,68 +294,35 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/bazel-central-registry</title>
-      <link>https://github.com/bazelbuild/bazel-central-registry</link>
-      <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
-      <guid>https://github.com/bazelbuild/bazel-central-registry</guid>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>🥑 Language focused docker images, minus the operating system.</description>
+      <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>387</stars>
-      <forks>905</forks>
-      <addStars>1</addStars>
+      <stars>23,095</stars>
+      <forks>1,436</forks>
+      <addStars>22</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3775001?s=40&amp;v=4</avatar>
-          <name>Vertexwahn</name>
-          <url>https://github.com/Vertexwahn</url>
+          <avatar>https://avatars.githubusercontent.com/u/1304826?s=40&amp;v=4</avatar>
+          <name>loosebazooka</name>
+          <url>https://github.com/loosebazooka</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/208529797?s=40&amp;v=4</avatar>
-          <name>aspect-marvin</name>
-          <url>https://github.com/aspect-marvin</url>
+          <avatar>https://avatars.githubusercontent.com/u/1681525?s=40&amp;v=4</avatar>
+          <name>omBratteng</name>
+          <url>https://github.com/omBratteng</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4171702?s=40&amp;v=4</avatar>
-          <name>meteorcloudy</name>
-          <url>https://github.com/meteorcloudy</url>
+          <avatar>https://avatars.githubusercontent.com/u/10523105?s=40&amp;v=4</avatar>
+          <name>chanseokoh</name>
+          <url>https://github.com/chanseokoh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89246?s=40&amp;v=4</avatar>
-          <name>jbedard</name>
-          <url>https://github.com/jbedard</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>immich-app/immich-charts</title>
-      <link>https://github.com/immich-app/immich-charts</link>
-      <description>Helm chart implementation of Immich</description>
-      <guid>https://github.com/immich-app/immich-charts</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>351</stars>
-      <forks>114</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11602424?s=40&amp;v=4</avatar>
-          <name>bo0tzz</name>
-          <url>https://github.com/bo0tzz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5434875?s=40&amp;v=4</avatar>
-          <name>PixelJonas</name>
-          <url>https://github.com/PixelJonas</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8062692?s=40&amp;v=4</avatar>
-          <name>orbatschow</name>
-          <url>https://github.com/orbatschow</url>
+          <avatar>https://avatars.githubusercontent.com/u/99663502?s=40&amp;v=4</avatar>
+          <name>distroless-bot</name>
+          <url>https://github.com/distroless-bot</url>
         </contributor>
       </contributors>
     </item>
@@ -426,40 +360,40 @@
       </contributors>
     </item>
     <item>
-      <title>tidbyt/community</title>
-      <link>https://github.com/tidbyt/community</link>
-      <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
-      <guid>https://github.com/tidbyt/community</guid>
+      <title>bazelbuild/bazel-central-registry</title>
+      <link>https://github.com/bazelbuild/bazel-central-registry</link>
+      <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+      <guid>https://github.com/bazelbuild/bazel-central-registry</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>427</stars>
-      <forks>822</forks>
-      <addStars>0</addStars>
+      <stars>387</stars>
+      <forks>908</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3886576?s=40&amp;v=4</avatar>
-          <name>betterengineering</name>
-          <url>https://github.com/betterengineering</url>
+          <avatar>https://avatars.githubusercontent.com/u/3775001?s=40&amp;v=4</avatar>
+          <name>Vertexwahn</name>
+          <url>https://github.com/Vertexwahn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/120065017?s=40&amp;v=4</avatar>
-          <name>M0ntyP</name>
-          <url>https://github.com/M0ntyP</url>
+          <avatar>https://avatars.githubusercontent.com/u/208529797?s=40&amp;v=4</avatar>
+          <name>aspect-marvin</name>
+          <url>https://github.com/aspect-marvin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/208392?s=40&amp;v=4</avatar>
-          <name>matslina</name>
-          <url>https://github.com/matslina</url>
+          <avatar>https://avatars.githubusercontent.com/u/4171702?s=40&amp;v=4</avatar>
+          <name>meteorcloudy</name>
+          <url>https://github.com/meteorcloudy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27781329?s=40&amp;v=4</avatar>
-          <name>rjison</name>
-          <url>https://github.com/rjison</url>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/615175?s=40&amp;v=4</avatar>
-          <name>rohansingh</name>
-          <url>https://github.com/rohansingh</url>
+          <avatar>https://avatars.githubusercontent.com/u/89246?s=40&amp;v=4</avatar>
+          <name>jbedard</name>
+          <url>https://github.com/jbedard</url>
         </contributor>
       </contributors>
     </item>
