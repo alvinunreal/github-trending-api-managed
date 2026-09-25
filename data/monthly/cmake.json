@@ -2,15 +2,52 @@
   "title": "GitHub Cmake Languages Monthly Trending",
   "description": "Monthly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Sep 2026 07:17:45 GMT",
+  "pubDate": "Fri, 25 Sep 2026 12:45:23 GMT",
   "items": [
+    {
+      "title": "microsoft/vcpkg",
+      "url": "https://github.com/microsoft/vcpkg",
+      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "27,486",
+      "forks": "7,738",
+      "addStars": "127",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128712?s=40&v=4",
+          "name": "alexkaratarakis",
+          "url": "https://github.com/alexkaratarakis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12301622?s=40&v=4",
+          "name": "ras0219-msft",
+          "url": "https://github.com/ras0219-msft"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465629?s=40&v=4",
+          "name": "toge",
+          "url": "https://github.com/toge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1544943?s=40&v=4",
+          "name": "BillyONeal",
+          "url": "https://github.com/BillyONeal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13567791?s=40&v=4",
+          "name": "dg0yt",
+          "url": "https://github.com/dg0yt"
+        }
+      ]
+    },
     {
       "title": "shinchiro/mpv-winbuild-cmake",
       "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,767",
+      "stars": "1,768",
       "forks": "259",
       "addStars": "63",
       "contributors": [
@@ -38,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/41094733?s=40&v=4",
           "name": "hooke007",
           "url": "https://github.com/hooke007"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/vcpkg",
-      "url": "https://github.com/microsoft/vcpkg",
-      "description": "C++ Library Manager for Windows, Linux, and MacOS",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "27,485",
-      "forks": "7,737",
-      "addStars": "127",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128712?s=40&v=4",
-          "name": "alexkaratarakis",
-          "url": "https://github.com/alexkaratarakis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12301622?s=40&v=4",
-          "name": "ras0219-msft",
-          "url": "https://github.com/ras0219-msft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/465629?s=40&v=4",
-          "name": "toge",
-          "url": "https://github.com/toge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1544943?s=40&v=4",
-          "name": "BillyONeal",
-          "url": "https://github.com/BillyONeal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13567791?s=40&v=4",
-          "name": "dg0yt",
-          "url": "https://github.com/dg0yt"
         }
       ]
     },
@@ -116,12 +116,49 @@
       ]
     },
     {
+      "title": "KiCad/kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "691",
+      "forks": "703",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18327350?s=40&v=4",
+          "name": "poeschlr",
+          "url": "https://github.com/poeschlr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1936989?s=40&v=4",
+          "name": "evanshultz",
+          "url": "https://github.com/evanshultz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10080325?s=40&v=4",
+          "name": "SchrodingersGat",
+          "url": "https://github.com/SchrodingersGat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11967523?s=40&v=4",
+          "name": "jkriege2",
+          "url": "https://github.com/jkriege2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25547797?s=40&v=4",
+          "name": "Misca1234",
+          "url": "https://github.com/Misca1234"
+        }
+      ]
+    },
+    {
       "title": "corrosion-rs/corrosion",
       "url": "https://github.com/corrosion-rs/corrosion",
       "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,501",
+      "stars": "1,502",
       "forks": "150",
       "addStars": "19",
       "contributors": [
@@ -185,43 +222,6 @@
       ]
     },
     {
-      "title": "KiCad/kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "691",
-      "forks": "703",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18327350?s=40&v=4",
-          "name": "poeschlr",
-          "url": "https://github.com/poeschlr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1936989?s=40&v=4",
-          "name": "evanshultz",
-          "url": "https://github.com/evanshultz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10080325?s=40&v=4",
-          "name": "SchrodingersGat",
-          "url": "https://github.com/SchrodingersGat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11967523?s=40&v=4",
-          "name": "jkriege2",
-          "url": "https://github.com/jkriege2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25547797?s=40&v=4",
-          "name": "Misca1234",
-          "url": "https://github.com/Misca1234"
-        }
-      ]
-    },
-    {
       "title": "steinbergmedia/vst3sdk",
       "url": "https://github.com/steinbergmedia/vst3sdk",
       "description": "VST 3 Plug-In SDK",
@@ -245,33 +245,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/22274925?s=40&v=4",
           "name": "Msixty7",
           "url": "https://github.com/Msixty7"
-        }
-      ]
-    },
-    {
-      "title": "Andersama/obs-asio",
-      "url": "https://github.com/Andersama/obs-asio",
-      "description": "ASIO plugin for OBS-Studio",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "849",
-      "forks": "54",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9283407?s=40&v=4",
-          "name": "pkviet",
-          "url": "https://github.com/pkviet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25020235?s=40&v=4",
-          "name": "Andersama",
-          "url": "https://github.com/Andersama"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/232347?s=40&v=4",
-          "name": "wkpark",
-          "url": "https://github.com/wkpark"
         }
       ]
     },
@@ -313,43 +286,6 @@
       ]
     },
     {
-      "title": "boostorg/cmake",
-      "url": "https://github.com/boostorg/cmake",
-      "description": "CMake support infrastructure Boost submodule",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "120",
-      "forks": "37",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3116174?s=40&v=4",
-          "name": "pdimov",
-          "url": "https://github.com/pdimov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/309017?s=40&v=4",
-          "name": "Flamefire",
-          "url": "https://github.com/Flamefire"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30894796?s=40&v=4",
-          "name": "Neumann-A",
-          "url": "https://github.com/Neumann-A"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10316270?s=40&v=4",
-          "name": "k3DW",
-          "url": "https://github.com/k3DW"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75637426?s=40&v=4",
-          "name": "Pansysk75",
-          "url": "https://github.com/Pansysk75"
-        }
-      ]
-    },
-    {
       "title": "pingcap/kvproto",
       "url": "https://github.com/pingcap/kvproto",
       "description": "Protocol buffer files for TiKV",
@@ -383,6 +319,70 @@
           "avatar": "https://avatars.githubusercontent.com/u/9948422?s=40&v=4",
           "name": "MyonKeminta",
           "url": "https://github.com/MyonKeminta"
+        }
+      ]
+    },
+    {
+      "title": "Andersama/obs-asio",
+      "url": "https://github.com/Andersama/obs-asio",
+      "description": "ASIO plugin for OBS-Studio",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "849",
+      "forks": "54",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9283407?s=40&v=4",
+          "name": "pkviet",
+          "url": "https://github.com/pkviet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25020235?s=40&v=4",
+          "name": "Andersama",
+          "url": "https://github.com/Andersama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/232347?s=40&v=4",
+          "name": "wkpark",
+          "url": "https://github.com/wkpark"
+        }
+      ]
+    },
+    {
+      "title": "boostorg/cmake",
+      "url": "https://github.com/boostorg/cmake",
+      "description": "CMake support infrastructure Boost submodule",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "120",
+      "forks": "37",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3116174?s=40&v=4",
+          "name": "pdimov",
+          "url": "https://github.com/pdimov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/309017?s=40&v=4",
+          "name": "Flamefire",
+          "url": "https://github.com/Flamefire"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30894796?s=40&v=4",
+          "name": "Neumann-A",
+          "url": "https://github.com/Neumann-A"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10316270?s=40&v=4",
+          "name": "k3DW",
+          "url": "https://github.com/k3DW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75637426?s=40&v=4",
+          "name": "Pansysk75",
+          "url": "https://github.com/Pansysk75"
         }
       ]
     },
