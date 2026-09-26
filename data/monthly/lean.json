@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Sep 2026 07:18:03 GMT",
+  "pubDate": "Sat, 26 Sep 2026 12:13:40 GMT",
   "items": [
     {
       "title": "leanprover/lean4",
@@ -10,7 +10,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "9,306",
+      "stars": "9,309",
       "forks": "1,002",
       "addStars": "414",
       "contributors": [
@@ -148,43 +148,6 @@
       ]
     },
     {
-      "title": "leanprover-community/import-graph",
-      "url": "https://github.com/leanprover-community/import-graph",
-      "description": "Tool to analyse the import structure of lean projects.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "27",
-      "forks": "16",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9141564?s=40&v=4",
-          "name": "joneugster",
-          "url": "https://github.com/joneugster"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
-          "name": "Garmelon",
-          "url": "https://github.com/Garmelon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68410468?s=40&v=4",
-          "name": "thorimur",
-          "url": "https://github.com/thorimur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
-          "name": "jcommelin",
-          "url": "https://github.com/jcommelin"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
@@ -222,6 +185,43 @@
       ]
     },
     {
+      "title": "leanprover-community/import-graph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "description": "Tool to analyse the import structure of lean projects.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "27",
+      "forks": "16",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9141564?s=40&v=4",
+          "name": "joneugster",
+          "url": "https://github.com/joneugster"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
+          "name": "Garmelon",
+          "url": "https://github.com/Garmelon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68410468?s=40&v=4",
+          "name": "thorimur",
+          "url": "https://github.com/thorimur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
+          "name": "jcommelin",
+          "url": "https://github.com/jcommelin"
+        }
+      ]
+    },
+    {
       "title": "leanprover-community/aesop",
       "url": "https://github.com/leanprover-community/aesop",
       "description": "White-box automation for Lean 4",
@@ -250,43 +250,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/235307?s=40&v=4",
           "name": "kmill",
           "url": "https://github.com/kmill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
-          "name": "Vierkantor",
-          "url": "https://github.com/Vierkantor"
-        }
-      ]
-    },
-    {
-      "title": "leanprover-community/quote4",
-      "url": "https://github.com/leanprover-community/quote4",
-      "description": "Intuitive, type-safe expression quotations for Lean 4.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "111",
-      "forks": "27",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
-          "name": "gebner",
-          "url": "https://github.com/gebner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
-          "name": "eric-wieser",
-          "url": "https://github.com/eric-wieser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
-          "name": "Garmelon",
-          "url": "https://github.com/Garmelon"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
@@ -333,24 +296,29 @@
       ]
     },
     {
-      "title": "leanprover/lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "title": "leanprover-community/quote4",
+      "url": "https://github.com/leanprover-community/quote4",
+      "description": "Intuitive, type-safe expression quotations for Lean 4.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "120",
-      "forks": "30",
-      "addStars": "3",
+      "stars": "111",
+      "forks": "27",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
-          "name": "mhuisi",
-          "url": "https://github.com/mhuisi"
+          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
+          "name": "gebner",
+          "url": "https://github.com/gebner"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
           "name": "kim-em",
           "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
+          "name": "eric-wieser",
+          "url": "https://github.com/eric-wieser"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
@@ -361,11 +329,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
           "name": "Vierkantor",
           "url": "https://github.com/Vierkantor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
-          "name": "jcommelin",
-          "url": "https://github.com/jcommelin"
         }
       ]
     },
@@ -398,6 +361,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/4193616?s=40&v=4",
           "name": "codyroux",
           "url": "https://github.com/codyroux"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
+          "name": "jcommelin",
+          "url": "https://github.com/jcommelin"
+        }
+      ]
+    },
+    {
+      "title": "leanprover/lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "120",
+      "forks": "30",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
+          "name": "mhuisi",
+          "url": "https://github.com/mhuisi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
+          "name": "Garmelon",
+          "url": "https://github.com/Garmelon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
+          "name": "Vierkantor",
+          "url": "https://github.com/Vierkantor"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",

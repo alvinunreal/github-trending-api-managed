@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Sat, 26 Sep 2026 07:18:03 GMT</pubDate>
+    <pubDate>Sat, 26 Sep 2026 12:13:40 GMT</pubDate>
     <item>
       <title>bazel-contrib/rules_perl</title>
       <link>https://github.com/bazel-contrib/rules_perl</link>
@@ -76,40 +76,40 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/rules_apple</title>
-      <link>https://github.com/bazelbuild/rules_apple</link>
-      <description>Bazel rules to build apps for Apple platforms.</description>
-      <guid>https://github.com/bazelbuild/rules_apple</guid>
+      <title>uber/hermetic_cc_toolchain</title>
+      <link>https://github.com/uber/hermetic_cc_toolchain</link>
+      <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
+      <guid>https://github.com/uber/hermetic_cc_toolchain</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>595</stars>
-      <forks>334</forks>
+      <stars>403</stars>
+      <forks>87</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4</avatar>
-          <name>keith</name>
-          <url>https://github.com/keith</url>
+          <avatar>https://avatars.githubusercontent.com/u/107720?s=40&amp;v=4</avatar>
+          <name>motiejus</name>
+          <url>https://github.com/motiejus</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/689198?s=40&amp;v=4</avatar>
-          <name>sergiocampama</name>
-          <url>https://github.com/sergiocampama</url>
+          <avatar>https://avatars.githubusercontent.com/u/98395?s=40&amp;v=4</avatar>
+          <name>linzhp</name>
+          <url>https://github.com/linzhp</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5279928?s=40&amp;v=4</avatar>
-          <name>thomasvl</name>
-          <url>https://github.com/thomasvl</url>
+          <avatar>https://avatars.githubusercontent.com/u/84334008?s=40&amp;v=4</avatar>
+          <name>laurynasl-uber</name>
+          <url>https://github.com/laurynasl-uber</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/158658?s=40&amp;v=4</avatar>
-          <name>brentleyjones</name>
-          <url>https://github.com/brentleyjones</url>
+          <avatar>https://avatars.githubusercontent.com/u/13570304?s=40&amp;v=4</avatar>
+          <name>FabianHahn</name>
+          <url>https://github.com/FabianHahn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/122120823?s=40&amp;v=4</avatar>
-          <name>nglevin</name>
-          <url>https://github.com/nglevin</url>
+          <avatar>https://avatars.githubusercontent.com/u/3226389?s=40&amp;v=4</avatar>
+          <name>jonathanbaker7</name>
+          <url>https://github.com/jonathanbaker7</url>
         </contributor>
       </contributors>
     </item>
@@ -185,44 +185,6 @@
       </contributors>
     </item>
     <item>
-      <title>uber/hermetic_cc_toolchain</title>
-      <link>https://github.com/uber/hermetic_cc_toolchain</link>
-      <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
-      <guid>https://github.com/uber/hermetic_cc_toolchain</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>403</stars>
-      <forks>87</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107720?s=40&amp;v=4</avatar>
-          <name>motiejus</name>
-          <url>https://github.com/motiejus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/98395?s=40&amp;v=4</avatar>
-          <name>linzhp</name>
-          <url>https://github.com/linzhp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84334008?s=40&amp;v=4</avatar>
-          <name>laurynasl-uber</name>
-          <url>https://github.com/laurynasl-uber</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13570304?s=40&amp;v=4</avatar>
-          <name>FabianHahn</name>
-          <url>https://github.com/FabianHahn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3226389?s=40&amp;v=4</avatar>
-          <name>jonathanbaker7</name>
-          <url>https://github.com/jonathanbaker7</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>tilt-dev/tilt-extensions</title>
       <link>https://github.com/tilt-dev/tilt-extensions</link>
       <description>Extensions for Tilt</description>
@@ -256,13 +218,51 @@
       </contributors>
     </item>
     <item>
+      <title>bazelbuild/rules_apple</title>
+      <link>https://github.com/bazelbuild/rules_apple</link>
+      <description>Bazel rules to build apps for Apple platforms.</description>
+      <guid>https://github.com/bazelbuild/rules_apple</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>595</stars>
+      <forks>334</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4</avatar>
+          <name>keith</name>
+          <url>https://github.com/keith</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/689198?s=40&amp;v=4</avatar>
+          <name>sergiocampama</name>
+          <url>https://github.com/sergiocampama</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5279928?s=40&amp;v=4</avatar>
+          <name>thomasvl</name>
+          <url>https://github.com/thomasvl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/158658?s=40&amp;v=4</avatar>
+          <name>brentleyjones</name>
+          <url>https://github.com/brentleyjones</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/122120823?s=40&amp;v=4</avatar>
+          <name>nglevin</name>
+          <url>https://github.com/nglevin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>cel-expr/cel-spec</title>
       <link>https://github.com/cel-expr/cel-spec</link>
       <description>Common Expression Language -- specification and binary representation</description>
       <guid>https://github.com/cel-expr/cel-spec</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>3,989</stars>
+      <stars>3,990</stars>
       <forks>305</forks>
       <addStars>9</addStars>
       <contributors>
@@ -290,39 +290,6 @@
           <avatar>https://avatars.githubusercontent.com/u/179320?s=40&amp;v=4</avatar>
           <name>eobrain</name>
           <url>https://github.com/eobrain</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>GoogleContainerTools/distroless</title>
-      <link>https://github.com/GoogleContainerTools/distroless</link>
-      <description>🥑 Language focused docker images, minus the operating system.</description>
-      <guid>https://github.com/GoogleContainerTools/distroless</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>23,095</stars>
-      <forks>1,437</forks>
-      <addStars>17</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1304826?s=40&amp;v=4</avatar>
-          <name>loosebazooka</name>
-          <url>https://github.com/loosebazooka</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1681525?s=40&amp;v=4</avatar>
-          <name>omBratteng</name>
-          <url>https://github.com/omBratteng</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10523105?s=40&amp;v=4</avatar>
-          <name>chanseokoh</name>
-          <url>https://github.com/chanseokoh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99663502?s=40&amp;v=4</avatar>
-          <name>distroless-bot</name>
-          <url>https://github.com/distroless-bot</url>
         </contributor>
       </contributors>
     </item>
@@ -367,7 +334,7 @@
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
       <stars>387</stars>
-      <forks>910</forks>
+      <forks>911</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

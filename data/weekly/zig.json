@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Sep 2026 07:18:03 GMT",
+  "pubDate": "Sat, 26 Sep 2026 12:13:40 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,8 +10,8 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,564",
-      "forks": "149",
+      "stars": "1,578",
+      "forks": "152",
       "addStars": "177",
       "contributors": [
         {
@@ -37,12 +37,44 @@
       ]
     },
     {
+      "title": "ghostty-org/ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "61,565",
+      "forks": "3,520",
+      "addStars": "310",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
+          "name": "mitchellh",
+          "url": "https://github.com/mitchellh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/740022?s=40&v=4",
+          "name": "jcollie",
+          "url": "https://github.com/jcollie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7241851?s=40&v=4",
+          "name": "qwerasd205",
+          "url": "https://github.com/qwerasd205"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10311?s=40&v=4",
+          "name": "jparise",
+          "url": "https://github.com/jparise"
+        }
+      ]
+    },
+    {
       "title": "tigerbeetle/tigerbeetle",
       "url": "https://github.com/tigerbeetle/tigerbeetle",
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,085",
+      "stars": "17,087",
       "forks": "906",
       "addStars": "47",
       "contributors": [
@@ -74,34 +106,39 @@
       ]
     },
     {
-      "title": "ghostty-org/ghostty",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "title": "ziglang/zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "61,556",
-      "forks": "3,518",
-      "addStars": "310",
+      "stars": "43,306",
+      "forks": "3,199",
+      "addStars": "21",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
-          "name": "mitchellh",
-          "url": "https://github.com/mitchellh"
+          "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
+          "name": "andrewrk",
+          "url": "https://github.com/andrewrk"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/740022?s=40&v=4",
-          "name": "jcollie",
-          "url": "https://github.com/jcollie"
+          "avatar": "https://avatars.githubusercontent.com/u/1519747?s=40&v=4",
+          "name": "kubkon",
+          "url": "https://github.com/kubkon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7241851?s=40&v=4",
-          "name": "qwerasd205",
-          "url": "https://github.com/qwerasd205"
+          "avatar": "https://avatars.githubusercontent.com/u/44076?s=40&v=4",
+          "name": "alexrp",
+          "url": "https://github.com/alexrp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10311?s=40&v=4",
-          "name": "jparise",
-          "url": "https://github.com/jparise"
+          "avatar": "https://avatars.githubusercontent.com/u/15308111?s=40&v=4",
+          "name": "Vexu",
+          "url": "https://github.com/Vexu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15544577?s=40&v=4",
+          "name": "jacobly0",
+          "url": "https://github.com/jacobly0"
         }
       ]
     },
@@ -143,123 +180,12 @@
       ]
     },
     {
-      "title": "ziglang/zig",
-      "url": "https://github.com/ziglang/zig",
-      "description": "Moved to Codeberg",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "43,305",
-      "forks": "3,200",
-      "addStars": "21",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
-          "name": "andrewrk",
-          "url": "https://github.com/andrewrk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1519747?s=40&v=4",
-          "name": "kubkon",
-          "url": "https://github.com/kubkon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44076?s=40&v=4",
-          "name": "alexrp",
-          "url": "https://github.com/alexrp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15308111?s=40&v=4",
-          "name": "Vexu",
-          "url": "https://github.com/Vexu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15544577?s=40&v=4",
-          "name": "jacobly0",
-          "url": "https://github.com/jacobly0"
-        }
-      ]
-    },
-    {
-      "title": "zigtools/zls",
-      "url": "https://github.com/zigtools/zls",
-      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "5,149",
-      "forks": "451",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19954306?s=40&v=4",
-          "name": "techatrix",
-          "url": "https://github.com/techatrix"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/265903?s=40&v=4",
-          "name": "alexnask",
-          "url": "https://github.com/alexnask"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19855629?s=40&v=4",
-          "name": "SuperAuguste",
-          "url": "https://github.com/SuperAuguste"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70830482?s=40&v=4",
-          "name": "FnControlOption",
-          "url": "https://github.com/FnControlOption"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2286349?s=40&v=4",
-          "name": "leecannon",
-          "url": "https://github.com/leecannon"
-        }
-      ]
-    },
-    {
-      "title": "zml/zml",
-      "url": "https://github.com/zml/zml",
-      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "4,084",
-      "forks": "186",
-      "addStars": "20",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/137467?s=40&v=4",
-          "name": "steeve",
-          "url": "https://github.com/steeve"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
-          "name": "Corendos",
-          "url": "https://github.com/Corendos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5920036?s=40&v=4",
-          "name": "gwenzek",
-          "url": "https://github.com/gwenzek"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/823630?s=40&v=4",
-          "name": "hugomano",
-          "url": "https://github.com/hugomano"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7884413?s=40&v=4",
-          "name": "Finistere",
-          "url": "https://github.com/Finistere"
-        }
-      ]
-    },
-    {
       "title": "tonybanters/oxwm",
       "url": "https://github.com/tonybanters/oxwm",
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "972",
+      "stars": "973",
       "forks": "76",
       "addStars": "15",
       "contributors": [
@@ -287,117 +213,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/49349614?s=40&v=4",
           "name": "Iziram",
           "url": "https://github.com/Iziram"
-        }
-      ]
-    },
-    {
-      "title": "Seafoam-Labs/Shelly-ALPM",
-      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "1,154",
-      "forks": "93",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40698010?s=40&v=4",
-          "name": "ZoeyErinBauer",
-          "url": "https://github.com/ZoeyErinBauer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69315797?s=40&v=4",
-          "name": "caroberrie",
-          "url": "https://github.com/caroberrie"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6123841?s=40&v=4",
-          "name": "azdanov",
-          "url": "https://github.com/azdanov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142009768?s=40&v=4",
-          "name": "VinnyQF",
-          "url": "https://github.com/VinnyQF"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6131799?s=40&v=4",
-          "name": "Henry2o1o",
-          "url": "https://github.com/Henry2o1o"
-        }
-      ]
-    },
-    {
-      "title": "Loongphy/codex-auth",
-      "url": "https://github.com/Loongphy/codex-auth",
-      "description": "A CLI tool to switch and manage Codex accounts",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "2,747",
-      "forks": "160",
-      "addStars": "41",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42089082?s=40&v=4",
-          "name": "Loongphy",
-          "url": "https://github.com/Loongphy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/198355839?s=40&v=4",
-          "name": "DRanger666",
-          "url": "https://github.com/DRanger666"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/201271?s=40&v=4",
-          "name": "johnknott",
-          "url": "https://github.com/johnknott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18244874?s=40&v=4",
-          "name": "SunZhiC",
-          "url": "https://github.com/SunZhiC"
-        }
-      ]
-    },
-    {
-      "title": "justrach/codegraff",
-      "url": "https://github.com/justrach/codegraff",
-      "description": "graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "274",
-      "forks": "23",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54503978?s=40&v=4",
-          "name": "justrach",
-          "url": "https://github.com/justrach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/295582517?s=40&v=4",
-          "name": "blackfloofi",
-          "url": "https://github.com/blackfloofi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85774423?s=40&v=4",
-          "name": "yxlyx",
-          "url": "https://github.com/yxlyx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     },
@@ -439,39 +254,76 @@
       ]
     },
     {
-      "title": "vercel-labs/native",
-      "url": "https://github.com/vercel-labs/native",
-      "description": "Toolkit for building native desktop apps",
+      "title": "zigtools/zls",
+      "url": "https://github.com/zigtools/zls",
+      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "7,712",
-      "forks": "317",
-      "addStars": "28",
+      "stars": "5,149",
+      "forks": "450",
+      "addStars": "17",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-          "name": "ctate",
-          "url": "https://github.com/ctate"
+          "avatar": "https://avatars.githubusercontent.com/u/19954306?s=40&v=4",
+          "name": "techatrix",
+          "url": "https://github.com/techatrix"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25853688?s=40&v=4",
-          "name": "sepehr-safari",
-          "url": "https://github.com/sepehr-safari"
+          "avatar": "https://avatars.githubusercontent.com/u/265903?s=40&v=4",
+          "name": "alexnask",
+          "url": "https://github.com/alexnask"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/77928693?s=40&v=4",
-          "name": "MohakBajaj",
-          "url": "https://github.com/MohakBajaj"
+          "avatar": "https://avatars.githubusercontent.com/u/19855629?s=40&v=4",
+          "name": "SuperAuguste",
+          "url": "https://github.com/SuperAuguste"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44260523?s=40&v=4",
-          "name": "WhiteHades",
-          "url": "https://github.com/WhiteHades"
+          "avatar": "https://avatars.githubusercontent.com/u/70830482?s=40&v=4",
+          "name": "FnControlOption",
+          "url": "https://github.com/FnControlOption"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-          "name": "Railly",
-          "url": "https://github.com/Railly"
+          "avatar": "https://avatars.githubusercontent.com/u/2286349?s=40&v=4",
+          "name": "leecannon",
+          "url": "https://github.com/leecannon"
+        }
+      ]
+    },
+    {
+      "title": "zml/zml",
+      "url": "https://github.com/zml/zml",
+      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "4,085",
+      "forks": "186",
+      "addStars": "20",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/137467?s=40&v=4",
+          "name": "steeve",
+          "url": "https://github.com/steeve"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
+          "name": "Corendos",
+          "url": "https://github.com/Corendos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5920036?s=40&v=4",
+          "name": "gwenzek",
+          "url": "https://github.com/gwenzek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/823630?s=40&v=4",
+          "name": "hugomano",
+          "url": "https://github.com/hugomano"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7884413?s=40&v=4",
+          "name": "Finistere",
+          "url": "https://github.com/Finistere"
         }
       ]
     }

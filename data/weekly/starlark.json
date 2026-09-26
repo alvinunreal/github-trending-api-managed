@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Weekly Trending",
   "description": "Weekly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Sep 2026 07:18:03 GMT",
+  "pubDate": "Sat, 26 Sep 2026 12:13:40 GMT",
   "items": [
     {
       "title": "bazel-contrib/rules_perl",
@@ -74,39 +74,39 @@
       ]
     },
     {
-      "title": "bazelbuild/rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
+      "title": "uber/hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "595",
-      "forks": "334",
+      "stars": "403",
+      "forks": "87",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
+          "avatar": "https://avatars.githubusercontent.com/u/107720?s=40&v=4",
+          "name": "motiejus",
+          "url": "https://github.com/motiejus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
-          "name": "sergiocampama",
-          "url": "https://github.com/sergiocampama"
+          "avatar": "https://avatars.githubusercontent.com/u/98395?s=40&v=4",
+          "name": "linzhp",
+          "url": "https://github.com/linzhp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
-          "name": "thomasvl",
-          "url": "https://github.com/thomasvl"
+          "avatar": "https://avatars.githubusercontent.com/u/84334008?s=40&v=4",
+          "name": "laurynasl-uber",
+          "url": "https://github.com/laurynasl-uber"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
-          "name": "brentleyjones",
-          "url": "https://github.com/brentleyjones"
+          "avatar": "https://avatars.githubusercontent.com/u/13570304?s=40&v=4",
+          "name": "FabianHahn",
+          "url": "https://github.com/FabianHahn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
-          "name": "nglevin",
-          "url": "https://github.com/nglevin"
+          "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
+          "name": "jonathanbaker7",
+          "url": "https://github.com/jonathanbaker7"
         }
       ]
     },
@@ -180,43 +180,6 @@
       ]
     },
     {
-      "title": "uber/hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "403",
-      "forks": "87",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/107720?s=40&v=4",
-          "name": "motiejus",
-          "url": "https://github.com/motiejus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98395?s=40&v=4",
-          "name": "linzhp",
-          "url": "https://github.com/linzhp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84334008?s=40&v=4",
-          "name": "laurynasl-uber",
-          "url": "https://github.com/laurynasl-uber"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13570304?s=40&v=4",
-          "name": "FabianHahn",
-          "url": "https://github.com/FabianHahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
-          "name": "jonathanbaker7",
-          "url": "https://github.com/jonathanbaker7"
-        }
-      ]
-    },
-    {
       "title": "tilt-dev/tilt-extensions",
       "url": "https://github.com/tilt-dev/tilt-extensions",
       "description": "Extensions for Tilt",
@@ -249,12 +212,49 @@
       ]
     },
     {
+      "title": "bazelbuild/rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "595",
+      "forks": "334",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
+          "name": "sergiocampama",
+          "url": "https://github.com/sergiocampama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
+          "name": "brentleyjones",
+          "url": "https://github.com/brentleyjones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
+          "name": "nglevin",
+          "url": "https://github.com/nglevin"
+        }
+      ]
+    },
+    {
       "title": "cel-expr/cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,989",
+      "stars": "3,990",
       "forks": "305",
       "addStars": "9",
       "contributors": [
@@ -282,38 +282,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
           "name": "eobrain",
           "url": "https://github.com/eobrain"
-        }
-      ]
-    },
-    {
-      "title": "GoogleContainerTools/distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "23,095",
-      "forks": "1,437",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
-          "name": "loosebazooka",
-          "url": "https://github.com/loosebazooka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
-          "name": "omBratteng",
-          "url": "https://github.com/omBratteng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
-          "name": "chanseokoh",
-          "url": "https://github.com/chanseokoh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
-          "name": "distroless-bot",
-          "url": "https://github.com/distroless-bot"
         }
       ]
     },
@@ -356,7 +324,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "387",
-      "forks": "910",
+      "forks": "911",
       "addStars": "1",
       "contributors": [
         {

@@ -2,45 +2,8 @@
   "title": "GitHub Objective-c Languages Weekly Trending",
   "description": "Weekly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Sep 2026 07:18:03 GMT",
+  "pubDate": "Sat, 26 Sep 2026 12:13:40 GMT",
   "items": [
-    {
-      "title": "keycastr/keycastr",
-      "url": "https://github.com/keycastr/keycastr",
-      "description": "KeyCastr, an open-source keystroke visualizer",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": "15,131",
-      "forks": "578",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/378648?s=40&v=4",
-          "name": "akitchen",
-          "url": "https://github.com/akitchen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56083?s=40&v=4",
-          "name": "sdeken",
-          "url": "https://github.com/sdeken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1051?s=40&v=4",
-          "name": "elia",
-          "url": "https://github.com/elia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27570?s=40&v=4",
-          "name": "colinta",
-          "url": "https://github.com/colinta"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/579366?s=40&v=4",
-          "name": "lqez",
-          "url": "https://github.com/lqez"
-        }
-      ]
-    },
     {
       "title": "openid/AppAuth-iOS",
       "url": "https://github.com/openid/AppAuth-iOS",
@@ -79,12 +42,49 @@
       ]
     },
     {
+      "title": "CocoaLumberjack/CocoaLumberjack",
+      "url": "https://github.com/CocoaLumberjack/CocoaLumberjack",
+      "description": "A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": "13,320",
+      "forks": "2,274",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1689782?s=40&v=4",
+          "name": "ffried",
+          "url": "https://github.com/ffried"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/154913?s=40&v=4",
+          "name": "bpoplauschi",
+          "url": "https://github.com/bpoplauschi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1261982?s=40&v=4",
+          "name": "rivera-ernesto",
+          "url": "https://github.com/rivera-ernesto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/304604?s=40&v=4",
+          "name": "robbiehanson",
+          "url": "https://github.com/robbiehanson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5669641?s=40&v=4",
+          "name": "sushichop",
+          "url": "https://github.com/sushichop"
+        }
+      ]
+    },
+    {
       "title": "syncthing/syncthing-macos",
       "url": "https://github.com/syncthing/syncthing-macos",
       "description": "Official frugal and native macOS Syncthing application bundle",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "3,943",
+      "stars": "3,944",
       "forks": "202",
       "addStars": "19",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "The Git interface you've been missing all your life has finally arrived.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "12,129",
+      "stars": "12,130",
       "forks": "1,500",
       "addStars": "12",
       "contributors": [
@@ -149,92 +149,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/4634735?s=40&v=4",
           "name": "lapfelix",
           "url": "https://github.com/lapfelix"
-        }
-      ]
-    },
-    {
-      "title": "newmarcel/KeepingYouAwake",
-      "url": "https://github.com/newmarcel/KeepingYouAwake",
-      "description": "Prevents your Mac from going to sleep.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": "6,940",
-      "forks": "268",
-      "addStars": "27",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/406920?s=40&v=4",
-          "name": "newmarcel",
-          "url": "https://github.com/newmarcel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/874004?s=40&v=4",
-          "name": "alexandreleroux",
-          "url": "https://github.com/alexandreleroux"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25234506?s=40&v=4",
-          "name": "JacobSchriver",
-          "url": "https://github.com/JacobSchriver"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15073177?s=40&v=4",
-          "name": "Eitot",
-          "url": "https://github.com/Eitot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/196331?s=40&v=4",
-          "name": "Nosrac",
-          "url": "https://github.com/Nosrac"
-        }
-      ]
-    },
-    {
-      "title": "iodefog/VipVideo",
-      "url": "https://github.com/iodefog/VipVideo",
-      "description": "这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": "5,819",
-      "forks": "695",
-      "addStars": "42",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4490832?s=40&v=4",
-          "name": "iodefog",
-          "url": "https://github.com/iodefog"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/256495311?s=40&v=4",
-          "name": "lihl-dz",
-          "url": "https://github.com/lihl-dz"
-        }
-      ]
-    },
-    {
-      "title": "noah-nuebling/mac-mouse-fix",
-      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
-      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": "10,994",
-      "forks": "436",
-      "addStars": "52",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40808343?s=40&v=4",
-          "name": "noah-nuebling",
-          "url": "https://github.com/noah-nuebling"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45519323?s=40&v=4",
-          "name": "jeongtae",
-          "url": "https://github.com/jeongtae"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19650585?s=40&v=4",
-          "name": "nghlt",
-          "url": "https://github.com/nghlt"
         }
       ]
     },
@@ -276,39 +190,24 @@
       ]
     },
     {
-      "title": "objective-see/LuLu",
-      "url": "https://github.com/objective-see/LuLu",
-      "description": "LuLu is the free open-source macOS firewall",
+      "title": "iodefog/VipVideo",
+      "url": "https://github.com/iodefog/VipVideo",
+      "description": "这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "13,233",
-      "forks": "599",
-      "addStars": "33",
+      "stars": "5,822",
+      "forks": "695",
+      "addStars": "42",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11327812?s=40&v=4",
-          "name": "objective-see",
-          "url": "https://github.com/objective-see"
+          "avatar": "https://avatars.githubusercontent.com/u/4490832?s=40&v=4",
+          "name": "iodefog",
+          "url": "https://github.com/iodefog"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/425310?s=40&v=4",
-          "name": "benjaminach",
-          "url": "https://github.com/benjaminach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102541954?s=40&v=4",
-          "name": "Pixel-Master",
-          "url": "https://github.com/Pixel-Master"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2769571?s=40&v=4",
-          "name": "bitigchi",
-          "url": "https://github.com/bitigchi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4863594?s=40&v=4",
-          "name": "haroondilshad",
-          "url": "https://github.com/haroondilshad"
+          "avatar": "https://avatars.githubusercontent.com/u/256495311?s=40&v=4",
+          "name": "lihl-dz",
+          "url": "https://github.com/lihl-dz"
         }
       ]
     },
@@ -498,6 +397,43 @@
       ]
     },
     {
+      "title": "newmarcel/KeepingYouAwake",
+      "url": "https://github.com/newmarcel/KeepingYouAwake",
+      "description": "Prevents your Mac from going to sleep.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": "6,941",
+      "forks": "268",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/406920?s=40&v=4",
+          "name": "newmarcel",
+          "url": "https://github.com/newmarcel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/874004?s=40&v=4",
+          "name": "alexandreleroux",
+          "url": "https://github.com/alexandreleroux"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25234506?s=40&v=4",
+          "name": "JacobSchriver",
+          "url": "https://github.com/JacobSchriver"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15073177?s=40&v=4",
+          "name": "Eitot",
+          "url": "https://github.com/Eitot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/196331?s=40&v=4",
+          "name": "Nosrac",
+          "url": "https://github.com/Nosrac"
+        }
+      ]
+    },
+    {
       "title": "google/GoogleSignIn-iOS",
       "url": "https://github.com/google/GoogleSignIn-iOS",
       "description": "Enables iOS and macOS apps to sign in with Google.",
@@ -641,39 +577,39 @@
       ]
     },
     {
-      "title": "CocoaLumberjack/CocoaLumberjack",
-      "url": "https://github.com/CocoaLumberjack/CocoaLumberjack",
-      "description": "A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",
+      "title": "googlemaps/google-maps-ios-utils",
+      "url": "https://github.com/googlemaps/google-maps-ios-utils",
+      "description": "Google Maps SDK for iOS Utility Library",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "13,320",
-      "forks": "2,274",
-      "addStars": "2",
+      "stars": "778",
+      "forks": "445",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1689782?s=40&v=4",
-          "name": "ffried",
-          "url": "https://github.com/ffried"
+          "avatar": "https://avatars.githubusercontent.com/u/463186?s=40&v=4",
+          "name": "arriolac",
+          "url": "https://github.com/arriolac"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/154913?s=40&v=4",
-          "name": "bpoplauschi",
-          "url": "https://github.com/bpoplauschi"
+          "avatar": "https://avatars.githubusercontent.com/u/30503?s=40&v=4",
+          "name": "domesticmouse",
+          "url": "https://github.com/domesticmouse"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1261982?s=40&v=4",
-          "name": "rivera-ernesto",
-          "url": "https://github.com/rivera-ernesto"
+          "avatar": "https://avatars.githubusercontent.com/u/16808355?s=40&v=4",
+          "name": "mountainvat",
+          "url": "https://github.com/mountainvat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/304604?s=40&v=4",
-          "name": "robbiehanson",
-          "url": "https://github.com/robbiehanson"
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5669641?s=40&v=4",
-          "name": "sushichop",
-          "url": "https://github.com/sushichop"
+          "avatar": "https://avatars.githubusercontent.com/u/5506675?s=40&v=4",
+          "name": "wangela",
+          "url": "https://github.com/wangela"
         }
       ]
     },
@@ -711,6 +647,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/52801365?s=40&v=4",
           "name": "okwasniewski",
           "url": "https://github.com/okwasniewski"
+        }
+      ]
+    },
+    {
+      "title": "AliSoftware/OHHTTPStubs",
+      "url": "https://github.com/AliSoftware/OHHTTPStubs",
+      "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": "5,068",
+      "forks": "598",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/216089?s=40&v=4",
+          "name": "AliSoftware",
+          "url": "https://github.com/AliSoftware"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1274145?s=40&v=4",
+          "name": "MaxGabriel",
+          "url": "https://github.com/MaxGabriel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2142301?s=40&v=4",
+          "name": "jeffctown",
+          "url": "https://github.com/jeffctown"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3178791?s=40&v=4",
+          "name": "JinlianWang",
+          "url": "https://github.com/JinlianWang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/851631?s=40&v=4",
+          "name": "Liquidsoul",
+          "url": "https://github.com/Liquidsoul"
+        }
+      ]
+    },
+    {
+      "title": "facebookincubator/SocketRocket",
+      "url": "https://github.com/facebookincubator/SocketRocket",
+      "description": "A conforming Objective-C WebSocket client library.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": "9,598",
+      "forks": "2,006",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21435?s=40&v=4",
+          "name": "mikelikespie",
+          "url": "https://github.com/mikelikespie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/606991?s=40&v=4",
+          "name": "nlutsenko",
+          "url": "https://github.com/nlutsenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139364?s=40&v=4",
+          "name": "dfed",
+          "url": "https://github.com/dfed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1195260?s=40&v=4",
+          "name": "jleandroperez",
+          "url": "https://github.com/jleandroperez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10638?s=40&v=4",
+          "name": "natan",
+          "url": "https://github.com/natan"
         }
       ]
     }
