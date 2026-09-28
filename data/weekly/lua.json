@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Weekly Trending",
   "description": "Weekly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 06:51:29 GMT",
+  "pubDate": "Mon, 28 Sep 2026 13:17:43 GMT",
   "items": [
     {
       "title": "Kong/kong",
@@ -11,7 +11,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "44,205",
-      "forks": "5,219",
+      "forks": "5,221",
       "addStars": "50",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "✨ AI Coding, Vim Style",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,878",
+      "stars": "6,880",
       "forks": "459",
       "addStars": "20",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "830",
+      "stars": "832",
       "forks": "98",
       "addStars": "87",
       "contributors": [
@@ -111,44 +111,12 @@
       ]
     },
     {
-      "title": "bryanthaboi/gen1recomp",
-      "url": "https://github.com/bryanthaboi/gen1recomp",
-      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "3,790",
-      "forks": "329",
-      "addStars": "98",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/116906279?s=40&v=4",
-          "name": "bryanthaboi",
-          "url": "https://github.com/bryanthaboi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56467992?s=40&v=4",
-          "name": "andrewqsantos",
-          "url": "https://github.com/andrewqsantos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10935814?s=40&v=4",
-          "name": "1Jamie",
-          "url": "https://github.com/1Jamie"
-        }
-      ]
-    },
-    {
       "title": "AndyHazz/bookshelf.koplugin",
       "url": "https://github.com/AndyHazz/bookshelf.koplugin",
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "955",
+      "stars": "956",
       "forks": "37",
       "addStars": "72",
       "contributors": [
@@ -180,12 +148,44 @@
       ]
     },
     {
+      "title": "bryanthaboi/gen1recomp",
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "3,791",
+      "forks": "330",
+      "addStars": "98",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116906279?s=40&v=4",
+          "name": "bryanthaboi",
+          "url": "https://github.com/bryanthaboi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56467992?s=40&v=4",
+          "name": "andrewqsantos",
+          "url": "https://github.com/andrewqsantos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10935814?s=40&v=4",
+          "name": "1Jamie",
+          "url": "https://github.com/1Jamie"
+        }
+      ]
+    },
+    {
       "title": "saghen/blink.cmp",
       "url": "https://github.com/saghen/blink.cmp",
       "description": "Performant, batteries-included completion plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,599",
+      "stars": "6,601",
       "forks": "361",
       "addStars": "23",
       "contributors": [
@@ -254,12 +254,39 @@
       ]
     },
     {
+      "title": "folke/lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "21,606",
+      "forks": "597",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+          "name": "folke",
+          "url": "https://github.com/folke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81827001?s=40&v=4",
+          "name": "max397574",
+          "url": "https://github.com/max397574"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20475201?s=40&v=4",
+          "name": "tsakirist",
+          "url": "https://github.com/tsakirist"
+        }
+      ]
+    },
+    {
       "title": "nvim-mini/mini.nvim",
       "url": "https://github.com/nvim-mini/mini.nvim",
       "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "9,549",
+      "stars": "9,550",
       "forks": "311",
       "addStars": "20",
       "contributors": [
@@ -291,12 +318,39 @@
       ]
     },
     {
+      "title": "neovim/nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "13,958",
+      "forks": "2,500",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13316262?s=40&v=4",
+          "name": "mjlbach",
+          "url": "https://github.com/mjlbach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1359421?s=40&v=4",
+          "name": "justinmk",
+          "url": "https://github.com/justinmk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4556097?s=40&v=4",
+          "name": "h-michael",
+          "url": "https://github.com/h-michael"
+        }
+      ]
+    },
+    {
       "title": "lewis6991/gitsigns.nvim",
       "url": "https://github.com/lewis6991/gitsigns.nvim",
       "description": "Git integration for buffers",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,121",
+      "stars": "7,123",
       "forks": "296",
       "addStars": "14",
       "contributors": [
@@ -323,76 +377,12 @@
       ]
     },
     {
-      "title": "ntop/ntopng",
-      "url": "https://github.com/ntop/ntopng",
-      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "8,213",
-      "forks": "766",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4493366?s=40&v=4",
-          "name": "lucaderi",
-          "url": "https://github.com/lucaderi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7548711?s=40&v=4",
-          "name": "cardigliano",
-          "url": "https://github.com/cardigliano"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49585191?s=40&v=4",
-          "name": "MatteoBiscosi",
-          "url": "https://github.com/MatteoBiscosi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5488003?s=40&v=4",
-          "name": "emanuele-f",
-          "url": "https://github.com/emanuele-f"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14114916?s=40&v=4",
-          "name": "gabryon99",
-          "url": "https://github.com/gabryon99"
-        }
-      ]
-    },
-    {
-      "title": "neovim/nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "13,957",
-      "forks": "2,500",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13316262?s=40&v=4",
-          "name": "mjlbach",
-          "url": "https://github.com/mjlbach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1359421?s=40&v=4",
-          "name": "justinmk",
-          "url": "https://github.com/justinmk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4556097?s=40&v=4",
-          "name": "h-michael",
-          "url": "https://github.com/h-michael"
-        }
-      ]
-    },
-    {
       "title": "mason-org/mason-lspconfig.nvim",
       "url": "https://github.com/mason-org/mason-lspconfig.nvim",
       "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,949",
+      "stars": "3,950",
       "forks": "221",
       "addStars": "1",
       "contributors": [
@@ -420,38 +410,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/392133?s=40&v=4",
           "name": "errantepiphany",
           "url": "https://github.com/errantepiphany"
-        }
-      ]
-    },
-    {
-      "title": "nvim-tree/nvim-web-devicons",
-      "url": "https://github.com/nvim-tree/nvim-web-devicons",
-      "description": "Provides Nerd Font icons (glyphs) for use by neovim plugins",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "2,723",
-      "forks": "240",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1505378?s=40&v=4",
-          "name": "alex-courtis",
-          "url": "https://github.com/alex-courtis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23156099?s=40&v=4",
-          "name": "kyazdani42",
-          "url": "https://github.com/kyazdani42"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53124818?s=40&v=4",
-          "name": "hasecilu",
-          "url": "https://github.com/hasecilu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69750637?s=40&v=4",
-          "name": "gegoune",
-          "url": "https://github.com/gegoune"
         }
       ]
     },
@@ -493,34 +451,34 @@
       ]
     },
     {
-      "title": "nickjvandyke/opencode.nvim",
-      "url": "https://github.com/nickjvandyke/opencode.nvim",
-      "description": "Neovim 🤝 OpenCode in the flow that you already know.",
+      "title": "nvim-tree/nvim-web-devicons",
+      "url": "https://github.com/nvim-tree/nvim-web-devicons",
+      "description": "Provides Nerd Font icons (glyphs) for use by neovim plugins",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,853",
-      "forks": "160",
-      "addStars": "17",
+      "stars": "2,724",
+      "forks": "240",
+      "addStars": "9",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15321434?s=40&v=4",
-          "name": "nickjvandyke",
-          "url": "https://github.com/nickjvandyke"
+          "avatar": "https://avatars.githubusercontent.com/u/1505378?s=40&v=4",
+          "name": "alex-courtis",
+          "url": "https://github.com/alex-courtis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/166053?s=40&v=4",
-          "name": "uudashr",
-          "url": "https://github.com/uudashr"
+          "avatar": "https://avatars.githubusercontent.com/u/23156099?s=40&v=4",
+          "name": "kyazdani42",
+          "url": "https://github.com/kyazdani42"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/203349?s=40&v=4",
-          "name": "juanperi",
-          "url": "https://github.com/juanperi"
+          "avatar": "https://avatars.githubusercontent.com/u/53124818?s=40&v=4",
+          "name": "hasecilu",
+          "url": "https://github.com/hasecilu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/763624?s=40&v=4",
-          "name": "s0ber",
-          "url": "https://github.com/s0ber"
+          "avatar": "https://avatars.githubusercontent.com/u/69750637?s=40&v=4",
+          "name": "gegoune",
+          "url": "https://github.com/gegoune"
         }
       ]
     },
@@ -562,7 +520,7 @@
       "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,453",
+      "stars": "4,454",
       "forks": "267",
       "addStars": "12",
       "contributors": [
@@ -590,6 +548,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/394891?s=40&v=4",
           "name": "jdrouhard",
           "url": "https://github.com/jdrouhard"
+        }
+      ]
+    },
+    {
+      "title": "nvim-lualine/lualine.nvim",
+      "url": "https://github.com/nvim-lualine/lualine.nvim",
+      "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "8,144",
+      "forks": "553",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13149513?s=40&v=4",
+          "name": "shadmansaleh",
+          "url": "https://github.com/shadmansaleh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41551030?s=40&v=4",
+          "name": "hoob3rt",
+          "url": "https://github.com/hoob3rt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
+          "name": "zeertzjq",
+          "url": "https://github.com/zeertzjq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1813121?s=40&v=4",
+          "name": "kdheepak",
+          "url": "https://github.com/kdheepak"
         }
       ]
     },
@@ -636,8 +626,8 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "29,965",
-      "forks": "1,929",
+      "stars": "29,977",
+      "forks": "1,930",
       "addStars": "149",
       "contributors": [
         {
@@ -664,6 +654,28 @@
           "avatar": "https://avatars.githubusercontent.com/u/24273478?s=40&v=4",
           "name": "poire-z",
           "url": "https://github.com/poire-z"
+        }
+      ]
+    },
+    {
+      "title": "xhcherry/GTA5-Stand-LuaAIO",
+      "url": "https://github.com/xhcherry/GTA5-Stand-LuaAIO",
+      "description": "GTA5 Mod Stand Lua All in One:快捷任务、crash、模组(人物|车辆|地图|模型)、娱乐等多种拓展功能玩法的lua脚本",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "753",
+      "forks": "375",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/83774342?s=40&v=4",
+          "name": "xhcherry",
+          "url": "https://github.com/xhcherry"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/134359306?s=40&v=4",
+          "name": "KOROLyt",
+          "url": "https://github.com/KOROLyt"
         }
       ]
     }

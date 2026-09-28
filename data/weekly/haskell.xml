@@ -3,7 +3,7 @@
     <title>GitHub Haskell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Haskell Languages in GitHub</description>
-    <pubDate>Mon, 28 Sep 2026 06:51:29 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 13:17:43 GMT</pubDate>
     <item>
       <title>jgm/pandoc</title>
       <link>https://github.com/jgm/pandoc</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/jgm/pandoc</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>46,426</stars>
-      <forks>5,100</forks>
+      <stars>46,432</stars>
+      <forks>5,113</forks>
       <addStars>88</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/hadolint/hadolint</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>12,433</stars>
+      <stars>12,437</stars>
       <forks>504</forks>
       <addStars>16</addStars>
       <contributors>
@@ -72,6 +72,44 @@
           <avatar>https://avatars.githubusercontent.com/u/18702153?s=40&amp;v=4</avatar>
           <name>zemanlx</name>
           <url>https://github.com/zemanlx</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>ShellCheck, a static analysis tool for shell scripts</description>
+      <guid>https://github.com/koalaman/shellcheck</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>40,092</stars>
+      <forks>1,951</forks>
+      <addStars>40</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2818758?s=40&amp;v=4</avatar>
+          <name>koalaman</name>
+          <url>https://github.com/koalaman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16061266?s=40&amp;v=4</avatar>
+          <name>josephcsible</name>
+          <url>https://github.com/josephcsible</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1749303?s=40&amp;v=4</avatar>
+          <name>ngzhian</name>
+          <url>https://github.com/ngzhian</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11627708?s=40&amp;v=4</avatar>
+          <name>e-kwsm</name>
+          <url>https://github.com/e-kwsm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1451663?s=40&amp;v=4</avatar>
+          <name>contivero</name>
+          <url>https://github.com/contivero</url>
         </contributor>
       </contributors>
     </item>
@@ -105,39 +143,6 @@
           <avatar>https://avatars.githubusercontent.com/u/13564?s=40&amp;v=4</avatar>
           <name>ezyang</name>
           <url>https://github.com/ezyang</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>IntersectMBO/cardano-node</title>
-      <link>https://github.com/IntersectMBO/cardano-node</link>
-      <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
-      <guid>https://github.com/IntersectMBO/cardano-node</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>3,180</stars>
-      <forks>756</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9418537?s=40&amp;v=4</avatar>
-          <name>Jimbo4350</name>
-          <url>https://github.com/Jimbo4350</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63014?s=40&amp;v=4</avatar>
-          <name>newhoggy</name>
-          <url>https://github.com/newhoggy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
-          <name>dcoutts</name>
-          <url>https://github.com/dcoutts</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/452652?s=40&amp;v=4</avatar>
-          <name>deepfire</name>
-          <url>https://github.com/deepfire</url>
         </contributor>
       </contributors>
     </item>
@@ -256,6 +261,39 @@
       </contributors>
     </item>
     <item>
+      <title>IntersectMBO/cardano-node</title>
+      <link>https://github.com/IntersectMBO/cardano-node</link>
+      <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
+      <guid>https://github.com/IntersectMBO/cardano-node</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>3,180</stars>
+      <forks>756</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9418537?s=40&amp;v=4</avatar>
+          <name>Jimbo4350</name>
+          <url>https://github.com/Jimbo4350</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63014?s=40&amp;v=4</avatar>
+          <name>newhoggy</name>
+          <url>https://github.com/newhoggy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
+          <name>dcoutts</name>
+          <url>https://github.com/dcoutts</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/452652?s=40&amp;v=4</avatar>
+          <name>deepfire</name>
+          <url>https://github.com/deepfire</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>haskell/haskell-language-server</title>
       <link>https://github.com/haskell/haskell-language-server</link>
       <description>Official Haskell IDE support via the language server protocol (LSP)</description>
@@ -289,51 +327,13 @@
       </contributors>
     </item>
     <item>
-      <title>koalaman/shellcheck</title>
-      <link>https://github.com/koalaman/shellcheck</link>
-      <description>ShellCheck, a static analysis tool for shell scripts</description>
-      <guid>https://github.com/koalaman/shellcheck</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>40,090</stars>
-      <forks>1,951</forks>
-      <addStars>40</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2818758?s=40&amp;v=4</avatar>
-          <name>koalaman</name>
-          <url>https://github.com/koalaman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16061266?s=40&amp;v=4</avatar>
-          <name>josephcsible</name>
-          <url>https://github.com/josephcsible</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1749303?s=40&amp;v=4</avatar>
-          <name>ngzhian</name>
-          <url>https://github.com/ngzhian</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11627708?s=40&amp;v=4</avatar>
-          <name>e-kwsm</name>
-          <url>https://github.com/e-kwsm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1451663?s=40&amp;v=4</avatar>
-          <name>contivero</name>
-          <url>https://github.com/contivero</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>PostgREST/postgrest</title>
       <link>https://github.com/PostgREST/postgrest</link>
       <description>REST API for any Postgres database</description>
       <guid>https://github.com/PostgREST/postgrest</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>27,684</stars>
+      <stars>27,685</stars>
       <forks>1,229</forks>
       <addStars>16</addStars>
       <contributors>
@@ -361,39 +361,6 @@
           <avatar>https://avatars.githubusercontent.com/u/18169764?s=40&amp;v=4</avatar>
           <name>laurenceisla</name>
           <url>https://github.com/laurenceisla</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>digital-asset/daml</title>
-      <link>https://github.com/digital-asset/daml</link>
-      <description>The Daml smart contract language</description>
-      <guid>https://github.com/digital-asset/daml</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>917</stars>
-      <forks>263</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1313584?s=40&amp;v=4</avatar>
-          <name>cocreature</name>
-          <url>https://github.com/cocreature</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45566104?s=40&amp;v=4</avatar>
-          <name>remyhaemmerle-da</name>
-          <url>https://github.com/remyhaemmerle-da</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45561385?s=40&amp;v=4</avatar>
-          <name>garyverhaegen-da</name>
-          <url>https://github.com/garyverhaegen-da</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43749967?s=40&amp;v=4</avatar>
-          <name>stefanobaghino-da</name>
-          <url>https://github.com/stefanobaghino-da</url>
         </contributor>
       </contributors>
     </item>

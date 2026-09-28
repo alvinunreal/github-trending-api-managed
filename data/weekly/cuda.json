@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 06:51:29 GMT",
+  "pubDate": "Mon, 28 Sep 2026 13:17:43 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepEP",
@@ -10,8 +10,8 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,216",
-      "forks": "1,451",
+      "stars": "10,217",
+      "forks": "1,452",
       "addStars": "44",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,252",
+      "stars": "1,253",
       "forks": "107",
       "addStars": "78",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,513",
-      "forks": "1,503",
+      "stars": "6,516",
+      "forks": "1,506",
       "addStars": "53",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,052",
+      "stars": "1,053",
       "forks": "238",
       "addStars": "9",
       "contributors": [
@@ -190,113 +190,39 @@
       ]
     },
     {
-      "title": "karpathy/llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "NVlabs/instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,066",
-      "forks": "3,765",
-      "addStars": "44",
+      "stars": "17,565",
+      "forks": "2,068",
+      "addStars": "12",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
-          "name": "karpathy",
-          "url": "https://github.com/karpathy"
+          "avatar": "https://avatars.githubusercontent.com/u/4923655?s=40&v=4",
+          "name": "Tom94",
+          "url": "https://github.com/Tom94"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
-          "name": "ngc92",
-          "url": "https://github.com/ngc92"
+          "avatar": "https://avatars.githubusercontent.com/u/7601391?s=40&v=4",
+          "name": "FlorisE",
+          "url": "https://github.com/FlorisE"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
-          "name": "gordicaleksa",
-          "url": "https://github.com/gordicaleksa"
+          "avatar": "https://avatars.githubusercontent.com/u/29726242?s=40&v=4",
+          "name": "jc211",
+          "url": "https://github.com/jc211"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
-          "name": "ademeure",
-          "url": "https://github.com/ademeure"
+          "avatar": "https://avatars.githubusercontent.com/u/24607227?s=40&v=4",
+          "name": "ziyi-zhang",
+          "url": "https://github.com/ziyi-zhang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
-          "name": "rosslwheeler",
-          "url": "https://github.com/rosslwheeler"
-        }
-      ]
-    },
-    {
-      "title": "NVIDIA/nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "1,668",
-      "forks": "409",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
-          "name": "AddyLaddy",
-          "url": "https://github.com/AddyLaddy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
-          "name": "sjeaugey",
-          "url": "https://github.com/sjeaugey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24571836?s=40&v=4",
-          "name": "shanedsnyder",
-          "url": "https://github.com/shanedsnyder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29100714?s=40&v=4",
-          "name": "kgioioso",
-          "url": "https://github.com/kgioioso"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2293859?s=40&v=4",
-          "name": "jbachan",
-          "url": "https://github.com/jbachan"
-        }
-      ]
-    },
-    {
-      "title": "BBuf/how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "3,293",
-      "forks": "292",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35585791?s=40&v=4",
-          "name": "BBuf",
-          "url": "https://github.com/BBuf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67543126?s=40&v=4",
-          "name": "peakcrosser7",
-          "url": "https://github.com/peakcrosser7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
-          "name": "Dessalines39394",
-          "url": "https://github.com/Dessalines39394"
+          "avatar": "https://avatars.githubusercontent.com/u/7057863?s=40&v=4",
+          "name": "yenchenlin",
+          "url": "https://github.com/yenchenlin"
         }
       ]
     }

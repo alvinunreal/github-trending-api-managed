@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Mon, 28 Sep 2026 06:51:29 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 13:17:43 GMT</pubDate>
     <item>
       <title>bazelbuild/bazel-central-registry</title>
       <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -218,77 +218,6 @@
       </contributors>
     </item>
     <item>
-      <title>grpc/grpc-proto</title>
-      <link>https://github.com/grpc/grpc-proto</link>
-      <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
-      <guid>https://github.com/grpc/grpc-proto</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>295</stars>
-      <forks>115</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2819812?s=40&amp;v=4</avatar>
-          <name>zpencer</name>
-          <url>https://github.com/zpencer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2811396?s=40&amp;v=4</avatar>
-          <name>ejona86</name>
-          <url>https://github.com/ejona86</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8943572?s=40&amp;v=4</avatar>
-          <name>carl-mastrangelo</name>
-          <url>https://github.com/carl-mastrangelo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18664614?s=40&amp;v=4</avatar>
-          <name>markdroth</name>
-          <url>https://github.com/markdroth</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1638487?s=40&amp;v=4</avatar>
-          <name>easwars</name>
-          <url>https://github.com/easwars</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bazel-contrib/toolchains_llvm</title>
-      <link>https://github.com/bazel-contrib/toolchains_llvm</link>
-      <description>LLVM toolchain for bazel</description>
-      <guid>https://github.com/bazel-contrib/toolchains_llvm</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>372</stars>
-      <forks>283</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6420169?s=40&amp;v=4</avatar>
-          <name>helly25</name>
-          <url>https://github.com/helly25</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1929612?s=40&amp;v=4</avatar>
-          <name>siddharthab</name>
-          <url>https://github.com/siddharthab</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1565842?s=40&amp;v=4</avatar>
-          <name>dzbarsky</name>
-          <url>https://github.com/dzbarsky</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>cel-expr/cel-spec</title>
       <link>https://github.com/cel-expr/cel-spec</link>
       <description>Common Expression Language -- specification and binary representation</description>
@@ -327,35 +256,73 @@
       </contributors>
     </item>
     <item>
-      <title>GoogleContainerTools/distroless</title>
-      <link>https://github.com/GoogleContainerTools/distroless</link>
-      <description>🥑 Language focused docker images, minus the operating system.</description>
-      <guid>https://github.com/GoogleContainerTools/distroless</guid>
+      <title>bazel-contrib/toolchains_llvm</title>
+      <link>https://github.com/bazel-contrib/toolchains_llvm</link>
+      <description>LLVM toolchain for bazel</description>
+      <guid>https://github.com/bazel-contrib/toolchains_llvm</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>23,100</stars>
-      <forks>1,437</forks>
-      <addStars>80</addStars>
+      <stars>372</stars>
+      <forks>283</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1304826?s=40&amp;v=4</avatar>
-          <name>loosebazooka</name>
-          <url>https://github.com/loosebazooka</url>
+          <avatar>https://avatars.githubusercontent.com/u/6420169?s=40&amp;v=4</avatar>
+          <name>helly25</name>
+          <url>https://github.com/helly25</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1681525?s=40&amp;v=4</avatar>
-          <name>omBratteng</name>
-          <url>https://github.com/omBratteng</url>
+          <avatar>https://avatars.githubusercontent.com/u/1929612?s=40&amp;v=4</avatar>
+          <name>siddharthab</name>
+          <url>https://github.com/siddharthab</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10523105?s=40&amp;v=4</avatar>
-          <name>chanseokoh</name>
-          <url>https://github.com/chanseokoh</url>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99663502?s=40&amp;v=4</avatar>
-          <name>distroless-bot</name>
-          <url>https://github.com/distroless-bot</url>
+          <avatar>https://avatars.githubusercontent.com/u/1565842?s=40&amp;v=4</avatar>
+          <name>dzbarsky</name>
+          <url>https://github.com/dzbarsky</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>grpc/grpc-proto</title>
+      <link>https://github.com/grpc/grpc-proto</link>
+      <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
+      <guid>https://github.com/grpc/grpc-proto</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>295</stars>
+      <forks>115</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2819812?s=40&amp;v=4</avatar>
+          <name>zpencer</name>
+          <url>https://github.com/zpencer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2811396?s=40&amp;v=4</avatar>
+          <name>ejona86</name>
+          <url>https://github.com/ejona86</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8943572?s=40&amp;v=4</avatar>
+          <name>carl-mastrangelo</name>
+          <url>https://github.com/carl-mastrangelo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18664614?s=40&amp;v=4</avatar>
+          <name>markdroth</name>
+          <url>https://github.com/markdroth</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1638487?s=40&amp;v=4</avatar>
+          <name>easwars</name>
+          <url>https://github.com/easwars</url>
         </contributor>
       </contributors>
     </item>
@@ -398,6 +365,72 @@
       </contributors>
     </item>
     <item>
+      <title>bazel-contrib/rules_python</title>
+      <link>https://github.com/bazel-contrib/rules_python</link>
+      <description>Bazel Python Rules</description>
+      <guid>https://github.com/bazel-contrib/rules_python</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>690</stars>
+      <forks>723</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34175098?s=40&amp;v=4</avatar>
+          <name>rickeylev</name>
+          <url>https://github.com/rickeylev</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/240938?s=40&amp;v=4</avatar>
+          <name>aignas</name>
+          <url>https://github.com/aignas</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
+          <name>f0rmiga</name>
+          <url>https://github.com/f0rmiga</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
+          <name>UebelAndre</name>
+          <url>https://github.com/UebelAndre</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>🥑 Language focused docker images, minus the operating system.</description>
+      <guid>https://github.com/GoogleContainerTools/distroless</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>23,105</stars>
+      <forks>1,437</forks>
+      <addStars>80</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1304826?s=40&amp;v=4</avatar>
+          <name>loosebazooka</name>
+          <url>https://github.com/loosebazooka</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1681525?s=40&amp;v=4</avatar>
+          <name>omBratteng</name>
+          <url>https://github.com/omBratteng</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10523105?s=40&amp;v=4</avatar>
+          <name>chanseokoh</name>
+          <url>https://github.com/chanseokoh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99663502?s=40&amp;v=4</avatar>
+          <name>distroless-bot</name>
+          <url>https://github.com/distroless-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>openconfig/gnoi</title>
       <link>https://github.com/openconfig/gnoi</link>
       <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
@@ -436,101 +469,30 @@
       </contributors>
     </item>
     <item>
-      <title>bazel-contrib/rules_python</title>
-      <link>https://github.com/bazel-contrib/rules_python</link>
-      <description>Bazel Python Rules</description>
-      <guid>https://github.com/bazel-contrib/rules_python</guid>
+      <title>immich-app/immich-charts</title>
+      <link>https://github.com/immich-app/immich-charts</link>
+      <description>Helm chart implementation of Immich</description>
+      <guid>https://github.com/immich-app/immich-charts</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>690</stars>
-      <forks>723</forks>
-      <addStars>4</addStars>
+      <stars>354</stars>
+      <forks>115</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34175098?s=40&amp;v=4</avatar>
-          <name>rickeylev</name>
-          <url>https://github.com/rickeylev</url>
+          <avatar>https://avatars.githubusercontent.com/u/11602424?s=40&amp;v=4</avatar>
+          <name>bo0tzz</name>
+          <url>https://github.com/bo0tzz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/240938?s=40&amp;v=4</avatar>
-          <name>aignas</name>
-          <url>https://github.com/aignas</url>
+          <avatar>https://avatars.githubusercontent.com/u/5434875?s=40&amp;v=4</avatar>
+          <name>PixelJonas</name>
+          <url>https://github.com/PixelJonas</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
-          <name>f0rmiga</name>
-          <url>https://github.com/f0rmiga</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
-          <name>UebelAndre</name>
-          <url>https://github.com/UebelAndre</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>aspect-build/rules_py</title>
-      <link>https://github.com/aspect-build/rules_py</link>
-      <description>More compatible Bazel rules for running Python tools and building Python projects</description>
-      <guid>https://github.com/aspect-build/rules_py</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>148</stars>
-      <forks>98</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89246?s=40&amp;v=4</avatar>
-          <name>jbedard</name>
-          <url>https://github.com/jbedard</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/704767?s=40&amp;v=4</avatar>
-          <name>arrdem</name>
-          <url>https://github.com/arrdem</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13787208?s=40&amp;v=4</avatar>
-          <name>xangcastle</name>
-          <url>https://github.com/xangcastle</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>googleapis/api-common-protos</title>
-      <link>https://github.com/googleapis/api-common-protos</link>
-      <description>A standard library for use in specifying protocol buffer APIs.</description>
-      <guid>https://github.com/googleapis/api-common-protos</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>265</stars>
-      <forks>59</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11670828?s=40&amp;v=4</avatar>
-          <name>ethanbao</name>
-          <url>https://github.com/ethanbao</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21183283?s=40&amp;v=4</avatar>
-          <name>googleapis-publisher</name>
-          <url>https://github.com/googleapis-publisher</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4346?s=40&amp;v=4</avatar>
-          <name>lukesneeringer</name>
-          <url>https://github.com/lukesneeringer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2960535?s=40&amp;v=4</avatar>
-          <name>software-dov</name>
-          <url>https://github.com/software-dov</url>
+          <avatar>https://avatars.githubusercontent.com/u/8062692?s=40&amp;v=4</avatar>
+          <name>orbatschow</name>
+          <url>https://github.com/orbatschow</url>
         </contributor>
       </contributors>
     </item>
@@ -568,68 +530,35 @@
       </contributors>
     </item>
     <item>
-      <title>aspect-build/aspect-cli</title>
-      <link>https://github.com/aspect-build/aspect-cli</link>
-      <description>{ Correct, Fast, Usable } -- Choose three</description>
-      <guid>https://github.com/aspect-build/aspect-cli</guid>
+      <title>googleapis/api-common-protos</title>
+      <link>https://github.com/googleapis/api-common-protos</link>
+      <description>A standard library for use in specifying protocol buffer APIs.</description>
+      <guid>https://github.com/googleapis/api-common-protos</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>167</stars>
-      <forks>45</forks>
-      <addStars>5</addStars>
+      <stars>265</stars>
+      <forks>59</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/520826?s=40&amp;v=4</avatar>
-          <name>gregmagolan</name>
-          <url>https://github.com/gregmagolan</url>
+          <avatar>https://avatars.githubusercontent.com/u/11670828?s=40&amp;v=4</avatar>
+          <name>ethanbao</name>
+          <url>https://github.com/ethanbao</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89246?s=40&amp;v=4</avatar>
-          <name>jbedard</name>
-          <url>https://github.com/jbedard</url>
+          <avatar>https://avatars.githubusercontent.com/u/21183283?s=40&amp;v=4</avatar>
+          <name>googleapis-publisher</name>
+          <url>https://github.com/googleapis-publisher</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/4346?s=40&amp;v=4</avatar>
+          <name>lukesneeringer</name>
+          <url>https://github.com/lukesneeringer</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20563340?s=40&amp;v=4</avatar>
-          <name>thesayyn</name>
-          <url>https://github.com/thesayyn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
-          <name>f0rmiga</name>
-          <url>https://github.com/f0rmiga</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>immich-app/immich-charts</title>
-      <link>https://github.com/immich-app/immich-charts</link>
-      <description>Helm chart implementation of Immich</description>
-      <guid>https://github.com/immich-app/immich-charts</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>353</stars>
-      <forks>115</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11602424?s=40&amp;v=4</avatar>
-          <name>bo0tzz</name>
-          <url>https://github.com/bo0tzz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5434875?s=40&amp;v=4</avatar>
-          <name>PixelJonas</name>
-          <url>https://github.com/PixelJonas</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8062692?s=40&amp;v=4</avatar>
-          <name>orbatschow</name>
-          <url>https://github.com/orbatschow</url>
+          <avatar>https://avatars.githubusercontent.com/u/2960535?s=40&amp;v=4</avatar>
+          <name>software-dov</name>
+          <url>https://github.com/software-dov</url>
         </contributor>
       </contributors>
     </item>

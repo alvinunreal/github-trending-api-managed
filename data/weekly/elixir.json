@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Weekly Trending",
   "description": "Weekly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 06:51:29 GMT",
+  "pubDate": "Mon, 28 Sep 2026 13:17:43 GMT",
   "items": [
     {
       "title": "ash-project/ash",
@@ -74,43 +74,6 @@
       ]
     },
     {
-      "title": "openai/symphony",
-      "url": "https://github.com/openai/symphony",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "27,447",
-      "forks": "2,843",
-      "addStars": "136",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/189043716?s=40&v=4",
-          "name": "frantic-openai",
-          "url": "https://github.com/frantic-openai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-          "name": "codex",
-          "url": "https://github.com/codex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/257629015?s=40&v=4",
-          "name": "sharmila-oai",
-          "url": "https://github.com/sharmila-oai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/201815723?s=40&v=4",
-          "name": "hintz-openai",
-          "url": "https://github.com/hintz-openai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/247462522?s=40&v=4",
-          "name": "yansenzhou-oai",
-          "url": "https://github.com/yansenzhou-oai"
-        }
-      ]
-    },
-    {
       "title": "elixir-lsp/elixir_sense",
       "url": "https://github.com/elixir-lsp/elixir_sense",
       "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
@@ -148,12 +111,44 @@
       ]
     },
     {
+      "title": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "9,044",
+      "forks": "1,007",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
+          "name": "adriankumpf",
+          "url": "https://github.com/adriankumpf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
+          "name": "JakobLichterfeld",
+          "url": "https://github.com/JakobLichterfeld"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
+          "name": "swiffer",
+          "url": "https://github.com/swiffer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "tuist/tuist",
       "url": "https://github.com/tuist/tuist",
       "description": "Your platform team, as a service",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "5,815",
+      "stars": "5,818",
       "forks": "782",
       "addStars": "4",
       "contributors": [
@@ -181,7 +176,7 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": "7,644",
-      "forks": "468",
+      "forks": "469",
       "addStars": "10",
       "contributors": [
         {
@@ -212,12 +207,49 @@
       ]
     },
     {
+      "title": "openai/symphony",
+      "url": "https://github.com/openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "27,454",
+      "forks": "2,843",
+      "addStars": "136",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/189043716?s=40&v=4",
+          "name": "frantic-openai",
+          "url": "https://github.com/frantic-openai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/257629015?s=40&v=4",
+          "name": "sharmila-oai",
+          "url": "https://github.com/sharmila-oai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/201815723?s=40&v=4",
+          "name": "hintz-openai",
+          "url": "https://github.com/hintz-openai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/247462522?s=40&v=4",
+          "name": "yansenzhou-oai",
+          "url": "https://github.com/yansenzhou-oai"
+        }
+      ]
+    },
+    {
       "title": "blockscout/blockscout",
       "url": "https://github.com/blockscout/blockscout",
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "4,717",
+      "stars": "4,716",
       "forks": "3,188",
       "addStars": "14",
       "contributors": [
@@ -240,38 +272,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/298259?s=40&v=4",
           "name": "KronicDeth",
           "url": "https://github.com/KronicDeth"
-        }
-      ]
-    },
-    {
-      "title": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "9,044",
-      "forks": "1,007",
-      "addStars": "34",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
-          "name": "adriankumpf",
-          "url": "https://github.com/adriankumpf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
-          "name": "JakobLichterfeld",
-          "url": "https://github.com/JakobLichterfeld"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
-          "name": "swiffer",
-          "url": "https://github.com/swiffer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     },
@@ -350,38 +350,6 @@
       ]
     },
     {
-      "title": "firezone/firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Blazing-fast remote access",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "9,105",
-      "forks": "461",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/167144?s=40&v=4",
-          "name": "jamilbk",
-          "url": "https://github.com/jamilbk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5486389?s=40&v=4",
-          "name": "thomaseizinger",
-          "url": "https://github.com/thomaseizinger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1877644?s=40&v=4",
-          "name": "AndrewDryga",
-          "url": "https://github.com/AndrewDryga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "Tymeslot/tymeslot",
       "url": "https://github.com/Tymeslot/tymeslot",
       "description": "Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.",
@@ -447,6 +415,70 @@
           "avatar": "https://avatars.githubusercontent.com/u/4116351?s=40&v=4",
           "name": "SteffenDE",
           "url": "https://github.com/SteffenDE"
+        }
+      ]
+    },
+    {
+      "title": "firezone/firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Blazing-fast remote access",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "9,105",
+      "forks": "461",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/167144?s=40&v=4",
+          "name": "jamilbk",
+          "url": "https://github.com/jamilbk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5486389?s=40&v=4",
+          "name": "thomaseizinger",
+          "url": "https://github.com/thomaseizinger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1877644?s=40&v=4",
+          "name": "AndrewDryga",
+          "url": "https://github.com/AndrewDryga"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "plausible/analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "29,243",
+      "forks": "1,880",
+      "addStars": "76",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
+          "name": "ukutaht",
+          "url": "https://github.com/ukutaht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
+          "name": "aerosol",
+          "url": "https://github.com/aerosol"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
+          "name": "zoldar",
+          "url": "https://github.com/zoldar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
+          "name": "RobertJoonas",
+          "url": "https://github.com/RobertJoonas"
         }
       ]
     }
