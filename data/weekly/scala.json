@@ -2,52 +2,15 @@
   "title": "GitHub Scala Languages Weekly Trending",
   "description": "Weekly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 07:17:42 GMT",
+  "pubDate": "Wed, 30 Sep 2026 13:18:00 GMT",
   "items": [
-    {
-      "title": "apache/spark",
-      "url": "https://github.com/apache/spark",
-      "description": "Apache Spark - A unified analytics engine for large-scale data processing",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "44,089",
-      "forks": "29,400",
-      "addStars": "80",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9700541?s=40&v=4",
-          "name": "dongjoon-hyun",
-          "url": "https://github.com/dongjoon-hyun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6477701?s=40&v=4",
-          "name": "HyukjinKwon",
-          "url": "https://github.com/HyukjinKwon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7322292?s=40&v=4",
-          "name": "zhengruifeng",
-          "url": "https://github.com/zhengruifeng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/228859?s=40&v=4",
-          "name": "mateiz",
-          "url": "https://github.com/mateiz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3182036?s=40&v=4",
-          "name": "cloud-fan",
-          "url": "https://github.com/cloud-fan"
-        }
-      ]
-    },
     {
       "title": "lichess-org/lila",
       "url": "https://github.com/lichess-org/lila",
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "18,785",
+      "stars": "18,787",
       "forks": "2,808",
       "addStars": "30",
       "contributors": [
@@ -75,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/19309705?s=40&v=4",
           "name": "benediktwerner",
           "url": "https://github.com/benediktwerner"
+        }
+      ]
+    },
+    {
+      "title": "apache/spark",
+      "url": "https://github.com/apache/spark",
+      "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "44,091",
+      "forks": "29,400",
+      "addStars": "80",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9700541?s=40&v=4",
+          "name": "dongjoon-hyun",
+          "url": "https://github.com/dongjoon-hyun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6477701?s=40&v=4",
+          "name": "HyukjinKwon",
+          "url": "https://github.com/HyukjinKwon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7322292?s=40&v=4",
+          "name": "zhengruifeng",
+          "url": "https://github.com/zhengruifeng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/228859?s=40&v=4",
+          "name": "mateiz",
+          "url": "https://github.com/mateiz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3182036?s=40&v=4",
+          "name": "cloud-fan",
+          "url": "https://github.com/cloud-fan"
         }
       ]
     },
@@ -143,43 +143,6 @@
       ]
     },
     {
-      "title": "apache/gluten",
-      "url": "https://github.com/apache/gluten",
-      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "1,603",
-      "forks": "661",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11284395?s=40&v=4",
-          "name": "zhztheplayer",
-          "url": "https://github.com/zhztheplayer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/137994563?s=40&v=4",
-          "name": "GlutenPerfBot",
-          "url": "https://github.com/GlutenPerfBot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13806761?s=40&v=4",
-          "name": "philo-he",
-          "url": "https://github.com/philo-he"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43917?s=40&v=4",
-          "name": "zhouyuan",
-          "url": "https://github.com/zhouyuan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52736607?s=40&v=4",
-          "name": "marin-ma",
-          "url": "https://github.com/marin-ma"
-        }
-      ]
-    },
-    {
       "title": "akka/akka-core",
       "url": "https://github.com/akka/akka-core",
       "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
@@ -213,6 +176,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/666915?s=40&v=4",
           "name": "johanandren",
           "url": "https://github.com/johanandren"
+        }
+      ]
+    },
+    {
+      "title": "apache/gluten",
+      "url": "https://github.com/apache/gluten",
+      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "1,603",
+      "forks": "661",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11284395?s=40&v=4",
+          "name": "zhztheplayer",
+          "url": "https://github.com/zhztheplayer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/137994563?s=40&v=4",
+          "name": "GlutenPerfBot",
+          "url": "https://github.com/GlutenPerfBot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13806761?s=40&v=4",
+          "name": "philo-he",
+          "url": "https://github.com/philo-he"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43917?s=40&v=4",
+          "name": "zhouyuan",
+          "url": "https://github.com/zhouyuan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52736607?s=40&v=4",
+          "name": "marin-ma",
+          "url": "https://github.com/marin-ma"
         }
       ]
     },
@@ -254,39 +254,39 @@
       ]
     },
     {
-      "title": "scalameta/metals",
-      "url": "https://github.com/scalameta/metals",
-      "description": "Scala language server with rich IDE features 🚀",
+      "title": "delta-io/delta",
+      "url": "https://github.com/delta-io/delta",
+      "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "2,332",
-      "forks": "444",
-      "addStars": "1",
+      "stars": "9,032",
+      "forks": "2,189",
+      "addStars": "17",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3807253?s=40&v=4",
-          "name": "tgodzik",
-          "url": "https://github.com/tgodzik"
+          "avatar": "https://avatars.githubusercontent.com/u/59617782?s=40&v=4",
+          "name": "scottsand-db",
+          "url": "https://github.com/scottsand-db"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1408093?s=40&v=4",
-          "name": "olafurpg",
-          "url": "https://github.com/olafurpg"
+          "avatar": "https://avatars.githubusercontent.com/u/89107911?s=40&v=4",
+          "name": "allisonport-db",
+          "url": "https://github.com/allisonport-db"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13974112?s=40&v=4",
-          "name": "ckipp01",
-          "url": "https://github.com/ckipp01"
+          "avatar": "https://avatars.githubusercontent.com/u/1719945?s=40&v=4",
+          "name": "vkorukanti",
+          "url": "https://github.com/vkorukanti"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50175807?s=40&v=4",
-          "name": "scalameta-bot",
-          "url": "https://github.com/scalameta-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/1000778?s=40&v=4",
+          "name": "zsxwing",
+          "url": "https://github.com/zsxwing"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43047562?s=40&v=4",
-          "name": "scala-steward",
-          "url": "https://github.com/scala-steward"
+          "avatar": "https://avatars.githubusercontent.com/u/2551496?s=40&v=4",
+          "name": "prakharjain09",
+          "url": "https://github.com/prakharjain09"
         }
       ]
     },
@@ -328,70 +328,6 @@
       ]
     },
     {
-      "title": "delta-io/delta",
-      "url": "https://github.com/delta-io/delta",
-      "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "9,032",
-      "forks": "2,189",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59617782?s=40&v=4",
-          "name": "scottsand-db",
-          "url": "https://github.com/scottsand-db"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89107911?s=40&v=4",
-          "name": "allisonport-db",
-          "url": "https://github.com/allisonport-db"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1719945?s=40&v=4",
-          "name": "vkorukanti",
-          "url": "https://github.com/vkorukanti"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1000778?s=40&v=4",
-          "name": "zsxwing",
-          "url": "https://github.com/zsxwing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2551496?s=40&v=4",
-          "name": "prakharjain09",
-          "url": "https://github.com/prakharjain09"
-        }
-      ]
-    },
-    {
-      "title": "twitter/the-algorithm",
-      "url": "https://github.com/twitter/the-algorithm",
-      "description": "Source code for the X Recommendation Algorithm",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "73,954",
-      "forks": "13,277",
-      "addStars": "34",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&v=4",
-          "name": "dzhao",
-          "url": "https://github.com/dzhao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&v=4",
-          "name": "pouriya",
-          "url": "https://github.com/pouriya"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&v=4",
-          "name": "anqueue",
-          "url": "https://github.com/anqueue"
-        }
-      ]
-    },
-    {
       "title": "apache/datafusion-comet",
       "url": "https://github.com/apache/datafusion-comet",
       "description": "Apache DataFusion Comet Spark Accelerator",
@@ -420,80 +356,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/10247224?s=40&v=4",
           "name": "comphead",
           "url": "https://github.com/comphead"
-        }
-      ]
-    },
-    {
-      "title": "chipsalliance/rocket-chip",
-      "url": "https://github.com/chipsalliance/rocket-chip",
-      "description": "Rocket Chip Generator",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "3,878",
-      "forks": "1,306",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1101706?s=40&v=4",
-          "name": "terpstra",
-          "url": "https://github.com/terpstra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1031106?s=40&v=4",
-          "name": "aswaterman",
-          "url": "https://github.com/aswaterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/461938?s=40&v=4",
-          "name": "hcook",
-          "url": "https://github.com/hcook"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/433799?s=40&v=4",
-          "name": "zhemao",
-          "url": "https://github.com/zhemao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17858596?s=40&v=4",
-          "name": "mwachs5",
-          "url": "https://github.com/mwachs5"
-        }
-      ]
-    },
-    {
-      "title": "scala/scala3",
-      "url": "https://github.com/scala/scala3",
-      "description": "The Scala 3 compiler, also known as Dotty.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "6,306",
-      "forks": "1,180",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/795990?s=40&v=4",
-          "name": "odersky",
-          "url": "https://github.com/odersky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3648029?s=40&v=4",
-          "name": "nicolasstucki",
-          "url": "https://github.com/nicolasstucki"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63430?s=40&v=4",
-          "name": "smarter",
-          "url": "https://github.com/smarter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/754633?s=40&v=4",
-          "name": "liufengyun",
-          "url": "https://github.com/liufengyun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1084930?s=40&v=4",
-          "name": "DarkDimius",
-          "url": "https://github.com/DarkDimius"
         }
       ]
     },
@@ -562,6 +424,43 @@
       ]
     },
     {
+      "title": "scala/scala3",
+      "url": "https://github.com/scala/scala3",
+      "description": "The Scala 3 compiler, also known as Dotty.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "6,306",
+      "forks": "1,180",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/795990?s=40&v=4",
+          "name": "odersky",
+          "url": "https://github.com/odersky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3648029?s=40&v=4",
+          "name": "nicolasstucki",
+          "url": "https://github.com/nicolasstucki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63430?s=40&v=4",
+          "name": "smarter",
+          "url": "https://github.com/smarter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/754633?s=40&v=4",
+          "name": "liufengyun",
+          "url": "https://github.com/liufengyun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1084930?s=40&v=4",
+          "name": "DarkDimius",
+          "url": "https://github.com/DarkDimius"
+        }
+      ]
+    },
+    {
       "title": "chipsalliance/chisel",
       "url": "https://github.com/chipsalliance/chisel",
       "description": "Chisel: A Modern Hardware Design Language",
@@ -589,34 +488,103 @@
       ]
     },
     {
-      "title": "playframework/playframework",
-      "url": "https://github.com/playframework/playframework",
-      "description": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+      "title": "OpenXiangShan/XiangShan",
+      "url": "https://github.com/OpenXiangShan/XiangShan",
+      "description": "Open-source high-performance RISC-V processor",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "12,617",
-      "forks": "4,016",
-      "addStars": "1",
+      "stars": "7,284",
+      "forks": "952",
+      "addStars": "13",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/644927?s=40&v=4",
-          "name": "mkurz",
-          "url": "https://github.com/mkurz"
+          "avatar": "https://avatars.githubusercontent.com/u/14199583?s=40&v=4",
+          "name": "poemonsense",
+          "url": "https://github.com/poemonsense"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/105833?s=40&v=4",
-          "name": "jroper",
-          "url": "https://github.com/jroper"
+          "avatar": "https://avatars.githubusercontent.com/u/28356235?s=40&v=4",
+          "name": "AugustusWillisWang",
+          "url": "https://github.com/AugustusWillisWang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43047562?s=40&v=4",
-          "name": "scala-steward",
-          "url": "https://github.com/scala-steward"
+          "avatar": "https://avatars.githubusercontent.com/u/32027544?s=40&v=4",
+          "name": "Lingrui98",
+          "url": "https://github.com/Lingrui98"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4576?s=40&v=4",
-          "name": "marcospereira",
-          "url": "https://github.com/marcospereira"
+          "avatar": "https://avatars.githubusercontent.com/u/45601194?s=40&v=4",
+          "name": "ljwljwljwljw",
+          "url": "https://github.com/ljwljwljwljw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35767095?s=40&v=4",
+          "name": "Lemover",
+          "url": "https://github.com/Lemover"
+        }
+      ]
+    },
+    {
+      "title": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "73,954",
+      "forks": "13,277",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&v=4",
+          "name": "dzhao",
+          "url": "https://github.com/dzhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&v=4",
+          "name": "pouriya",
+          "url": "https://github.com/pouriya"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&v=4",
+          "name": "anqueue",
+          "url": "https://github.com/anqueue"
+        }
+      ]
+    },
+    {
+      "title": "scala/scala",
+      "url": "https://github.com/scala/scala",
+      "description": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "14,564",
+      "forks": "3,212",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9135?s=40&v=4",
+          "name": "paulp",
+          "url": "https://github.com/paulp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/119636?s=40&v=4",
+          "name": "lrytz",
+          "url": "https://github.com/lrytz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65551?s=40&v=4",
+          "name": "retronym",
+          "url": "https://github.com/retronym"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/91083?s=40&v=4",
+          "name": "adriaanm",
+          "url": "https://github.com/adriaanm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/795990?s=40&v=4",
+          "name": "odersky",
+          "url": "https://github.com/odersky"
         }
       ]
     },
@@ -649,43 +617,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/600102?s=40&v=4",
           "name": "nremond",
           "url": "https://github.com/nremond"
-        }
-      ]
-    },
-    {
-      "title": "MightyPirates/OpenComputers",
-      "url": "https://github.com/MightyPirates/OpenComputers",
-      "description": "Home of the OpenComputers mod for Minecraft.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "1,741",
-      "forks": "512",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/514903?s=40&v=4",
-          "name": "fnuecke",
-          "url": "https://github.com/fnuecke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6590223?s=40&v=4",
-          "name": "payonel",
-          "url": "https://github.com/payonel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113514?s=40&v=4",
-          "name": "asiekierka",
-          "url": "https://github.com/asiekierka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4135064?s=40&v=4",
-          "name": "Vexatos",
-          "url": "https://github.com/Vexatos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1130533?s=40&v=4",
-          "name": "lordjoda",
-          "url": "https://github.com/lordjoda"
         }
       ]
     }
