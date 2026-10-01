@@ -2,8 +2,45 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 01 Oct 2026 07:11:07 GMT",
+  "pubDate": "Thu, 01 Oct 2026 13:18:11 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules/terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "585",
+      "forks": "3,807",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
+          "name": "betajobot",
+          "url": "https://github.com/betajobot"
+        }
+      ]
+    },
     {
       "title": "antonputra/tutorials",
       "url": "https://github.com/antonputra/tutorials",
@@ -11,7 +48,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "4,693",
-      "forks": "3,111",
+      "forks": "3,110",
       "addStars": "3",
       "contributors": [
         {
@@ -38,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/105286180?s=40&v=4",
           "name": "techUdayMungalpara",
           "url": "https://github.com/techUdayMungalpara"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "3,271",
-      "forks": "4,627",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
-          "name": "DrFaust92",
-          "url": "https://github.com/DrFaust92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
         }
       ]
     },
@@ -116,14 +116,14 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "title": "terraform-aws-modules/terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "585",
-      "forks": "3,807",
-      "addStars": "0",
+      "stars": "3,271",
+      "forks": "4,627",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
@@ -141,9 +141,9 @@
           "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
+          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
+          "name": "DrFaust92",
+          "url": "https://github.com/DrFaust92"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
@@ -227,34 +227,39 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules/terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,281",
-      "forks": "1,289",
+      "stars": "119",
+      "forks": "203",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
+          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
+          "name": "betajobot",
+          "url": "https://github.com/betajobot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
         }
       ]
     },
@@ -291,19 +296,51 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "119",
-      "forks": "203",
+      "stars": "1,281",
+      "forks": "1,289",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        }
+      ]
+    },
+    {
+      "title": "terraform-aws-modules/terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "29",
+      "forks": "72",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
@@ -311,19 +348,19 @@
           "url": "https://github.com/semantic-release-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
           "name": "magreenbaum",
           "url": "https://github.com/magreenbaum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/901867?s=40&v=4",
+          "name": "FlorinAndrei",
+          "url": "https://github.com/FlorinAndrei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4600857?s=40&v=4",
+          "name": "adubkov",
+          "url": "https://github.com/adubkov"
         }
       ]
     }

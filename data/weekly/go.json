@@ -2,85 +2,16 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 01 Oct 2026 07:11:07 GMT",
+  "pubDate": "Thu, 01 Oct 2026 13:18:11 GMT",
   "items": [
-    {
-      "title": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "31,556",
-      "forks": "4,210",
-      "addStars": "2,227",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
-          "name": "lyingbug",
-          "url": "https://github.com/lyingbug"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
-          "name": "voidkey",
-          "url": "https://github.com/voidkey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
-          "name": "begoniezhao",
-          "url": "https://github.com/begoniezhao"
-        }
-      ]
-    },
-    {
-      "title": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "12,711",
-      "forks": "623",
-      "addStars": "3,814",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
-          "name": "rakyll",
-          "url": "https://github.com/rakyll"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11900208?s=40&v=4",
-          "name": "joycel-github",
-          "url": "https://github.com/joycel-github"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14038238?s=40&v=4",
-          "name": "wjjclaud",
-          "url": "https://github.com/wjjclaud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32556631?s=40&v=4",
-          "name": "anj-s",
-          "url": "https://github.com/anj-s"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106645026?s=40&v=4",
-          "name": "zbl94",
-          "url": "https://github.com/zbl94"
-        }
-      ]
-    },
     {
       "title": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,033",
-      "forks": "484",
+      "stars": "4,059",
+      "forks": "485",
       "addStars": "594",
       "contributors": [
         {
@@ -111,13 +42,119 @@
       ]
     },
     {
+      "title": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "12,750",
+      "forks": "625",
+      "addStars": "3,814",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
+          "name": "rakyll",
+          "url": "https://github.com/rakyll"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11900208?s=40&v=4",
+          "name": "joycel-github",
+          "url": "https://github.com/joycel-github"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14038238?s=40&v=4",
+          "name": "wjjclaud",
+          "url": "https://github.com/wjjclaud"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32556631?s=40&v=4",
+          "name": "anj-s",
+          "url": "https://github.com/anj-s"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106645026?s=40&v=4",
+          "name": "zbl94",
+          "url": "https://github.com/zbl94"
+        }
+      ]
+    },
+    {
+      "title": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "8,261",
+      "forks": "602",
+      "addStars": "785",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&v=4",
+          "name": "jefferai",
+          "url": "https://github.com/jefferai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&v=4",
+          "name": "vishalnayak",
+          "url": "https://github.com/vishalnayak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/914030?s=40&v=4",
+          "name": "cipherboy",
+          "url": "https://github.com/cipherboy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82990506?s=40&v=4",
+          "name": "hc-github-team-secure-vault-core",
+          "url": "https://github.com/hc-github-team-secure-vault-core"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&v=4",
+          "name": "armon",
+          "url": "https://github.com/armon"
+        }
+      ]
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "31,601",
+      "forks": "4,213",
+      "addStars": "2,227",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+          "name": "lyingbug",
+          "url": "https://github.com/lyingbug"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
+          "name": "voidkey",
+          "url": "https://github.com/voidkey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
+          "name": "begoniezhao",
+          "url": "https://github.com/begoniezhao"
+        }
+      ]
+    },
+    {
       "title": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "128,147",
-      "forks": "45,699",
+      "stars": "128,156",
+      "forks": "45,703",
       "addStars": "253",
       "contributors": [
         {
@@ -148,119 +185,13 @@
       ]
     },
     {
-      "title": "Asymptote-Labs/agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "1,723",
-      "forks": "151",
-      "addStars": "468",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13512741?s=40&v=4",
-          "name": "jqdsouza",
-          "url": "https://github.com/jqdsouza"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21977216?s=40&v=4",
-          "name": "shukieshah",
-          "url": "https://github.com/shukieshah"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7275943?s=40&v=4",
-          "name": "AnandSundar",
-          "url": "https://github.com/AnandSundar"
-        }
-      ]
-    },
-    {
-      "title": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "66,335",
-      "forks": "10,876",
-      "addStars": "158",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
-          "name": "fabxc",
-          "url": "https://github.com/fabxc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
-          "name": "juliusv",
-          "url": "https://github.com/juliusv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
-          "name": "beorn7",
-          "url": "https://github.com/beorn7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
-          "name": "bboreham",
-          "url": "https://github.com/bboreham"
-        }
-      ]
-    },
-    {
-      "title": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "139,105",
-      "forks": "20,963",
-      "addStars": "204",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104030?s=40&v=4",
-          "name": "rsc",
-          "url": "https://github.com/rsc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8528975?s=40&v=4",
-          "name": "griesemer",
-          "url": "https://github.com/griesemer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4324516?s=40&v=4",
-          "name": "robpike",
-          "url": "https://github.com/robpike"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3194333?s=40&v=4",
-          "name": "ianlancetaylor",
-          "url": "https://github.com/ianlancetaylor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
-          "name": "bradfitz",
-          "url": "https://github.com/bradfitz"
-        }
-      ]
-    },
-    {
       "title": "cockroachdb/cockroach",
       "url": "https://github.com/cockroachdb/cockroach",
       "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "32,539",
-      "forks": "4,124",
+      "stars": "32,540",
+      "forks": "4,125",
       "addStars": "58",
       "contributors": [
         {
@@ -296,7 +227,7 @@
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,969",
+      "stars": "6,975",
       "forks": "719",
       "addStars": "188",
       "contributors": [
@@ -328,76 +259,39 @@
       ]
     },
     {
-      "title": "flexprice/flexprice",
-      "url": "https://github.com/flexprice/flexprice",
-      "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access",
+      "title": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,918",
-      "forks": "995",
-      "addStars": "28",
+      "stars": "80,773",
+      "forks": "6,646",
+      "addStars": "148",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57660189?s=40&v=4",
-          "name": "omkar273",
-          "url": "https://github.com/omkar273"
+          "avatar": "https://avatars.githubusercontent.com/u/2662304?s=40&v=4",
+          "name": "ktsaou",
+          "url": "https://github.com/ktsaou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14962324?s=40&v=4",
-          "name": "nkmishra1997",
-          "url": "https://github.com/nkmishra1997"
+          "avatar": "https://avatars.githubusercontent.com/u/43409846?s=40&v=4",
+          "name": "netdatabot",
+          "url": "https://github.com/netdatabot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/22274335?s=40&v=4",
+          "name": "ilyam8",
+          "url": "https://github.com/ilyam8"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48189581?s=40&v=4",
-          "name": "DiabolusGX",
-          "url": "https://github.com/DiabolusGX"
+          "avatar": "https://avatars.githubusercontent.com/u/905151?s=40&v=4",
+          "name": "Ferroin",
+          "url": "https://github.com/Ferroin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/80444596?s=40&v=4",
-          "name": "hiteshshimpi-55",
-          "url": "https://github.com/hiteshshimpi-55"
-        }
-      ]
-    },
-    {
-      "title": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "8,255",
-      "forks": "602",
-      "addStars": "785",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&v=4",
-          "name": "jefferai",
-          "url": "https://github.com/jefferai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&v=4",
-          "name": "vishalnayak",
-          "url": "https://github.com/vishalnayak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/914030?s=40&v=4",
-          "name": "cipherboy",
-          "url": "https://github.com/cipherboy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82990506?s=40&v=4",
-          "name": "hc-github-team-secure-vault-core",
-          "url": "https://github.com/hc-github-team-secure-vault-core"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&v=4",
-          "name": "armon",
-          "url": "https://github.com/armon"
+          "avatar": "https://avatars.githubusercontent.com/u/52996999?s=40&v=4",
+          "name": "stelfrag",
+          "url": "https://github.com/stelfrag"
         }
       ]
     },
@@ -439,13 +333,183 @@
       ]
     },
     {
+      "title": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "1,728",
+      "forks": "151",
+      "addStars": "468",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13512741?s=40&v=4",
+          "name": "jqdsouza",
+          "url": "https://github.com/jqdsouza"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21977216?s=40&v=4",
+          "name": "shukieshah",
+          "url": "https://github.com/shukieshah"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7275943?s=40&v=4",
+          "name": "AnandSundar",
+          "url": "https://github.com/AnandSundar"
+        }
+      ]
+    },
+    {
+      "title": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "66,338",
+      "forks": "10,878",
+      "addStars": "158",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
+          "name": "fabxc",
+          "url": "https://github.com/fabxc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
+          "name": "juliusv",
+          "url": "https://github.com/juliusv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
+          "name": "beorn7",
+          "url": "https://github.com/beorn7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
+          "name": "bboreham",
+          "url": "https://github.com/bboreham"
+        }
+      ]
+    },
+    {
+      "title": "daeuniverse/dae",
+      "url": "https://github.com/daeuniverse/dae",
+      "description": "eBPF-based Linux high-performance transparent proxy solution.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "6,273",
+      "forks": "411",
+      "addStars": "48",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30586220?s=40&v=4",
+          "name": "mzz2017",
+          "url": "https://github.com/mzz2017"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31861128?s=40&v=4",
+          "name": "piyoki",
+          "url": "https://github.com/piyoki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/151038614?s=40&v=4",
+          "name": "sumire88",
+          "url": "https://github.com/sumire88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6435624?s=40&v=4",
+          "name": "jschwinger233",
+          "url": "https://github.com/jschwinger233"
+        }
+      ]
+    },
+    {
+      "title": "git-bug/git-bug",
+      "url": "https://github.com/git-bug/git-bug",
+      "description": "Distributed, offline-first bug tracker integrated in git",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "10,686",
+      "forks": "334",
+      "addStars": "630",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/294669?s=40&v=4",
+          "name": "MichaelMure",
+          "url": "https://github.com/MichaelMure"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10897901?s=40&v=4",
+          "name": "a-hilaly",
+          "url": "https://github.com/a-hilaly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1549952?s=40&v=4",
+          "name": "sandhose",
+          "url": "https://github.com/sandhose"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "lxc/incus",
+      "url": "https://github.com/lxc/incus",
+      "description": "Powerful system container and virtual machine manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "6,303",
+      "forks": "495",
+      "addStars": "64",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2230599?s=40&v=4",
+          "name": "stgraber",
+          "url": "https://github.com/stgraber"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/280181?s=40&v=4",
+          "name": "tomponline",
+          "url": "https://github.com/tomponline"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/598445?s=40&v=4",
+          "name": "freeekanayaka",
+          "url": "https://github.com/freeekanayaka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/244787?s=40&v=4",
+          "name": "monstermunchkin",
+          "url": "https://github.com/monstermunchkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1359441?s=40&v=4",
+          "name": "hallyn",
+          "url": "https://github.com/hallyn"
+        }
+      ]
+    },
+    {
       "title": "Armur-Ai/Pentest-Swarm-AI",
       "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,675",
-      "forks": "491",
+      "stars": "2,676",
+      "forks": "492",
       "addStars": "113",
       "contributors": [
         {
@@ -476,145 +540,172 @@
       ]
     },
     {
-      "title": "rakyll/hey",
-      "url": "https://github.com/rakyll/hey",
-      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "title": "Gentleman-Programming/gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "20,600",
-      "forks": "1,317",
-      "addStars": "322",
+      "stars": "7,447",
+      "forks": "820",
+      "addStars": "240",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
-          "name": "rakyll",
-          "url": "https://github.com/rakyll"
+          "avatar": "https://avatars.githubusercontent.com/u/6935240?s=40&v=4",
+          "name": "Alan-TheGentleman",
+          "url": "https://github.com/Alan-TheGentleman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1647551?s=40&v=4",
-          "name": "mdakin",
-          "url": "https://github.com/mdakin"
+          "avatar": "https://avatars.githubusercontent.com/u/111561081?s=40&v=4",
+          "name": "dnlrsls",
+          "url": "https://github.com/dnlrsls"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1933534?s=40&v=4",
-          "name": "jronak",
-          "url": "https://github.com/jronak"
+          "avatar": "https://avatars.githubusercontent.com/u/9351115?s=40&v=4",
+          "name": "decode2",
+          "url": "https://github.com/decode2"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56096?s=40&v=4",
-          "name": "pasc",
-          "url": "https://github.com/pasc"
+          "avatar": "https://avatars.githubusercontent.com/u/88510389?s=40&v=4",
+          "name": "ElCaaarnal",
+          "url": "https://github.com/ElCaaarnal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/771056?s=40&v=4",
-          "name": "keramidasceid",
-          "url": "https://github.com/keramidasceid"
+          "avatar": "https://avatars.githubusercontent.com/u/18334564?s=40&v=4",
+          "name": "egdev6",
+          "url": "https://github.com/egdev6"
         }
       ]
     },
     {
-      "title": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
+      "title": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,283",
-      "forks": "5,846",
-      "addStars": "90",
+      "stars": "139,111",
+      "forks": "20,963",
+      "addStars": "204",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/132757?s=40&v=4",
-          "name": "ndeloof",
-          "url": "https://github.com/ndeloof"
+          "avatar": "https://avatars.githubusercontent.com/u/104030?s=40&v=4",
+          "name": "rsc",
+          "url": "https://github.com/rsc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/705411?s=40&v=4",
-          "name": "glours",
-          "url": "https://github.com/glours"
+          "avatar": "https://avatars.githubusercontent.com/u/8528975?s=40&v=4",
+          "name": "griesemer",
+          "url": "https://github.com/griesemer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/437958?s=40&v=4",
-          "name": "gtardif",
-          "url": "https://github.com/gtardif"
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?s=40&v=4",
+          "name": "robpike",
+          "url": "https://github.com/robpike"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99933?s=40&v=4",
-          "name": "rumpl",
-          "url": "https://github.com/rumpl"
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?s=40&v=4",
+          "name": "ianlancetaylor",
+          "url": "https://github.com/ianlancetaylor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
+          "name": "bradfitz",
+          "url": "https://github.com/bradfitz"
         }
       ]
     },
     {
-      "title": "netdata/netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "title": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "80,767",
-      "forks": "6,646",
-      "addStars": "148",
+      "stars": "20,326",
+      "forks": "2,523",
+      "addStars": "331",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2662304?s=40&v=4",
-          "name": "ktsaou",
-          "url": "https://github.com/ktsaou"
+          "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&v=4",
+          "name": "putyy",
+          "url": "https://github.com/putyy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43409846?s=40&v=4",
-          "name": "netdatabot",
-          "url": "https://github.com/netdatabot"
+          "avatar": "https://avatars.githubusercontent.com/u/13965460?s=40&v=4",
+          "name": "taotieren",
+          "url": "https://github.com/taotieren"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22274335?s=40&v=4",
-          "name": "ilyam8",
-          "url": "https://github.com/ilyam8"
+          "avatar": "https://avatars.githubusercontent.com/u/16227832?s=40&v=4",
+          "name": "claviering",
+          "url": "https://github.com/claviering"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/905151?s=40&v=4",
-          "name": "Ferroin",
-          "url": "https://github.com/Ferroin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52996999?s=40&v=4",
-          "name": "stelfrag",
-          "url": "https://github.com/stelfrag"
+          "avatar": "https://avatars.githubusercontent.com/u/19386888?s=40&v=4",
+          "name": "qiuzhiqian",
+          "url": "https://github.com/qiuzhiqian"
         }
       ]
     },
     {
-      "title": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "title": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "49,802",
-      "forks": "10,635",
-      "addStars": "103",
+      "stars": "15,802",
+      "forks": "1,733",
+      "addStars": "174",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&v=4",
-          "name": "jbardin",
-          "url": "https://github.com/jbardin"
+          "avatar": "https://avatars.githubusercontent.com/u/142645838?s=40&v=4",
+          "name": "lotkmm",
+          "url": "https://github.com/lotkmm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
-          "name": "mitchellh",
-          "url": "https://github.com/mitchellh"
+          "avatar": "https://avatars.githubusercontent.com/u/31841517?s=40&v=4",
+          "name": "aaPanel",
+          "url": "https://github.com/aaPanel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&v=4",
-          "name": "apparentlymart",
-          "url": "https://github.com/apparentlymart"
+          "avatar": "https://avatars.githubusercontent.com/u/49576314?s=40&v=4",
+          "name": "dreambladeflag",
+          "url": "https://github.com/dreambladeflag"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/227823?s=40&v=4",
-          "name": "stack72",
-          "url": "https://github.com/stack72"
+          "avatar": "https://avatars.githubusercontent.com/u/10020595?s=40&v=4",
+          "name": "xiemoumou",
+          "url": "https://github.com/xiemoumou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&v=4",
-          "name": "catsby",
-          "url": "https://github.com/catsby"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "5,319",
+      "forks": "570",
+      "addStars": "152",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4",
+          "name": "pelikhan",
+          "url": "https://github.com/pelikhan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&v=4",
+          "name": "dsyme",
+          "url": "https://github.com/dsyme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4",
+          "name": "mnkiefer",
+          "url": "https://github.com/mnkiefer"
         }
       ]
     }
