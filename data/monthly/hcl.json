@@ -2,45 +2,8 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 06:59:51 GMT",
+  "pubDate": "Fri, 02 Oct 2026 13:18:41 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules/terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "5,006",
-      "forks": "4,412",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
-          "name": "barryib",
-          "url": "https://github.com/barryib"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
-          "name": "brandonjbjelland",
-          "url": "https://github.com/brandonjbjelland"
-        }
-      ]
-    },
     {
       "title": "terraform-aws-modules/terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
@@ -107,6 +70,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
           "name": "aaron-lane",
           "url": "https://github.com/aaron-lane"
+        }
+      ]
+    },
+    {
+      "title": "terraform-aws-modules/terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "5,006",
+      "forks": "4,412",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
+          "name": "barryib",
+          "url": "https://github.com/barryib"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
+          "name": "brandonjbjelland",
+          "url": "https://github.com/brandonjbjelland"
         }
       ]
     },
@@ -181,33 +181,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
           "name": "pdecat",
           "url": "https://github.com/pdecat"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "502",
-      "forks": "1,280",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
         }
       ]
     },
@@ -313,39 +286,29 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "title": "terraform-google-modules/terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "29",
-      "forks": "72",
+      "stars": "502",
+      "forks": "1,280",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/901867?s=40&v=4",
-          "name": "FlorinAndrei",
-          "url": "https://github.com/FlorinAndrei"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4600857?s=40&v=4",
-          "name": "adubkov",
-          "url": "https://github.com/adubkov"
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
         }
       ]
     }

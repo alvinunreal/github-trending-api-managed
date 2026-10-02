@@ -2,89 +2,15 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 06:59:51 GMT",
+  "pubDate": "Fri, 02 Oct 2026 13:18:41 GMT",
   "items": [
-    {
-      "title": "xenodium/agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "1,915",
-      "forks": "241",
-      "addStars": "27",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8107219?s=40&v=4",
-          "name": "xenodium",
-          "url": "https://github.com/xenodium"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/312540?s=40&v=4",
-          "name": "nhojb",
-          "url": "https://github.com/nhojb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/592734?s=40&v=4",
-          "name": "fritzgrabo",
-          "url": "https://github.com/fritzgrabo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26446393?s=40&v=4",
-          "name": "ElleNajt",
-          "url": "https://github.com/ElleNajt"
-        }
-      ]
-    },
-    {
-      "title": "karthink/gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "3,542",
-      "forks": "440",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8607532?s=40&v=4",
-          "name": "karthink",
-          "url": "https://github.com/karthink"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2339734?s=40&v=4",
-          "name": "pabl0",
-          "url": "https://github.com/pabl0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/657224?s=40&v=4",
-          "name": "djr7C4",
-          "url": "https://github.com/djr7C4"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/942909?s=40&v=4",
-          "name": "surenkov",
-          "url": "https://github.com/surenkov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73710933?s=40&v=4",
-          "name": "psionic-k",
-          "url": "https://github.com/psionic-k"
-        }
-      ]
-    },
     {
       "title": "google-coral/coralnpu",
       "url": "https://github.com/google-coral/coralnpu",
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,587",
+      "stars": "2,586",
       "forks": "339",
       "addStars": "7",
       "contributors": [
@@ -116,12 +42,49 @@
       ]
     },
     {
+      "title": "xenodium/agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "1,917",
+      "forks": "241",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8107219?s=40&v=4",
+          "name": "xenodium",
+          "url": "https://github.com/xenodium"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/312540?s=40&v=4",
+          "name": "nhojb",
+          "url": "https://github.com/nhojb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/592734?s=40&v=4",
+          "name": "fritzgrabo",
+          "url": "https://github.com/fritzgrabo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26446393?s=40&v=4",
+          "name": "ElleNajt",
+          "url": "https://github.com/ElleNajt"
+        }
+      ]
+    },
+    {
       "title": "doomemacs/core",
       "url": "https://github.com/doomemacs/core",
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "22,718",
+      "stars": "22,719",
       "forks": "3,144",
       "addStars": "22",
       "contributors": [
@@ -159,7 +122,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "2,973",
-      "forks": "2,823",
+      "forks": "2,824",
       "addStars": "2",
       "contributors": [
         {
@@ -190,39 +153,39 @@
       ]
     },
     {
-      "title": "dakra/ghostel",
-      "url": "https://github.com/dakra/ghostel",
-      "description": "Terminal emulator powered by libghostty",
+      "title": "emacs-lsp/lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "972",
-      "forks": "61",
-      "addStars": "11",
+      "stars": "5,125",
+      "forks": "983",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/574659?s=40&v=4",
-          "name": "dakra",
-          "url": "https://github.com/dakra"
+          "avatar": "https://avatars.githubusercontent.com/u/13259670?s=40&v=4",
+          "name": "yyoncho",
+          "url": "https://github.com/yyoncho"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5737870?s=40&v=4",
-          "name": "emil-e",
-          "url": "https://github.com/emil-e"
+          "avatar": "https://avatars.githubusercontent.com/u/2142872?s=40&v=4",
+          "name": "vibhavp",
+          "url": "https://github.com/vibhavp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2631472?s=40&v=4",
-          "name": "kiennq",
-          "url": "https://github.com/kiennq"
+          "avatar": "https://avatars.githubusercontent.com/u/7820865?s=40&v=4",
+          "name": "ericdallo",
+          "url": "https://github.com/ericdallo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
+          "name": "jcs090218",
+          "url": "https://github.com/jcs090218"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44319627?s=40&v=4",
-          "name": "Cianidos",
-          "url": "https://github.com/Cianidos"
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
         }
       ]
     }
