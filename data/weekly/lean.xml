@@ -3,7 +3,7 @@
     <title>GitHub Lean Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Lean Languages in GitHub</description>
-    <pubDate>Sat, 03 Oct 2026 07:17:48 GMT</pubDate>
+    <pubDate>Sat, 03 Oct 2026 12:31:32 GMT</pubDate>
     <item>
       <title>leanprover-community/mathlib3</title>
       <link>https://github.com/leanprover-community/mathlib3</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/leanprover-community/mathlib4</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>4,216</stars>
+      <stars>4,217</stars>
       <forks>1,729</forks>
       <addStars>32</addStars>
       <contributors>
@@ -81,13 +81,51 @@
       </contributors>
     </item>
     <item>
+      <title>leanprover-community/quote4</title>
+      <link>https://github.com/leanprover-community/quote4</link>
+      <description>Intuitive, type-safe expression quotations for Lean 4.</description>
+      <guid>https://github.com/leanprover-community/quote4</guid>
+      <language>Lean</language>
+      <languageColor>#ccc</languageColor>
+      <stars>112</stars>
+      <forks>27</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/313929?s=40&amp;v=4</avatar>
+          <name>gebner</name>
+          <url>https://github.com/gebner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/477956?s=40&amp;v=4</avatar>
+          <name>kim-em</name>
+          <url>https://github.com/kim-em</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/425260?s=40&amp;v=4</avatar>
+          <name>eric-wieser</name>
+          <url>https://github.com/eric-wieser</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11077553?s=40&amp;v=4</avatar>
+          <name>Garmelon</name>
+          <url>https://github.com/Garmelon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2116570?s=40&amp;v=4</avatar>
+          <name>Vierkantor</name>
+          <url>https://github.com/Vierkantor</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>leanprover-community/batteries</title>
       <link>https://github.com/leanprover-community/batteries</link>
       <description>The "batteries included" extended library for the Lean programming language and theorem prover</description>
       <guid>https://github.com/leanprover-community/batteries</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>419</stars>
+      <stars>420</stars>
       <forks>165</forks>
       <addStars>2</addStars>
       <contributors>
@@ -115,82 +153,6 @@
           <avatar>https://avatars.githubusercontent.com/u/148037?s=40&amp;v=4</avatar>
           <name>nomeata</name>
           <url>https://github.com/nomeata</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>leanprover-community/plausible</title>
-      <link>https://github.com/leanprover-community/plausible</link>
-      <description/>
-      <guid>https://github.com/leanprover-community/plausible</guid>
-      <language>Lean</language>
-      <languageColor>#ccc</languageColor>
-      <stars>117</stars>
-      <forks>32</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/477956?s=40&amp;v=4</avatar>
-          <name>kim-em</name>
-          <url>https://github.com/kim-em</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11077553?s=40&amp;v=4</avatar>
-          <name>Garmelon</name>
-          <url>https://github.com/Garmelon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33270164?s=40&amp;v=4</avatar>
-          <name>hargoniX</name>
-          <url>https://github.com/hargoniX</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4193616?s=40&amp;v=4</avatar>
-          <name>codyroux</name>
-          <url>https://github.com/codyroux</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5636705?s=40&amp;v=4</avatar>
-          <name>jcommelin</name>
-          <url>https://github.com/jcommelin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>leanprover-community/ProofWidgets4</title>
-      <link>https://github.com/leanprover-community/ProofWidgets4</link>
-      <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
-      <guid>https://github.com/leanprover-community/ProofWidgets4</guid>
-      <language>Lean</language>
-      <languageColor>#ccc</languageColor>
-      <stars>226</stars>
-      <forks>49</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13901751?s=40&amp;v=4</avatar>
-          <name>Vtec234</name>
-          <url>https://github.com/Vtec234</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/477956?s=40&amp;v=4</avatar>
-          <name>kim-em</name>
-          <url>https://github.com/kim-em</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5064353?s=40&amp;v=4</avatar>
-          <name>EdAyers</name>
-          <url>https://github.com/EdAyers</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6596305?s=40&amp;v=4</avatar>
-          <name>lecopivo</name>
-          <url>https://github.com/lecopivo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11077553?s=40&amp;v=4</avatar>
-          <name>Garmelon</name>
-          <url>https://github.com/Garmelon</url>
         </contributor>
       </contributors>
     </item>
@@ -271,6 +233,82 @@
       </contributors>
     </item>
     <item>
+      <title>leanprover-community/ProofWidgets4</title>
+      <link>https://github.com/leanprover-community/ProofWidgets4</link>
+      <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
+      <guid>https://github.com/leanprover-community/ProofWidgets4</guid>
+      <language>Lean</language>
+      <languageColor>#ccc</languageColor>
+      <stars>227</stars>
+      <forks>49</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13901751?s=40&amp;v=4</avatar>
+          <name>Vtec234</name>
+          <url>https://github.com/Vtec234</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/477956?s=40&amp;v=4</avatar>
+          <name>kim-em</name>
+          <url>https://github.com/kim-em</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5064353?s=40&amp;v=4</avatar>
+          <name>EdAyers</name>
+          <url>https://github.com/EdAyers</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6596305?s=40&amp;v=4</avatar>
+          <name>lecopivo</name>
+          <url>https://github.com/lecopivo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11077553?s=40&amp;v=4</avatar>
+          <name>Garmelon</name>
+          <url>https://github.com/Garmelon</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>leanprover-community/plausible</title>
+      <link>https://github.com/leanprover-community/plausible</link>
+      <description/>
+      <guid>https://github.com/leanprover-community/plausible</guid>
+      <language>Lean</language>
+      <languageColor>#ccc</languageColor>
+      <stars>117</stars>
+      <forks>32</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/477956?s=40&amp;v=4</avatar>
+          <name>kim-em</name>
+          <url>https://github.com/kim-em</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11077553?s=40&amp;v=4</avatar>
+          <name>Garmelon</name>
+          <url>https://github.com/Garmelon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33270164?s=40&amp;v=4</avatar>
+          <name>hargoniX</name>
+          <url>https://github.com/hargoniX</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4193616?s=40&amp;v=4</avatar>
+          <name>codyroux</name>
+          <url>https://github.com/codyroux</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5636705?s=40&amp;v=4</avatar>
+          <name>jcommelin</name>
+          <url>https://github.com/jcommelin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>leanprover-community/import-graph</title>
       <link>https://github.com/leanprover-community/import-graph</link>
       <description>Tool to analyse the import structure of lean projects.</description>
@@ -305,44 +343,6 @@
           <avatar>https://avatars.githubusercontent.com/u/5636705?s=40&amp;v=4</avatar>
           <name>jcommelin</name>
           <url>https://github.com/jcommelin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>leanprover-community/quote4</title>
-      <link>https://github.com/leanprover-community/quote4</link>
-      <description>Intuitive, type-safe expression quotations for Lean 4.</description>
-      <guid>https://github.com/leanprover-community/quote4</guid>
-      <language>Lean</language>
-      <languageColor>#ccc</languageColor>
-      <stars>112</stars>
-      <forks>27</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/313929?s=40&amp;v=4</avatar>
-          <name>gebner</name>
-          <url>https://github.com/gebner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/477956?s=40&amp;v=4</avatar>
-          <name>kim-em</name>
-          <url>https://github.com/kim-em</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/425260?s=40&amp;v=4</avatar>
-          <name>eric-wieser</name>
-          <url>https://github.com/eric-wieser</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11077553?s=40&amp;v=4</avatar>
-          <name>Garmelon</name>
-          <url>https://github.com/Garmelon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2116570?s=40&amp;v=4</avatar>
-          <name>Vierkantor</name>
-          <url>https://github.com/Vierkantor</url>
         </contributor>
       </contributors>
     </item>
@@ -391,8 +391,8 @@
       <guid>https://github.com/leanprover/lean4</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>9,378</stars>
-      <forks>1,015</forks>
+      <stars>9,381</stars>
+      <forks>1,016</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -430,7 +430,7 @@
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
       <stars>1,305</stars>
-      <forks>515</forks>
+      <forks>516</forks>
       <addStars>18</addStars>
       <contributors>
         <contributor>
