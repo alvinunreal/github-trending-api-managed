@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Oct 2026 07:17:41 GMT",
+  "pubDate": "Sun, 04 Oct 2026 13:10:58 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,338",
-      "forks": "20,287",
+      "stars": "26,341",
+      "forks": "20,289",
       "addStars": "87",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,121",
+      "stars": "1,126",
       "forks": "51",
       "addStars": "37",
       "contributors": [
@@ -143,50 +143,13 @@
       ]
     },
     {
-      "title": "finix-community/finix",
-      "url": "https://github.com/finix-community/finix",
-      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "557",
-      "forks": "41",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7755101?s=40&v=4",
-          "name": "aanderse",
-          "url": "https://github.com/aanderse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/134298056?s=40&v=4",
-          "name": "FixeQD",
-          "url": "https://github.com/FixeQD"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128353633?s=40&v=4",
-          "name": "N1meses",
-          "url": "https://github.com/N1meses"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130176904?s=40&v=4",
-          "name": "deathbymanatee",
-          "url": "https://github.com/deathbymanatee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63205921?s=40&v=4",
-          "name": "xZecora",
-          "url": "https://github.com/xZecora"
-        }
-      ]
-    },
-    {
       "title": "Mic92/sops-nix",
       "url": "https://github.com/Mic92/sops-nix",
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,205",
-      "forks": "236",
+      "stars": "3,206",
+      "forks": "237",
       "addStars": "28",
       "contributors": [
         {
@@ -208,7 +171,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "3,319",
-      "forks": "982",
+      "forks": "984",
       "addStars": "7",
       "contributors": [
         {
@@ -230,6 +193,28 @@
           "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
           "name": "Lyndeno",
           "url": "https://github.com/Lyndeno"
+        }
+      ]
+    },
+    {
+      "title": "SushyDev/nix-plist-manager",
+      "url": "https://github.com/SushyDev/nix-plist-manager",
+      "description": "Your Mac's System Settings, declared in Nix: 550+ settings for nix-darwin and home-manager",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "148",
+      "forks": "3",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43114803?s=40&v=4",
+          "name": "SushyDev",
+          "url": "https://github.com/SushyDev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -303,77 +288,13 @@
       ]
     },
     {
-      "title": "numtide/system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,754",
-      "forks": "65",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
-          "name": "r-vdp",
-          "url": "https://github.com/r-vdp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
-          "name": "jfroche",
-          "url": "https://github.com/jfroche"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
-        }
-      ]
-    },
-    {
-      "title": "flyingcircusio/fc-nixos",
-      "url": "https://github.com/flyingcircusio/fc-nixos",
-      "description": "The Flying Circus platform, based on NixOS.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "39",
-      "forks": "14",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1965950?s=40&v=4",
-          "name": "dpausp",
-          "url": "https://github.com/dpausp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104593071?s=40&v=4",
-          "name": "osnyx",
-          "url": "https://github.com/osnyx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1220572?s=40&v=4",
-          "name": "ctheune",
-          "url": "https://github.com/ctheune"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33266253?s=40&v=4",
-          "name": "sysvinit",
-          "url": "https://github.com/sysvinit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11006031?s=40&v=4",
-          "name": "leona-ya",
-          "url": "https://github.com/leona-ya"
-        }
-      ]
-    },
-    {
       "title": "nix-community/stylix",
       "url": "https://github.com/nix-community/stylix",
       "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "2,420",
-      "forks": "368",
+      "forks": "369",
       "addStars": "6",
       "contributors": [
         {
@@ -432,6 +353,144 @@
           "avatar": "https://avatars.githubusercontent.com/u/126339?s=40&v=4",
           "name": "domenkozar",
           "url": "https://github.com/domenkozar"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "10,408",
+      "forks": "2,488",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1778670?s=40&v=4",
+          "name": "khaneliman",
+          "url": "https://github.com/khaneliman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/798147?s=40&v=4",
+          "name": "rycee",
+          "url": "https://github.com/rycee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/886074?s=40&v=4",
+          "name": "teto",
+          "url": "https://github.com/teto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4323933?s=40&v=4",
+          "name": "ncfavier",
+          "url": "https://github.com/ncfavier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20448408?s=40&v=4",
+          "name": "berbiche",
+          "url": "https://github.com/berbiche"
+        }
+      ]
+    },
+    {
+      "title": "numtide/system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,755",
+      "forks": "65",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
+          "name": "r-vdp",
+          "url": "https://github.com/r-vdp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
+          "name": "jfroche",
+          "url": "https://github.com/jfroche"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
+          "name": "zimbatm",
+          "url": "https://github.com/zimbatm"
+        }
+      ]
+    },
+    {
+      "title": "finix-community/finix",
+      "url": "https://github.com/finix-community/finix",
+      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "557",
+      "forks": "41",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7755101?s=40&v=4",
+          "name": "aanderse",
+          "url": "https://github.com/aanderse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/134298056?s=40&v=4",
+          "name": "FixeQD",
+          "url": "https://github.com/FixeQD"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128353633?s=40&v=4",
+          "name": "N1meses",
+          "url": "https://github.com/N1meses"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130176904?s=40&v=4",
+          "name": "deathbymanatee",
+          "url": "https://github.com/deathbymanatee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63205921?s=40&v=4",
+          "name": "xZecora",
+          "url": "https://github.com/xZecora"
+        }
+      ]
+    },
+    {
+      "title": "flyingcircusio/fc-nixos",
+      "url": "https://github.com/flyingcircusio/fc-nixos",
+      "description": "The Flying Circus platform, based on NixOS.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "39",
+      "forks": "14",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1965950?s=40&v=4",
+          "name": "dpausp",
+          "url": "https://github.com/dpausp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104593071?s=40&v=4",
+          "name": "osnyx",
+          "url": "https://github.com/osnyx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1220572?s=40&v=4",
+          "name": "ctheune",
+          "url": "https://github.com/ctheune"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33266253?s=40&v=4",
+          "name": "sysvinit",
+          "url": "https://github.com/sysvinit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11006031?s=40&v=4",
+          "name": "leona-ya",
+          "url": "https://github.com/leona-ya"
         }
       ]
     }
