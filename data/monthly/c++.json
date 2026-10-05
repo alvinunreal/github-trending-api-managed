@@ -2,16 +2,53 @@
   "title": "GitHub C++ Languages Monthly Trending",
   "description": "Monthly Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 05 Oct 2026 07:01:32 GMT",
+  "pubDate": "Mon, 05 Oct 2026 13:17:40 GMT",
   "items": [
+    {
+      "title": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "200,703",
+      "forks": "78,398",
+      "addStars": "2,196",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
+          "name": "tensorflower-gardener",
+          "url": "https://github.com/tensorflower-gardener"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1174378?s=40&v=4",
+          "name": "ezhulenev",
+          "url": "https://github.com/ezhulenev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14309772?s=40&v=4",
+          "name": "akuegel",
+          "url": "https://github.com/akuegel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&v=4",
+          "name": "hawkinsp",
+          "url": "https://github.com/hawkinsp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/323199?s=40&v=4",
+          "name": "mihaimaruseac",
+          "url": "https://github.com/mihaimaruseac"
+        }
+      ]
+    },
     {
       "title": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "130,332",
-      "forks": "24,090",
+      "stars": "130,361",
+      "forks": "24,102",
       "addStars": "3,680",
       "contributors": [
         {
@@ -42,13 +79,50 @@
       ]
     },
     {
+      "title": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "50,256",
+      "forks": "9,063",
+      "addStars": "680",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4",
+          "name": "alexey-milovidov",
+          "url": "https://github.com/alexey-milovidov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3684697?s=40&v=4",
+          "name": "alesapin",
+          "url": "https://github.com/alesapin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/270696204?s=40&v=4",
+          "name": "groeneai",
+          "url": "https://github.com/groeneai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4092911?s=40&v=4",
+          "name": "KochetovNicolai",
+          "url": "https://github.com/KochetovNicolai"
+        }
+      ]
+    },
+    {
       "title": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "description": "Firebase SDK for Apple App Development",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "6,923",
-      "forks": "1,815",
+      "stars": "6,924",
+      "forks": "1,816",
       "addStars": "277",
       "contributors": [
         {
@@ -116,151 +190,13 @@
       ]
     },
     {
-      "title": "Neroued/ninfer",
-      "url": "https://github.com/Neroued/ninfer",
-      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "2,702",
-      "forks": "537",
-      "addStars": "1,318",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142312170?s=40&v=4",
-          "name": "Neroued",
-          "url": "https://github.com/Neroued"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30734946?s=40&v=4",
-          "name": "ARVLab",
-          "url": "https://github.com/ARVLab"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58595746?s=40&v=4",
-          "name": "MOVIBALE",
-          "url": "https://github.com/MOVIBALE"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/136074657?s=40&v=4",
-          "name": "MichaelDementii",
-          "url": "https://github.com/MichaelDementii"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16821975?s=40&v=4",
-          "name": "DuncanBetts",
-          "url": "https://github.com/DuncanBetts"
-        }
-      ]
-    },
-    {
-      "title": "ClickHouse/ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "50,254",
-      "forks": "9,061",
-      "addStars": "680",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4",
-          "name": "alexey-milovidov",
-          "url": "https://github.com/alexey-milovidov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3684697?s=40&v=4",
-          "name": "alesapin",
-          "url": "https://github.com/alesapin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/270696204?s=40&v=4",
-          "name": "groeneai",
-          "url": "https://github.com/groeneai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4092911?s=40&v=4",
-          "name": "KochetovNicolai",
-          "url": "https://github.com/KochetovNicolai"
-        }
-      ]
-    },
-    {
-      "title": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "200,705",
-      "forks": "78,347",
-      "addStars": "2,196",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
-          "name": "tensorflower-gardener",
-          "url": "https://github.com/tensorflower-gardener"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1174378?s=40&v=4",
-          "name": "ezhulenev",
-          "url": "https://github.com/ezhulenev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14309772?s=40&v=4",
-          "name": "akuegel",
-          "url": "https://github.com/akuegel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&v=4",
-          "name": "hawkinsp",
-          "url": "https://github.com/hawkinsp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/323199?s=40&v=4",
-          "name": "mihaimaruseac",
-          "url": "https://github.com/mihaimaruseac"
-        }
-      ]
-    },
-    {
-      "title": "LizardByte/Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "41,858",
-      "forks": "2,188",
-      "addStars": "1,113",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42013603?s=40&v=4",
-          "name": "ReenigneArcher",
-          "url": "https://github.com/ReenigneArcher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
-          "name": "cgutman",
-          "url": "https://github.com/cgutman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108553330?s=40&v=4",
-          "name": "LizardByte-bot",
-          "url": "https://github.com/LizardByte-bot"
-        }
-      ]
-    },
-    {
       "title": "godotengine/godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "118,135",
-      "forks": "26,944",
+      "stars": "118,140",
+      "forks": "26,949",
       "addStars": "1,753",
       "contributors": [
         {
@@ -291,12 +227,76 @@
       ]
     },
     {
+      "title": "Neroued/ninfer",
+      "url": "https://github.com/Neroued/ninfer",
+      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "2,709",
+      "forks": "538",
+      "addStars": "1,318",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/142312170?s=40&v=4",
+          "name": "Neroued",
+          "url": "https://github.com/Neroued"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30734946?s=40&v=4",
+          "name": "ARVLab",
+          "url": "https://github.com/ARVLab"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58595746?s=40&v=4",
+          "name": "MOVIBALE",
+          "url": "https://github.com/MOVIBALE"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/136074657?s=40&v=4",
+          "name": "MichaelDementii",
+          "url": "https://github.com/MichaelDementii"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16821975?s=40&v=4",
+          "name": "DuncanBetts",
+          "url": "https://github.com/DuncanBetts"
+        }
+      ]
+    },
+    {
+      "title": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "41,871",
+      "forks": "2,190",
+      "addStars": "1,113",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42013603?s=40&v=4",
+          "name": "ReenigneArcher",
+          "url": "https://github.com/ReenigneArcher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
+          "name": "cgutman",
+          "url": "https://github.com/cgutman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108553330?s=40&v=4",
+          "name": "LizardByte-bot",
+          "url": "https://github.com/LizardByte-bot"
+        }
+      ]
+    },
+    {
       "title": "optiscaler/OptiScaler",
       "url": "https://github.com/optiscaler/OptiScaler",
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,550",
+      "stars": "11,552",
       "forks": "510",
       "addStars": "1,288",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "42,958",
+      "stars": "42,957",
       "forks": "3,945",
       "addStars": "1,100",
       "contributors": [
@@ -365,87 +365,13 @@
       ]
     },
     {
-      "title": "aseprite/aseprite",
-      "url": "https://github.com/aseprite/aseprite",
-      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "39,875",
-      "forks": "9,173",
-      "addStars": "732",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39654?s=40&v=4",
-          "name": "dacap",
-          "url": "https://github.com/dacap"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5520828?s=40&v=4",
-          "name": "martincapello",
-          "url": "https://github.com/martincapello"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32165475?s=40&v=4",
-          "name": "Gasparoken",
-          "url": "https://github.com/Gasparoken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/138269?s=40&v=4",
-          "name": "ckaiser",
-          "url": "https://github.com/ckaiser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4146085?s=40&v=4",
-          "name": "iamOgunyinka",
-          "url": "https://github.com/iamOgunyinka"
-        }
-      ]
-    },
-    {
-      "title": "mamedev/mame",
-      "url": "https://github.com/mamedev/mame",
-      "description": "MAME",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "10,568",
-      "forks": "2,563",
-      "addStars": "130",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9270613?s=40&v=4",
-          "name": "happppp",
-          "url": "https://github.com/happppp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16355444?s=40&v=4",
-          "name": "ajrhacker",
-          "url": "https://github.com/ajrhacker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9251271?s=40&v=4",
-          "name": "angelosa",
-          "url": "https://github.com/angelosa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9678431?s=40&v=4",
-          "name": "cuavas",
-          "url": "https://github.com/cuavas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9260603?s=40&v=4",
-          "name": "rb6502",
-          "url": "https://github.com/rb6502"
-        }
-      ]
-    },
-    {
       "title": "gta-reversed/gta-reversed",
       "url": "https://github.com/gta-reversed/gta-reversed",
       "description": "Reimplementation of GTA:SA 1.0 US",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "984",
-      "forks": "236",
+      "stars": "981",
+      "forks": "238",
       "addStars": "151",
       "contributors": [
         {
@@ -476,12 +402,229 @@
       ]
     },
     {
+      "title": "aseprite/aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "39,879",
+      "forks": "9,174",
+      "addStars": "732",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39654?s=40&v=4",
+          "name": "dacap",
+          "url": "https://github.com/dacap"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5520828?s=40&v=4",
+          "name": "martincapello",
+          "url": "https://github.com/martincapello"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32165475?s=40&v=4",
+          "name": "Gasparoken",
+          "url": "https://github.com/Gasparoken"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/138269?s=40&v=4",
+          "name": "ckaiser",
+          "url": "https://github.com/ckaiser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4146085?s=40&v=4",
+          "name": "iamOgunyinka",
+          "url": "https://github.com/iamOgunyinka"
+        }
+      ]
+    },
+    {
+      "title": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "17,180",
+      "forks": "4,345",
+      "addStars": "108",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4",
+          "name": "kou",
+          "url": "https://github.com/kou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1721820?s=40&v=4",
+          "name": "pitrou",
+          "url": "https://github.com/pitrou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
+          "name": "wesm",
+          "url": "https://github.com/wesm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/961747?s=40&v=4",
+          "name": "kszucs",
+          "url": "https://github.com/kszucs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1020496?s=40&v=4",
+          "name": "jorisvandenbossche",
+          "url": "https://github.com/jorisvandenbossche"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "33,953",
+      "forks": "1,849",
+      "addStars": "397",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16477878?s=40&v=4",
+          "name": "OneBlue",
+          "url": "https://github.com/OneBlue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17727402?s=40&v=4",
+          "name": "benhillis",
+          "url": "https://github.com/benhillis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108518819?s=40&v=4",
+          "name": "49081",
+          "url": "https://github.com/49081"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42221804?s=40&v=4",
+          "name": "craigloewen-msft",
+          "url": "https://github.com/craigloewen-msft"
+        }
+      ]
+    },
+    {
+      "title": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "123,389",
+      "forks": "17,574",
+      "addStars": "689",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4",
+          "name": "zcbenz",
+          "url": "https://github.com/zcbenz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/671378?s=40&v=4",
+          "name": "kevinsawicki",
+          "url": "https://github.com/kevinsawicki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2036040?s=40&v=4",
+          "name": "codebytere",
+          "url": "https://github.com/codebytere"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6634592?s=40&v=4",
+          "name": "MarshallOfSound",
+          "url": "https://github.com/MarshallOfSound"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172800?s=40&v=4",
+          "name": "nornagon",
+          "url": "https://github.com/nornagon"
+        }
+      ]
+    },
+    {
+      "title": "mamedev/mame",
+      "url": "https://github.com/mamedev/mame",
+      "description": "MAME",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "10,567",
+      "forks": "2,564",
+      "addStars": "130",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9270613?s=40&v=4",
+          "name": "happppp",
+          "url": "https://github.com/happppp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16355444?s=40&v=4",
+          "name": "ajrhacker",
+          "url": "https://github.com/ajrhacker"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9251271?s=40&v=4",
+          "name": "angelosa",
+          "url": "https://github.com/angelosa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9678431?s=40&v=4",
+          "name": "cuavas",
+          "url": "https://github.com/cuavas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9260603?s=40&v=4",
+          "name": "rb6502",
+          "url": "https://github.com/rb6502"
+        }
+      ]
+    },
+    {
+      "title": "react/react-native",
+      "url": "https://github.com/react/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "126,795",
+      "forks": "25,301",
+      "addStars": "444",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11689122?s=40&v=4",
+          "name": "reactjs-bot",
+          "url": "https://github.com/reactjs-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/515103?s=40&v=4",
+          "name": "mdvacca",
+          "url": "https://github.com/mdvacca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3001957?s=40&v=4",
+          "name": "cortinico",
+          "url": "https://github.com/cortinico"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22032?s=40&v=4",
+          "name": "shergin",
+          "url": "https://github.com/shergin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5676?s=40&v=4",
+          "name": "javache",
+          "url": "https://github.com/javache"
+        }
+      ]
+    },
+    {
       "title": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "15,466",
+      "stars": "15,467",
       "forks": "1,801",
       "addStars": "557",
       "contributors": [
@@ -518,7 +661,7 @@
       "description": "Cloud-native high-performance edge/middle/service proxy",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "29,039",
+      "stars": "29,040",
       "forks": "5,643",
       "addStars": "198",
       "contributors": [
@@ -541,213 +684,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/6007532?s=40&v=4",
           "name": "junr03",
           "url": "https://github.com/junr03"
-        }
-      ]
-    },
-    {
-      "title": "apache/arrow",
-      "url": "https://github.com/apache/arrow",
-      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "17,178",
-      "forks": "4,344",
-      "addStars": "108",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4",
-          "name": "kou",
-          "url": "https://github.com/kou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1721820?s=40&v=4",
-          "name": "pitrou",
-          "url": "https://github.com/pitrou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
-          "name": "wesm",
-          "url": "https://github.com/wesm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/961747?s=40&v=4",
-          "name": "kszucs",
-          "url": "https://github.com/kszucs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1020496?s=40&v=4",
-          "name": "jorisvandenbossche",
-          "url": "https://github.com/jorisvandenbossche"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/WSL",
-      "url": "https://github.com/microsoft/WSL",
-      "description": "Windows Subsystem for Linux",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "33,950",
-      "forks": "1,849",
-      "addStars": "397",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16477878?s=40&v=4",
-          "name": "OneBlue",
-          "url": "https://github.com/OneBlue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17727402?s=40&v=4",
-          "name": "benhillis",
-          "url": "https://github.com/benhillis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108518819?s=40&v=4",
-          "name": "49081",
-          "url": "https://github.com/49081"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42221804?s=40&v=4",
-          "name": "craigloewen-msft",
-          "url": "https://github.com/craigloewen-msft"
-        }
-      ]
-    },
-    {
-      "title": "ClassicOldSong/Apollo",
-      "url": "https://github.com/ClassicOldSong/Apollo",
-      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "11,184",
-      "forks": "475",
-      "addStars": "425",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42013603?s=40&v=4",
-          "name": "ReenigneArcher",
-          "url": "https://github.com/ReenigneArcher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
-          "name": "cgutman",
-          "url": "https://github.com/cgutman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10512422?s=40&v=4",
-          "name": "ClassicOldSong",
-          "url": "https://github.com/ClassicOldSong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3084139?s=40&v=4",
-          "name": "loki-47-6F-64",
-          "url": "https://github.com/loki-47-6F-64"
-        }
-      ]
-    },
-    {
-      "title": "react/react-native",
-      "url": "https://github.com/react/react-native",
-      "description": "A framework for building native applications using React",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "126,797",
-      "forks": "25,301",
-      "addStars": "444",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11689122?s=40&v=4",
-          "name": "reactjs-bot",
-          "url": "https://github.com/reactjs-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/515103?s=40&v=4",
-          "name": "mdvacca",
-          "url": "https://github.com/mdvacca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3001957?s=40&v=4",
-          "name": "cortinico",
-          "url": "https://github.com/cortinico"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22032?s=40&v=4",
-          "name": "shergin",
-          "url": "https://github.com/shergin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5676?s=40&v=4",
-          "name": "javache",
-          "url": "https://github.com/javache"
-        }
-      ]
-    },
-    {
-      "title": "electron/electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "123,388",
-      "forks": "17,572",
-      "addStars": "689",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4",
-          "name": "zcbenz",
-          "url": "https://github.com/zcbenz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/671378?s=40&v=4",
-          "name": "kevinsawicki",
-          "url": "https://github.com/kevinsawicki"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2036040?s=40&v=4",
-          "name": "codebytere",
-          "url": "https://github.com/codebytere"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6634592?s=40&v=4",
-          "name": "MarshallOfSound",
-          "url": "https://github.com/MarshallOfSound"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/172800?s=40&v=4",
-          "name": "nornagon",
-          "url": "https://github.com/nornagon"
-        }
-      ]
-    },
-    {
-      "title": "jomjol/AI-on-the-edge-device",
-      "url": "https://github.com/jomjol/AI-on-the-edge-device",
-      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "8,833",
-      "forks": "920",
-      "addStars": "195",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30766535?s=40&v=4",
-          "name": "jomjol",
-          "url": "https://github.com/jomjol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1783586?s=40&v=4",
-          "name": "caco3",
-          "url": "https://github.com/caco3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/587201?s=40&v=4",
-          "name": "SybexX",
-          "url": "https://github.com/SybexX"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/115730895?s=40&v=4",
-          "name": "Slider0007",
-          "url": "https://github.com/Slider0007"
         }
       ]
     }
