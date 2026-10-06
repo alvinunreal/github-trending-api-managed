@@ -2,16 +2,85 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Oct 2026 07:18:12 GMT",
+  "pubDate": "Tue, 06 Oct 2026 13:18:16 GMT",
   "items": [
+    {
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "12,460",
+      "forks": "505",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
+        }
+      ]
+    },
+    {
+      "title": "koalaman/shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "40,141",
+      "forks": "1,955",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
+          "name": "koalaman",
+          "url": "https://github.com/koalaman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
+          "name": "josephcsible",
+          "url": "https://github.com/josephcsible"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
+          "name": "ngzhian",
+          "url": "https://github.com/ngzhian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
+          "name": "e-kwsm",
+          "url": "https://github.com/e-kwsm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
+          "name": "contivero",
+          "url": "https://github.com/contivero"
+        }
+      ]
+    },
     {
       "title": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,594",
-      "forks": "5,712",
+      "stars": "46,613",
+      "forks": "5,760",
       "addStars": "22",
       "contributors": [
         {
@@ -48,7 +117,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "19,521",
-      "forks": "1,357",
+      "forks": "1,356",
       "addStars": "6",
       "contributors": [
         {
@@ -84,7 +153,7 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,888",
+      "stars": "1,889",
       "forks": "81",
       "addStars": "4",
       "contributors": [
@@ -111,7 +180,7 @@
       "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "852",
+      "stars": "853",
       "forks": "112",
       "addStars": "0",
       "contributors": [
@@ -143,49 +212,12 @@
       ]
     },
     {
-      "title": "hledgerorg/hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,745",
-      "forks": "415",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
-          "name": "simonmichael",
-          "url": "https://github.com/simonmichael"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
-          "name": "Xitian9",
-          "url": "https://github.com/Xitian9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
-          "name": "adept",
-          "url": "https://github.com/adept"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
-          "name": "thielema",
-          "url": "https://github.com/thielema"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700572?s=40&v=4",
-          "name": "acinader",
-          "url": "https://github.com/acinader"
-        }
-      ]
-    },
-    {
       "title": "PostgREST/postgrest",
       "url": "https://github.com/PostgREST/postgrest",
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "27,694",
+      "stars": "27,696",
       "forks": "1,228",
       "addStars": "1",
       "contributors": [
@@ -217,76 +249,39 @@
       ]
     },
     {
-      "title": "koalaman/shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "NixOS/nixpkgs-update",
+      "url": "https://github.com/NixOS/nixpkgs-update",
+      "description": "Updating nixpkgs packages since 2018",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,139",
-      "forks": "1,955",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
-          "name": "koalaman",
-          "url": "https://github.com/koalaman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
-          "name": "josephcsible",
-          "url": "https://github.com/josephcsible"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
-          "name": "ngzhian",
-          "url": "https://github.com/ngzhian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
-          "name": "e-kwsm",
-          "url": "https://github.com/e-kwsm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
-          "name": "contivero",
-          "url": "https://github.com/contivero"
-        }
-      ]
-    },
-    {
-      "title": "actonlang/acton",
-      "url": "https://github.com/actonlang/acton",
-      "description": "Actor-based, safely typed, fast programming language.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "189",
-      "forks": "14",
+      "stars": "622",
+      "forks": "103",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/841628?s=40&v=4",
-          "name": "plajjan",
-          "url": "https://github.com/plajjan"
+          "avatar": "https://avatars.githubusercontent.com/u/4804?s=40&v=4",
+          "name": "ryantm",
+          "url": "https://github.com/ryantm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1070660?s=40&v=4",
-          "name": "sydow",
-          "url": "https://github.com/sydow"
+          "avatar": "https://avatars.githubusercontent.com/u/59103226?s=40&v=4",
+          "name": "zowoq",
+          "url": "https://github.com/zowoq"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/370065?s=40&v=4",
-          "name": "mzagozen",
-          "url": "https://github.com/mzagozen"
+          "avatar": "https://avatars.githubusercontent.com/u/705123?s=40&v=4",
+          "name": "jtojnar",
+          "url": "https://github.com/jtojnar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16798036?s=40&v=4",
-          "name": "aagapi",
-          "url": "https://github.com/aagapi"
+          "avatar": "https://avatars.githubusercontent.com/u/2071583?s=40&v=4",
+          "name": "bhipple",
+          "url": "https://github.com/bhipple"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4458376?s=40&v=4",
-          "name": "nordlander",
-          "url": "https://github.com/nordlander"
+          "avatar": "https://avatars.githubusercontent.com/u/1570964?s=40&v=4",
+          "name": "rhendric",
+          "url": "https://github.com/rhendric"
         }
       ]
     },
@@ -319,80 +314,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/43749967?s=40&v=4",
           "name": "stefanobaghino-da",
           "url": "https://github.com/stefanobaghino-da"
-        }
-      ]
-    },
-    {
-      "title": "commercialhaskell/stack",
-      "url": "https://github.com/commercialhaskell/stack",
-      "description": "The Haskell Tool Stack",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,077",
-      "forks": "852",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14206448?s=40&v=4",
-          "name": "mpilgrem",
-          "url": "https://github.com/mpilgrem"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49415?s=40&v=4",
-          "name": "snoyberg",
-          "url": "https://github.com/snoyberg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2164261?s=40&v=4",
-          "name": "borsboom",
-          "url": "https://github.com/borsboom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22570?s=40&v=4",
-          "name": "mgsloan",
-          "url": "https://github.com/mgsloan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11019?s=40&v=4",
-          "name": "chrisdone",
-          "url": "https://github.com/chrisdone"
-        }
-      ]
-    },
-    {
-      "title": "agda/agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,931",
-      "forks": "429",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1155218?s=40&v=4",
-          "name": "andreasabel",
-          "url": "https://github.com/andreasabel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/447950?s=40&v=4",
-          "name": "UlfNorell",
-          "url": "https://github.com/UlfNorell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/635804?s=40&v=4",
-          "name": "asr",
-          "url": "https://github.com/asr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/293222?s=40&v=4",
-          "name": "nad",
-          "url": "https://github.com/nad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
-          "name": "jespercockx",
-          "url": "https://github.com/jespercockx"
         }
       ]
     }

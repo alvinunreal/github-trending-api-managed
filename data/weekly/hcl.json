@@ -2,8 +2,40 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Oct 2026 07:18:12 GMT",
+  "pubDate": "Tue, 06 Oct 2026 13:18:16 GMT",
   "items": [
+    {
+      "title": "ministryofjustice/modernisation-platform",
+      "url": "https://github.com/ministryofjustice/modernisation-platform",
+      "description": "A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "723",
+      "forks": "283",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41325732?s=40&v=4",
+          "name": "ASTRobinson",
+          "url": "https://github.com/ASTRobinson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24830854?s=40&v=4",
+          "name": "davidkelliott",
+          "url": "https://github.com/davidkelliott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44971873?s=40&v=4",
+          "name": "markgov",
+          "url": "https://github.com/markgov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20768609?s=40&v=4",
+          "name": "mikereiddigital",
+          "url": "https://github.com/mikereiddigital"
+        }
+      ]
+    },
     {
       "title": "terraform-aws-modules/terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
@@ -38,6 +70,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
           "name": "betajobot",
           "url": "https://github.com/betajobot"
+        }
+      ]
+    },
+    {
+      "title": "LinkedInLearning/learning-terraform-3087701",
+      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
+      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "149",
+      "forks": "7,358",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28540243?s=40&v=4",
+          "name": "skeedazzle",
+          "url": "https://github.com/skeedazzle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8343987?s=40&v=4",
+          "name": "samuelson",
+          "url": "https://github.com/samuelson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88352515?s=40&v=4",
+          "name": "cmosier-LiL",
+          "url": "https://github.com/cmosier-LiL"
         }
       ]
     },
@@ -79,215 +138,13 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "3,273",
-      "forks": "4,628",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
-          "name": "DrFaust92",
-          "url": "https://github.com/DrFaust92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        }
-      ]
-    },
-    {
-      "title": "LinkedInLearning/learning-terraform-3087701",
-      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
-      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "149",
-      "forks": "7,357",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28540243?s=40&v=4",
-          "name": "skeedazzle",
-          "url": "https://github.com/skeedazzle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8343987?s=40&v=4",
-          "name": "samuelson",
-          "url": "https://github.com/samuelson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88352515?s=40&v=4",
-          "name": "cmosier-LiL",
-          "url": "https://github.com/cmosier-LiL"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,040",
-      "forks": "780",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14666676?s=40&v=4",
-          "name": "ahlinc",
-          "url": "https://github.com/ahlinc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
-          "name": "pdecat",
-          "url": "https://github.com/pdecat"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "676",
-      "forks": "670",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/481964?s=40&v=4",
-          "name": "arminc",
-          "url": "https://github.com/arminc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        }
-      ]
-    },
-    {
-      "title": "hashicorp/agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "885",
-      "forks": "130",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22324290?s=40&v=4",
-          "name": "gautambaghel",
-          "url": "https://github.com/gautambaghel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6918897?s=40&v=4",
-          "name": "leefowlercu",
-          "url": "https://github.com/leefowlercu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/420169?s=40&v=4",
-          "name": "bbasata",
-          "url": "https://github.com/bbasata"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11953035?s=40&v=4",
-          "name": "quixoticmonk",
-          "url": "https://github.com/quixoticmonk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45045902?s=40&v=4",
-          "name": "rchandnaWUSTL",
-          "url": "https://github.com/rchandnaWUSTL"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "153",
-      "forks": "120",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
-          "name": "ludoo",
-          "url": "https://github.com/ludoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        }
-      ]
-    },
-    {
       "title": "terraform-google-modules/terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
       "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "1,280",
-      "forks": "1,290",
+      "forks": "1,289",
       "addStars": "0",
       "contributors": [
         {
@@ -309,6 +166,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
           "name": "aaron-lane",
           "url": "https://github.com/aaron-lane"
+        }
+      ]
+    },
+    {
+      "title": "chainguard-images/images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "696",
+      "forks": "177",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393494?s=40&v=4",
+          "name": "jdolitsky",
+          "url": "https://github.com/jdolitsky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/210737?s=40&v=4",
+          "name": "imjasonh",
+          "url": "https://github.com/imjasonh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
+          "name": "mattmoor",
+          "url": "https://github.com/mattmoor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/246775?s=40&v=4",
+          "name": "amouat",
+          "url": "https://github.com/amouat"
+        }
+      ]
+    },
+    {
+      "title": "langchain-ai/terraform",
+      "url": "https://github.com/langchain-ai/terraform",
+      "description": "Repository containing langchain terraform modules",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "20",
+      "forks": "19",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/230125593?s=40&v=4",
+          "name": "denis-at-langchain",
+          "url": "https://github.com/denis-at-langchain"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/213688804?s=40&v=4",
+          "name": "joaquin-borggio-lc",
+          "url": "https://github.com/joaquin-borggio-lc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/169869301?s=40&v=4",
+          "name": "harinarayansrivatsan",
+          "url": "https://github.com/harinarayansrivatsan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/213689613?s=40&v=4",
+          "name": "romain-priour-lc",
+          "url": "https://github.com/romain-priour-lc"
         }
       ]
     }

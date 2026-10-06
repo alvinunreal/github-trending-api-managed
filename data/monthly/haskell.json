@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Monthly Trending",
   "description": "Monthly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Oct 2026 07:18:12 GMT",
+  "pubDate": "Tue, 06 Oct 2026 13:18:16 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,8 +10,8 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,594",
-      "forks": "5,712",
+      "stars": "46,613",
+      "forks": "5,760",
       "addStars": "494",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,139",
+      "stars": "40,141",
       "forks": "1,955",
       "addStars": "178",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "12,459",
+      "stars": "12,460",
       "forks": "505",
       "addStars": "80",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "27,694",
+      "stars": "27,696",
       "forks": "1,228",
       "addStars": "81",
       "contributors": [
@@ -180,50 +180,13 @@
       ]
     },
     {
-      "title": "elm/compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "7,909",
-      "forks": "691",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16453249?s=40&v=4",
-          "name": "process-bot",
-          "url": "https://github.com/process-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1658058?s=40&v=4",
-          "name": "evancz",
-          "url": "https://github.com/evancz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/941215?s=40&v=4",
-          "name": "johnpmayer",
-          "url": "https://github.com/johnpmayer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1479741?s=40&v=4",
-          "name": "maxsnew",
-          "url": "https://github.com/maxsnew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6323656?s=40&v=4",
-          "name": "xash",
-          "url": "https://github.com/xash"
-        }
-      ]
-    },
-    {
       "title": "haskell/haskell-language-server",
       "url": "https://github.com/haskell/haskell-language-server",
       "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "2,959",
-      "forks": "458",
+      "forks": "459",
       "addStars": "9",
       "contributors": [
         {
@@ -245,6 +208,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
           "name": "wz1000",
           "url": "https://github.com/wz1000"
+        }
+      ]
+    },
+    {
+      "title": "agda/agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,931",
+      "forks": "429",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1155218?s=40&v=4",
+          "name": "andreasabel",
+          "url": "https://github.com/andreasabel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/447950?s=40&v=4",
+          "name": "UlfNorell",
+          "url": "https://github.com/UlfNorell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/635804?s=40&v=4",
+          "name": "asr",
+          "url": "https://github.com/asr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/293222?s=40&v=4",
+          "name": "nad",
+          "url": "https://github.com/nad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
+          "name": "jespercockx",
+          "url": "https://github.com/jespercockx"
         }
       ]
     },
@@ -282,6 +282,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/11019?s=40&v=4",
           "name": "chrisdone",
           "url": "https://github.com/chrisdone"
+        }
+      ]
+    },
+    {
+      "title": "digital-asset/daml",
+      "url": "https://github.com/digital-asset/daml",
+      "description": "The Daml smart contract language",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "916",
+      "forks": "263",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1313584?s=40&v=4",
+          "name": "cocreature",
+          "url": "https://github.com/cocreature"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45566104?s=40&v=4",
+          "name": "remyhaemmerle-da",
+          "url": "https://github.com/remyhaemmerle-da"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45561385?s=40&v=4",
+          "name": "garyverhaegen-da",
+          "url": "https://github.com/garyverhaegen-da"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43749967?s=40&v=4",
+          "name": "stefanobaghino-da",
+          "url": "https://github.com/stefanobaghino-da"
+        }
+      ]
+    },
+    {
+      "title": "elm/compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "7,909",
+      "forks": "691",
+      "addStars": "22",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16453249?s=40&v=4",
+          "name": "process-bot",
+          "url": "https://github.com/process-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1658058?s=40&v=4",
+          "name": "evancz",
+          "url": "https://github.com/evancz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/941215?s=40&v=4",
+          "name": "johnpmayer",
+          "url": "https://github.com/johnpmayer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1479741?s=40&v=4",
+          "name": "maxsnew",
+          "url": "https://github.com/maxsnew"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6323656?s=40&v=4",
+          "name": "xash",
+          "url": "https://github.com/xash"
         }
       ]
     },
@@ -340,149 +409,6 @@
       ]
     },
     {
-      "title": "fossas/fossa-cli",
-      "url": "https://github.com/fossas/fossa-cli",
-      "description": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "1,521",
-      "forks": "207",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3586257?s=40&v=4",
-          "name": "cnr",
-          "url": "https://github.com/cnr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2066021?s=40&v=4",
-          "name": "xizhao",
-          "url": "https://github.com/xizhao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86321858?s=40&v=4",
-          "name": "meghfossa",
-          "url": "https://github.com/meghfossa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4560399?s=40&v=4",
-          "name": "microsoftly",
-          "url": "https://github.com/microsoftly"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13045?s=40&v=4",
-          "name": "spatten",
-          "url": "https://github.com/spatten"
-        }
-      ]
-    },
-    {
-      "title": "agda/agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,931",
-      "forks": "429",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1155218?s=40&v=4",
-          "name": "andreasabel",
-          "url": "https://github.com/andreasabel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/447950?s=40&v=4",
-          "name": "UlfNorell",
-          "url": "https://github.com/UlfNorell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/635804?s=40&v=4",
-          "name": "asr",
-          "url": "https://github.com/asr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/293222?s=40&v=4",
-          "name": "nad",
-          "url": "https://github.com/nad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
-          "name": "jespercockx",
-          "url": "https://github.com/jespercockx"
-        }
-      ]
-    },
-    {
-      "title": "digital-asset/daml",
-      "url": "https://github.com/digital-asset/daml",
-      "description": "The Daml smart contract language",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "916",
-      "forks": "263",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1313584?s=40&v=4",
-          "name": "cocreature",
-          "url": "https://github.com/cocreature"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45566104?s=40&v=4",
-          "name": "remyhaemmerle-da",
-          "url": "https://github.com/remyhaemmerle-da"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45561385?s=40&v=4",
-          "name": "garyverhaegen-da",
-          "url": "https://github.com/garyverhaegen-da"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43749967?s=40&v=4",
-          "name": "stefanobaghino-da",
-          "url": "https://github.com/stefanobaghino-da"
-        }
-      ]
-    },
-    {
-      "title": "hledgerorg/hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,745",
-      "forks": "415",
-      "addStars": "58",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
-          "name": "simonmichael",
-          "url": "https://github.com/simonmichael"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
-          "name": "Xitian9",
-          "url": "https://github.com/Xitian9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
-          "name": "adept",
-          "url": "https://github.com/adept"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
-          "name": "thielema",
-          "url": "https://github.com/thielema"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700572?s=40&v=4",
-          "name": "acinader",
-          "url": "https://github.com/acinader"
-        }
-      ]
-    },
-    {
       "title": "unisonweb/unison",
       "url": "https://github.com/unisonweb/unison",
       "description": "A friendly programming language from the future",
@@ -525,7 +451,7 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,888",
+      "stars": "1,889",
       "forks": "81",
       "addStars": "171",
       "contributors": [
