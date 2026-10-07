@@ -2,42 +2,79 @@
   "title": "GitHub Bitbake Languages Weekly Trending",
   "description": "Weekly Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Oct 2026 07:12:51 GMT",
+  "pubDate": "Wed, 07 Oct 2026 14:29:17 GMT",
   "items": [
     {
-      "title": "openbmc/openbmc",
-      "url": "https://github.com/openbmc/openbmc",
-      "description": "OpenBMC Distribution",
+      "title": "nxp-imx/meta-imx",
+      "url": "https://github.com/nxp-imx/meta-imx",
+      "description": "i.MX Yocto Project i.MX BSP Layer",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "2,581",
-      "forks": "1,187",
-      "addStars": "7",
+      "stars": "126",
+      "forks": "117",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/105009?s=40&v=4",
-          "name": "williamspatrick",
-          "url": "https://github.com/williamspatrick"
+          "avatar": "https://avatars.githubusercontent.com/u/290125238?s=40&v=4",
+          "name": "imxrelease",
+          "url": "https://github.com/imxrelease"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1612261?s=40&v=4",
-          "name": "geissonator",
-          "url": "https://github.com/geissonator"
+          "avatar": "https://avatars.githubusercontent.com/u/37591159?s=40&v=4",
+          "name": "laurenpost",
+          "url": "https://github.com/laurenpost"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8423748?s=40&v=4",
-          "name": "bradbishop",
-          "url": "https://github.com/bradbishop"
+          "avatar": "https://avatars.githubusercontent.com/u/42187149?s=40&v=4",
+          "name": "thochstein",
+          "url": "https://github.com/thochstein"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/207355?s=40&v=4",
-          "name": "shenki",
-          "url": "https://github.com/shenki"
+          "avatar": "https://avatars.githubusercontent.com/u/34228843?s=40&v=4",
+          "name": "junzhuimx",
+          "url": "https://github.com/junzhuimx"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/526481?s=40&v=4",
-          "name": "amboar",
-          "url": "https://github.com/amboar"
+          "avatar": "https://avatars.githubusercontent.com/u/33496511?s=40&v=4",
+          "name": "neenareddi",
+          "url": "https://github.com/neenareddi"
+        }
+      ]
+    },
+    {
+      "title": "priv-kweihmann/meta-sca",
+      "url": "https://github.com/priv-kweihmann/meta-sca",
+      "description": "Layer for static code analysis and security hardening",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "111",
+      "forks": "40",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46938494?s=40&v=4",
+          "name": "priv-kweihmann",
+          "url": "https://github.com/priv-kweihmann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3031760?s=40&v=4",
+          "name": "SJLC",
+          "url": "https://github.com/SJLC"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3834538?s=40&v=4",
+          "name": "vermaete",
+          "url": "https://github.com/vermaete"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4224783?s=40&v=4",
+          "name": "RobertBerger",
+          "url": "https://github.com/RobertBerger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34969493?s=40&v=4",
+          "name": "kk6ho",
+          "url": "https://github.com/kk6ho"
         }
       ]
     },
@@ -79,39 +116,39 @@
       ]
     },
     {
-      "title": "priv-kweihmann/meta-sca",
-      "url": "https://github.com/priv-kweihmann/meta-sca",
-      "description": "Layer for static code analysis and security hardening",
+      "title": "openbmc/openbmc",
+      "url": "https://github.com/openbmc/openbmc",
+      "description": "OpenBMC Distribution",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "111",
-      "forks": "40",
-      "addStars": "0",
+      "stars": "2,583",
+      "forks": "1,187",
+      "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46938494?s=40&v=4",
-          "name": "priv-kweihmann",
-          "url": "https://github.com/priv-kweihmann"
+          "avatar": "https://avatars.githubusercontent.com/u/105009?s=40&v=4",
+          "name": "williamspatrick",
+          "url": "https://github.com/williamspatrick"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3031760?s=40&v=4",
-          "name": "SJLC",
-          "url": "https://github.com/SJLC"
+          "avatar": "https://avatars.githubusercontent.com/u/1612261?s=40&v=4",
+          "name": "geissonator",
+          "url": "https://github.com/geissonator"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3834538?s=40&v=4",
-          "name": "vermaete",
-          "url": "https://github.com/vermaete"
+          "avatar": "https://avatars.githubusercontent.com/u/8423748?s=40&v=4",
+          "name": "bradbishop",
+          "url": "https://github.com/bradbishop"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4224783?s=40&v=4",
-          "name": "RobertBerger",
-          "url": "https://github.com/RobertBerger"
+          "avatar": "https://avatars.githubusercontent.com/u/207355?s=40&v=4",
+          "name": "shenki",
+          "url": "https://github.com/shenki"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34969493?s=40&v=4",
-          "name": "kk6ho",
-          "url": "https://github.com/kk6ho"
+          "avatar": "https://avatars.githubusercontent.com/u/526481?s=40&v=4",
+          "name": "amboar",
+          "url": "https://github.com/amboar"
         }
       ]
     }
