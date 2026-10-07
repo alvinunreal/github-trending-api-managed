@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Weekly Trending",
   "description": "Weekly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Oct 2026 07:12:51 GMT",
+  "pubDate": "Wed, 07 Oct 2026 13:18:16 GMT",
   "items": [
     {
       "title": "bazelbuild/rules_cc",
@@ -69,12 +69,49 @@
       ]
     },
     {
+      "title": "bazelbuild/bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "392",
+      "forks": "929",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
+          "name": "Vertexwahn",
+          "url": "https://github.com/Vertexwahn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
+          "name": "aspect-marvin",
+          "url": "https://github.com/aspect-marvin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
+          "name": "meteorcloudy",
+          "url": "https://github.com/meteorcloudy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
+          "name": "jbedard",
+          "url": "https://github.com/jbedard"
+        }
+      ]
+    },
+    {
       "title": "GoogleContainerTools/distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "23,122",
+      "stars": "23,124",
       "forks": "1,439",
       "addStars": "19",
       "contributors": [
@@ -165,43 +202,6 @@
       ]
     },
     {
-      "title": "bazelbuild/bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "392",
-      "forks": "929",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
-          "name": "Vertexwahn",
-          "url": "https://github.com/Vertexwahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
-          "name": "aspect-marvin",
-          "url": "https://github.com/aspect-marvin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
-          "name": "meteorcloudy",
-          "url": "https://github.com/meteorcloudy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
-          "name": "fmeum",
-          "url": "https://github.com/fmeum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
-          "name": "jbedard",
-          "url": "https://github.com/jbedard"
-        }
-      ]
-    },
-    {
       "title": "bazel-contrib/rules_perl",
       "url": "https://github.com/bazel-contrib/rules_perl",
       "description": "Perl rules for Bazel",
@@ -244,7 +244,7 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "4,006",
+      "stars": "4,007",
       "forks": "306",
       "addStars": "11",
       "contributors": [
@@ -272,6 +272,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
           "name": "eobrain",
           "url": "https://github.com/eobrain"
+        }
+      ]
+    },
+    {
+      "title": "tronbyt/apps",
+      "url": "https://github.com/tronbyt/apps",
+      "description": "Hard Fork of Tidbyt Community Repo",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "63",
+      "forks": "149",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8324295?s=40&v=4",
+          "name": "tavdog",
+          "url": "https://github.com/tavdog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/490610?s=40&v=4",
+          "name": "IngmarStein",
+          "url": "https://github.com/IngmarStein"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27781329?s=40&v=4",
+          "name": "rjison",
+          "url": "https://github.com/rjison"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7717888?s=40&v=4",
+          "name": "gabe565",
+          "url": "https://github.com/gabe565"
+        }
+      ]
+    },
+    {
+      "title": "tidbyt/community",
+      "url": "https://github.com/tidbyt/community",
+      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "428",
+      "forks": "828",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3886576?s=40&v=4",
+          "name": "betterengineering",
+          "url": "https://github.com/betterengineering"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/120065017?s=40&v=4",
+          "name": "M0ntyP",
+          "url": "https://github.com/M0ntyP"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208392?s=40&v=4",
+          "name": "matslina",
+          "url": "https://github.com/matslina"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27781329?s=40&v=4",
+          "name": "rjison",
+          "url": "https://github.com/rjison"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/615175?s=40&v=4",
+          "name": "rohansingh",
+          "url": "https://github.com/rohansingh"
         }
       ]
     }

@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Wed, 07 Oct 2026 07:12:51 GMT</pubDate>
+    <pubDate>Wed, 07 Oct 2026 13:18:16 GMT</pubDate>
     <item>
       <title>bazelbuild/rules_cc</title>
       <link>https://github.com/bazelbuild/rules_cc</link>
@@ -71,13 +71,51 @@
       </contributors>
     </item>
     <item>
+      <title>bazelbuild/bazel-central-registry</title>
+      <link>https://github.com/bazelbuild/bazel-central-registry</link>
+      <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+      <guid>https://github.com/bazelbuild/bazel-central-registry</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>392</stars>
+      <forks>929</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3775001?s=40&amp;v=4</avatar>
+          <name>Vertexwahn</name>
+          <url>https://github.com/Vertexwahn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/208529797?s=40&amp;v=4</avatar>
+          <name>aspect-marvin</name>
+          <url>https://github.com/aspect-marvin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4171702?s=40&amp;v=4</avatar>
+          <name>meteorcloudy</name>
+          <url>https://github.com/meteorcloudy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89246?s=40&amp;v=4</avatar>
+          <name>jbedard</name>
+          <url>https://github.com/jbedard</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>GoogleContainerTools/distroless</title>
       <link>https://github.com/GoogleContainerTools/distroless</link>
       <description>🥑 Language focused docker images, minus the operating system.</description>
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>23,122</stars>
+      <stars>23,124</stars>
       <forks>1,439</forks>
       <addStars>19</addStars>
       <contributors>
@@ -170,44 +208,6 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/bazel-central-registry</title>
-      <link>https://github.com/bazelbuild/bazel-central-registry</link>
-      <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
-      <guid>https://github.com/bazelbuild/bazel-central-registry</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>392</stars>
-      <forks>929</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3775001?s=40&amp;v=4</avatar>
-          <name>Vertexwahn</name>
-          <url>https://github.com/Vertexwahn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/208529797?s=40&amp;v=4</avatar>
-          <name>aspect-marvin</name>
-          <url>https://github.com/aspect-marvin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4171702?s=40&amp;v=4</avatar>
-          <name>meteorcloudy</name>
-          <url>https://github.com/meteorcloudy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89246?s=40&amp;v=4</avatar>
-          <name>jbedard</name>
-          <url>https://github.com/jbedard</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>bazel-contrib/rules_perl</title>
       <link>https://github.com/bazel-contrib/rules_perl</link>
       <description>Perl rules for Bazel</description>
@@ -252,7 +252,7 @@
       <guid>https://github.com/cel-expr/cel-spec</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>4,006</stars>
+      <stars>4,007</stars>
       <forks>306</forks>
       <addStars>11</addStars>
       <contributors>
@@ -280,6 +280,77 @@
           <avatar>https://avatars.githubusercontent.com/u/179320?s=40&amp;v=4</avatar>
           <name>eobrain</name>
           <url>https://github.com/eobrain</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tronbyt/apps</title>
+      <link>https://github.com/tronbyt/apps</link>
+      <description>Hard Fork of Tidbyt Community Repo</description>
+      <guid>https://github.com/tronbyt/apps</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>63</stars>
+      <forks>149</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8324295?s=40&amp;v=4</avatar>
+          <name>tavdog</name>
+          <url>https://github.com/tavdog</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/490610?s=40&amp;v=4</avatar>
+          <name>IngmarStein</name>
+          <url>https://github.com/IngmarStein</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27781329?s=40&amp;v=4</avatar>
+          <name>rjison</name>
+          <url>https://github.com/rjison</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7717888?s=40&amp;v=4</avatar>
+          <name>gabe565</name>
+          <url>https://github.com/gabe565</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tidbyt/community</title>
+      <link>https://github.com/tidbyt/community</link>
+      <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
+      <guid>https://github.com/tidbyt/community</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>428</stars>
+      <forks>828</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3886576?s=40&amp;v=4</avatar>
+          <name>betterengineering</name>
+          <url>https://github.com/betterengineering</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/120065017?s=40&amp;v=4</avatar>
+          <name>M0ntyP</name>
+          <url>https://github.com/M0ntyP</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/208392?s=40&amp;v=4</avatar>
+          <name>matslina</name>
+          <url>https://github.com/matslina</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27781329?s=40&amp;v=4</avatar>
+          <name>rjison</name>
+          <url>https://github.com/rjison</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/615175?s=40&amp;v=4</avatar>
+          <name>rohansingh</name>
+          <url>https://github.com/rohansingh</url>
         </contributor>
       </contributors>
     </item>

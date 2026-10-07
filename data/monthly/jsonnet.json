@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Monthly Trending",
   "description": "Monthly Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Oct 2026 07:12:51 GMT",
+  "pubDate": "Wed, 07 Oct 2026 13:18:16 GMT",
   "items": [
     {
       "title": "google/jsonnet",
@@ -37,14 +37,14 @@
       ]
     },
     {
-      "title": "kubernetes-sigs/kubernetes-mixin",
-      "url": "https://github.com/kubernetes-sigs/kubernetes-mixin",
-      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
+      "title": "prometheus-operator/kube-prometheus",
+      "url": "https://github.com/prometheus-operator/kube-prometheus",
+      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "2,480",
-      "forks": "662",
-      "addStars": "39",
+      "stars": "7,740",
+      "forks": "2,043",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4546722?s=40&v=4",
@@ -52,19 +52,19 @@
           "url": "https://github.com/brancz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/872251?s=40&v=4",
-          "name": "metalmatze",
-          "url": "https://github.com/metalmatze"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22289110?s=40&v=4",
-          "name": "povilasv",
-          "url": "https://github.com/povilasv"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/3531758?s=40&v=4",
           "name": "paulfantom",
           "url": "https://github.com/paulfantom"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85787986?s=40&v=4",
+          "name": "prom-op-bot",
+          "url": "https://github.com/prom-op-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2587585?s=40&v=4",
+          "name": "simonpasquier",
+          "url": "https://github.com/simonpasquier"
         }
       ]
     },
@@ -75,7 +75,7 @@
       "language": "Jsonnet",
       "languageColor": "#0064bd",
       "stars": "2,190",
-      "forks": "10,372",
+      "forks": "10,376",
       "addStars": "20",
       "contributors": [
         {
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "title": "prometheus-operator/kube-prometheus",
-      "url": "https://github.com/prometheus-operator/kube-prometheus",
-      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "title": "kubernetes-sigs/kubernetes-mixin",
+      "url": "https://github.com/kubernetes-sigs/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "7,741",
-      "forks": "2,043",
-      "addStars": "24",
+      "stars": "2,480",
+      "forks": "662",
+      "addStars": "39",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4546722?s=40&v=4",
@@ -121,19 +121,19 @@
           "url": "https://github.com/brancz"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/872251?s=40&v=4",
+          "name": "metalmatze",
+          "url": "https://github.com/metalmatze"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22289110?s=40&v=4",
+          "name": "povilasv",
+          "url": "https://github.com/povilasv"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/3531758?s=40&v=4",
           "name": "paulfantom",
           "url": "https://github.com/paulfantom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85787986?s=40&v=4",
-          "name": "prom-op-bot",
-          "url": "https://github.com/prom-op-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2587585?s=40&v=4",
-          "name": "simonpasquier",
-          "url": "https://github.com/simonpasquier"
         }
       ]
     }
