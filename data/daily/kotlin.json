@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 08 Oct 2026 07:18:16 GMT",
+  "pubDate": "Thu, 08 Oct 2026 13:18:25 GMT",
   "items": [
     {
       "title": "PimpinPumpkin/Vela",
@@ -10,8 +10,8 @@
       "description": "Degoogled maps & turn-by-turn navigation for Android - MapLibre + Overture POI, no Google Play Services",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "948",
-      "forks": "40",
+      "stars": "1,048",
+      "forks": "43",
       "addStars": "83",
       "contributors": [
         {
@@ -42,13 +42,72 @@
       ]
     },
     {
+      "title": "Lelonio/Square",
+      "url": "https://github.com/Lelonio/Square",
+      "description": "Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "100",
+      "forks": "9",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21023829?s=40&v=4",
+          "name": "Lelonio",
+          "url": "https://github.com/Lelonio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72031623?s=40&v=4",
+          "name": "HectorZL",
+          "url": "https://github.com/HectorZL"
+        }
+      ]
+    },
+    {
+      "title": "google-ai-edge/gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "24,876",
+      "forks": "2,719",
+      "addStars": "22",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&v=4",
+          "name": "jinjingforever",
+          "url": "https://github.com/jinjingforever"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6421220?s=40&v=4",
+          "name": "yishuangP",
+          "url": "https://github.com/yishuangP"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10928342?s=40&v=4",
+          "name": "zichuan-wei",
+          "url": "https://github.com/zichuan-wei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47220338?s=40&v=4",
+          "name": "yijie-yang",
+          "url": "https://github.com/yijie-yang"
+        }
+      ]
+    },
+    {
       "title": "open-ani/animeko",
       "url": "https://github.com/open-ani/animeko",
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,637",
-      "forks": "605",
+      "stars": "20,665",
+      "forks": "606",
       "addStars": "52",
       "contributors": [
         {
@@ -79,56 +138,19 @@
       ]
     },
     {
-      "title": "permissionlesstech/bitchat-android",
-      "url": "https://github.com/permissionlesstech/bitchat-android",
-      "description": "decentralized mesh chat",
+      "title": "linroid/Ketch",
+      "url": "https://github.com/linroid/Ketch",
+      "description": "A fast, open-source download manager for every device you own.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,749",
-      "forks": "1,870",
-      "addStars": "12",
+      "stars": "236",
+      "forks": "20",
+      "addStars": "58",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&v=4",
-          "name": "callebtc",
-          "url": "https://github.com/callebtc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43107113?s=40&v=4",
-          "name": "a1denvalu3",
-          "url": "https://github.com/a1denvalu3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69801237?s=40&v=4",
-          "name": "moehamade",
-          "url": "https://github.com/moehamade"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "torlando-tech/columba",
-      "url": "https://github.com/torlando-tech/columba",
-      "description": "Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "1,206",
-      "forks": "122",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/239676438?s=40&v=4",
-          "name": "torlando-tech",
-          "url": "https://github.com/torlando-tech"
+          "avatar": "https://avatars.githubusercontent.com/u/3192142?s=40&v=4",
+          "name": "linroid",
+          "url": "https://github.com/linroid"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -136,243 +158,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22196864?s=40&v=4",
-          "name": "MatthieuTexier",
-          "url": "https://github.com/MatthieuTexier"
-        }
-      ]
-    },
-    {
-      "title": "bmax121/APatch",
-      "url": "https://github.com/bmax121/APatch",
-      "description": "The patching of Android kernel and Android system",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "8,017",
-      "forks": "794",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30499527?s=40&v=4",
-          "name": "pomelohan",
-          "url": "https://github.com/pomelohan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43035036?s=40&v=4",
-          "name": "Admirepowered",
-          "url": "https://github.com/Admirepowered"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12316019?s=40&v=4",
-          "name": "bmax121",
-          "url": "https://github.com/bmax121"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
-          "name": "weblate",
-          "url": "https://github.com/weblate"
-        }
-      ]
-    },
-    {
-      "title": "AndyShaman/BYDMate",
-      "url": "https://github.com/AndyShaman/BYDMate",
-      "description": "BYD DiLink app (3.0/5.0/5.1, UI7): split screen 1/3+2/3, navigation on instrument cluster, Yandex Navigator on HUD, blind-spot cameras on turn signal, Russian voice AI agent, real BMS consumption, trips/charges journal, automation, ABRP + webhook telemetry. Leopard 3 / Bao 3, Sea Lion 07, Song, Atto 3.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "379",
-      "forks": "74",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/166172682?s=40&v=4",
-          "name": "AndyShaman",
-          "url": "https://github.com/AndyShaman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12782143?s=40&v=4",
-          "name": "vladh91",
-          "url": "https://github.com/vladh91"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18225577?s=40&v=4",
-          "name": "zhongjun96",
-          "url": "https://github.com/zhongjun96"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2920454?s=40&v=4",
-          "name": "Dmitrijsmok",
-          "url": "https://github.com/Dmitrijsmok"
-        }
-      ]
-    },
-    {
-      "title": "JetBrains/kotlin",
-      "url": "https://github.com/JetBrains/kotlin",
-      "description": "The Kotlin Programming Language.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "53,487",
-      "forks": "6,438",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/292714?s=40&v=4",
-          "name": "udalov",
-          "url": "https://github.com/udalov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1127631?s=40&v=4",
-          "name": "mglukhikh",
-          "url": "https://github.com/mglukhikh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14974409?s=40&v=4",
-          "name": "demiurg906",
-          "url": "https://github.com/demiurg906"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22503910?s=40&v=4",
-          "name": "dimonchik0036",
-          "url": "https://github.com/dimonchik0036"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/908958?s=40&v=4",
-          "name": "goodwinnk",
-          "url": "https://github.com/goodwinnk"
-        }
-      ]
-    },
-    {
-      "title": "rmyndharis/VSCodroid",
-      "url": "https://github.com/rmyndharis/VSCodroid",
-      "description": "VS Code ported to Android — a full IDE on-the-go for developers",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "190",
-      "forks": "45",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2390382?s=40&v=4",
-          "name": "rmyndharis",
-          "url": "https://github.com/rmyndharis"
-        }
-      ]
-    },
-    {
-      "title": "CYQawa/YunX",
-      "url": "https://github.com/CYQawa/YunX",
-      "description": "✨一个安卓网盘解析下载app✨",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "3,907",
-      "forks": "206",
-      "addStars": "74",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/197054527?s=40&v=4",
-          "name": "CYQawa",
-          "url": "https://github.com/CYQawa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/143770458?s=40&v=4",
-          "name": "tidain",
-          "url": "https://github.com/tidain"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99045618?s=40&v=4",
-          "name": "xiaoxun007",
-          "url": "https://github.com/xiaoxun007"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84219882?s=40&v=4",
-          "name": "hiuyt",
-          "url": "https://github.com/hiuyt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        }
-      ]
-    },
-    {
-      "title": "utkarshdalal/GameNative",
-      "url": "https://github.com/utkarshdalal/GameNative",
-      "description": "Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "11,009",
-      "forks": "446",
-      "addStars": "25",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3746571?s=40&v=4",
-          "name": "utkarshdalal",
-          "url": "https://github.com/utkarshdalal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4994318?s=40&v=4",
-          "name": "LossyDragon",
-          "url": "https://github.com/LossyDragon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15348986?s=40&v=4",
-          "name": "oxters168",
-          "url": "https://github.com/oxters168"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/297250?s=40&v=4",
-          "name": "joshuatam",
-          "url": "https://github.com/joshuatam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5970062?s=40&v=4",
-          "name": "phobos665",
-          "url": "https://github.com/phobos665"
-        }
-      ]
-    },
-    {
-      "title": "jqssun/android-airplay-server",
-      "url": "https://github.com/jqssun/android-airplay-server",
-      "description": "First open-source AirPlay receiver implementation for Android with mirroring, video and audio support",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "539",
-      "forks": "74",
-      "addStars": "32",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/195176069?s=40&v=4",
-          "name": "jqssun",
-          "url": "https://github.com/jqssun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9571936?s=40&v=4",
-          "name": "null-dev",
-          "url": "https://github.com/null-dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13660035?s=40&v=4",
-          "name": "birax",
-          "url": "https://github.com/birax"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20535086?s=40&v=4",
-          "name": "cosminmocan",
-          "url": "https://github.com/cosminmocan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105959075?s=40&v=4",
-          "name": "Ilm-Alan",
-          "url": "https://github.com/Ilm-Alan"
+          "avatar": "https://avatars.githubusercontent.com/u/9020352?s=40&v=4",
+          "name": "zacharee",
+          "url": "https://github.com/zacharee"
         }
       ]
     },
@@ -382,7 +170,7 @@
       "description": "💊 Application to use ReVanced on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "29,754",
+      "stars": "29,752",
       "forks": "1,162",
       "addStars": "23",
       "contributors": [
@@ -414,34 +202,108 @@
       ]
     },
     {
-      "title": "rushiranpise/morphe-patches",
-      "url": "https://github.com/rushiranpise/morphe-patches",
-      "description": "New mask, same task. All patches answer to Doom.",
+      "title": "mihonapp/mihon",
+      "url": "https://github.com/mihonapp/mihon",
+      "description": "Free and open source manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "834",
-      "forks": "54",
-      "addStars": "6",
+      "stars": "24,117",
+      "forks": "1,583",
+      "addStars": "44",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37355997?s=40&v=4",
-          "name": "rushiranpise",
-          "url": "https://github.com/rushiranpise"
+          "avatar": "https://avatars.githubusercontent.com/u/59261191?s=40&v=4",
+          "name": "AntsyLich",
+          "url": "https://github.com/AntsyLich"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/118716522?s=40&v=4",
-          "name": "LisoUseInAIKyrios",
-          "url": "https://github.com/LisoUseInAIKyrios"
+          "avatar": "https://avatars.githubusercontent.com/u/39014446?s=40&v=4",
+          "name": "MajorTanya",
+          "url": "https://github.com/MajorTanya"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/10836780?s=40&v=4",
+          "name": "Soitora",
+          "url": "https://github.com/Soitora"
+        }
+      ]
+    },
+    {
+      "title": "gkd-kit/gkd",
+      "url": "https://github.com/gkd-kit/gkd",
+      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "42,603",
+      "forks": "2,022",
+      "addStars": "47",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38517192?s=40&v=4",
+          "name": "lisonge",
+          "url": "https://github.com/lisonge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
+          "name": "tiann",
+          "url": "https://github.com/tiann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121001029?s=40&v=4",
+          "name": "cjy0812",
+          "url": "https://github.com/cjy0812"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17351112?s=40&v=4",
+          "name": "fansangg",
+          "url": "https://github.com/fansangg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85251920?s=40&v=4",
+          "name": "Lin-arm",
+          "url": "https://github.com/Lin-arm"
+        }
+      ]
+    },
+    {
+      "title": "Jman-Github/Universal-ReVanced-Manager",
+      "url": "https://github.com/Jman-Github/Universal-ReVanced-Manager",
+      "description": "💊 Android manager for ReVanced and Morphe with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "1,336",
+      "forks": "47",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128645077?s=40&v=4",
+          "name": "Jman-Github",
+          "url": "https://github.com/Jman-Github"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93124920?s=40&v=4",
+          "name": "validcube",
+          "url": "https://github.com/validcube"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4687488?s=40&v=4",
+          "name": "ponces",
+          "url": "https://github.com/ponces"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13122796?s=40&v=4",
+          "name": "oSumAtrIX",
+          "url": "https://github.com/oSumAtrIX"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28486288?s=40&v=4",
+          "name": "Axelen123",
+          "url": "https://github.com/Axelen123"
         }
       ]
     }

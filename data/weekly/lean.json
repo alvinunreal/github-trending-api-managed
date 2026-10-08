@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 08 Oct 2026 07:18:16 GMT",
+  "pubDate": "Thu, 08 Oct 2026 13:18:25 GMT",
   "items": [
     {
       "title": "anthropics/formal-math",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "285",
-      "forks": "56",
+      "stars": "287",
+      "forks": "57",
       "addStars": "34",
       "contributors": [
         {
@@ -37,13 +37,50 @@
       ]
     },
     {
+      "title": "leanprover-community/physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "774",
+      "forks": "199",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72603918?s=40&v=4",
+          "name": "jstoobysmith",
+          "url": "https://github.com/jstoobysmith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/568733?s=40&v=4",
+          "name": "Timeroot",
+          "url": "https://github.com/Timeroot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46996788?s=40&v=4",
+          "name": "zhikaip",
+          "url": "https://github.com/zhikaip"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
+          "name": "pitmonticone",
+          "url": "https://github.com/pitmonticone"
+        }
+      ]
+    },
+    {
       "title": "leanprover-community/mathlib3",
       "url": "https://github.com/leanprover-community/mathlib3",
       "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "1,660",
-      "forks": "289",
+      "forks": "290",
       "addStars": "1",
       "contributors": [
         {
@@ -80,7 +117,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "733",
-      "forks": "210",
+      "forks": "209",
       "addStars": "5",
       "contributors": [
         {
@@ -102,43 +139,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
           "name": "SamuelSchlesinger",
           "url": "https://github.com/SamuelSchlesinger"
-        }
-      ]
-    },
-    {
-      "title": "leanprover-community/mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "4,250",
-      "forks": "1,740",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
-          "name": "YaelDillies",
-          "url": "https://github.com/YaelDillies"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
-          "name": "urkud",
-          "url": "https://github.com/urkud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
-          "name": "eric-wieser",
-          "url": "https://github.com/eric-wieser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37772949?s=40&v=4",
-          "name": "joelriou",
-          "url": "https://github.com/joelriou"
         }
       ]
     },
@@ -171,6 +171,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "leanprover-community/mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "4,253",
+      "forks": "1,743",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
+          "name": "YaelDillies",
+          "url": "https://github.com/YaelDillies"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
+          "name": "urkud",
+          "url": "https://github.com/urkud"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
+          "name": "eric-wieser",
+          "url": "https://github.com/eric-wieser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37772949?s=40&v=4",
+          "name": "joelriou",
+          "url": "https://github.com/joelriou"
         }
       ]
     }

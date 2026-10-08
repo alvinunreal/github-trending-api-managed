@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 08 Oct 2026 07:18:16 GMT",
+  "pubDate": "Thu, 08 Oct 2026 13:18:25 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,8 +10,8 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,868",
-      "forks": "1,392",
+      "stars": "8,873",
+      "forks": "1,394",
       "addStars": "972",
       "contributors": [
         {
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
           "name": "ko3n1g",
           "url": "https://github.com/ko3n1g"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "864",
+      "forks": "242",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
+          "name": "GPUtester",
+          "url": "https://github.com/GPUtester"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
+          "name": "bdice",
+          "url": "https://github.com/bdice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
+          "name": "benfred",
+          "url": "https://github.com/benfred"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7608904?s=40&v=4",
+          "name": "jameslamb",
+          "url": "https://github.com/jameslamb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
+          "name": "cjnolet",
+          "url": "https://github.com/cjnolet"
         }
       ]
     },
@@ -79,39 +116,39 @@
       ]
     },
     {
-      "title": "NVIDIA/cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "title": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "863",
-      "forks": "242",
-      "addStars": "4",
+      "stars": "6,565",
+      "forks": "1,552",
+      "addStars": "36",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
-          "name": "GPUtester",
-          "url": "https://github.com/GPUtester"
+          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
+          "name": "yzh119",
+          "url": "https://github.com/yzh119"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
-          "name": "bdice",
-          "url": "https://github.com/bdice"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
-          "name": "benfred",
-          "url": "https://github.com/benfred"
+          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
+          "name": "yyihuang",
+          "url": "https://github.com/yyihuang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7608904?s=40&v=4",
-          "name": "jameslamb",
-          "url": "https://github.com/jameslamb"
+          "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
+          "name": "averyhNV",
+          "url": "https://github.com/averyhNV"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
-          "name": "cjnolet",
-          "url": "https://github.com/cjnolet"
+          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
+          "name": "bkryu",
+          "url": "https://github.com/bkryu"
         }
       ]
     },
@@ -153,43 +190,6 @@
       ]
     },
     {
-      "title": "karpathy/llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "31,112",
-      "forks": "3,773",
-      "addStars": "39",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
-          "name": "karpathy",
-          "url": "https://github.com/karpathy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
-          "name": "ngc92",
-          "url": "https://github.com/ngc92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
-          "name": "gordicaleksa",
-          "url": "https://github.com/gordicaleksa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
-          "name": "ademeure",
-          "url": "https://github.com/ademeure"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
-          "name": "rosslwheeler",
-          "url": "https://github.com/rosslwheeler"
-        }
-      ]
-    },
-    {
       "title": "NVIDIA/cuopt",
       "url": "https://github.com/NVIDIA/cuopt",
       "description": "GPU accelerated decision optimization",
@@ -227,39 +227,39 @@
       ]
     },
     {
-      "title": "BBuf/how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
+      "title": "karpathy/llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,305",
-      "forks": "296",
-      "addStars": "10",
+      "stars": "31,116",
+      "forks": "3,773",
+      "addStars": "39",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35585791?s=40&v=4",
-          "name": "BBuf",
-          "url": "https://github.com/BBuf"
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
+          "name": "karpathy",
+          "url": "https://github.com/karpathy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
+          "name": "ngc92",
+          "url": "https://github.com/ngc92"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67543126?s=40&v=4",
-          "name": "peakcrosser7",
-          "url": "https://github.com/peakcrosser7"
+          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
+          "name": "gordicaleksa",
+          "url": "https://github.com/gordicaleksa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
+          "name": "ademeure",
+          "url": "https://github.com/ademeure"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
-          "name": "Dessalines39394",
-          "url": "https://github.com/Dessalines39394"
+          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
+          "name": "rosslwheeler",
+          "url": "https://github.com/rosslwheeler"
         }
       ]
     },
