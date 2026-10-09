@@ -2,53 +2,16 @@
   "title": "GitHub C++ Languages Monthly Trending",
   "description": "Monthly Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 09 Oct 2026 07:18:20 GMT",
+  "pubDate": "Fri, 09 Oct 2026 13:18:15 GMT",
   "items": [
-    {
-      "title": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "200,561",
-      "forks": "78,667",
-      "addStars": "1,719",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
-          "name": "tensorflower-gardener",
-          "url": "https://github.com/tensorflower-gardener"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1174378?s=40&v=4",
-          "name": "ezhulenev",
-          "url": "https://github.com/ezhulenev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14309772?s=40&v=4",
-          "name": "akuegel",
-          "url": "https://github.com/akuegel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&v=4",
-          "name": "hawkinsp",
-          "url": "https://github.com/hawkinsp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/323199?s=40&v=4",
-          "name": "mihaimaruseac",
-          "url": "https://github.com/mihaimaruseac"
-        }
-      ]
-    },
     {
       "title": "M-Abozaid/esp32-c3-adblock",
       "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
       "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,447",
-      "forks": "222",
+      "stars": "2,495",
+      "forks": "225",
       "addStars": "1,687",
       "contributors": [
         {
@@ -79,8 +42,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "130,581",
-      "forks": "24,210",
+      "stars": "130,625",
+      "forks": "24,225",
       "addStars": "3,631",
       "contributors": [
         {
@@ -117,7 +80,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "6,931",
-      "forks": "1,818",
+      "forks": "1,819",
       "addStars": "291",
       "contributors": [
         {
@@ -153,7 +116,7 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,570",
+      "stars": "7,573",
       "forks": "857",
       "addStars": "652",
       "contributors": [
@@ -190,7 +153,7 @@
       "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,847",
+      "stars": "2,852",
       "forks": "561",
       "addStars": "1,334",
       "contributors": [
@@ -227,8 +190,8 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "42,008",
-      "forks": "2,208",
+      "stars": "42,020",
+      "forks": "2,210",
       "addStars": "1,114",
       "contributors": [
         {
@@ -249,87 +212,13 @@
       ]
     },
     {
-      "title": "electron/electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "123,240",
-      "forks": "17,587",
-      "addStars": "676",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4",
-          "name": "zcbenz",
-          "url": "https://github.com/zcbenz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/671378?s=40&v=4",
-          "name": "kevinsawicki",
-          "url": "https://github.com/kevinsawicki"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2036040?s=40&v=4",
-          "name": "codebytere",
-          "url": "https://github.com/codebytere"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6634592?s=40&v=4",
-          "name": "MarshallOfSound",
-          "url": "https://github.com/MarshallOfSound"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/172800?s=40&v=4",
-          "name": "nornagon",
-          "url": "https://github.com/nornagon"
-        }
-      ]
-    },
-    {
-      "title": "godotengine/godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "118,110",
-      "forks": "26,992",
-      "addStars": "1,693",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
-          "name": "akien-mga",
-          "url": "https://github.com/akien-mga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17489292?s=40&v=4",
-          "name": "Repiteo",
-          "url": "https://github.com/Repiteo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
-          "name": "reduz",
-          "url": "https://github.com/reduz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7645683?s=40&v=4",
-          "name": "bruvzg",
-          "url": "https://github.com/bruvzg"
-        }
-      ]
-    },
-    {
       "title": "shadps4-emu/shadPS4",
       "url": "https://github.com/shadps4-emu/shadPS4",
       "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,271",
-      "forks": "2,654",
+      "stars": "33,280",
+      "forks": "2,661",
       "addStars": "572",
       "contributors": [
         {
@@ -360,12 +249,49 @@
       ]
     },
     {
+      "title": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "118,123",
+      "forks": "26,996",
+      "addStars": "1,693",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
+          "name": "akien-mga",
+          "url": "https://github.com/akien-mga"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17489292?s=40&v=4",
+          "name": "Repiteo",
+          "url": "https://github.com/Repiteo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
+          "name": "reduz",
+          "url": "https://github.com/reduz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
+          "name": "Calinou",
+          "url": "https://github.com/Calinou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7645683?s=40&v=4",
+          "name": "bruvzg",
+          "url": "https://github.com/bruvzg"
+        }
+      ]
+    },
+    {
       "title": "aria2/aria2",
       "url": "https://github.com/aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "42,995",
+      "stars": "43,001",
       "forks": "3,945",
       "addStars": "1,108",
       "contributors": [
@@ -397,229 +323,12 @@
       ]
     },
     {
-      "title": "ClickHouse/ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "50,308",
-      "forks": "9,073",
-      "addStars": "658",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4",
-          "name": "alexey-milovidov",
-          "url": "https://github.com/alexey-milovidov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3684697?s=40&v=4",
-          "name": "alesapin",
-          "url": "https://github.com/alesapin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/270696204?s=40&v=4",
-          "name": "groeneai",
-          "url": "https://github.com/groeneai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4092911?s=40&v=4",
-          "name": "KochetovNicolai",
-          "url": "https://github.com/KochetovNicolai"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/WSL",
-      "url": "https://github.com/microsoft/WSL",
-      "description": "Windows Subsystem for Linux",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "34,010",
-      "forks": "1,854",
-      "addStars": "438",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16477878?s=40&v=4",
-          "name": "OneBlue",
-          "url": "https://github.com/OneBlue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17727402?s=40&v=4",
-          "name": "benhillis",
-          "url": "https://github.com/benhillis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108518819?s=40&v=4",
-          "name": "49081",
-          "url": "https://github.com/49081"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42221804?s=40&v=4",
-          "name": "craigloewen-msft",
-          "url": "https://github.com/craigloewen-msft"
-        }
-      ]
-    },
-    {
-      "title": "0xShug0/audio.cpp",
-      "url": "https://github.com/0xShug0/audio.cpp",
-      "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "3,399",
-      "forks": "393",
-      "addStars": "1,037",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/231717474?s=40&v=4",
-          "name": "0xShug0",
-          "url": "https://github.com/0xShug0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6817266?s=40&v=4",
-          "name": "mirek190",
-          "url": "https://github.com/mirek190"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2651473?s=40&v=4",
-          "name": "christopherthompson81",
-          "url": "https://github.com/christopherthompson81"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/235466519?s=40&v=4",
-          "name": "IIIIIllllIIIIIlllll",
-          "url": "https://github.com/IIIIIllllIIIIIlllll"
-        }
-      ]
-    },
-    {
-      "title": "react/react-native",
-      "url": "https://github.com/react/react-native",
-      "description": "A framework for building native applications using React",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "126,605",
-      "forks": "25,301",
-      "addStars": "428",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11689122?s=40&v=4",
-          "name": "reactjs-bot",
-          "url": "https://github.com/reactjs-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/515103?s=40&v=4",
-          "name": "mdvacca",
-          "url": "https://github.com/mdvacca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3001957?s=40&v=4",
-          "name": "cortinico",
-          "url": "https://github.com/cortinico"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22032?s=40&v=4",
-          "name": "shergin",
-          "url": "https://github.com/shergin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5676?s=40&v=4",
-          "name": "javache",
-          "url": "https://github.com/javache"
-        }
-      ]
-    },
-    {
-      "title": "keepassxreboot/keepassxc",
-      "url": "https://github.com/keepassxreboot/keepassxc",
-      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "29,132",
-      "forks": "1,934",
-      "addStars": "476",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2809491?s=40&v=4",
-          "name": "droidmonkey",
-          "url": "https://github.com/droidmonkey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/293265?s=40&v=4",
-          "name": "debfx",
-          "url": "https://github.com/debfx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/911270?s=40&v=4",
-          "name": "phoerious",
-          "url": "https://github.com/phoerious"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/193820?s=40&v=4",
-          "name": "BlueIce",
-          "url": "https://github.com/BlueIce"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/686894?s=40&v=4",
-          "name": "TheZ3ro",
-          "url": "https://github.com/TheZ3ro"
-        }
-      ]
-    },
-    {
-      "title": "optiscaler/OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "11,637",
-      "forks": "520",
-      "addStars": "1,169",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35529761?s=40&v=4",
-          "name": "cdozdil",
-          "url": "https://github.com/cdozdil"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49685661?s=40&v=4",
-          "name": "FakeMichau",
-          "url": "https://github.com/FakeMichau"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78263903?s=40&v=4",
-          "name": "TheRazerMD",
-          "url": "https://github.com/TheRazerMD"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8961085?s=40&v=4",
-          "name": "MapleHinata",
-          "url": "https://github.com/MapleHinata"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67416311?s=40&v=4",
-          "name": "CetinOzdil",
-          "url": "https://github.com/CetinOzdil"
-        }
-      ]
-    },
-    {
       "title": "windirstat/windirstat",
       "url": "https://github.com/windirstat/windirstat",
       "description": "Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,248",
+      "stars": "4,252",
       "forks": "262",
       "addStars": "244",
       "contributors": [
@@ -651,12 +360,118 @@
       ]
     },
     {
+      "title": "microsoft/WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "34,017",
+      "forks": "1,854",
+      "addStars": "438",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16477878?s=40&v=4",
+          "name": "OneBlue",
+          "url": "https://github.com/OneBlue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17727402?s=40&v=4",
+          "name": "benhillis",
+          "url": "https://github.com/benhillis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108518819?s=40&v=4",
+          "name": "49081",
+          "url": "https://github.com/49081"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42221804?s=40&v=4",
+          "name": "craigloewen-msft",
+          "url": "https://github.com/craigloewen-msft"
+        }
+      ]
+    },
+    {
+      "title": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "200,576",
+      "forks": "78,714",
+      "addStars": "1,719",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
+          "name": "tensorflower-gardener",
+          "url": "https://github.com/tensorflower-gardener"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1174378?s=40&v=4",
+          "name": "ezhulenev",
+          "url": "https://github.com/ezhulenev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14309772?s=40&v=4",
+          "name": "akuegel",
+          "url": "https://github.com/akuegel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&v=4",
+          "name": "hawkinsp",
+          "url": "https://github.com/hawkinsp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/323199?s=40&v=4",
+          "name": "mihaimaruseac",
+          "url": "https://github.com/mihaimaruseac"
+        }
+      ]
+    },
+    {
+      "title": "keepassxreboot/keepassxc",
+      "url": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "29,138",
+      "forks": "1,933",
+      "addStars": "476",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2809491?s=40&v=4",
+          "name": "droidmonkey",
+          "url": "https://github.com/droidmonkey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/293265?s=40&v=4",
+          "name": "debfx",
+          "url": "https://github.com/debfx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/911270?s=40&v=4",
+          "name": "phoerious",
+          "url": "https://github.com/phoerious"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/193820?s=40&v=4",
+          "name": "BlueIce",
+          "url": "https://github.com/BlueIce"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/686894?s=40&v=4",
+          "name": "TheZ3ro",
+          "url": "https://github.com/TheZ3ro"
+        }
+      ]
+    },
+    {
       "title": "mamedev/mame",
       "url": "https://github.com/mamedev/mame",
       "description": "MAME",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "10,582",
+      "stars": "10,581",
       "forks": "2,578",
       "addStars": "133",
       "contributors": [
@@ -688,66 +503,39 @@
       ]
     },
     {
-      "title": "moonlight-stream/moonlight-qt",
-      "url": "https://github.com/moonlight-stream/moonlight-qt",
-      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+      "title": "optiscaler/OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "18,998",
-      "forks": "1,395",
-      "addStars": "475",
+      "stars": "11,644",
+      "forks": "520",
+      "addStars": "1,169",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
-          "name": "cgutman",
-          "url": "https://github.com/cgutman"
+          "avatar": "https://avatars.githubusercontent.com/u/35529761?s=40&v=4",
+          "name": "cdozdil",
+          "url": "https://github.com/cdozdil"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5506073?s=40&v=4",
-          "name": "raidancampbell",
-          "url": "https://github.com/raidancampbell"
+          "avatar": "https://avatars.githubusercontent.com/u/49685661?s=40&v=4",
+          "name": "FakeMichau",
+          "url": "https://github.com/FakeMichau"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5084309?s=40&v=4",
-          "name": "jorys-paulin",
-          "url": "https://github.com/jorys-paulin"
+          "avatar": "https://avatars.githubusercontent.com/u/78263903?s=40&v=4",
+          "name": "TheRazerMD",
+          "url": "https://github.com/TheRazerMD"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42119227?s=40&v=4",
-          "name": "Kaitul",
-          "url": "https://github.com/Kaitul"
-        }
-      ]
-    },
-    {
-      "title": "openvinotoolkit/openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "10,972",
-      "forks": "3,428",
-      "addStars": "170",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2566854?s=40&v=4",
-          "name": "ilya-lavrenov",
-          "url": "https://github.com/ilya-lavrenov"
+          "avatar": "https://avatars.githubusercontent.com/u/8961085?s=40&v=4",
+          "name": "MapleHinata",
+          "url": "https://github.com/MapleHinata"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35459624?s=40&v=4",
-          "name": "rkazants",
-          "url": "https://github.com/rkazants"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4737252?s=40&v=4",
-          "name": "ilyachur",
-          "url": "https://github.com/ilyachur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16835333?s=40&v=4",
-          "name": "mvafin",
-          "url": "https://github.com/mvafin"
+          "avatar": "https://avatars.githubusercontent.com/u/67416311?s=40&v=4",
+          "name": "CetinOzdil",
+          "url": "https://github.com/CetinOzdil"
         }
       ]
     },
@@ -785,6 +573,112 @@
           "avatar": "https://avatars.githubusercontent.com/u/70571714?s=40&v=4",
           "name": "Vladik01-11",
           "url": "https://github.com/Vladik01-11"
+        }
+      ]
+    },
+    {
+      "title": "Atmosphere-NX/Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "20,052",
+      "forks": "1,502",
+      "addStars": "585",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8676005?s=40&v=4",
+          "name": "SciresM",
+          "url": "https://github.com/SciresM"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20960561?s=40&v=4",
+          "name": "hexkyz",
+          "url": "https://github.com/hexkyz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1922548?s=40&v=4",
+          "name": "TuxSH",
+          "url": "https://github.com/TuxSH"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/712067?s=40&v=4",
+          "name": "lioncash",
+          "url": "https://github.com/lioncash"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1298105?s=40&v=4",
+          "name": "ktemkin",
+          "url": "https://github.com/ktemkin"
+        }
+      ]
+    },
+    {
+      "title": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "1,544",
+      "forks": "137",
+      "addStars": "1,184",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44143868?s=40&v=4",
+          "name": "harry7557558",
+          "url": "https://github.com/harry7557558"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24575521?s=40&v=4",
+          "name": "debsahu",
+          "url": "https://github.com/debsahu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7759954?s=40&v=4",
+          "name": "MotivaCG",
+          "url": "https://github.com/MotivaCG"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3869356?s=40&v=4",
+          "name": "ev5unleash",
+          "url": "https://github.com/ev5unleash"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11715335?s=40&v=4",
+          "name": "tutudoudou",
+          "url": "https://github.com/tutudoudou"
+        }
+      ]
+    },
+    {
+      "title": "moonlight-stream/moonlight-qt",
+      "url": "https://github.com/moonlight-stream/moonlight-qt",
+      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "19,008",
+      "forks": "1,396",
+      "addStars": "475",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
+          "name": "cgutman",
+          "url": "https://github.com/cgutman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5506073?s=40&v=4",
+          "name": "raidancampbell",
+          "url": "https://github.com/raidancampbell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5084309?s=40&v=4",
+          "name": "jorys-paulin",
+          "url": "https://github.com/jorys-paulin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42119227?s=40&v=4",
+          "name": "Kaitul",
+          "url": "https://github.com/Kaitul"
         }
       ]
     }

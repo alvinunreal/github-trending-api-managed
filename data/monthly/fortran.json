@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 09 Oct 2026 07:18:20 GMT",
+  "pubDate": "Fri, 09 Oct 2026 13:18:15 GMT",
   "items": [
     {
       "title": "E3SM-Project/E3SM",
@@ -42,50 +42,13 @@
       ]
     },
     {
-      "title": "JuliaPackaging/Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "406",
-      "forks": "770",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/765740?s=40&v=4",
-          "name": "giordano",
-          "url": "https://github.com/giordano"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/213514?s=40&v=4",
-          "name": "eschnett",
-          "url": "https://github.com/eschnett"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130920?s=40&v=4",
-          "name": "staticfloat",
-          "url": "https://github.com/staticfloat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/383068?s=40&v=4",
-          "name": "maleadt",
-          "url": "https://github.com/maleadt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
-          "name": "vchuravy",
-          "url": "https://github.com/vchuravy"
-        }
-      ]
-    },
-    {
       "title": "OpenFAST/openfast",
       "url": "https://github.com/OpenFAST/openfast",
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "979",
-      "forks": "544",
+      "stars": "980",
+      "forks": "545",
       "addStars": "18",
       "contributors": [
         {
@@ -112,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
           "name": "ebranlard",
           "url": "https://github.com/ebranlard"
-        }
-      ]
-    },
-    {
-      "title": "wrf-model/WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,775",
-      "forks": "887",
-      "addStars": "25",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
-          "name": "davegill",
-          "url": "https://github.com/davegill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
-          "name": "weiwangncar",
-          "url": "https://github.com/weiwangncar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
-          "name": "dudhia",
-          "url": "https://github.com/dudhia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
-          "name": "mkavulich",
-          "url": "https://github.com/mkavulich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
-          "name": "jamiebresch",
-          "url": "https://github.com/jamiebresch"
         }
       ]
     },
@@ -190,12 +116,49 @@
       ]
     },
     {
+      "title": "wrf-model/WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,776",
+      "forks": "888",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
+          "name": "davegill",
+          "url": "https://github.com/davegill"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
+          "name": "weiwangncar",
+          "url": "https://github.com/weiwangncar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
+          "name": "dudhia",
+          "url": "https://github.com/dudhia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
+          "name": "mkavulich",
+          "url": "https://github.com/mkavulich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
+          "name": "jamiebresch",
+          "url": "https://github.com/jamiebresch"
+        }
+      ]
+    },
+    {
       "title": "ElmerCSC/elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,728",
+      "stars": "1,729",
       "forks": "402",
       "addStars": "34",
       "contributors": [
@@ -227,39 +190,39 @@
       ]
     },
     {
-      "title": "nasa/cea",
-      "url": "https://github.com/nasa/cea",
-      "description": "CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product concentrations to determine thermodynamic and transport properties. It includes a large database of species with thermodynamic curve-fit data, and can be used for rocket performance, detonation parameters, and shock-wave analysis.",
+      "title": "JuliaPackaging/Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "210",
-      "forks": "39",
-      "addStars": "24",
+      "stars": "406",
+      "forks": "773",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52251409?s=40&v=4",
-          "name": "markleader",
-          "url": "https://github.com/markleader"
+          "avatar": "https://avatars.githubusercontent.com/u/765740?s=40&v=4",
+          "name": "giordano",
+          "url": "https://github.com/giordano"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6895754?s=40&v=4",
-          "name": "djkees",
-          "url": "https://github.com/djkees"
+          "avatar": "https://avatars.githubusercontent.com/u/213514?s=40&v=4",
+          "name": "eschnett",
+          "url": "https://github.com/eschnett"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/255593363?s=40&v=4",
-          "name": "dfnca",
-          "url": "https://github.com/dfnca"
+          "avatar": "https://avatars.githubusercontent.com/u/130920?s=40&v=4",
+          "name": "staticfloat",
+          "url": "https://github.com/staticfloat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/383068?s=40&v=4",
+          "name": "maleadt",
+          "url": "https://github.com/maleadt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/89459804?s=40&v=4",
-          "name": "btmy87",
-          "url": "https://github.com/btmy87"
+          "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
+          "name": "vchuravy",
+          "url": "https://github.com/vchuravy"
         }
       ]
     },
@@ -297,6 +260,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
           "name": "marcosvanella",
           "url": "https://github.com/marcosvanella"
+        }
+      ]
+    },
+    {
+      "title": "nasa/cea",
+      "url": "https://github.com/nasa/cea",
+      "description": "CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product concentrations to determine thermodynamic and transport properties. It includes a large database of species with thermodynamic curve-fit data, and can be used for rocket performance, detonation parameters, and shock-wave analysis.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "210",
+      "forks": "39",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52251409?s=40&v=4",
+          "name": "markleader",
+          "url": "https://github.com/markleader"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6895754?s=40&v=4",
+          "name": "djkees",
+          "url": "https://github.com/djkees"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/255593363?s=40&v=4",
+          "name": "dfnca",
+          "url": "https://github.com/dfnca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89459804?s=40&v=4",
+          "name": "btmy87",
+          "url": "https://github.com/btmy87"
         }
       ]
     }

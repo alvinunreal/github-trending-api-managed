@@ -2,16 +2,16 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 09 Oct 2026 07:18:20 GMT",
+  "pubDate": "Fri, 09 Oct 2026 13:18:15 GMT",
   "items": [
     {
-      "title": "terraform-aws-modules/terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "title": "terraform-aws-modules/terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "3,273",
-      "forks": "4,628",
+      "stars": "586",
+      "forks": "3,808",
       "addStars": "0",
       "contributors": [
         {
@@ -30,9 +30,9 @@
           "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
-          "name": "DrFaust92",
-          "url": "https://github.com/DrFaust92"
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
@@ -74,13 +74,13 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "title": "terraform-aws-modules/terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "586",
-      "forks": "3,808",
+      "stars": "3,273",
+      "forks": "4,629",
       "addStars": "0",
       "contributors": [
         {
@@ -99,9 +99,9 @@
           "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
+          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
+          "name": "DrFaust92",
+          "url": "https://github.com/DrFaust92"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
@@ -175,88 +175,39 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "title": "terraform-aws-modules/terraform-aws-ecs",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
+      "description": "Terraform module to create AWS ECS resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "964",
-      "forks": "591",
+      "stars": "675",
+      "forks": "669",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/172194?s=40&v=4",
-          "name": "adrienthebo",
-          "url": "https://github.com/adrienthebo"
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "207",
-      "forks": "608",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/481964?s=40&v=4",
+          "name": "arminc",
+          "url": "https://github.com/arminc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-sql-db",
-      "url": "https://github.com/terraform-google-modules/terraform-google-sql-db",
-      "description": "Creates a Cloud SQL database instance",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "298",
-      "forks": "485",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29933900?s=40&v=4",
-          "name": "imrannayer",
-          "url": "https://github.com/imrannayer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/309329?s=40&v=4",
-          "name": "namusyaka",
-          "url": "https://github.com/namusyaka"
+          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
+          "name": "betajobot",
+          "url": "https://github.com/betajobot"
         }
       ]
     },
@@ -298,13 +249,119 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-gcloud",
-      "url": "https://github.com/terraform-google-modules/terraform-google-gcloud",
-      "description": "Executes Google Cloud CLI commands within Terraform",
+      "title": "terraform-google-modules/terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "177",
-      "forks": "98",
+      "stars": "964",
+      "forks": "591",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172194?s=40&v=4",
+          "name": "adrienthebo",
+          "url": "https://github.com/adrienthebo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
+        }
+      ]
+    },
+    {
+      "title": "alphagov/govuk-infrastructure",
+      "url": "https://github.com/alphagov/govuk-infrastructure",
+      "description": "This repository contains all the code and infrastructure to run the GOV.UK Platform. See https://github.com/alphagov/govuk-helm-charts for application config. Issues created in this repository are for all of GOV.UK Platform Engineering (not just infrastructure)..",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "195",
+      "forks": "38",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43585976?s=40&v=4",
+          "name": "nimalank7",
+          "url": "https://github.com/nimalank7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1351887?s=40&v=4",
+          "name": "samsimpson1",
+          "url": "https://github.com/samsimpson1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1170635?s=40&v=4",
+          "name": "sengi",
+          "url": "https://github.com/sengi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2170030?s=40&v=4",
+          "name": "jfharden",
+          "url": "https://github.com/jfharden"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1881055?s=40&v=4",
+          "name": "govuk-ci",
+          "url": "https://github.com/govuk-ci"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-security-group",
+      "url": "https://github.com/cloudposse/terraform-aws-security-group",
+      "description": "Terraform module to provision an AWS Security Group",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "39",
+      "forks": "38",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
+          "name": "Nuru",
+          "url": "https://github.com/Nuru"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26582191?s=40&v=4",
+          "name": "SweetOps",
+          "url": "https://github.com/SweetOps"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "153",
+      "forks": "120",
       "addStars": "0",
       "contributors": [
         {
@@ -313,25 +370,25 @@
           "url": "https://github.com/cloud-foundation-bot"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
+          "name": "ludoo",
+          "url": "https://github.com/ludoo"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
           "name": "morgante",
           "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1406172?s=40&v=4",
-          "name": "taylorludwig",
-          "url": "https://github.com/taylorludwig"
         }
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "title": "terraform-aws-modules/terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "675",
-      "forks": "670",
+      "stars": "156",
+      "forks": "177",
       "addStars": "0",
       "contributors": [
         {
@@ -340,88 +397,24 @@
           "url": "https://github.com/semantic-release-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
           "name": "antonbabenko",
           "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/481964?s=40&v=4",
-          "name": "arminc",
-          "url": "https://github.com/arminc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "120",
-      "forks": "203",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
           "name": "magreenbaum",
           "url": "https://github.com/magreenbaum"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-kms",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
-      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "62",
-      "forks": "112",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
+          "avatar": "https://avatars.githubusercontent.com/u/57947418?s=40&v=4",
+          "name": "svenlito",
+          "url": "https://github.com/svenlito"
         }
       ]
     }

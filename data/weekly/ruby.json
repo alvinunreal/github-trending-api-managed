@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Weekly Trending",
   "description": "Weekly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 09 Oct 2026 07:18:20 GMT",
+  "pubDate": "Fri, 09 Oct 2026 13:18:15 GMT",
   "items": [
     {
       "title": "rails/rails",
@@ -10,8 +10,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,808",
-      "forks": "24,638",
+      "stars": "58,819",
+      "forks": "24,685",
       "addStars": "39",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Super simple group chat, without a subscription",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,754",
+      "stars": "4,756",
       "forks": "823",
       "addStars": "86",
       "contributors": [
@@ -79,40 +79,13 @@
       ]
     },
     {
-      "title": "mastodon/mastodon",
-      "url": "https://github.com/mastodon/mastodon",
-      "description": "Your self-hosted, globally interconnected microblogging community",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "50,360",
-      "forks": "7,505",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
-          "name": "Gargron",
-          "url": "https://github.com/Gargron"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/384364?s=40&v=4",
-          "name": "ClearlyClaire",
-          "url": "https://github.com/ClearlyClaire"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/225?s=40&v=4",
-          "name": "mjankowski",
-          "url": "https://github.com/mjankowski"
-        }
-      ]
-    },
-    {
       "title": "github/explore",
       "url": "https://github.com/github/explore",
       "description": "Community-curated topic and collection pages on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,904",
-      "forks": "14,597",
+      "stars": "4,905",
+      "forks": "14,598",
       "addStars": "7",
       "contributors": [
         {
@@ -143,13 +116,50 @@
       ]
     },
     {
+      "title": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "16,360",
+      "forks": "3,544",
+      "addStars": "83",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/459462?s=40&v=4",
+          "name": "oliverguenther",
+          "url": "https://github.com/oliverguenther"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/617519?s=40&v=4",
+          "name": "ulferts",
+          "url": "https://github.com/ulferts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/755?s=40&v=4",
+          "name": "myabc",
+          "url": "https://github.com/myabc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7457313?s=40&v=4",
+          "name": "HDinger",
+          "url": "https://github.com/HDinger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15835030?s=40&v=4",
+          "name": "openprojectci",
+          "url": "https://github.com/openprojectci"
+        }
+      ]
+    },
+    {
       "title": "github-linguist/linguist",
       "url": "https://github.com/github-linguist/linguist",
       "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,727",
-      "forks": "5,468",
+      "stars": "13,728",
+      "forks": "5,469",
       "addStars": "19",
       "contributors": [
         {
@@ -176,6 +186,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1764210?s=40&v=4",
           "name": "pchaigno",
           "url": "https://github.com/pchaigno"
+        }
+      ]
+    },
+    {
+      "title": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "15,615",
+      "forks": "13,907",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
+          "name": "BrewTestBot",
+          "url": "https://github.com/BrewTestBot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1580956?s=40&v=4",
+          "name": "chenrui333",
+          "url": "https://github.com/chenrui333"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20700669?s=40&v=4",
+          "name": "cho-m",
+          "url": "https://github.com/cho-m"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1980544?s=40&v=4",
+          "name": "fxcoudert",
+          "url": "https://github.com/fxcoudert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30379873?s=40&v=4",
+          "name": "carlocab",
+          "url": "https://github.com/carlocab"
         }
       ]
     },
@@ -212,182 +259,66 @@
       ]
     },
     {
-      "title": "opf/openproject",
-      "url": "https://github.com/opf/openproject",
-      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
+      "title": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,354",
-      "forks": "3,541",
-      "addStars": "83",
+      "stars": "39,119",
+      "forks": "14,997",
+      "addStars": "57",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/459462?s=40&v=4",
-          "name": "oliverguenther",
-          "url": "https://github.com/oliverguenther"
+          "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&v=4",
+          "name": "wchen-r7",
+          "url": "https://github.com/wchen-r7"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/617519?s=40&v=4",
-          "name": "ulferts",
-          "url": "https://github.com/ulferts"
+          "avatar": "https://avatars.githubusercontent.com/u/4551878?s=40&v=4",
+          "name": "wvu",
+          "url": "https://github.com/wvu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/755?s=40&v=4",
-          "name": "myabc",
-          "url": "https://github.com/myabc"
+          "avatar": "https://avatars.githubusercontent.com/u/5332090?s=40&v=4",
+          "name": "msjenkins-r7",
+          "url": "https://github.com/msjenkins-r7"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7457313?s=40&v=4",
-          "name": "HDinger",
-          "url": "https://github.com/HDinger"
+          "avatar": "https://avatars.githubusercontent.com/u/1742838?s=40&v=4",
+          "name": "jvazquez-r7",
+          "url": "https://github.com/jvazquez-r7"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15835030?s=40&v=4",
-          "name": "openprojectci",
-          "url": "https://github.com/openprojectci"
+          "avatar": "https://avatars.githubusercontent.com/u/2058303?s=40&v=4",
+          "name": "zeroSteiner",
+          "url": "https://github.com/zeroSteiner"
         }
       ]
     },
     {
-      "title": "ubicloud/ubicloud",
-      "url": "https://github.com/ubicloud/ubicloud",
-      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "title": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,313",
-      "forks": "595",
-      "addStars": "20",
+      "stars": "50,370",
+      "forks": "7,507",
+      "addStars": "36",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3846?s=40&v=4",
-          "name": "jeremyevans",
-          "url": "https://github.com/jeremyevans"
+          "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
+          "name": "Gargron",
+          "url": "https://github.com/Gargron"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7191?s=40&v=4",
-          "name": "fdr",
-          "url": "https://github.com/fdr"
+          "avatar": "https://avatars.githubusercontent.com/u/384364?s=40&v=4",
+          "name": "ClearlyClaire",
+          "url": "https://github.com/ClearlyClaire"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/993199?s=40&v=4",
-          "name": "enescakir",
-          "url": "https://github.com/enescakir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2082070?s=40&v=4",
-          "name": "byucesoy",
-          "url": "https://github.com/byucesoy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6233557?s=40&v=4",
-          "name": "furkansahin",
-          "url": "https://github.com/furkansahin"
-        }
-      ]
-    },
-    {
-      "title": "antiwork/gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "9,831",
-      "forks": "2,062",
-      "addStars": "74",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
-          "name": "gumclaw",
-          "url": "https://github.com/gumclaw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52470719?s=40&v=4",
-          "name": "gianfrancopiana",
-          "url": "https://github.com/gianfrancopiana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
-          "name": "ershad",
-          "url": "https://github.com/ershad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
-          "name": "slavingia",
-          "url": "https://github.com/slavingia"
-        }
-      ]
-    },
-    {
-      "title": "Homebrew/homebrew-core",
-      "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "15,614",
-      "forks": "13,906",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
-          "name": "BrewTestBot",
-          "url": "https://github.com/BrewTestBot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1580956?s=40&v=4",
-          "name": "chenrui333",
-          "url": "https://github.com/chenrui333"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20700669?s=40&v=4",
-          "name": "cho-m",
-          "url": "https://github.com/cho-m"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1980544?s=40&v=4",
-          "name": "fxcoudert",
-          "url": "https://github.com/fxcoudert"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30379873?s=40&v=4",
-          "name": "carlocab",
-          "url": "https://github.com/carlocab"
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp/devdocs",
-      "url": "https://github.com/freeCodeCamp/devdocs",
-      "description": "API Documentation Browser",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "39,540",
-      "forks": "2,652",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17579?s=40&v=4",
-          "name": "Thibaut",
-          "url": "https://github.com/Thibaut"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/782446?s=40&v=4",
-          "name": "simon04",
-          "url": "https://github.com/simon04"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14951909?s=40&v=4",
-          "name": "jmerle",
-          "url": "https://github.com/jmerle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52229226?s=40&v=4",
-          "name": "MasterEnoc",
-          "url": "https://github.com/MasterEnoc"
+          "avatar": "https://avatars.githubusercontent.com/u/225?s=40&v=4",
+          "name": "mjankowski",
+          "url": "https://github.com/mjankowski"
         }
       ]
     },
@@ -397,8 +328,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,646",
-      "forks": "9,169",
+      "stars": "37,652",
+      "forks": "9,172",
       "addStars": "243",
       "contributors": [
         {
@@ -429,44 +360,12 @@
       ]
     },
     {
-      "title": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "10,439",
-      "forks": "609",
-      "addStars": "93",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
-          "name": "jjmata",
-          "url": "https://github.com/jjmata"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
-          "name": "zachgoll",
-          "url": "https://github.com/zachgoll"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&v=4",
-          "name": "Shpigford",
-          "url": "https://github.com/Shpigford"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "discourse/discourse",
       "url": "https://github.com/discourse/discourse",
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "47,945",
+      "stars": "47,947",
       "forks": "9,029",
       "addStars": "32",
       "contributors": [
@@ -493,135 +392,236 @@
       ]
     },
     {
-      "title": "otwcode/otwarchive",
-      "url": "https://github.com/otwcode/otwarchive",
-      "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
+      "title": "swombat/souls-house",
+      "url": "https://github.com/swombat/souls-house",
+      "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "2,265",
-      "forks": "863",
+      "stars": "44",
+      "forks": "6",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4488?s=40&v=4",
+          "name": "swombat",
+          "url": "https://github.com/swombat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2394703?s=40&v=4",
+          "name": "seuros",
+          "url": "https://github.com/seuros"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        }
+      ]
+    },
+    {
+      "title": "forem/forem",
+      "url": "https://github.com/forem/forem",
+      "description": "For empowering community 🌱",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "22,792",
+      "forks": "4,188",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3102842?s=40&v=4",
+          "name": "benhalpern",
+          "url": "https://github.com/benhalpern"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/146201?s=40&v=4",
+          "name": "rhymes",
+          "url": "https://github.com/rhymes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1813380?s=40&v=4",
+          "name": "mstruve",
+          "url": "https://github.com/mstruve"
+        }
+      ]
+    },
+    {
+      "title": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "50,031",
+      "forks": "4,306",
+      "addStars": "38",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10236?s=40&v=4",
+          "name": "knu",
+          "url": "https://github.com/knu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/83835?s=40&v=4",
+          "name": "cantino",
+          "url": "https://github.com/cantino"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20943?s=40&v=4",
+          "name": "dsander",
+          "url": "https://github.com/dsander"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/382862?s=40&v=4",
+          "name": "albertsun",
+          "url": "https://github.com/albertsun"
+        }
+      ]
+    },
+    {
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "10,439",
+      "forks": "610",
+      "addStars": "93",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
+          "name": "jjmata",
+          "url": "https://github.com/jjmata"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
+          "name": "zachgoll",
+          "url": "https://github.com/zachgoll"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&v=4",
+          "name": "Shpigford",
+          "url": "https://github.com/Shpigford"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "8,248",
+      "forks": "2,518",
       "addStars": "9",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/907055?s=40&v=4",
-          "name": "sarken",
-          "url": "https://github.com/sarken"
+          "avatar": "https://avatars.githubusercontent.com/u/1015200?s=40&v=4",
+          "name": "tas50",
+          "url": "https://github.com/tas50"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/271307?s=40&v=4",
-          "name": "elzj",
-          "url": "https://github.com/elzj"
+          "avatar": "https://avatars.githubusercontent.com/u/454857?s=40&v=4",
+          "name": "lamont-granquist",
+          "url": "https://github.com/lamont-granquist"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1606304?s=40&v=4",
-          "name": "zz9pzza",
-          "url": "https://github.com/zz9pzza"
+          "avatar": "https://avatars.githubusercontent.com/u/37162?s=40&v=4",
+          "name": "danielsdeleo",
+          "url": "https://github.com/danielsdeleo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/415001?s=40&v=4",
-          "name": "shalott",
-          "url": "https://github.com/shalott"
+          "avatar": "https://avatars.githubusercontent.com/u/11068739?s=40&v=4",
+          "name": "chef-ci",
+          "url": "https://github.com/chef-ci"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1735563?s=40&v=4",
-          "name": "scottsds",
-          "url": "https://github.com/scottsds"
+          "avatar": "https://avatars.githubusercontent.com/u/4304?s=40&v=4",
+          "name": "adamhjk",
+          "url": "https://github.com/adamhjk"
         }
       ]
     },
     {
-      "title": "openstreetmap/openstreetmap-website",
-      "url": "https://github.com/openstreetmap/openstreetmap-website",
-      "description": "The Rails application that powers OpenStreetMap",
+      "title": "everypolitician/everypolitician-data",
+      "url": "https://github.com/everypolitician/everypolitician-data",
+      "description": "data for national legislatures worldwide",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "2,839",
-      "forks": "1,093",
-      "addStars": "6",
+      "stars": "256",
+      "forks": "59",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/147741?s=40&v=4",
-          "name": "tomhughes",
-          "url": "https://github.com/tomhughes"
+          "avatar": "https://avatars.githubusercontent.com/u/57483?s=40&v=4",
+          "name": "tmtmtmtm",
+          "url": "https://github.com/tmtmtmtm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4158490?s=40&v=4",
-          "name": "AntonKhorev",
-          "url": "https://github.com/AntonKhorev"
+          "avatar": "https://avatars.githubusercontent.com/u/12693984?s=40&v=4",
+          "name": "everypoliticianbot",
+          "url": "https://github.com/everypoliticianbot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/360803?s=40&v=4",
-          "name": "gravitystorm",
-          "url": "https://github.com/gravitystorm"
+          "avatar": "https://avatars.githubusercontent.com/u/4107953?s=40&v=4",
+          "name": "ondenman",
+          "url": "https://github.com/ondenman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24829418?s=40&v=4",
-          "name": "translatewiki",
-          "url": "https://github.com/translatewiki"
+          "avatar": "https://avatars.githubusercontent.com/u/22996?s=40&v=4",
+          "name": "chrismytton",
+          "url": "https://github.com/chrismytton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111320?s=40&v=4",
+          "name": "davewhiteland",
+          "url": "https://github.com/davewhiteland"
         }
       ]
     },
     {
-      "title": "endoflife-date/endoflife.date",
-      "url": "https://github.com/endoflife-date/endoflife.date",
-      "description": "Informative site with EoL dates of everything",
+      "title": "jruby/jruby",
+      "url": "https://github.com/jruby/jruby",
+      "description": "JRuby, an implementation of Ruby on the JVM",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "3,397",
-      "forks": "1,322",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2988912?s=40&v=4",
-          "name": "marcwrobel",
-          "url": "https://github.com/marcwrobel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13657422?s=40&v=4",
-          "name": "BiNZGi",
-          "url": "https://github.com/BiNZGi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/112882?s=40&v=4",
-          "name": "usta",
-          "url": "https://github.com/usta"
-        }
-      ]
-    },
-    {
-      "title": "rubocop/rubocop",
-      "url": "https://github.com/rubocop/rubocop",
-      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "12,911",
-      "forks": "3,147",
+      "stars": "3,922",
+      "forks": "951",
       "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13203?s=40&v=4",
-          "name": "koic",
-          "url": "https://github.com/koic"
+          "avatar": "https://avatars.githubusercontent.com/u/10135?s=40&v=4",
+          "name": "headius",
+          "url": "https://github.com/headius"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/103882?s=40&v=4",
-          "name": "bbatsov",
-          "url": "https://github.com/bbatsov"
+          "avatar": "https://avatars.githubusercontent.com/u/19819?s=40&v=4",
+          "name": "enebo",
+          "url": "https://github.com/enebo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/336720?s=40&v=4",
-          "name": "jonas054",
-          "url": "https://github.com/jonas054"
+          "avatar": "https://avatars.githubusercontent.com/u/341094?s=40&v=4",
+          "name": "chrisseaton",
+          "url": "https://github.com/chrisseaton"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57964?s=40&v=4",
-          "name": "dvandersluis",
-          "url": "https://github.com/dvandersluis"
+          "avatar": "https://avatars.githubusercontent.com/u/168854?s=40&v=4",
+          "name": "eregon",
+          "url": "https://github.com/eregon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5259935?s=40&v=4",
-          "name": "Drenmi",
-          "url": "https://github.com/Drenmi"
+          "avatar": "https://avatars.githubusercontent.com/u/45967?s=40&v=4",
+          "name": "kares",
+          "url": "https://github.com/kares"
         }
       ]
     }
