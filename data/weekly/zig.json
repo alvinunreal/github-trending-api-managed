@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 10 Oct 2026 07:04:49 GMT",
+  "pubDate": "Sat, 10 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "ashhart/TensorFold",
@@ -10,8 +10,8 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,179",
-      "forks": "207",
+      "stars": "1,205",
+      "forks": "211",
       "addStars": "246",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,217",
+      "stars": "5,219",
       "forks": "455",
       "addStars": "66",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "36,186",
-      "forks": "1,718",
+      "stars": "36,193",
+      "forks": "1,721",
       "addStars": "414",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "62,019",
-      "forks": "3,618",
+      "stars": "62,029",
+      "forks": "3,617",
       "addStars": "265",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,158",
+      "stars": "4,160",
       "forks": "196",
       "addStars": "37",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,303",
+      "stars": "43,304",
       "forks": "3,187",
       "addStars": "19",
       "contributors": [
@@ -217,12 +217,81 @@
       ]
     },
     {
+      "title": "kristoff-it/zine",
+      "url": "https://github.com/kristoff-it/zine",
+      "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "1,606",
+      "forks": "106",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1950733?s=40&v=4",
+          "name": "kristoff-it",
+          "url": "https://github.com/kristoff-it"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1760515?s=40&v=4",
+          "name": "MFAshby",
+          "url": "https://github.com/MFAshby"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5487021?s=40&v=4",
+          "name": "veggiemonk",
+          "url": "https://github.com/veggiemonk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61841960?s=40&v=4",
+          "name": "Arnau478",
+          "url": "https://github.com/Arnau478"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5203161?s=40&v=4",
+          "name": "klumme",
+          "url": "https://github.com/klumme"
+        }
+      ]
+    },
+    {
+      "title": "ddalcu/mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "1,826",
+      "forks": "182",
+      "addStars": "104",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/869085?s=40&v=4",
+          "name": "ddalcu",
+          "url": "https://github.com/ddalcu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1197375?s=40&v=4",
+          "name": "STRML",
+          "url": "https://github.com/STRML"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/197176783?s=40&v=4",
+          "name": "beamivalice",
+          "url": "https://github.com/beamivalice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "tigerbeetle/tigerbeetle",
       "url": "https://github.com/tigerbeetle/tigerbeetle",
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,157",
+      "stars": "17,160",
       "forks": "917",
       "addStars": "41",
       "contributors": [
@@ -250,75 +319,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/703017?s=40&v=4",
           "name": "cb22",
           "url": "https://github.com/cb22"
-        }
-      ]
-    },
-    {
-      "title": "ddalcu/mlx-serve",
-      "url": "https://github.com/ddalcu/mlx-serve",
-      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "1,820",
-      "forks": "182",
-      "addStars": "104",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/869085?s=40&v=4",
-          "name": "ddalcu",
-          "url": "https://github.com/ddalcu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1197375?s=40&v=4",
-          "name": "STRML",
-          "url": "https://github.com/STRML"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/197176783?s=40&v=4",
-          "name": "beamivalice",
-          "url": "https://github.com/beamivalice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "roc-lang/roc",
-      "url": "https://github.com/roc-lang/roc",
-      "description": "A fast, friendly, functional language.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "6,100",
-      "forks": "425",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1094080?s=40&v=4",
-          "name": "rtfeldman",
-          "url": "https://github.com/rtfeldman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7949978?s=40&v=4",
-          "name": "folkertdev",
-          "url": "https://github.com/folkertdev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17049058?s=40&v=4",
-          "name": "Anton-4",
-          "url": "https://github.com/Anton-4"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2679227?s=40&v=4",
-          "name": "lukewilliamboswell",
-          "url": "https://github.com/lukewilliamboswell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     },
@@ -365,7 +365,7 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "7,759",
+      "stars": "7,760",
       "forks": "324",
       "addStars": "29",
       "contributors": [
@@ -393,43 +393,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
           "name": "Railly",
           "url": "https://github.com/Railly"
-        }
-      ]
-    },
-    {
-      "title": "neurosnap/zmx",
-      "url": "https://github.com/neurosnap/zmx",
-      "description": "Session attach/detach for the terminal",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "2,198",
-      "forks": "166",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1940365?s=40&v=4",
-          "name": "neurosnap",
-          "url": "https://github.com/neurosnap"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6214221?s=40&v=4",
-          "name": "chronologos",
-          "url": "https://github.com/chronologos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1400401?s=40&v=4",
-          "name": "chancez",
-          "url": "https://github.com/chancez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1858057?s=40&v=4",
-          "name": "mdsakalu",
-          "url": "https://github.com/mdsakalu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3387175?s=40&v=4",
-          "name": "injust",
-          "url": "https://github.com/injust"
         }
       ]
     }

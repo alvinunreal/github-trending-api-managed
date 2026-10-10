@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 10 Oct 2026 07:04:49 GMT",
+  "pubDate": "Sat, 10 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "45,522",
-      "forks": "3,287",
+      "stars": "45,748",
+      "forks": "3,302",
       "addStars": "23,028",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,593",
-      "forks": "6,340",
+      "stars": "56,853",
+      "forks": "6,380",
       "addStars": "34,560",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,210",
-      "forks": "5,571",
+      "stars": "39,237",
+      "forks": "5,574",
       "addStars": "4,495",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "99,352",
-      "forks": "16,766",
+      "stars": "99,476",
+      "forks": "16,787",
       "addStars": "19,137",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "276,107",
-      "forks": "41,195",
+      "stars": "276,256",
+      "forks": "41,212",
       "addStars": "22,710",
       "contributors": [
         {
@@ -185,50 +185,13 @@
       ]
     },
     {
-      "title": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "49,751",
-      "forks": "10,058",
-      "addStars": "29,212",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
-          "name": "samehkhamis",
-          "url": "https://github.com/samehkhamis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28983926?s=40&v=4",
-          "name": "asturksever",
-          "url": "https://github.com/asturksever"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-          "name": "bilawalsidhu",
-          "url": "https://github.com/bilawalsidhu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/301209272?s=40&v=4",
-          "name": "manjunath22466",
-          "url": "https://github.com/manjunath22466"
-        }
-      ]
-    },
-    {
       "title": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,818",
-      "forks": "5,982",
+      "stars": "47,927",
+      "forks": "5,988",
       "addStars": "24,617",
       "contributors": [
         {
@@ -264,8 +227,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "32,920",
-      "forks": "4,375",
+      "stars": "32,995",
+      "forks": "4,388",
       "addStars": "11,118",
       "contributors": [
         {
@@ -296,8 +259,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "149,938",
-      "forks": "25,991",
+      "stars": "149,984",
+      "forks": "26,038",
       "addStars": "6,173",
       "contributors": [
         {
@@ -328,13 +291,45 @@
       ]
     },
     {
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "28,602",
+      "forks": "3,267",
+      "addStars": "4,131",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+          "name": "jordanecker-ant",
+          "url": "https://github.com/jordanecker-ant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+          "name": "bryan-anthropic",
+          "url": "https://github.com/bryan-anthropic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
+          "name": "mattpic-ant",
+          "url": "https://github.com/mattpic-ant"
+        }
+      ]
+    },
+    {
       "title": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,349",
-      "forks": "1,014",
+      "stars": "8,448",
+      "forks": "1,031",
       "addStars": "6,720",
       "contributors": [
         {
@@ -365,24 +360,19 @@
       ]
     },
     {
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "28,434",
-      "forks": "3,256",
-      "addStars": "4,131",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "49,875",
+      "forks": "10,076",
+      "addStars": "29,212",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-          "name": "jordanecker-ant",
-          "url": "https://github.com/jordanecker-ant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-          "name": "bryan-anthropic",
-          "url": "https://github.com/bryan-anthropic"
+          "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
+          "name": "samehkhamis",
+          "url": "https://github.com/samehkhamis"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -390,9 +380,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
-          "name": "mattpic-ant",
-          "url": "https://github.com/mattpic-ant"
+          "avatar": "https://avatars.githubusercontent.com/u/28983926?s=40&v=4",
+          "name": "asturksever",
+          "url": "https://github.com/asturksever"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
+          "name": "bilawalsidhu",
+          "url": "https://github.com/bilawalsidhu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/301209272?s=40&v=4",
+          "name": "manjunath22466",
+          "url": "https://github.com/manjunath22466"
         }
       ]
     },
@@ -402,7 +402,7 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,726",
+      "stars": "4,749",
       "forks": "537",
       "addStars": "2,879",
       "contributors": [
@@ -434,50 +434,13 @@
       ]
     },
     {
-      "title": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "15,639",
-      "forks": "1,751",
-      "addStars": "7,118",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
-          "name": "drew",
-          "url": "https://github.com/drew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
-          "name": "johntmyers",
-          "url": "https://github.com/johntmyers"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1116309?s=40&v=4",
-          "name": "pimlock",
-          "url": "https://github.com/pimlock"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/189799508?s=40&v=4",
-          "name": "miyoungc",
-          "url": "https://github.com/miyoungc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/931393?s=40&v=4",
-          "name": "elezar",
-          "url": "https://github.com/elezar"
-        }
-      ]
-    },
-    {
       "title": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "59,957",
-      "forks": "5,352",
+      "stars": "60,116",
+      "forks": "5,368",
       "addStars": "11,576",
       "contributors": [
         {
@@ -508,13 +471,50 @@
       ]
     },
     {
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "15,673",
+      "forks": "1,753",
+      "addStars": "7,118",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
+          "name": "drew",
+          "url": "https://github.com/drew"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
+          "name": "johntmyers",
+          "url": "https://github.com/johntmyers"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1116309?s=40&v=4",
+          "name": "pimlock",
+          "url": "https://github.com/pimlock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/189799508?s=40&v=4",
+          "name": "miyoungc",
+          "url": "https://github.com/miyoungc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/931393?s=40&v=4",
+          "name": "elezar",
+          "url": "https://github.com/elezar"
+        }
+      ]
+    },
+    {
       "title": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "40,867",
-      "forks": "4,484",
+      "stars": "40,924",
+      "forks": "4,490",
       "addStars": "13,755",
       "contributors": [
         {
@@ -550,8 +550,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,012",
-      "forks": "1,877",
+      "stars": "26,068",
+      "forks": "1,879",
       "addStars": "4,398",
       "contributors": [
         {
@@ -582,8 +582,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "29,221",
-      "forks": "2,065",
+      "stars": "29,248",
+      "forks": "2,067",
       "addStars": "6,877",
       "contributors": [
         {
@@ -614,8 +614,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,642",
-      "forks": "4,522",
+      "stars": "32,766",
+      "forks": "4,537",
       "addStars": "7,455",
       "contributors": [
         {
@@ -641,50 +641,13 @@
       ]
     },
     {
-      "title": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "10,636",
-      "forks": "1,006",
-      "addStars": "3,503",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-          "name": "poteto",
-          "url": "https://github.com/poteto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
-          "name": "minupalaniappan",
-          "url": "https://github.com/minupalaniappan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-          "name": "ericzakariasson",
-          "url": "https://github.com/ericzakariasson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
-          "name": "roshansada",
-          "url": "https://github.com/roshansada"
-        }
-      ]
-    },
-    {
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "104,183",
-      "forks": "10,875",
+      "stars": "104,334",
+      "forks": "10,890",
       "addStars": "11,155",
       "contributors": [
         {
@@ -715,13 +678,87 @@
       ]
     },
     {
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "10,687",
+      "forks": "1,015",
+      "addStars": "3,503",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+          "name": "poteto",
+          "url": "https://github.com/poteto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
+          "name": "minupalaniappan",
+          "url": "https://github.com/minupalaniappan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+          "name": "ericzakariasson",
+          "url": "https://github.com/ericzakariasson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
+          "name": "roshansada",
+          "url": "https://github.com/roshansada"
+        }
+      ]
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "82,477",
+      "forks": "9,166",
+      "addStars": "7,474",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
+          "name": "ryanmkurtz",
+          "url": "https://github.com/ryanmkurtz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
+          "name": "ghidra1",
+          "url": "https://github.com/ghidra1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
+          "name": "dragonmacher",
+          "url": "https://github.com/dragonmacher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
+          "name": "nsadeveloper789",
+          "url": "https://github.com/nsadeveloper789"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4",
+          "name": "caheckman",
+          "url": "https://github.com/caheckman"
+        }
+      ]
+    },
+    {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "159,854",
-      "forks": "8,601",
+      "stars": "160,122",
+      "forks": "8,612",
       "addStars": "27,290",
       "contributors": [
         {
@@ -752,19 +789,24 @@
       ]
     },
     {
-      "title": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "title": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,150",
-      "forks": "328",
-      "addStars": "2,301",
+      "stars": "16,728",
+      "forks": "1,029",
+      "addStars": "2,526",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
-          "name": "max-sixty",
-          "url": "https://github.com/max-sixty"
+          "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
+          "name": "huacnlee",
+          "url": "https://github.com/huacnlee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28998859?s=40&v=4",
+          "name": "madcodelife",
+          "url": "https://github.com/madcodelife"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -772,9 +814,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
-          "name": "worktrunk-bot",
-          "url": "https://github.com/worktrunk-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22312482?s=40&v=4",
+          "name": "ylinwind",
+          "url": "https://github.com/ylinwind"
         }
       ]
     }

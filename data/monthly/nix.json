@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 10 Oct 2026 07:04:49 GMT",
+  "pubDate": "Sat, 10 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,7 +10,7 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,415",
+      "stars": "26,416",
       "forks": "20,349",
       "addStars": "409",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,088",
-      "forks": "284",
+      "stars": "2,091",
+      "forks": "287",
       "addStars": "174",
       "contributors": [
         {
@@ -106,49 +106,12 @@
       ]
     },
     {
-      "title": "nix-community/stylix",
-      "url": "https://github.com/nix-community/stylix",
-      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "2,429",
-      "forks": "370",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90870942?s=40&v=4",
-          "name": "trueNAHO",
-          "url": "https://github.com/trueNAHO"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28959268?s=40&v=4",
-          "name": "danth",
-          "url": "https://github.com/danth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153149335?s=40&v=4",
-          "name": "0xda157",
-          "url": "https://github.com/0xda157"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5046562?s=40&v=4",
-          "name": "MattSturgeon",
-          "url": "https://github.com/MattSturgeon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64027365?s=40&v=4",
-          "name": "Flameopathic",
-          "url": "https://github.com/Flameopathic"
-        }
-      ]
-    },
-    {
       "title": "microvm-nix/microvm.nix",
       "url": "https://github.com/microvm-nix/microvm.nix",
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,999",
+      "stars": "3,000",
       "forks": "239",
       "addStars": "91",
       "contributors": [
@@ -180,7 +143,7 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "4,003",
+      "stars": "4,004",
       "forks": "342",
       "addStars": "57",
       "contributors": [
@@ -212,39 +175,12 @@
       ]
     },
     {
-      "title": "numtide/system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,765",
-      "forks": "66",
-      "addStars": "50",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
-          "name": "r-vdp",
-          "url": "https://github.com/r-vdp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
-          "name": "jfroche",
-          "url": "https://github.com/jfroche"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
-        }
-      ]
-    },
-    {
       "title": "NixOS/nixos-hardware",
       "url": "https://github.com/NixOS/nixos-hardware",
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,323",
+      "stars": "3,324",
       "forks": "983",
       "addStars": "31",
       "contributors": [
@@ -308,6 +244,33 @@
       ]
     },
     {
+      "title": "numtide/system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,765",
+      "forks": "66",
+      "addStars": "50",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
+          "name": "r-vdp",
+          "url": "https://github.com/r-vdp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
+          "name": "jfroche",
+          "url": "https://github.com/jfroche"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
+          "name": "zimbatm",
+          "url": "https://github.com/zimbatm"
+        }
+      ]
+    },
+    {
       "title": "nix-community/home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
@@ -345,28 +308,6 @@
       ]
     },
     {
-      "title": "Mic92/sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,217",
-      "forks": "236",
-      "addStars": "64",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
-          "name": "dasJ",
-          "url": "https://github.com/dasJ"
-        }
-      ]
-    },
-    {
       "title": "nix-community/NixOS-WSL",
       "url": "https://github.com/nix-community/NixOS-WSL",
       "description": "NixOS on WSL [maintainer=@nzbr]",
@@ -395,6 +336,28 @@
           "avatar": "https://avatars.githubusercontent.com/u/332418?s=40&v=4",
           "name": "Trundle",
           "url": "https://github.com/Trundle"
+        }
+      ]
+    },
+    {
+      "title": "Mic92/sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,217",
+      "forks": "236",
+      "addStars": "64",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
+          "name": "dasJ",
+          "url": "https://github.com/dasJ"
         }
       ]
     }
