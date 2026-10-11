@@ -2,45 +2,8 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 07:10:48 GMT",
+  "pubDate": "Sun, 11 Oct 2026 13:18:15 GMT",
   "items": [
-    {
-      "title": "NixOS/nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs",
-      "description": "Nix Packages collection & NixOS",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "26,425",
-      "forks": "20,360",
-      "addStars": "102",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37933096?s=40&v=4",
-          "name": "r-ryantm",
-          "url": "https://github.com/r-ryantm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&v=4",
-          "name": "fabaff",
-          "url": "https://github.com/fabaff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15247171?s=40&v=4",
-          "name": "NickCao",
-          "url": "https://github.com/NickCao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
-          "name": "SuperSandro2000",
-          "url": "https://github.com/SuperSandro2000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/131599?s=40&v=4",
-          "name": "mweinelt",
-          "url": "https://github.com/mweinelt"
-        }
-      ]
-    },
     {
       "title": "supabase/postgres",
       "url": "https://github.com/supabase/postgres",
@@ -79,12 +42,49 @@
       ]
     },
     {
+      "title": "NixOS/nixpkgs",
+      "url": "https://github.com/NixOS/nixpkgs",
+      "description": "Nix Packages collection & NixOS",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "26,427",
+      "forks": "20,360",
+      "addStars": "102",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37933096?s=40&v=4",
+          "name": "r-ryantm",
+          "url": "https://github.com/r-ryantm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&v=4",
+          "name": "fabaff",
+          "url": "https://github.com/fabaff"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15247171?s=40&v=4",
+          "name": "NickCao",
+          "url": "https://github.com/NickCao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/131599?s=40&v=4",
+          "name": "mweinelt",
+          "url": "https://github.com/mweinelt"
+        }
+      ]
+    },
+    {
       "title": "numtide/llm-agents.nix",
       "url": "https://github.com/numtide/llm-agents.nix",
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,095",
+      "stars": "2,097",
       "forks": "287",
       "addStars": "48",
       "contributors": [
@@ -106,49 +106,12 @@
       ]
     },
     {
-      "title": "nix-community/home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "10,422",
-      "forks": "2,488",
-      "addStars": "20",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1778670?s=40&v=4",
-          "name": "khaneliman",
-          "url": "https://github.com/khaneliman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/798147?s=40&v=4",
-          "name": "rycee",
-          "url": "https://github.com/rycee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/886074?s=40&v=4",
-          "name": "teto",
-          "url": "https://github.com/teto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4323933?s=40&v=4",
-          "name": "ncfavier",
-          "url": "https://github.com/ncfavier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20448408?s=40&v=4",
-          "name": "berbiche",
-          "url": "https://github.com/berbiche"
-        }
-      ]
-    },
-    {
       "title": "chaotic-cx/nyx",
       "url": "https://github.com/chaotic-cx/nyx",
       "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "780",
+      "stars": "779",
       "forks": "82",
       "addStars": "2",
       "contributors": [
@@ -175,6 +138,43 @@
       ]
     },
     {
+      "title": "R2Northstar/Northstar",
+      "url": "https://github.com/R2Northstar/Northstar",
+      "description": "Repo for packaged Northstar releases",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,787",
+      "forks": "128",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40122905?s=40&v=4",
+          "name": "GeckoEidechse",
+          "url": "https://github.com/GeckoEidechse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16687318?s=40&v=4",
+          "name": "abarichello",
+          "url": "https://github.com/abarichello"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96569817?s=40&v=4",
+          "name": "pg9182",
+          "url": "https://github.com/pg9182"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41955154?s=40&v=4",
+          "name": "catornot",
+          "url": "https://github.com/catornot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11993538?s=40&v=4",
+          "name": "Alystrasz",
+          "url": "https://github.com/Alystrasz"
+        }
+      ]
+    },
+    {
       "title": "Mic92/sops-nix",
       "url": "https://github.com/Mic92/sops-nix",
       "description": "Atomic secret provisioning for NixOS based on sops",
@@ -197,115 +197,39 @@
       ]
     },
     {
-      "title": "numtide/system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
+      "title": "nix-community/home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,766",
-      "forks": "66",
-      "addStars": "13",
+      "stars": "10,423",
+      "forks": "2,487",
+      "addStars": "20",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
-          "name": "r-vdp",
-          "url": "https://github.com/r-vdp"
+          "avatar": "https://avatars.githubusercontent.com/u/1778670?s=40&v=4",
+          "name": "khaneliman",
+          "url": "https://github.com/khaneliman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
-          "name": "jfroche",
-          "url": "https://github.com/jfroche"
+          "avatar": "https://avatars.githubusercontent.com/u/798147?s=40&v=4",
+          "name": "rycee",
+          "url": "https://github.com/rycee"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
-        }
-      ]
-    },
-    {
-      "title": "ryoppippi/dotfiles",
-      "url": "https://github.com/ryoppippi/dotfiles",
-      "description": "ryoppippi's dotfiles",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "268",
-      "forks": "5",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1560508?s=40&v=4",
-          "name": "ryoppippi",
-          "url": "https://github.com/ryoppippi"
-        }
-      ]
-    },
-    {
-      "title": "cloud-gouv/securix",
-      "url": "https://github.com/cloud-gouv/securix",
-      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,137",
-      "forks": "54",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/195482661?s=40&v=4",
-          "name": "rlahfa-dinum",
-          "url": "https://github.com/rlahfa-dinum"
+          "avatar": "https://avatars.githubusercontent.com/u/886074?s=40&v=4",
+          "name": "teto",
+          "url": "https://github.com/teto"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/229733000?s=40&v=4",
-          "name": "plegrand-dinum",
-          "url": "https://github.com/plegrand-dinum"
+          "avatar": "https://avatars.githubusercontent.com/u/4323933?s=40&v=4",
+          "name": "ncfavier",
+          "url": "https://github.com/ncfavier"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/195457469?s=40&v=4",
-          "name": "jdauphant-dinum",
-          "url": "https://github.com/jdauphant-dinum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3425311?s=40&v=4",
-          "name": "nlewo",
-          "url": "https://github.com/nlewo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2647236?s=40&v=4",
-          "name": "Pamplemousse",
-          "url": "https://github.com/Pamplemousse"
-        }
-      ]
-    },
-    {
-      "title": "Tarow/nix-podman-stacks",
-      "url": "https://github.com/Tarow/nix-podman-stacks",
-      "description": "Home Manager Modules for integrated Podman Stacks",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "197",
-      "forks": "15",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15030658?s=40&v=4",
-          "name": "Tarow",
-          "url": "https://github.com/Tarow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71256193?s=40&v=4",
-          "name": "fizzybuzz",
-          "url": "https://github.com/fizzybuzz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/196055729?s=40&v=4",
-          "name": "first-uninteresting-username",
-          "url": "https://github.com/first-uninteresting-username"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2430307?s=40&v=4",
-          "name": "silentnyte",
-          "url": "https://github.com/silentnyte"
+          "avatar": "https://avatars.githubusercontent.com/u/20448408?s=40&v=4",
+          "name": "berbiche",
+          "url": "https://github.com/berbiche"
         }
       ]
     }

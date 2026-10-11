@@ -2,15 +2,42 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 07:10:48 GMT",
+  "pubDate": "Sun, 11 Oct 2026 13:18:15 GMT",
   "items": [
+    {
+      "title": "ROCm/rocm-libraries",
+      "url": "https://github.com/ROCm/rocm-libraries",
+      "description": "super repo for rocm libraries",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "449",
+      "forks": "432",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31079890?s=40&v=4",
+          "name": "ntrost57",
+          "url": "https://github.com/ntrost57"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63608002?s=40&v=4",
+          "name": "cgmillette",
+          "url": "https://github.com/cgmillette"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2676255?s=40&v=4",
+          "name": "KKyang",
+          "url": "https://github.com/KKyang"
+        }
+      ]
+    },
     {
       "title": "openhwfoundation/cva6",
       "url": "https://github.com/openhwfoundation/cva6",
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "3,153",
+      "stars": "3,154",
       "forks": "1,036",
       "addStars": "52",
       "contributors": [
@@ -75,33 +102,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/41156994?s=40&v=4",
           "name": "gnuhead-chieb",
           "url": "https://github.com/gnuhead-chieb"
-        }
-      ]
-    },
-    {
-      "title": "ROCm/rocm-libraries",
-      "url": "https://github.com/ROCm/rocm-libraries",
-      "description": "super repo for rocm libraries",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "448",
-      "forks": "433",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31079890?s=40&v=4",
-          "name": "ntrost57",
-          "url": "https://github.com/ntrost57"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63608002?s=40&v=4",
-          "name": "cgmillette",
-          "url": "https://github.com/cgmillette"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2676255?s=40&v=4",
-          "name": "KKyang",
-          "url": "https://github.com/KKyang"
         }
       ]
     },
@@ -365,113 +365,39 @@
       ]
     },
     {
-      "title": "ebitengine/purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
+      "title": "PRoX2011/x16-PRos",
+      "url": "https://github.com/PRoX2011/x16-PRos",
+      "description": "Simple 16 bit (real mode) operating system writen in NASM from scratch",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "4,015",
-      "forks": "135",
-      "addStars": "102",
+      "stars": "705",
+      "forks": "56",
+      "addStars": "87",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10792661?s=40&v=4",
-          "name": "TotallyGamerJet",
-          "url": "https://github.com/TotallyGamerJet"
+          "avatar": "https://avatars.githubusercontent.com/u/168980588?s=40&v=4",
+          "name": "PRoX2011",
+          "url": "https://github.com/PRoX2011"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16950?s=40&v=4",
-          "name": "hajimehoshi",
-          "url": "https://github.com/hajimehoshi"
+          "avatar": "https://avatars.githubusercontent.com/u/142213932?s=40&v=4",
+          "name": "desvor58",
+          "url": "https://github.com/desvor58"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3747816?s=40&v=4",
-          "name": "qmuntal",
-          "url": "https://github.com/qmuntal"
+          "avatar": "https://avatars.githubusercontent.com/u/173697764?s=40&v=4",
+          "name": "Loxsete",
+          "url": "https://github.com/Loxsete"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20224954?s=40&v=4",
-          "name": "gdams",
-          "url": "https://github.com/gdams"
+          "avatar": "https://avatars.githubusercontent.com/u/98309267?s=40&v=4",
+          "name": "akbe2020",
+          "url": "https://github.com/akbe2020"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "vxunderground/MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "18,798",
-      "forks": "2,106",
-      "addStars": "117",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57078196?s=40&v=4",
-          "name": "vxunderground",
-          "url": "https://github.com/vxunderground"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25308360?s=40&v=4",
-          "name": "TheDuchy",
-          "url": "https://github.com/TheDuchy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7806106?s=40&v=4",
-          "name": "f0wl",
-          "url": "https://github.com/f0wl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26669887?s=40&v=4",
-          "name": "luca364",
-          "url": "https://github.com/luca364"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32627482?s=40&v=4",
-          "name": "EduApps-CDG",
-          "url": "https://github.com/EduApps-CDG"
-        }
-      ]
-    },
-    {
-      "title": "pret/pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "2,518",
-      "forks": "984",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1654211?s=40&v=4",
-          "name": "yenatch",
-          "url": "https://github.com/yenatch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35663410?s=40&v=4",
-          "name": "Rangi42",
-          "url": "https://github.com/Rangi42"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101238?s=40&v=4",
-          "name": "kanzure",
-          "url": "https://github.com/kanzure"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1761576?s=40&v=4",
-          "name": "roukaour",
-          "url": "https://github.com/roukaour"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1895773?s=40&v=4",
-          "name": "PikalaxALT",
-          "url": "https://github.com/PikalaxALT"
+          "avatar": "https://avatars.githubusercontent.com/u/179692930?s=40&v=4",
+          "name": "qwez-dev",
+          "url": "https://github.com/qwez-dev"
         }
       ]
     },
@@ -513,150 +439,187 @@
       ]
     },
     {
-      "title": "hiteshchoudhary/open-source-contribution",
-      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
-      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
+      "title": "ebitengine/purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "546",
-      "forks": "1,730",
-      "addStars": "6",
+      "stars": "4,016",
+      "forks": "135",
+      "addStars": "102",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11613311?s=40&v=4",
-          "name": "hiteshchoudhary",
-          "url": "https://github.com/hiteshchoudhary"
+          "avatar": "https://avatars.githubusercontent.com/u/10792661?s=40&v=4",
+          "name": "TotallyGamerJet",
+          "url": "https://github.com/TotallyGamerJet"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/96916559?s=40&v=4",
-          "name": "devHksingh",
-          "url": "https://github.com/devHksingh"
+          "avatar": "https://avatars.githubusercontent.com/u/16950?s=40&v=4",
+          "name": "hajimehoshi",
+          "url": "https://github.com/hajimehoshi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/110806514?s=40&v=4",
-          "name": "insshubh",
-          "url": "https://github.com/insshubh"
+          "avatar": "https://avatars.githubusercontent.com/u/3747816?s=40&v=4",
+          "name": "qmuntal",
+          "url": "https://github.com/qmuntal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67459148?s=40&v=4",
-          "name": "lav1shkumar",
-          "url": "https://github.com/lav1shkumar"
+          "avatar": "https://avatars.githubusercontent.com/u/20224954?s=40&v=4",
+          "name": "gdams",
+          "url": "https://github.com/gdams"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84187671?s=40&v=4",
-          "name": "You218",
-          "url": "https://github.com/You218"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
     {
-      "title": "cemu-project/cemu_graphic_packs",
-      "url": "https://github.com/cemu-project/cemu_graphic_packs",
-      "description": "Community Graphic Packs for Cemu",
+      "title": "vxunderground/MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "1,468",
-      "forks": "600",
-      "addStars": "4",
+      "stars": "18,800",
+      "forks": "2,106",
+      "addStars": "117",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15317421?s=40&v=4",
-          "name": "RagdollClash",
-          "url": "https://github.com/RagdollClash"
+          "avatar": "https://avatars.githubusercontent.com/u/57078196?s=40&v=4",
+          "name": "vxunderground",
+          "url": "https://github.com/vxunderground"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25286924?s=40&v=4",
-          "name": "getdls",
-          "url": "https://github.com/getdls"
+          "avatar": "https://avatars.githubusercontent.com/u/25308360?s=40&v=4",
+          "name": "TheDuchy",
+          "url": "https://github.com/TheDuchy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26669564?s=40&v=4",
-          "name": "Crementif",
-          "url": "https://github.com/Crementif"
+          "avatar": "https://avatars.githubusercontent.com/u/7806106?s=40&v=4",
+          "name": "f0wl",
+          "url": "https://github.com/f0wl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1132278?s=40&v=4",
-          "name": "JamieeLee",
-          "url": "https://github.com/JamieeLee"
+          "avatar": "https://avatars.githubusercontent.com/u/26669887?s=40&v=4",
+          "name": "luca364",
+          "url": "https://github.com/luca364"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6061770?s=40&v=4",
-          "name": "alexkiri",
-          "url": "https://github.com/alexkiri"
+          "avatar": "https://avatars.githubusercontent.com/u/32627482?s=40&v=4",
+          "name": "EduApps-CDG",
+          "url": "https://github.com/EduApps-CDG"
         }
       ]
     },
     {
-      "title": "bitdump/BLHeli",
-      "url": "https://github.com/bitdump/BLHeli",
-      "description": "BLHeli for brushless ESC firmware",
+      "title": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "2,235",
-      "forks": "1,152",
-      "addStars": "9",
+      "stars": "73,914",
+      "forks": "8,085",
+      "addStars": "1,638",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1584497?s=40&v=4",
-          "name": "sskaug",
-          "url": "https://github.com/sskaug"
+          "avatar": "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
+          "name": "wopian",
+          "url": "https://github.com/wopian"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1628451?s=40&v=4",
-          "name": "4712",
-          "url": "https://github.com/4712"
+          "avatar": "https://avatars.githubusercontent.com/u/2200898?s=40&v=4",
+          "name": "chrislgarry",
+          "url": "https://github.com/chrislgarry"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4254701?s=40&v=4",
-          "name": "Nick-HZ",
-          "url": "https://github.com/Nick-HZ"
+          "avatar": "https://avatars.githubusercontent.com/u/4405796?s=40&v=4",
+          "name": "dwiyatci",
+          "url": "https://github.com/dwiyatci"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9960403?s=40&v=4",
-          "name": "JazzMaverick",
-          "url": "https://github.com/JazzMaverick"
+          "avatar": "https://avatars.githubusercontent.com/u/7218387?s=40&v=4",
+          "name": "proudindiv",
+          "url": "https://github.com/proudindiv"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55472?s=40&v=4",
-          "name": "adamhope",
-          "url": "https://github.com/adamhope"
+          "avatar": "https://avatars.githubusercontent.com/u/5247009?s=40&v=4",
+          "name": "oldmud0",
+          "url": "https://github.com/oldmud0"
         }
       ]
     },
     {
-      "title": "BLAKE3-team/BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+      "title": "pret/pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "6,470",
-      "forks": "492",
-      "addStars": "58",
+      "stars": "2,518",
+      "forks": "984",
+      "addStars": "26",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/860932?s=40&v=4",
-          "name": "oconnor663",
-          "url": "https://github.com/oconnor663"
+          "avatar": "https://avatars.githubusercontent.com/u/1654211?s=40&v=4",
+          "name": "yenatch",
+          "url": "https://github.com/yenatch"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1407263?s=40&v=4",
-          "name": "sneves",
-          "url": "https://github.com/sneves"
+          "avatar": "https://avatars.githubusercontent.com/u/35663410?s=40&v=4",
+          "name": "Rangi42",
+          "url": "https://github.com/Rangi42"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3204810?s=40&v=4",
-          "name": "veorq",
-          "url": "https://github.com/veorq"
+          "avatar": "https://avatars.githubusercontent.com/u/101238?s=40&v=4",
+          "name": "kanzure",
+          "url": "https://github.com/kanzure"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5796962?s=40&v=4",
-          "name": "BurningEnlightenment",
-          "url": "https://github.com/BurningEnlightenment"
+          "avatar": "https://avatars.githubusercontent.com/u/1761576?s=40&v=4",
+          "name": "roukaour",
+          "url": "https://github.com/roukaour"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13936020?s=40&v=4",
-          "name": "mkrupcale",
-          "url": "https://github.com/mkrupcale"
+          "avatar": "https://avatars.githubusercontent.com/u/1895773?s=40&v=4",
+          "name": "PikalaxALT",
+          "url": "https://github.com/PikalaxALT"
+        }
+      ]
+    },
+    {
+      "title": "virtualagc/virtualagc",
+      "url": "https://github.com/virtualagc/virtualagc",
+      "description": "Virtual Apollo Guidance Computer (AGC) software",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "3,285",
+      "forks": "415",
+      "addStars": "53",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11841400?s=40&v=4",
+          "name": "rburkey2005",
+          "url": "https://github.com/rburkey2005"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/94056?s=40&v=4",
+          "name": "thewonderidiot",
+          "url": "https://github.com/thewonderidiot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/505070?s=40&v=4",
+          "name": "jimlawton",
+          "url": "https://github.com/jimlawton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10931741?s=40&v=4",
+          "name": "scivision",
+          "url": "https://github.com/scivision"
         }
       ]
     }
