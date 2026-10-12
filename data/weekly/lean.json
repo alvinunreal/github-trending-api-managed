@@ -2,40 +2,8 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Oct 2026 07:18:23 GMT",
+  "pubDate": "Mon, 12 Oct 2026 13:18:19 GMT",
   "items": [
-    {
-      "title": "anthropics/formal-math",
-      "url": "https://github.com/anthropics/formal-math",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "297",
-      "forks": "62",
-      "addStars": "44",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/254779305?s=40&v=4",
-          "name": "eeeasley",
-          "url": "https://github.com/eeeasley"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/235390021?s=40&v=4",
-          "name": "jleder3",
-          "url": "https://github.com/jleder3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1425057?s=40&v=4",
-          "name": "rfurman",
-          "url": "https://github.com/rfurman"
-        }
-      ]
-    },
     {
       "title": "leanprover/cslib",
       "url": "https://github.com/leanprover/cslib",
@@ -69,49 +37,12 @@
       ]
     },
     {
-      "title": "leanprover-community/physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "782",
-      "forks": "201",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72603918?s=40&v=4",
-          "name": "jstoobysmith",
-          "url": "https://github.com/jstoobysmith"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/568733?s=40&v=4",
-          "name": "Timeroot",
-          "url": "https://github.com/Timeroot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46996788?s=40&v=4",
-          "name": "zhikaip",
-          "url": "https://github.com/zhikaip"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
-          "name": "pitmonticone",
-          "url": "https://github.com/pitmonticone"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "4,291",
+      "stars": "4,293",
       "forks": "1,757",
       "addStars": "71",
       "contributors": [
@@ -143,12 +74,118 @@
       ]
     },
     {
+      "title": "anthropics/formal-math",
+      "url": "https://github.com/anthropics/formal-math",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "297",
+      "forks": "62",
+      "addStars": "44",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254779305?s=40&v=4",
+          "name": "eeeasley",
+          "url": "https://github.com/eeeasley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/235390021?s=40&v=4",
+          "name": "jleder3",
+          "url": "https://github.com/jleder3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1425057?s=40&v=4",
+          "name": "rfurman",
+          "url": "https://github.com/rfurman"
+        }
+      ]
+    },
+    {
+      "title": "leanprover-community/physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "780",
+      "forks": "200",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72603918?s=40&v=4",
+          "name": "jstoobysmith",
+          "url": "https://github.com/jstoobysmith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/568733?s=40&v=4",
+          "name": "Timeroot",
+          "url": "https://github.com/Timeroot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46996788?s=40&v=4",
+          "name": "zhikaip",
+          "url": "https://github.com/zhikaip"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
+          "name": "pitmonticone",
+          "url": "https://github.com/pitmonticone"
+        }
+      ]
+    },
+    {
+      "title": "google-deepmind/formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "1,319",
+      "forks": "531",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3491627?s=40&v=4",
+          "name": "mo271",
+          "url": "https://github.com/mo271"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47568553?s=40&v=4",
+          "name": "smmercuri",
+          "url": "https://github.com/smmercuri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72892199?s=40&v=4",
+          "name": "Paul-Lez",
+          "url": "https://github.com/Paul-Lez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
+          "name": "YaelDillies",
+          "url": "https://github.com/YaelDillies"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66788334?s=40&v=4",
+          "name": "Konamiu",
+          "url": "https://github.com/Konamiu"
+        }
+      ]
+    },
+    {
       "title": "leanprover/lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "9,500",
+      "stars": "9,505",
       "forks": "1,038",
       "addStars": "105",
       "contributors": [
@@ -213,75 +250,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
           "name": "jcommelin",
           "url": "https://github.com/jcommelin"
-        }
-      ]
-    },
-    {
-      "title": "google-deepmind/formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "1,318",
-      "forks": "531",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3491627?s=40&v=4",
-          "name": "mo271",
-          "url": "https://github.com/mo271"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47568553?s=40&v=4",
-          "name": "smmercuri",
-          "url": "https://github.com/smmercuri"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72892199?s=40&v=4",
-          "name": "Paul-Lez",
-          "url": "https://github.com/Paul-Lez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
-          "name": "YaelDillies",
-          "url": "https://github.com/YaelDillies"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66788334?s=40&v=4",
-          "name": "Konamiu",
-          "url": "https://github.com/Konamiu"
-        }
-      ]
-    },
-    {
-      "title": "ImperialCollegeLondon/FLT",
-      "url": "https://github.com/ImperialCollegeLondon/FLT",
-      "description": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "1,043",
-      "forks": "170",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31867827?s=40&v=4",
-          "name": "kbuzzard",
-          "url": "https://github.com/kbuzzard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
-          "name": "pitmonticone",
-          "url": "https://github.com/pitmonticone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65514131?s=40&v=4",
-          "name": "Ruben-VandeVelde",
-          "url": "https://github.com/Ruben-VandeVelde"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     }

@@ -2,202 +2,22 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Oct 2026 07:18:23 GMT",
+  "pubDate": "Mon, 12 Oct 2026 13:18:19 GMT",
   "items": [
     {
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "title": "Armur-Ai/Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "46,321",
-      "forks": "3,366",
-      "addStars": "294",
+      "stars": "2,844",
+      "forks": "526",
+      "addStars": "49",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-          "name": "lizhengfeng101",
-          "url": "https://github.com/lizhengfeng101"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-          "name": "wu21-web",
-          "url": "https://github.com/wu21-web"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-          "name": "chethanuk",
-          "url": "https://github.com/chethanuk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-          "name": "stay-foolish-forever",
-          "url": "https://github.com/stay-foolish-forever"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/267806965?s=40&v=4",
-          "name": "Qiyuanqiii",
-          "url": "https://github.com/Qiyuanqiii"
-        }
-      ]
-    },
-    {
-      "title": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "49,747",
-      "forks": "11,965",
-      "addStars": "71",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61247483?s=40&v=4",
-          "name": "Calcium-Ion",
-          "url": "https://github.com/Calcium-Ion"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40468931?s=40&v=4",
-          "name": "seefs001",
-          "url": "https://github.com/seefs001"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133845290?s=40&v=4",
-          "name": "t0ng7u",
-          "url": "https://github.com/t0ng7u"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39998050?s=40&v=4",
-          "name": "songquanpeng",
-          "url": "https://github.com/songquanpeng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6916415?s=40&v=4",
-          "name": "feitianbubu",
-          "url": "https://github.com/feitianbubu"
-        }
-      ]
-    },
-    {
-      "title": "Autumn-27/ScopeSentry",
-      "url": "https://github.com/Autumn-27/ScopeSentry",
-      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "1,805",
-      "forks": "349",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53844290?s=40&v=4",
-          "name": "Autumn-27",
-          "url": "https://github.com/Autumn-27"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45038448?s=40&v=4",
-          "name": "yjy123123",
-          "url": "https://github.com/yjy123123"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153813197?s=40&v=4",
-          "name": "NomadicZzz",
-          "url": "https://github.com/NomadicZzz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24653177?s=40&v=4",
-          "name": "rockmelodies",
-          "url": "https://github.com/rockmelodies"
-        }
-      ]
-    },
-    {
-      "title": "BishopFox/sliver",
-      "url": "https://github.com/BishopFox/sliver",
-      "description": "Adversary Emulation Framework",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "12,094",
-      "forks": "1,620",
-      "addStars": "47",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/875022?s=40&v=4",
-          "name": "moloch--",
-          "url": "https://github.com/moloch--"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44028017?s=40&v=4",
-          "name": "rkervella",
-          "url": "https://github.com/rkervella"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47985652?s=40&v=4",
-          "name": "TimBF",
-          "url": "https://github.com/TimBF"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84349012?s=40&v=4",
-          "name": "RafBishopFox",
-          "url": "https://github.com/RafBishopFox"
-        }
-      ]
-    },
-    {
-      "title": "majd/ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "11,638",
-      "forks": "975",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
-          "name": "majd",
-          "url": "https://github.com/majd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2650170?s=40&v=4",
-          "name": "ViRb3",
-          "url": "https://github.com/ViRb3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1824153?s=40&v=4",
-          "name": "tux-mind",
-          "url": "https://github.com/tux-mind"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8717479?s=40&v=4",
-          "name": "testwill",
-          "url": "https://github.com/testwill"
-        }
-      ]
-    },
-    {
-      "title": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "33,346",
-      "forks": "4,445",
-      "addStars": "129",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
-          "name": "lyingbug",
-          "url": "https://github.com/lyingbug"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
-          "name": "voidkey",
-          "url": "https://github.com/voidkey"
+          "avatar": "https://avatars.githubusercontent.com/u/26513717?s=40&v=4",
+          "name": "AkhilSharma90",
+          "url": "https://github.com/AkhilSharma90"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -205,216 +25,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
-          "name": "begoniezhao",
-          "url": "https://github.com/begoniezhao"
-        }
-      ]
-    },
-    {
-      "title": "larksuite/cli",
-      "url": "https://github.com/larksuite/cli",
-      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "17,633",
-      "forks": "1,391",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/266696938?s=40&v=4",
-          "name": "liangshuo-1",
-          "url": "https://github.com/liangshuo-1"
+          "avatar": "https://avatars.githubusercontent.com/u/71404936?s=40&v=4",
+          "name": "Kuro0911",
+          "url": "https://github.com/Kuro0911"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/272229193?s=40&v=4",
-          "name": "ethan-zhx",
-          "url": "https://github.com/ethan-zhx"
+          "avatar": "https://avatars.githubusercontent.com/u/52309794?s=40&v=4",
+          "name": "siwacarn",
+          "url": "https://github.com/siwacarn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/272226102?s=40&v=4",
-          "name": "fangshuyu-768",
-          "url": "https://github.com/fangshuyu-768"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/271711640?s=40&v=4",
-          "name": "wittam-01",
-          "url": "https://github.com/wittam-01"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/272145812?s=40&v=4",
-          "name": "zgz2048",
-          "url": "https://github.com/zgz2048"
-        }
-      ]
-    },
-    {
-      "title": "Project-HAMi/HAMi",
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "description": "Heterogeneous GPU Sharing on Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "4,705",
-      "forks": "857",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58680927?s=40&v=4",
-          "name": "archlitchi",
-          "url": "https://github.com/archlitchi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/114185853?s=40&v=4",
-          "name": "moezdil",
-          "url": "https://github.com/moezdil"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15009201?s=40&v=4",
-          "name": "lengrongfu",
-          "url": "https://github.com/lengrongfu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7907809?s=40&v=4",
-          "name": "wawa0210",
-          "url": "https://github.com/wawa0210"
-        }
-      ]
-    },
-    {
-      "title": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "52,543",
-      "forks": "6,845",
-      "addStars": "70",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/280515704?s=40&v=4",
-          "name": "multica-agent",
-          "url": "https://github.com/multica-agent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52446949?s=40&v=4",
-          "name": "Bohan-J",
-          "url": "https://github.com/Bohan-J"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
-          "name": "forrestchang",
-          "url": "https://github.com/forrestchang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/145280634?s=40&v=4",
-          "name": "NevilleQingNY",
-          "url": "https://github.com/NevilleQingNY"
-        }
-      ]
-    },
-    {
-      "title": "gtsteffaniak/filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "8,662",
-      "forks": "470",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42989099?s=40&v=4",
-          "name": "gtsteffaniak",
-          "url": "https://github.com/gtsteffaniak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/178341547?s=40&v=4",
-          "name": "Kurami32",
-          "url": "https://github.com/Kurami32"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10008599?s=40&v=4",
-          "name": "Stephan-P",
-          "url": "https://github.com/Stephan-P"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "0xJacky/nginx-ui",
-      "url": "https://github.com/0xJacky/nginx-ui",
-      "description": "Yet another WebUI for Nginx",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "11,602",
-      "forks": "897",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13096985?s=40&v=4",
-          "name": "0xJacky",
-          "url": "https://github.com/0xJacky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1146488?s=40&v=4",
-          "name": "Hintay",
-          "url": "https://github.com/Hintay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/121270272?s=40&v=4",
-          "name": "EFX1SZH",
-          "url": "https://github.com/EFX1SZH"
-        }
-      ]
-    },
-    {
-      "title": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "43,762",
-      "forks": "9,388",
-      "addStars": "75",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26101719?s=40&v=4",
-          "name": "Wei-Shaw",
-          "url": "https://github.com/Wei-Shaw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/131567472?s=40&v=4",
-          "name": "IanShaw027",
-          "url": "https://github.com/IanShaw027"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52620633?s=40&v=4",
-          "name": "touwaeriol",
-          "url": "https://github.com/touwaeriol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109257021?s=40&v=4",
-          "name": "wucm667",
-          "url": "https://github.com/wucm667"
+          "avatar": "https://avatars.githubusercontent.com/u/165267987?s=40&v=4",
+          "name": "akhilairi",
+          "url": "https://github.com/akhilairi"
         }
       ]
     },
@@ -424,8 +47,8 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,546",
-      "forks": "1,386",
+      "stars": "6,550",
+      "forks": "1,388",
       "addStars": "59",
       "contributors": [
         {
@@ -456,76 +79,347 @@
       ]
     },
     {
-      "title": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "title": "BishopFox/sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,886",
-      "forks": "1,190",
-      "addStars": "9",
+      "stars": "12,098",
+      "forks": "1,621",
+      "addStars": "47",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
-          "name": "fslongjin",
-          "url": "https://github.com/fslongjin"
+          "avatar": "https://avatars.githubusercontent.com/u/875022?s=40&v=4",
+          "name": "moloch--",
+          "url": "https://github.com/moloch--"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
-          "name": "chenhengqi",
-          "url": "https://github.com/chenhengqi"
+          "avatar": "https://avatars.githubusercontent.com/u/44028017?s=40&v=4",
+          "name": "rkervella",
+          "url": "https://github.com/rkervella"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48054568?s=40&v=4",
-          "name": "ls-ggg",
-          "url": "https://github.com/ls-ggg"
+          "avatar": "https://avatars.githubusercontent.com/u/47985652?s=40&v=4",
+          "name": "TimBF",
+          "url": "https://github.com/TimBF"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/62997582?s=40&v=4",
-          "name": "zyl1121",
-          "url": "https://github.com/zyl1121"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/84349012?s=40&v=4",
+          "name": "RafBishopFox",
+          "url": "https://github.com/RafBishopFox"
         }
       ]
     },
     {
-      "title": "fish2018/pansou",
-      "url": "https://github.com/fish2018/pansou",
-      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
+      "title": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "14,881",
-      "forks": "3,612",
-      "addStars": "11",
+      "stars": "8,668",
+      "forks": "471",
+      "addStars": "15",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34814105?s=40&v=4",
-          "name": "fish2018",
-          "url": "https://github.com/fish2018"
+          "avatar": "https://avatars.githubusercontent.com/u/42989099?s=40&v=4",
+          "name": "gtsteffaniak",
+          "url": "https://github.com/gtsteffaniak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38418090?s=40&v=4",
-          "name": "woleigedouer",
-          "url": "https://github.com/woleigedouer"
+          "avatar": "https://avatars.githubusercontent.com/u/178341547?s=40&v=4",
+          "name": "Kurami32",
+          "url": "https://github.com/Kurami32"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/111715843?s=40&v=4",
-          "name": "yayoinoyume",
-          "url": "https://github.com/yayoinoyume"
+          "avatar": "https://avatars.githubusercontent.com/u/10008599?s=40&v=4",
+          "name": "Stephan-P",
+          "url": "https://github.com/Stephan-P"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67409778?s=40&v=4",
-          "name": "CCRSRG",
-          "url": "https://github.com/CCRSRG"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "7,351",
+      "forks": "1,550",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184815?s=40&v=4",
+          "name": "andig",
+          "url": "https://github.com/andig"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69945414?s=40&v=4",
-          "name": "andyzjb",
-          "url": "https://github.com/andyzjb"
+          "avatar": "https://avatars.githubusercontent.com/u/152287?s=40&v=4",
+          "name": "naltatis",
+          "url": "https://github.com/naltatis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4681172?s=40&v=4",
+          "name": "premultiply",
+          "url": "https://github.com/premultiply"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42185?s=40&v=4",
+          "name": "DerAndereAndi",
+          "url": "https://github.com/DerAndereAndi"
+        }
+      ]
+    },
+    {
+      "title": "jaegertracing/jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "23,283",
+      "forks": "3,158",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3523016?s=40&v=4",
+          "name": "yurishkuro",
+          "url": "https://github.com/yurishkuro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5618424?s=40&v=4",
+          "name": "pavolloffay",
+          "url": "https://github.com/pavolloffay"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43658574?s=40&v=4",
+          "name": "mahadzaryab1",
+          "url": "https://github.com/mahadzaryab1"
+        }
+      ]
+    },
+    {
+      "title": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "2,086",
+      "forks": "180",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/146814998?s=40&v=4",
+          "name": "p1neappleXpress",
+          "url": "https://github.com/p1neappleXpress"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177800305?s=40&v=4",
+          "name": "damnurmum",
+          "url": "https://github.com/damnurmum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/187200583?s=40&v=4",
+          "name": "saharev",
+          "url": "https://github.com/saharev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57727767?s=40&v=4",
+          "name": "Ice0011",
+          "url": "https://github.com/Ice0011"
+        }
+      ]
+    },
+    {
+      "title": "YouROK/TorrServer",
+      "url": "https://github.com/YouROK/TorrServer",
+      "description": "Torrent stream server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "3,121",
+      "forks": "369",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1551446?s=40&v=4",
+          "name": "tsynik",
+          "url": "https://github.com/tsynik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4067300?s=40&v=4",
+          "name": "YouROK",
+          "url": "https://github.com/YouROK"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35524994?s=40&v=4",
+          "name": "dancheskus",
+          "url": "https://github.com/dancheskus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9392033?s=40&v=4",
+          "name": "pavelpikta",
+          "url": "https://github.com/pavelpikta"
+        }
+      ]
+    },
+    {
+      "title": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "11,601",
+      "forks": "897",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13096985?s=40&v=4",
+          "name": "0xJacky",
+          "url": "https://github.com/0xJacky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1146488?s=40&v=4",
+          "name": "Hintay",
+          "url": "https://github.com/Hintay"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121270272?s=40&v=4",
+          "name": "EFX1SZH",
+          "url": "https://github.com/EFX1SZH"
+        }
+      ]
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "182,847",
+      "forks": "18,227",
+      "addStars": "138",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
+          "name": "mxyng",
+          "url": "https://github.com/mxyng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&v=4",
+          "name": "dhiltgen",
+          "url": "https://github.com/dhiltgen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&v=4",
+          "name": "jmorganca",
+          "url": "https://github.com/jmorganca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4",
+          "name": "BruceMacD",
+          "url": "https://github.com/BruceMacD"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4",
+          "name": "jessegross",
+          "url": "https://github.com/jessegross"
+        }
+      ]
+    },
+    {
+      "title": "Bennettxai/FounderOS",
+      "url": "https://github.com/Bennettxai/FounderOS",
+      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "1,071",
+      "forks": "302",
+      "addStars": "22",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/203468938?s=40&v=4",
+          "name": "Bennettxai",
+          "url": "https://github.com/Bennettxai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/266376606?s=40&v=4",
+          "name": "brodyautomates",
+          "url": "https://github.com/brodyautomates"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90073564?s=40&v=4",
+          "name": "Alphanace",
+          "url": "https://github.com/Alphanace"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/144286463?s=40&v=4",
+          "name": "mind-g0",
+          "url": "https://github.com/mind-g0"
+        }
+      ]
+    },
+    {
+      "title": "HEXUXIU/M365-Copilot2API",
+      "url": "https://github.com/HEXUXIU/M365-Copilot2API",
+      "description": "Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "552",
+      "forks": "189",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/228712682?s=40&v=4",
+          "name": "HEXUXIU",
+          "url": "https://github.com/HEXUXIU"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18108860?s=40&v=4",
+          "name": "ramudaderuta",
+          "url": "https://github.com/ramudaderuta"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/271661825?s=40&v=4",
+          "name": "2164312714-svg",
+          "url": "https://github.com/2164312714-svg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/294961105?s=40&v=4",
+          "name": "uefi2333",
+          "url": "https://github.com/uefi2333"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/195564409?s=40&v=4",
+          "name": "LazyChara",
+          "url": "https://github.com/LazyChara"
         }
       ]
     }
