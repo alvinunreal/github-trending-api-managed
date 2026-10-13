@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 07:18:25 GMT",
+  "pubDate": "Tue, 13 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "google-deepmind/formal-conjectures",
@@ -42,45 +42,13 @@
       ]
     },
     {
-      "title": "leanprover/cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "748",
-      "forks": "212",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
-          "name": "chenson2018",
-          "url": "https://github.com/chenson2018"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
-          "name": "ctchou",
-          "url": "https://github.com/ctchou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
-          "name": "SamuelSchlesinger",
-          "url": "https://github.com/SamuelSchlesinger"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "4,298",
-      "forks": "1,757",
+      "forks": "1,760",
       "addStars": "9",
       "contributors": [
         {
@@ -148,19 +116,24 @@
       ]
     },
     {
-      "title": "leanprover/comparator",
-      "url": "https://github.com/leanprover/comparator",
-      "description": "",
+      "title": "leanprover/cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "240",
-      "forks": "42",
-      "addStars": "0",
+      "stars": "748",
+      "forks": "212",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33270164?s=40&v=4",
-          "name": "hargoniX",
-          "url": "https://github.com/hargoniX"
+          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
+          "name": "chenson2018",
+          "url": "https://github.com/chenson2018"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
+          "name": "ctchou",
+          "url": "https://github.com/ctchou"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
@@ -168,19 +141,78 @@
           "url": "https://github.com/kim-em"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
-          "name": "Garmelon",
-          "url": "https://github.com/Garmelon"
+          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
+          "name": "SamuelSchlesinger",
+          "url": "https://github.com/SamuelSchlesinger"
+        }
+      ]
+    },
+    {
+      "title": "leanprover/lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "9,521",
+      "forks": "1,039",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
+          "name": "leodemoura",
+          "url": "https://github.com/leodemoura"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3491627?s=40&v=4",
-          "name": "mo271",
-          "url": "https://github.com/mo271"
+          "avatar": "https://avatars.githubusercontent.com/u/109126?s=40&v=4",
+          "name": "Kha",
+          "url": "https://github.com/Kha"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/442315?s=40&v=4",
-          "name": "robsimmons",
-          "url": "https://github.com/robsimmons"
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9020483?s=40&v=4",
+          "name": "tydeu",
+          "url": "https://github.com/tydeu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
+          "name": "gebner",
+          "url": "https://github.com/gebner"
+        }
+      ]
+    },
+    {
+      "title": "anthropics/formal-math",
+      "url": "https://github.com/anthropics/formal-math",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "300",
+      "forks": "64",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254779305?s=40&v=4",
+          "name": "eeeasley",
+          "url": "https://github.com/eeeasley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/235390021?s=40&v=4",
+          "name": "jleder3",
+          "url": "https://github.com/jleder3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1425057?s=40&v=4",
+          "name": "rfurman",
+          "url": "https://github.com/rfurman"
         }
       ]
     }

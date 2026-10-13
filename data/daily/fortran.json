@@ -2,15 +2,89 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 07:18:25 GMT",
+  "pubDate": "Tue, 13 Oct 2026 13:18:20 GMT",
   "items": [
+    {
+      "title": "cp2k/cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,219",
+      "forks": "512",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4202567?s=40&v=4",
+          "name": "vondele",
+          "url": "https://github.com/vondele"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10218869?s=40&v=4",
+          "name": "mkrack",
+          "url": "https://github.com/mkrack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241771?s=40&v=4",
+          "name": "oschuett",
+          "url": "https://github.com/oschuett"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25837887?s=40&v=4",
+          "name": "tlaino",
+          "url": "https://github.com/tlaino"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
+          "name": "juerghutter",
+          "url": "https://github.com/juerghutter"
+        }
+      ]
+    },
+    {
+      "title": "ElmerCSC/elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,735",
+      "forks": "403",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
+          "name": "raback",
+          "url": "https://github.com/raback"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
+          "name": "mmalinen",
+          "url": "https://github.com/mmalinen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10937930?s=40&v=4",
+          "name": "juharu",
+          "url": "https://github.com/juharu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
+          "name": "ettaka",
+          "url": "https://github.com/ettaka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
+          "name": "juhanikataja",
+          "url": "https://github.com/juhanikataja"
+        }
+      ]
+    },
     {
       "title": "wrf-model/WRF",
       "url": "https://github.com/wrf-model/WRF",
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,777",
+      "stars": "1,778",
       "forks": "889",
       "addStars": "2",
       "contributors": [
@@ -42,76 +116,103 @@
       ]
     },
     {
-      "title": "OpenFAST/openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "title": "Dhondtguido/CalculiX",
+      "url": "https://github.com/Dhondtguido/CalculiX",
+      "description": "This repository contains the source files of CalculiX, a three-dimensional Finite Element Program (www.calculix.de).",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "981",
-      "forks": "547",
+      "stars": "221",
+      "forks": "68",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
-          "name": "bjonkman",
-          "url": "https://github.com/bjonkman"
+          "avatar": "https://avatars.githubusercontent.com/u/68735580?s=40&v=4",
+          "name": "Dhondtguido",
+          "url": "https://github.com/Dhondtguido"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2745453?s=40&v=4",
-          "name": "andrew-platt",
-          "url": "https://github.com/andrew-platt"
+          "avatar": "https://avatars.githubusercontent.com/u/182506271?s=40&v=4",
+          "name": "cwoelf",
+          "url": "https://github.com/cwoelf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13797903?s=40&v=4",
-          "name": "rafmudaf",
-          "url": "https://github.com/rafmudaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4530253?s=40&v=4",
-          "name": "deslaughter",
-          "url": "https://github.com/deslaughter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
-          "name": "ebranlard",
-          "url": "https://github.com/ebranlard"
+          "avatar": "https://avatars.githubusercontent.com/u/58652596?s=40&v=4",
+          "name": "Kabbone",
+          "url": "https://github.com/Kabbone"
         }
       ]
     },
     {
-      "title": "iterorganization/JOREK",
-      "url": "https://github.com/iterorganization/JOREK",
-      "description": "Non-linear extended fluid and hybrid fluid-kinetic code for simulations of transient events in magnetically confined fusion plasmas. Documentation Wiki: https://iterorganization.github.io/JOREK",
+      "title": "MFlowCode/MFC",
+      "url": "https://github.com/MFlowCode/MFC",
+      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "51",
-      "forks": "37",
+      "stars": "432",
+      "forks": "179",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36197091?s=40&v=4",
-          "name": "csommariva",
-          "url": "https://github.com/csommariva"
+          "avatar": "https://avatars.githubusercontent.com/u/39740593?s=40&v=4",
+          "name": "sbryngelson",
+          "url": "https://github.com/sbryngelson"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35944?s=40&v=4",
-          "name": "DaanVanVugt",
-          "url": "https://github.com/DaanVanVugt"
+          "avatar": "https://avatars.githubusercontent.com/u/24208000?s=40&v=4",
+          "name": "henryleberre",
+          "url": "https://github.com/henryleberre"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/101673476?s=40&v=4",
-          "name": "spamela-ukaea",
-          "url": "https://github.com/spamela-ukaea"
+          "avatar": "https://avatars.githubusercontent.com/u/48168887?s=40&v=4",
+          "name": "wilfonba",
+          "url": "https://github.com/wilfonba"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/196643851?s=40&v=4",
-          "name": "Daniel-Maris",
-          "url": "https://github.com/Daniel-Maris"
+          "avatar": "https://avatars.githubusercontent.com/u/98496194?s=40&v=4",
+          "name": "haochey",
+          "url": "https://github.com/haochey"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/253468153?s=40&v=4",
-          "name": "enardon",
-          "url": "https://github.com/enardon"
+          "avatar": "https://avatars.githubusercontent.com/u/187532398?s=40&v=4",
+          "name": "danieljvickers",
+          "url": "https://github.com/danieljvickers"
+        }
+      ]
+    },
+    {
+      "title": "firemodels/fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "889",
+      "forks": "695",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
+          "name": "gforney",
+          "url": "https://github.com/gforney"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
+          "name": "mcgratta",
+          "url": "https://github.com/mcgratta"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
+          "name": "rmcdermo",
+          "url": "https://github.com/rmcdermo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
+          "name": "drjfloyd",
+          "url": "https://github.com/drjfloyd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
+          "name": "marcosvanella",
+          "url": "https://github.com/marcosvanella"
         }
       ]
     },

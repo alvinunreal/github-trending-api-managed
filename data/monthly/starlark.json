@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 07:18:25 GMT",
+  "pubDate": "Tue, 13 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "bazelbuild/bazel-central-registry",
@@ -11,7 +11,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "391",
-      "forks": "940",
+      "forks": "939",
       "addStars": "6",
       "contributors": [
         {
@@ -111,12 +111,49 @@
       ]
     },
     {
+      "title": "bazelbuild/rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "596",
+      "forks": "337",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
+          "name": "sergiocampama",
+          "url": "https://github.com/sergiocampama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
+          "name": "brentleyjones",
+          "url": "https://github.com/brentleyjones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
+          "name": "nglevin",
+          "url": "https://github.com/nglevin"
+        }
+      ]
+    },
+    {
       "title": "googleapis/googleapis",
       "url": "https://github.com/googleapis/googleapis",
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,775",
+      "stars": "8,777",
       "forks": "2,635",
       "addStars": "45",
       "contributors": [
@@ -139,6 +176,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
           "name": "yoshi-code-bot",
           "url": "https://github.com/yoshi-code-bot"
+        }
+      ]
+    },
+    {
+      "title": "bazelbuild/rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "850",
+      "forks": "669",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1131704?s=40&v=4",
+          "name": "illicitonion",
+          "url": "https://github.com/illicitonion"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/814566?s=40&v=4",
+          "name": "hlopko",
+          "url": "https://github.com/hlopko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29306214?s=40&v=4",
+          "name": "krasimirgg",
+          "url": "https://github.com/krasimirgg"
         }
       ]
     },
@@ -171,38 +240,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
           "name": "UebelAndre",
           "url": "https://github.com/UebelAndre"
-        }
-      ]
-    },
-    {
-      "title": "bazelbuild/rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "850",
-      "forks": "668",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
-          "name": "UebelAndre",
-          "url": "https://github.com/UebelAndre"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1131704?s=40&v=4",
-          "name": "illicitonion",
-          "url": "https://github.com/illicitonion"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/814566?s=40&v=4",
-          "name": "hlopko",
-          "url": "https://github.com/hlopko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29306214?s=40&v=4",
-          "name": "krasimirgg",
-          "url": "https://github.com/krasimirgg"
         }
       ]
     },

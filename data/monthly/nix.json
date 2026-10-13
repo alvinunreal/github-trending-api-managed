@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 07:18:25 GMT",
+  "pubDate": "Tue, 13 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,7 +10,7 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,443",
+      "stars": "26,446",
       "forks": "20,372",
       "addStars": "401",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,115",
-      "forks": "288",
+      "stars": "2,118",
+      "forks": "290",
       "addStars": "186",
       "contributors": [
         {
@@ -65,6 +65,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "supabase/postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful extensions",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,793",
+      "forks": "268",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115821?s=40&v=4",
+          "name": "samrose",
+          "url": "https://github.com/samrose"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26374889?s=40&v=4",
+          "name": "dragarcia",
+          "url": "https://github.com/dragarcia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/397622?s=40&v=4",
+          "name": "darora",
+          "url": "https://github.com/darora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30039543?s=40&v=4",
+          "name": "pcnc",
+          "url": "https://github.com/pcnc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31685197?s=40&v=4",
+          "name": "soedirgo",
+          "url": "https://github.com/soedirgo"
         }
       ]
     },
@@ -106,38 +143,6 @@
       ]
     },
     {
-      "title": "microvm-nix/microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,004",
-      "forks": "239",
-      "addStars": "90",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12923?s=40&v=4",
-          "name": "astro",
-          "url": "https://github.com/astro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
-          "name": "SuperSandro2000",
-          "url": "https://github.com/SuperSandro2000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14830?s=40&v=4",
-          "name": "Ramblurr",
-          "url": "https://github.com/Ramblurr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50653293?s=40&v=4",
-          "name": "mksafavi",
-          "url": "https://github.com/mksafavi"
-        }
-      ]
-    },
-    {
       "title": "numtide/system-manager",
       "url": "https://github.com/numtide/system-manager",
       "description": "Manage system config using nix on any distro",
@@ -165,13 +170,45 @@
       ]
     },
     {
+      "title": "NixOS/nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,327",
+      "forks": "984",
+      "addStars": "32",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
+          "name": "mexisme",
+          "url": "https://github.com/mexisme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
+          "name": "lukateras",
+          "url": "https://github.com/lukateras"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
+          "name": "Lyndeno",
+          "url": "https://github.com/Lyndeno"
+        }
+      ]
+    },
+    {
       "title": "NixOS/nix.dev",
       "url": "https://github.com/NixOS/nix.dev",
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "4,008",
-      "forks": "342",
+      "stars": "4,009",
+      "forks": "343",
       "addStars": "54",
       "contributors": [
         {
@@ -239,34 +276,71 @@
       ]
     },
     {
-      "title": "NixOS/nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
+      "title": "cloud-gouv/securix",
+      "url": "https://github.com/cloud-gouv/securix",
+      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,327",
-      "forks": "984",
-      "addStars": "32",
+      "stars": "1,140",
+      "forks": "54",
+      "addStars": "101",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
+          "avatar": "https://avatars.githubusercontent.com/u/195482661?s=40&v=4",
+          "name": "rlahfa-dinum",
+          "url": "https://github.com/rlahfa-dinum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
-          "name": "mexisme",
-          "url": "https://github.com/mexisme"
+          "avatar": "https://avatars.githubusercontent.com/u/229733000?s=40&v=4",
+          "name": "plegrand-dinum",
+          "url": "https://github.com/plegrand-dinum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
-          "name": "lukateras",
-          "url": "https://github.com/lukateras"
+          "avatar": "https://avatars.githubusercontent.com/u/195457469?s=40&v=4",
+          "name": "jdauphant-dinum",
+          "url": "https://github.com/jdauphant-dinum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
-          "name": "Lyndeno",
-          "url": "https://github.com/Lyndeno"
+          "avatar": "https://avatars.githubusercontent.com/u/3425311?s=40&v=4",
+          "name": "nlewo",
+          "url": "https://github.com/nlewo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/326417883?s=40&v=4",
+          "name": "ldesgouilles-dinum",
+          "url": "https://github.com/ldesgouilles-dinum"
+        }
+      ]
+    },
+    {
+      "title": "microvm-nix/microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,004",
+      "forks": "239",
+      "addStars": "90",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12923?s=40&v=4",
+          "name": "astro",
+          "url": "https://github.com/astro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14830?s=40&v=4",
+          "name": "Ramblurr",
+          "url": "https://github.com/Ramblurr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50653293?s=40&v=4",
+          "name": "mksafavi",
+          "url": "https://github.com/mksafavi"
         }
       ]
     },
@@ -276,7 +350,7 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "10,425",
+      "stars": "10,424",
       "forks": "2,489",
       "addStars": "104",
       "contributors": [
@@ -308,12 +382,44 @@
       ]
     },
     {
+      "title": "nix-community/NixOS-WSL",
+      "url": "https://github.com/nix-community/NixOS-WSL",
+      "description": "NixOS on WSL [maintainer=@nzbr]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,123",
+      "forks": "164",
+      "addStars": "46",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7851175?s=40&v=4",
+          "name": "nzbr",
+          "url": "https://github.com/nzbr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/386765?s=40&v=4",
+          "name": "K900",
+          "url": "https://github.com/K900"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/332418?s=40&v=4",
+          "name": "Trundle",
+          "url": "https://github.com/Trundle"
+        }
+      ]
+    },
+    {
       "title": "Mic92/sops-nix",
       "url": "https://github.com/Mic92/sops-nix",
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,223",
+      "stars": "3,224",
       "forks": "236",
       "addStars": "70",
       "contributors": [

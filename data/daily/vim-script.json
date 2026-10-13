@@ -2,16 +2,38 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 07:18:25 GMT",
+  "pubDate": "Tue, 13 Oct 2026 13:18:20 GMT",
   "items": [
+    {
+      "title": "github/copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "11,690",
+      "forks": "824",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
+          "name": "tpope",
+          "url": "https://github.com/tpope"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/782512?s=40&v=4",
+          "name": "djensenius",
+          "url": "https://github.com/djensenius"
+        }
+      ]
+    },
     {
       "title": "neovim/neovim",
       "url": "https://github.com/neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "103,048",
-      "forks": "7,175",
+      "stars": "103,058",
+      "forks": "7,176",
       "addStars": "85",
       "contributors": [
         {
@@ -42,39 +64,39 @@
       ]
     },
     {
-      "title": "vim/vim",
-      "url": "https://github.com/vim/vim",
-      "description": "The official Vim repository",
+      "title": "junegunn/vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "41,215",
-      "forks": "6,159",
-      "addStars": "83",
+      "stars": "35,774",
+      "forks": "1,930",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8530623?s=40&v=4",
-          "name": "brammool",
-          "url": "https://github.com/brammool"
+          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
+          "name": "junegunn",
+          "url": "https://github.com/junegunn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/244927?s=40&v=4",
-          "name": "chrisbra",
-          "url": "https://github.com/chrisbra"
+          "avatar": "https://avatars.githubusercontent.com/u/470400?s=40&v=4",
+          "name": "starcraftman",
+          "url": "https://github.com/starcraftman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
-          "name": "zeertzjq",
-          "url": "https://github.com/zeertzjq"
+          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
+          "name": "janlazo",
+          "url": "https://github.com/janlazo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4298407?s=40&v=4",
-          "name": "yegappan",
-          "url": "https://github.com/yegappan"
+          "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
+          "name": "blueyed",
+          "url": "https://github.com/blueyed"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/518808?s=40&v=4",
-          "name": "h-east",
-          "url": "https://github.com/h-east"
+          "avatar": "https://avatars.githubusercontent.com/u/10111?s=40&v=4",
+          "name": "mattn",
+          "url": "https://github.com/mattn"
         }
       ]
     },
