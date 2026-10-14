@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Oct 2026 07:17:33 GMT",
+  "pubDate": "Wed, 14 Oct 2026 12:51:59 GMT",
   "items": [
     {
       "title": "ethereum/ERCs",
@@ -11,7 +11,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "767",
-      "forks": "1,080",
+      "forks": "1,081",
       "addStars": "2",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "27,282",
-      "forks": "12,392",
+      "forks": "12,393",
       "addStars": "25",
       "contributors": [
         {
@@ -116,6 +116,33 @@
       ]
     },
     {
+      "title": "NomicFoundation/solx",
+      "url": "https://github.com/NomicFoundation/solx",
+      "description": "LLVM-based Solidity compiler.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": "188",
+      "forks": "21",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31586236?s=40&v=4",
+          "name": "hedgar2017",
+          "url": "https://github.com/hedgar2017"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2222615?s=40&v=4",
+          "name": "nebasuke",
+          "url": "https://github.com/nebasuke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22070213?s=40&v=4",
+          "name": "antonbaliasnikov",
+          "url": "https://github.com/antonbaliasnikov"
+        }
+      ]
+    },
+    {
       "title": "base/commerce-payments",
       "url": "https://github.com/base/commerce-payments",
       "description": "Onchain authorization and capture for trust-minimized commerce.",
@@ -144,43 +171,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "defisaver/defisaver-v3-contracts",
-      "url": "https://github.com/defisaver/defisaver-v3-contracts",
-      "description": "All the contracts related to the Defi Saver ecosystem",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "379",
-      "forks": "175",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57317299?s=40&v=4",
-          "name": "rajko-z",
-          "url": "https://github.com/rajko-z"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2213493?s=40&v=4",
-          "name": "yippee-ki-yay",
-          "url": "https://github.com/yippee-ki-yay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60391069?s=40&v=4",
-          "name": "majkic99",
-          "url": "https://github.com/majkic99"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81569316?s=40&v=4",
-          "name": "kjaredic",
-          "url": "https://github.com/kjaredic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98367287?s=40&v=4",
-          "name": "milosdjurica",
-          "url": "https://github.com/milosdjurica"
         }
       ]
     },
@@ -222,29 +212,98 @@
       ]
     },
     {
-      "title": "NomicFoundation/solx",
-      "url": "https://github.com/NomicFoundation/solx",
-      "description": "LLVM-based Solidity compiler.",
+      "title": "dapphub/ds-test",
+      "url": "https://github.com/dapphub/ds-test",
+      "description": "Assertions, equality checks and other test helpers",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "188",
-      "forks": "21",
+      "stars": "239",
+      "forks": "77",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31586236?s=40&v=4",
-          "name": "hedgar2017",
-          "url": "https://github.com/hedgar2017"
+          "avatar": "https://avatars.githubusercontent.com/u/18486361?s=40&v=4",
+          "name": "rainbreak",
+          "url": "https://github.com/rainbreak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2222615?s=40&v=4",
-          "name": "nebasuke",
-          "url": "https://github.com/nebasuke"
+          "avatar": "https://avatars.githubusercontent.com/u/6689924?s=40&v=4",
+          "name": "d-xo",
+          "url": "https://github.com/d-xo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22070213?s=40&v=4",
-          "name": "antonbaliasnikov",
-          "url": "https://github.com/antonbaliasnikov"
+          "avatar": "https://avatars.githubusercontent.com/u/60899256?s=40&v=4",
+          "name": "tommyrharper",
+          "url": "https://github.com/tommyrharper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14032?s=40&v=4",
+          "name": "dbrock",
+          "url": "https://github.com/dbrock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31553173?s=40&v=4",
+          "name": "brockelmore",
+          "url": "https://github.com/brockelmore"
+        }
+      ]
+    },
+    {
+      "title": "a16z/erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": "222",
+      "forks": "44",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5491770?s=40&v=4",
+          "name": "daejunpark",
+          "url": "https://github.com/daejunpark"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25297591?s=40&v=4",
+          "name": "pcaversaccio",
+          "url": "https://github.com/pcaversaccio"
+        }
+      ]
+    },
+    {
+      "title": "Vectorized/solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": "3,382",
+      "forks": "494",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5889274?s=40&v=4",
+          "name": "Vectorized",
+          "url": "https://github.com/Vectorized"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66815072?s=40&v=4",
+          "name": "atarpara",
+          "url": "https://github.com/atarpara"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92001561?s=40&v=4",
+          "name": "z0r0z",
+          "url": "https://github.com/z0r0z"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30579067?s=40&v=4",
+          "name": "kadenzipfel",
+          "url": "https://github.com/kadenzipfel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59190?s=40&v=4",
+          "name": "RogerPodacter",
+          "url": "https://github.com/RogerPodacter"
         }
       ]
     }

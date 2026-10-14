@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Wed, 14 Oct 2026 07:17:33 GMT</pubDate>
+    <pubDate>Wed, 14 Oct 2026 12:51:59 GMT</pubDate>
     <item>
       <title>bazelbuild/bazel-central-registry</title>
       <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -152,6 +152,39 @@
       </contributors>
     </item>
     <item>
+      <title>bazel-contrib/rules_python</title>
+      <link>https://github.com/bazel-contrib/rules_python</link>
+      <description>Bazel Python Rules</description>
+      <guid>https://github.com/bazel-contrib/rules_python</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>687</stars>
+      <forks>726</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34175098?s=40&amp;v=4</avatar>
+          <name>rickeylev</name>
+          <url>https://github.com/rickeylev</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/240938?s=40&amp;v=4</avatar>
+          <name>aignas</name>
+          <url>https://github.com/aignas</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
+          <name>f0rmiga</name>
+          <url>https://github.com/f0rmiga</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
+          <name>UebelAndre</name>
+          <url>https://github.com/UebelAndre</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>googleapis/googleapis</title>
       <link>https://github.com/googleapis/googleapis</link>
       <description>Public interface definitions of Google APIs.</description>
@@ -218,35 +251,40 @@
       </contributors>
     </item>
     <item>
-      <title>bazel-contrib/rules_python</title>
-      <link>https://github.com/bazel-contrib/rules_python</link>
-      <description>Bazel Python Rules</description>
-      <guid>https://github.com/bazel-contrib/rules_python</guid>
+      <title>uber/hermetic_cc_toolchain</title>
+      <link>https://github.com/uber/hermetic_cc_toolchain</link>
+      <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
+      <guid>https://github.com/uber/hermetic_cc_toolchain</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>687</stars>
-      <forks>726</forks>
-      <addStars>2</addStars>
+      <stars>404</stars>
+      <forks>88</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34175098?s=40&amp;v=4</avatar>
-          <name>rickeylev</name>
-          <url>https://github.com/rickeylev</url>
+          <avatar>https://avatars.githubusercontent.com/u/107720?s=40&amp;v=4</avatar>
+          <name>motiejus</name>
+          <url>https://github.com/motiejus</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/240938?s=40&amp;v=4</avatar>
-          <name>aignas</name>
-          <url>https://github.com/aignas</url>
+          <avatar>https://avatars.githubusercontent.com/u/98395?s=40&amp;v=4</avatar>
+          <name>linzhp</name>
+          <url>https://github.com/linzhp</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
-          <name>f0rmiga</name>
-          <url>https://github.com/f0rmiga</url>
+          <avatar>https://avatars.githubusercontent.com/u/84334008?s=40&amp;v=4</avatar>
+          <name>laurynasl-uber</name>
+          <url>https://github.com/laurynasl-uber</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
-          <name>UebelAndre</name>
-          <url>https://github.com/UebelAndre</url>
+          <avatar>https://avatars.githubusercontent.com/u/13570304?s=40&amp;v=4</avatar>
+          <name>FabianHahn</name>
+          <url>https://github.com/FabianHahn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3226389?s=40&amp;v=4</avatar>
+          <name>jonathanbaker7</name>
+          <url>https://github.com/jonathanbaker7</url>
         </contributor>
       </contributors>
     </item>
@@ -285,44 +323,6 @@
           <avatar>https://avatars.githubusercontent.com/u/454682?s=40&amp;v=4</avatar>
           <name>phlax</name>
           <url>https://github.com/phlax</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>uber/hermetic_cc_toolchain</title>
-      <link>https://github.com/uber/hermetic_cc_toolchain</link>
-      <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
-      <guid>https://github.com/uber/hermetic_cc_toolchain</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>404</stars>
-      <forks>88</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107720?s=40&amp;v=4</avatar>
-          <name>motiejus</name>
-          <url>https://github.com/motiejus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/98395?s=40&amp;v=4</avatar>
-          <name>linzhp</name>
-          <url>https://github.com/linzhp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84334008?s=40&amp;v=4</avatar>
-          <name>laurynasl-uber</name>
-          <url>https://github.com/laurynasl-uber</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13570304?s=40&amp;v=4</avatar>
-          <name>FabianHahn</name>
-          <url>https://github.com/FabianHahn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3226389?s=40&amp;v=4</avatar>
-          <name>jonathanbaker7</name>
-          <url>https://github.com/jonathanbaker7</url>
         </contributor>
       </contributors>
     </item>
@@ -366,7 +366,7 @@
       <guid>https://github.com/cel-expr/cel-spec</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>4,011</stars>
+      <stars>4,013</stars>
       <forks>307</forks>
       <addStars>43</addStars>
       <contributors>

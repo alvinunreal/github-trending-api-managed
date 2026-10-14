@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Oct 2026 07:17:33 GMT",
+  "pubDate": "Wed, 14 Oct 2026 12:51:59 GMT",
   "items": [
     {
       "title": "NVIDIA/OpenShell",
@@ -10,8 +10,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,156",
-      "forks": "1,780",
+      "stars": "16,180",
+      "forks": "1,782",
       "addStars": "7,574",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "29,680",
-      "forks": "2,124",
+      "stars": "29,698",
+      "forks": "2,126",
       "addStars": "7,159",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,295",
-      "forks": "1,059",
+      "stars": "17,343",
+      "forks": "1,063",
       "addStars": "2,812",
       "contributors": [
         {
@@ -111,13 +111,45 @@
       ]
     },
     {
+      "title": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "12,782",
+      "forks": "1,174",
+      "addStars": "990",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
+          "name": "ghedo",
+          "url": "https://github.com/ghedo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
+          "name": "LPardue",
+          "url": "https://github.com/LPardue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28556681?s=40&v=4",
+          "name": "antoniovicente",
+          "url": "https://github.com/antoniovicente"
+        }
+      ]
+    },
+    {
       "title": "rustfs/rustfs",
       "url": "https://github.com/rustfs/rustfs",
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,897",
-      "forks": "1,589",
+      "stars": "34,910",
+      "forks": "1,591",
       "addStars": "3,139",
       "contributors": [
         {
@@ -153,8 +185,8 @@
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "48,984",
-      "forks": "4,931",
+      "stars": "48,991",
+      "forks": "4,932",
       "addStars": "946",
       "contributors": [
         {
@@ -185,39 +217,34 @@
       ]
     },
     {
-      "title": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "125,763",
-      "forks": "19,665",
-      "addStars": "3,099",
+      "stars": "26,645",
+      "forks": "2,405",
+      "addStars": "7,210",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
-          "name": "rustdesk",
-          "url": "https://github.com/rustdesk"
+          "avatar": "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
+          "name": "t8y2",
+          "url": "https://github.com/t8y2"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
-          "name": "fufesou",
-          "url": "https://github.com/fufesou"
+          "avatar": "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
+          "name": "zipg",
+          "url": "https://github.com/zipg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
-          "name": "21pages",
-          "url": "https://github.com/21pages"
+          "avatar": "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
+          "name": "eryajf",
+          "url": "https://github.com/eryajf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
-          "name": "Kingtous",
-          "url": "https://github.com/Kingtous"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
-          "name": "Heap-Hop",
-          "url": "https://github.com/Heap-Hop"
+          "avatar": "https://avatars.githubusercontent.com/u/28704977?s=40&v=4",
+          "name": "Abeautifulsnow",
+          "url": "https://github.com/Abeautifulsnow"
         }
       ]
     },
@@ -227,8 +254,8 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "151,224",
-      "forks": "10,885",
+      "stars": "151,311",
+      "forks": "10,890",
       "addStars": "7,645",
       "contributors": [
         {
@@ -259,8 +286,8 @@
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,129",
-      "forks": "473",
+      "stars": "18,248",
+      "forks": "476",
       "addStars": "16,182",
       "contributors": [
         {
@@ -291,77 +318,13 @@
       ]
     },
     {
-      "title": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "26,596",
-      "forks": "2,398",
-      "addStars": "7,210",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
-          "name": "t8y2",
-          "url": "https://github.com/t8y2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
-          "name": "zipg",
-          "url": "https://github.com/zipg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
-          "name": "eryajf",
-          "url": "https://github.com/eryajf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28704977?s=40&v=4",
-          "name": "Abeautifulsnow",
-          "url": "https://github.com/Abeautifulsnow"
-        }
-      ]
-    },
-    {
-      "title": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "7,103",
-      "forks": "465",
-      "addStars": "5,360",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
-          "name": "sox8502",
-          "url": "https://github.com/sox8502"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135627999?s=40&v=4",
-          "name": "myles332",
-          "url": "https://github.com/myles332"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
-          "name": "rehaanahmad2013",
-          "url": "https://github.com/rehaanahmad2013"
-        }
-      ]
-    },
-    {
       "title": "hydra-db/hydradb",
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,010",
-      "forks": "5,427",
+      "stars": "13,012",
+      "forks": "5,426",
       "addStars": "10,012",
       "contributors": [
         {
@@ -392,12 +355,49 @@
       ]
     },
     {
+      "title": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "125,792",
+      "forks": "19,674",
+      "addStars": "3,099",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
+          "name": "rustdesk",
+          "url": "https://github.com/rustdesk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
+          "name": "fufesou",
+          "url": "https://github.com/fufesou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
+          "name": "21pages",
+          "url": "https://github.com/21pages"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
+          "name": "Kingtous",
+          "url": "https://github.com/Kingtous"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
+          "name": "Heap-Hop",
+          "url": "https://github.com/Heap-Hop"
+        }
+      ]
+    },
+    {
       "title": "microsoft/mxc",
       "url": "https://github.com/microsoft/mxc",
       "description": "Policy-driven, layered isolation and containment",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,779",
+      "stars": "2,786",
       "forks": "147",
       "addStars": "1,439",
       "contributors": [
@@ -424,12 +424,150 @@
       ]
     },
     {
+      "title": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "111,889",
+      "forks": "4,079",
+      "addStars": "1,078",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20051258?s=40&v=4",
+          "name": "lucasfernog",
+          "url": "https://github.com/lucasfernog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48618675?s=40&v=4",
+          "name": "amrbashir",
+          "url": "https://github.com/amrbashir"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30730186?s=40&v=4",
+          "name": "FabianLars",
+          "url": "https://github.com/FabianLars"
+        }
+      ]
+    },
+    {
+      "title": "yyjeqhc/webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "2,303",
+      "forks": "313",
+      "addStars": "1,596",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51790758?s=40&v=4",
+          "name": "yyjeqhc",
+          "url": "https://github.com/yyjeqhc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98244131?s=40&v=4",
+          "name": "Xiiiing",
+          "url": "https://github.com/Xiiiing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82362675?s=40&v=4",
+          "name": "youxiaohou",
+          "url": "https://github.com/youxiaohou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/133723203?s=40&v=4",
+          "name": "ITSGJY",
+          "url": "https://github.com/ITSGJY"
+        }
+      ]
+    },
+    {
+      "title": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "7,157",
+      "forks": "470",
+      "addStars": "5,360",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
+          "name": "sox8502",
+          "url": "https://github.com/sox8502"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135627999?s=40&v=4",
+          "name": "myles332",
+          "url": "https://github.com/myles332"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
+          "name": "rehaanahmad2013",
+          "url": "https://github.com/rehaanahmad2013"
+        }
+      ]
+    },
+    {
+      "title": "zeronsh/zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "3,185",
+      "forks": "327",
+      "addStars": "1,809",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/234226124?s=40&v=4",
+          "name": "wing-anara",
+          "url": "https://github.com/wing-anara"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25624391?s=40&v=4",
+          "name": "jsgrrchg",
+          "url": "https://github.com/jsgrrchg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44917547?s=40&v=4",
+          "name": "wingleeio",
+          "url": "https://github.com/wingleeio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130941423?s=40&v=4",
+          "name": "gaelcado",
+          "url": "https://github.com/gaelcado"
+        }
+      ]
+    },
+    {
       "title": "ankitects/anki",
       "url": "https://github.com/ankitects/anki",
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,996",
+      "stars": "32,003",
       "forks": "3,335",
       "addStars": "1,729",
       "contributors": [
@@ -461,82 +599,13 @@
       ]
     },
     {
-      "title": "yyjeqhc/webcodex",
-      "url": "https://github.com/yyjeqhc/webcodex",
-      "description": "Give cloud AI agents a real development environment on your own machines.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "2,297",
-      "forks": "310",
-      "addStars": "1,596",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51790758?s=40&v=4",
-          "name": "yyjeqhc",
-          "url": "https://github.com/yyjeqhc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98244131?s=40&v=4",
-          "name": "Xiiiing",
-          "url": "https://github.com/Xiiiing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82362675?s=40&v=4",
-          "name": "youxiaohou",
-          "url": "https://github.com/youxiaohou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133723203?s=40&v=4",
-          "name": "ITSGJY",
-          "url": "https://github.com/ITSGJY"
-        }
-      ]
-    },
-    {
-      "title": "tauri-apps/tauri",
-      "url": "https://github.com/tauri-apps/tauri",
-      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "111,887",
-      "forks": "4,079",
-      "addStars": "1,078",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20051258?s=40&v=4",
-          "name": "lucasfernog",
-          "url": "https://github.com/lucasfernog"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48618675?s=40&v=4",
-          "name": "amrbashir",
-          "url": "https://github.com/amrbashir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30730186?s=40&v=4",
-          "name": "FabianLars",
-          "url": "https://github.com/FabianLars"
-        }
-      ]
-    },
-    {
       "title": "HakanSeven12/OpenCADStudio",
       "url": "https://github.com/HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,999",
-      "forks": "330",
+      "stars": "3,015",
+      "forks": "340",
       "addStars": "1,209",
       "contributors": [
         {
@@ -572,8 +641,8 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,193",
-      "forks": "3,479",
+      "stars": "32,207",
+      "forks": "3,480",
       "addStars": "1,132",
       "contributors": [
         {
@@ -604,39 +673,12 @@
       ]
     },
     {
-      "title": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "9,229",
-      "forks": "330",
-      "addStars": "1,880",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
-          "name": "max-sixty",
-          "url": "https://github.com/max-sixty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
-          "name": "worktrunk-bot",
-          "url": "https://github.com/worktrunk-bot"
-        }
-      ]
-    },
-    {
       "title": "xingkongliang/skills-manager",
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,280",
+      "stars": "6,292",
       "forks": "517",
       "addStars": "1,569",
       "contributors": [
@@ -668,71 +710,29 @@
       ]
     },
     {
-      "title": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "title": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,783",
-      "forks": "1,174",
-      "addStars": "990",
+      "stars": "9,230",
+      "forks": "331",
+      "addStars": "1,880",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
-          "name": "ghedo",
-          "url": "https://github.com/ghedo"
+          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
+          "name": "max-sixty",
+          "url": "https://github.com/max-sixty"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
-          "name": "LPardue",
-          "url": "https://github.com/LPardue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28556681?s=40&v=4",
-          "name": "antoniovicente",
-          "url": "https://github.com/antoniovicente"
-        }
-      ]
-    },
-    {
-      "title": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "119,943",
-      "forks": "18,605",
-      "addStars": "2,020",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
-          "name": "bors",
-          "url": "https://github.com/bors"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&v=4",
-          "name": "matthiaskrgr",
-          "url": "https://github.com/matthiaskrgr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&v=4",
-          "name": "RalfJung",
-          "url": "https://github.com/RalfJung"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&v=4",
-          "name": "GuillaumeGomez",
-          "url": "https://github.com/GuillaumeGomez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4",
-          "name": "matklad",
-          "url": "https://github.com/matklad"
+          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
+          "name": "worktrunk-bot",
+          "url": "https://github.com/worktrunk-bot"
         }
       ]
     }
