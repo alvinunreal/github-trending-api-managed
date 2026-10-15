@@ -2,37 +2,32 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 15 Oct 2026 07:18:08 GMT",
+  "pubDate": "Thu, 15 Oct 2026 12:38:52 GMT",
   "items": [
     {
-      "title": "argoproj/argo-helm",
-      "url": "https://github.com/argoproj/argo-helm",
-      "description": "ArgoProj Helm Charts",
+      "title": "renovatebot/helm-charts",
+      "url": "https://github.com/renovatebot/helm-charts",
+      "description": "",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "2,384",
-      "forks": "2,123",
-      "addStars": "1",
+      "stars": "142",
+      "forks": "82",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7290987?s=40&v=4",
-          "name": "mkilchhofer",
-          "url": "https://github.com/mkilchhofer"
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30188755?s=40&v=4",
-          "name": "yu-croco",
-          "url": "https://github.com/yu-croco"
+          "avatar": "https://avatars.githubusercontent.com/u/1798109?s=40&v=4",
+          "name": "viceice",
+          "url": "https://github.com/viceice"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21042968?s=40&v=4",
-          "name": "mbevc1",
-          "url": "https://github.com/mbevc1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35014?s=40&v=4",
-          "name": "jmeridth",
-          "url": "https://github.com/jmeridth"
+          "avatar": "https://avatars.githubusercontent.com/u/1358764?s=40&v=4",
+          "name": "JamieMagee",
+          "url": "https://github.com/JamieMagee"
         }
       ]
     },
@@ -55,6 +50,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/60965358?s=40&v=4",
           "name": "Devesh225",
           "url": "https://github.com/Devesh225"
+        }
+      ]
+    },
+    {
+      "title": "prometheus-community/helm-charts",
+      "url": "https://github.com/prometheus-community/helm-charts",
+      "description": "Prometheus community Helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": "6,216",
+      "forks": "5,395",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1069919?s=40&v=4",
+          "name": "monotek",
+          "url": "https://github.com/monotek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1560587?s=40&v=4",
+          "name": "jkroepke",
+          "url": "https://github.com/jkroepke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47476160?s=40&v=4",
+          "name": "zeritti",
+          "url": "https://github.com/zeritti"
         }
       ]
     },
@@ -96,33 +118,6 @@
       ]
     },
     {
-      "title": "renovatebot/helm-charts",
-      "url": "https://github.com/renovatebot/helm-charts",
-      "description": "",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": "142",
-      "forks": "82",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1798109?s=40&v=4",
-          "name": "viceice",
-          "url": "https://github.com/viceice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1358764?s=40&v=4",
-          "name": "JamieMagee",
-          "url": "https://github.com/JamieMagee"
-        }
-      ]
-    },
-    {
       "title": "temporalio/helm-charts",
       "url": "https://github.com/temporalio/helm-charts",
       "description": "Temporal Helm charts",
@@ -160,6 +155,38 @@
       ]
     },
     {
+      "title": "argoproj/argo-helm",
+      "url": "https://github.com/argoproj/argo-helm",
+      "description": "ArgoProj Helm Charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": "2,384",
+      "forks": "2,124",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7290987?s=40&v=4",
+          "name": "mkilchhofer",
+          "url": "https://github.com/mkilchhofer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30188755?s=40&v=4",
+          "name": "yu-croco",
+          "url": "https://github.com/yu-croco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21042968?s=40&v=4",
+          "name": "mbevc1",
+          "url": "https://github.com/mbevc1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35014?s=40&v=4",
+          "name": "jmeridth",
+          "url": "https://github.com/jmeridth"
+        }
+      ]
+    },
+    {
       "title": "goharbor/harbor-helm",
       "url": "https://github.com/goharbor/harbor-helm",
       "description": "The helm chart to deploy Harbor",
@@ -193,33 +220,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2841473?s=40&v=4",
           "name": "wy65701436",
           "url": "https://github.com/wy65701436"
-        }
-      ]
-    },
-    {
-      "title": "prometheus-community/helm-charts",
-      "url": "https://github.com/prometheus-community/helm-charts",
-      "description": "Prometheus community Helm charts",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": "6,216",
-      "forks": "5,395",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1069919?s=40&v=4",
-          "name": "monotek",
-          "url": "https://github.com/monotek"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1560587?s=40&v=4",
-          "name": "jkroepke",
-          "url": "https://github.com/jkroepke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47476160?s=40&v=4",
-          "name": "zeritti",
-          "url": "https://github.com/zeritti"
         }
       ]
     }
