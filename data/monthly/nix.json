@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 07:17:33 GMT",
+  "pubDate": "Fri, 16 Oct 2026 12:23:37 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,478",
-      "forks": "20,402",
+      "stars": "26,481",
+      "forks": "20,404",
       "addStars": "399",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,137",
+      "stars": "2,140",
       "forks": "294",
       "addStars": "198",
       "contributors": [
@@ -69,50 +69,13 @@
       ]
     },
     {
-      "title": "supabase/postgres",
-      "url": "https://github.com/supabase/postgres",
-      "description": "Unmodified Postgres with some useful extensions",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,795",
-      "forks": "268",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/115821?s=40&v=4",
-          "name": "samrose",
-          "url": "https://github.com/samrose"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26374889?s=40&v=4",
-          "name": "dragarcia",
-          "url": "https://github.com/dragarcia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/397622?s=40&v=4",
-          "name": "darora",
-          "url": "https://github.com/darora"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31685197?s=40&v=4",
-          "name": "soedirgo",
-          "url": "https://github.com/soedirgo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1639722?s=40&v=4",
-          "name": "sweatybridge",
-          "url": "https://github.com/sweatybridge"
-        }
-      ]
-    },
-    {
       "title": "NixOS/nix.dev",
       "url": "https://github.com/NixOS/nix.dev",
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "4,018",
-      "forks": "342",
+      "forks": "344",
       "addStars": "61",
       "contributors": [
         {
@@ -217,65 +180,6 @@
       ]
     },
     {
-      "title": "numtide/system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,770",
-      "forks": "68",
-      "addStars": "45",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
-          "name": "r-vdp",
-          "url": "https://github.com/r-vdp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
-          "name": "jfroche",
-          "url": "https://github.com/jfroche"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
-        }
-      ]
-    },
-    {
-      "title": "NixOS/nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,333",
-      "forks": "985",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
-          "name": "mexisme",
-          "url": "https://github.com/mexisme"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
-          "name": "lukateras",
-          "url": "https://github.com/lukateras"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
-          "name": "Lyndeno",
-          "url": "https://github.com/Lyndeno"
-        }
-      ]
-    },
-    {
       "title": "nix-community/NixOS-WSL",
       "url": "https://github.com/nix-community/NixOS-WSL",
       "description": "NixOS on WSL [maintainer=@nzbr]",
@@ -314,7 +218,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "10,435",
-      "forks": "2,487",
+      "forks": "2,486",
       "addStars": "107",
       "contributors": [
         {
@@ -341,6 +245,65 @@
           "avatar": "https://avatars.githubusercontent.com/u/20448408?s=40&v=4",
           "name": "berbiche",
           "url": "https://github.com/berbiche"
+        }
+      ]
+    },
+    {
+      "title": "NixOS/nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,333",
+      "forks": "985",
+      "addStars": "36",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
+          "name": "mexisme",
+          "url": "https://github.com/mexisme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
+          "name": "lukateras",
+          "url": "https://github.com/lukateras"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
+          "name": "Lyndeno",
+          "url": "https://github.com/Lyndeno"
+        }
+      ]
+    },
+    {
+      "title": "numtide/system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,771",
+      "forks": "68",
+      "addStars": "45",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/141248?s=40&v=4",
+          "name": "r-vdp",
+          "url": "https://github.com/r-vdp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/207369?s=40&v=4",
+          "name": "jfroche",
+          "url": "https://github.com/jfroche"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
+          "name": "zimbatm",
+          "url": "https://github.com/zimbatm"
         }
       ]
     }

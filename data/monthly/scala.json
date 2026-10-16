@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Monthly Trending",
   "description": "Monthly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 07:17:33 GMT",
+  "pubDate": "Fri, 16 Oct 2026 12:23:37 GMT",
   "items": [
     {
       "title": "apache/spark",
@@ -10,7 +10,7 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "44,216",
+      "stars": "44,217",
       "forks": "29,455",
       "addStars": "281",
       "contributors": [
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3182036?s=40&v=4",
           "name": "cloud-fan",
           "url": "https://github.com/cloud-fan"
+        }
+      ]
+    },
+    {
+      "title": "lichess-org/lila",
+      "url": "https://github.com/lichess-org/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "18,848",
+      "forks": "2,830",
+      "addStars": "147",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/140370?s=40&v=4",
+          "name": "ornicar",
+          "url": "https://github.com/ornicar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/402777?s=40&v=4",
+          "name": "niklasf",
+          "url": "https://github.com/niklasf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101470903?s=40&v=4",
+          "name": "jonbgamble",
+          "url": "https://github.com/jonbgamble"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/437967?s=40&v=4",
+          "name": "lenguyenthanh",
+          "url": "https://github.com/lenguyenthanh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19309705?s=40&v=4",
+          "name": "benediktwerner",
+          "url": "https://github.com/benediktwerner"
         }
       ]
     },
@@ -75,43 +112,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2551496?s=40&v=4",
           "name": "prakharjain09",
           "url": "https://github.com/prakharjain09"
-        }
-      ]
-    },
-    {
-      "title": "lichess-org/lila",
-      "url": "https://github.com/lichess-org/lila",
-      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "18,847",
-      "forks": "2,828",
-      "addStars": "147",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/140370?s=40&v=4",
-          "name": "ornicar",
-          "url": "https://github.com/ornicar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/402777?s=40&v=4",
-          "name": "niklasf",
-          "url": "https://github.com/niklasf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101470903?s=40&v=4",
-          "name": "jonbgamble",
-          "url": "https://github.com/jonbgamble"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/437967?s=40&v=4",
-          "name": "lenguyenthanh",
-          "url": "https://github.com/lenguyenthanh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19309705?s=40&v=4",
-          "name": "benediktwerner",
-          "url": "https://github.com/benediktwerner"
         }
       ]
     },
@@ -249,6 +249,43 @@
       ]
     },
     {
+      "title": "NVIDIA/cudf-spark",
+      "url": "https://github.com/NVIDIA/cudf-spark",
+      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "1,011",
+      "forks": "311",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70000568?s=40&v=4",
+          "name": "nvauto",
+          "url": "https://github.com/nvauto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1360766?s=40&v=4",
+          "name": "jlowe",
+          "url": "https://github.com/jlowe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3441321?s=40&v=4",
+          "name": "revans2",
+          "url": "https://github.com/revans2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/934084?s=40&v=4",
+          "name": "andygrove",
+          "url": "https://github.com/andygrove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4563792?s=40&v=4",
+          "name": "tgravescs",
+          "url": "https://github.com/tgravescs"
+        }
+      ]
+    },
+    {
       "title": "scalameta/metals",
       "url": "https://github.com/scalameta/metals",
       "description": "Scala language server with rich IDE features 🚀",
@@ -286,39 +323,34 @@
       ]
     },
     {
-      "title": "NVIDIA/cudf-spark",
-      "url": "https://github.com/NVIDIA/cudf-spark",
-      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
+      "title": "apache/datafusion-comet",
+      "url": "https://github.com/apache/datafusion-comet",
+      "description": "Apache DataFusion Comet Spark Accelerator",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "1,011",
-      "forks": "311",
-      "addStars": "11",
+      "stars": "1,290",
+      "forks": "391",
+      "addStars": "19",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70000568?s=40&v=4",
-          "name": "nvauto",
-          "url": "https://github.com/nvauto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1360766?s=40&v=4",
-          "name": "jlowe",
-          "url": "https://github.com/jlowe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3441321?s=40&v=4",
-          "name": "revans2",
-          "url": "https://github.com/revans2"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/934084?s=40&v=4",
           "name": "andygrove",
           "url": "https://github.com/andygrove"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4563792?s=40&v=4",
-          "name": "tgravescs",
-          "url": "https://github.com/tgravescs"
+          "avatar": "https://avatars.githubusercontent.com/u/68855?s=40&v=4",
+          "name": "viirya",
+          "url": "https://github.com/viirya"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6855576?s=40&v=4",
+          "name": "mbutrovich",
+          "url": "https://github.com/mbutrovich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10247224?s=40&v=4",
+          "name": "comphead",
+          "url": "https://github.com/comphead"
         }
       ]
     },
@@ -360,103 +392,39 @@
       ]
     },
     {
-      "title": "apache/datafusion-comet",
-      "url": "https://github.com/apache/datafusion-comet",
-      "description": "Apache DataFusion Comet Spark Accelerator",
+      "title": "apache/predictionio",
+      "url": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "1,290",
-      "forks": "391",
-      "addStars": "19",
+      "stars": "12,515",
+      "forks": "1,892",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/934084?s=40&v=4",
-          "name": "andygrove",
-          "url": "https://github.com/andygrove"
+          "avatar": "https://avatars.githubusercontent.com/u/1388362?s=40&v=4",
+          "name": "dszeto",
+          "url": "https://github.com/dszeto"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/68855?s=40&v=4",
-          "name": "viirya",
-          "url": "https://github.com/viirya"
+          "avatar": "https://avatars.githubusercontent.com/u/2480948?s=40&v=4",
+          "name": "k4hoo",
+          "url": "https://github.com/k4hoo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6855576?s=40&v=4",
-          "name": "mbutrovich",
-          "url": "https://github.com/mbutrovich"
+          "avatar": "https://avatars.githubusercontent.com/u/1454646?s=40&v=4",
+          "name": "hitgirl",
+          "url": "https://github.com/hitgirl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10247224?s=40&v=4",
-          "name": "comphead",
-          "url": "https://github.com/comphead"
-        }
-      ]
-    },
-    {
-      "title": "com-lihaoyi/mill",
-      "url": "https://github.com/com-lihaoyi/mill",
-      "description": "A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "2,798",
-      "forks": "448",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/934140?s=40&v=4",
-          "name": "lihaoyi",
-          "url": "https://github.com/lihaoyi"
+          "avatar": "https://avatars.githubusercontent.com/u/84117?s=40&v=4",
+          "name": "ramaboo",
+          "url": "https://github.com/ramaboo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1321393?s=40&v=4",
-          "name": "lefou",
-          "url": "https://github.com/lefou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43047562?s=40&v=4",
-          "name": "scala-steward",
-          "url": "https://github.com/scala-steward"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5793054?s=40&v=4",
-          "name": "lolgab",
-          "url": "https://github.com/lolgab"
-        }
-      ]
-    },
-    {
-      "title": "guardian/frontend",
-      "url": "https://github.com/guardian/frontend",
-      "description": "The Guardian DotCom.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "5,899",
-      "forks": "575",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/867233?s=40&v=4",
-          "name": "sndrs",
-          "url": "https://github.com/sndrs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4549425?s=40&v=4",
-          "name": "rich-nguyen",
-          "url": "https://github.com/rich-nguyen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/445472?s=40&v=4",
-          "name": "janua",
-          "url": "https://github.com/janua"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1722550?s=40&v=4",
-          "name": "kelvin-chappell",
-          "url": "https://github.com/kelvin-chappell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1147913?s=40&v=4",
-          "name": "stephanfowler",
-          "url": "https://github.com/stephanfowler"
+          "avatar": "https://avatars.githubusercontent.com/u/2481661?s=40&v=4",
+          "name": "simon-chan-zz",
+          "url": "https://github.com/simon-chan-zz"
         }
       ]
     },
@@ -489,6 +457,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/1737211?s=40&v=4",
           "name": "BenFradet",
           "url": "https://github.com/BenFradet"
+        }
+      ]
+    },
+    {
+      "title": "com-lihaoyi/mill",
+      "url": "https://github.com/com-lihaoyi/mill",
+      "description": "A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "2,798",
+      "forks": "448",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/934140?s=40&v=4",
+          "name": "lihaoyi",
+          "url": "https://github.com/lihaoyi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1321393?s=40&v=4",
+          "name": "lefou",
+          "url": "https://github.com/lefou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43047562?s=40&v=4",
+          "name": "scala-steward",
+          "url": "https://github.com/scala-steward"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5793054?s=40&v=4",
+          "name": "lolgab",
+          "url": "https://github.com/lolgab"
         }
       ]
     },
@@ -563,6 +563,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/666915?s=40&v=4",
           "name": "johanandren",
           "url": "https://github.com/johanandren"
+        }
+      ]
+    },
+    {
+      "title": "guardian/frontend",
+      "url": "https://github.com/guardian/frontend",
+      "description": "The Guardian DotCom.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": "5,899",
+      "forks": "575",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/867233?s=40&v=4",
+          "name": "sndrs",
+          "url": "https://github.com/sndrs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4549425?s=40&v=4",
+          "name": "rich-nguyen",
+          "url": "https://github.com/rich-nguyen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/445472?s=40&v=4",
+          "name": "janua",
+          "url": "https://github.com/janua"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1722550?s=40&v=4",
+          "name": "kelvin-chappell",
+          "url": "https://github.com/kelvin-chappell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1147913?s=40&v=4",
+          "name": "stephanfowler",
+          "url": "https://github.com/stephanfowler"
         }
       ]
     },
@@ -700,43 +737,6 @@
       ]
     },
     {
-      "title": "sbt/sbt",
-      "url": "https://github.com/sbt/sbt",
-      "description": "sbt, the interactive build tool",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": "4,954",
-      "forks": "1,052",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/184683?s=40&v=4",
-          "name": "eed3si9n",
-          "url": "https://github.com/eed3si9n"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72742?s=40&v=4",
-          "name": "harrah",
-          "url": "https://github.com/harrah"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7063723?s=40&v=4",
-          "name": "alexarchambault",
-          "url": "https://github.com/alexarchambault"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/344610?s=40&v=4",
-          "name": "dwijnand",
-          "url": "https://github.com/dwijnand"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2658825?s=40&v=4",
-          "name": "eatkins",
-          "url": "https://github.com/eatkins"
-        }
-      ]
-    },
-    {
       "title": "apache/kyuubi",
       "url": "https://github.com/apache/kyuubi",
       "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
@@ -779,7 +779,7 @@
       "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "2,630",
+      "stars": "2,631",
       "forks": "536",
       "addStars": "5",
       "contributors": [
@@ -811,39 +811,39 @@
       ]
     },
     {
-      "title": "ghostdogpr/caliban",
-      "url": "https://github.com/ghostdogpr/caliban",
-      "description": "Functional GraphQL library for Scala",
+      "title": "sbt/sbt",
+      "url": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "993",
-      "forks": "261",
-      "addStars": "1",
+      "stars": "4,954",
+      "forks": "1,052",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43047562?s=40&v=4",
-          "name": "scala-steward",
-          "url": "https://github.com/scala-steward"
+          "avatar": "https://avatars.githubusercontent.com/u/184683?s=40&v=4",
+          "name": "eed3si9n",
+          "url": "https://github.com/eed3si9n"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7413894?s=40&v=4",
-          "name": "ghostdogpr",
-          "url": "https://github.com/ghostdogpr"
+          "avatar": "https://avatars.githubusercontent.com/u/72742?s=40&v=4",
+          "name": "harrah",
+          "url": "https://github.com/harrah"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67301607?s=40&v=4",
-          "name": "kyri-petrou",
-          "url": "https://github.com/kyri-petrou"
+          "avatar": "https://avatars.githubusercontent.com/u/7063723?s=40&v=4",
+          "name": "alexarchambault",
+          "url": "https://github.com/alexarchambault"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2528918?s=40&v=4",
-          "name": "paulpdaniels",
-          "url": "https://github.com/paulpdaniels"
+          "avatar": "https://avatars.githubusercontent.com/u/344610?s=40&v=4",
+          "name": "dwijnand",
+          "url": "https://github.com/dwijnand"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43631?s=40&v=4",
-          "name": "frekw",
-          "url": "https://github.com/frekw"
+          "avatar": "https://avatars.githubusercontent.com/u/2658825?s=40&v=4",
+          "name": "eatkins",
+          "url": "https://github.com/eatkins"
         }
       ]
     }
