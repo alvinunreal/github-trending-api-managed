@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 17 Oct 2026 07:17:55 GMT",
+  "pubDate": "Sat, 17 Oct 2026 11:35:38 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-vpc",
@@ -79,13 +79,114 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "title": "cloudposse/terraform-aws-security-group",
+      "url": "https://github.com/cloudposse/terraform-aws-security-group",
+      "description": "Terraform module to provision an AWS Security Group",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "207",
-      "forks": "608",
+      "stars": "39",
+      "forks": "38",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
+          "name": "Nuru",
+          "url": "https://github.com/Nuru"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26582191?s=40&v=4",
+          "name": "SweetOps",
+          "url": "https://github.com/SweetOps"
+        }
+      ]
+    },
+    {
+      "title": "terraform-aws-modules/terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "29",
+      "forks": "72",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/901867?s=40&v=4",
+          "name": "FlorinAndrei",
+          "url": "https://github.com/FlorinAndrei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1378071?s=40&v=4",
+          "name": "mengesb",
+          "url": "https://github.com/mengesb"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "502",
+      "forks": "1,279",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "241",
+      "forks": "191",
       "addStars": "0",
       "contributors": [
         {
@@ -94,14 +195,19 @@
           "url": "https://github.com/cloud-foundation-bot"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/667688?s=40&v=4",
+          "name": "cray0000",
+          "url": "https://github.com/cray0000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
           "name": "morgante",
           "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
         }
       ]
     },
@@ -143,38 +249,6 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,282",
-      "forks": "1,294",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
-        }
-      ]
-    },
-    {
       "title": "terraform-google-modules/terraform-google-project-factory",
       "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
@@ -203,6 +277,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
           "name": "cloud-foundation-bot",
           "url": "https://github.com/cloud-foundation-bot"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "207",
+      "forks": "608",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
         }
       ]
     },
@@ -240,6 +341,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
           "name": "magreenbaum",
           "url": "https://github.com/magreenbaum"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "1,282",
+      "forks": "1,294",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
         }
       ]
     }

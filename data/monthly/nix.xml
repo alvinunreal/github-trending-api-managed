@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sat, 17 Oct 2026 07:17:55 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2026 11:35:38 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,142</stars>
-      <forks>296</forks>
+      <stars>2,146</stars>
+      <forks>298</forks>
       <addStars>194</addStars>
       <contributors>
         <contributor>
@@ -71,6 +71,44 @@
       </contributors>
     </item>
     <item>
+      <title>supabase/postgres</title>
+      <link>https://github.com/supabase/postgres</link>
+      <description>Unmodified Postgres with some useful extensions</description>
+      <guid>https://github.com/supabase/postgres</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>1,795</stars>
+      <forks>270</forks>
+      <addStars>11</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/115821?s=40&amp;v=4</avatar>
+          <name>samrose</name>
+          <url>https://github.com/samrose</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26374889?s=40&amp;v=4</avatar>
+          <name>dragarcia</name>
+          <url>https://github.com/dragarcia</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/397622?s=40&amp;v=4</avatar>
+          <name>darora</name>
+          <url>https://github.com/darora</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31685197?s=40&amp;v=4</avatar>
+          <name>soedirgo</name>
+          <url>https://github.com/soedirgo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1639722?s=40&amp;v=4</avatar>
+          <name>sweatybridge</name>
+          <url>https://github.com/sweatybridge</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>NixOS/nix.dev</title>
       <link>https://github.com/NixOS/nix.dev</link>
       <description>Official documentation for getting things done with Nix.</description>
@@ -78,7 +116,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>4,021</stars>
-      <forks>346</forks>
+      <forks>347</forks>
       <addStars>63</addStars>
       <contributors>
         <contributor>
@@ -185,20 +223,58 @@
       </contributors>
     </item>
     <item>
-      <title>nix-community/NixOS-WSL</title>
-      <link>https://github.com/nix-community/NixOS-WSL</link>
-      <description>NixOS on WSL [maintainer=@nzbr]</description>
-      <guid>https://github.com/nix-community/NixOS-WSL</guid>
+      <title>cloud-gouv/securix</title>
+      <link>https://github.com/cloud-gouv/securix</link>
+      <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
+      <guid>https://github.com/cloud-gouv/securix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,130</stars>
-      <forks>164</forks>
-      <addStars>45</addStars>
+      <stars>1,143</stars>
+      <forks>54</forks>
+      <addStars>103</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7851175?s=40&amp;v=4</avatar>
-          <name>nzbr</name>
-          <url>https://github.com/nzbr</url>
+          <avatar>https://avatars.githubusercontent.com/u/195482661?s=40&amp;v=4</avatar>
+          <name>rlahfa-dinum</name>
+          <url>https://github.com/rlahfa-dinum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/229733000?s=40&amp;v=4</avatar>
+          <name>plegrand-dinum</name>
+          <url>https://github.com/plegrand-dinum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/195457469?s=40&amp;v=4</avatar>
+          <name>jdauphant-dinum</name>
+          <url>https://github.com/jdauphant-dinum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3425311?s=40&amp;v=4</avatar>
+          <name>nlewo</name>
+          <url>https://github.com/nlewo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/326417883?s=40&amp;v=4</avatar>
+          <name>ldesgouilles-dinum</name>
+          <url>https://github.com/ldesgouilles-dinum</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>microvm-nix/microvm.nix</title>
+      <link>https://github.com/microvm-nix/microvm.nix</link>
+      <description>NixOS MicroVMs</description>
+      <guid>https://github.com/microvm-nix/microvm.nix</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>3,016</stars>
+      <forks>239</forks>
+      <addStars>84</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12923?s=40&amp;v=4</avatar>
+          <name>astro</name>
+          <url>https://github.com/astro</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
@@ -206,14 +282,47 @@
           <url>https://github.com/SuperSandro2000</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/386765?s=40&amp;v=4</avatar>
-          <name>K900</name>
-          <url>https://github.com/K900</url>
+          <avatar>https://avatars.githubusercontent.com/u/14830?s=40&amp;v=4</avatar>
+          <name>Ramblurr</name>
+          <url>https://github.com/Ramblurr</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/332418?s=40&amp;v=4</avatar>
-          <name>Trundle</name>
-          <url>https://github.com/Trundle</url>
+          <avatar>https://avatars.githubusercontent.com/u/50653293?s=40&amp;v=4</avatar>
+          <name>mksafavi</name>
+          <url>https://github.com/mksafavi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NixOS/nixos-hardware</title>
+      <link>https://github.com/NixOS/nixos-hardware</link>
+      <description>A collection of NixOS modules covering hardware quirks.</description>
+      <guid>https://github.com/NixOS/nixos-hardware</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>3,335</stars>
+      <forks>984</forks>
+      <addStars>35</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
+          <name>Mic92</name>
+          <url>https://github.com/Mic92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/329349?s=40&amp;v=4</avatar>
+          <name>mexisme</name>
+          <url>https://github.com/mexisme</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1643293?s=40&amp;v=4</avatar>
+          <name>lukateras</name>
+          <url>https://github.com/lukateras</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13490857?s=40&amp;v=4</avatar>
+          <name>Lyndeno</name>
+          <url>https://github.com/Lyndeno</url>
         </contributor>
       </contributors>
     </item>
@@ -256,35 +365,40 @@
       </contributors>
     </item>
     <item>
-      <title>NixOS/nixos-hardware</title>
-      <link>https://github.com/NixOS/nixos-hardware</link>
-      <description>A collection of NixOS modules covering hardware quirks.</description>
-      <guid>https://github.com/NixOS/nixos-hardware</guid>
+      <title>nix-community/stylix</title>
+      <link>https://github.com/nix-community/stylix</link>
+      <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
+      <guid>https://github.com/nix-community/stylix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,335</stars>
-      <forks>985</forks>
-      <addStars>35</addStars>
+      <stars>2,435</stars>
+      <forks>373</forks>
+      <addStars>32</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
+          <avatar>https://avatars.githubusercontent.com/u/90870942?s=40&amp;v=4</avatar>
+          <name>trueNAHO</name>
+          <url>https://github.com/trueNAHO</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/329349?s=40&amp;v=4</avatar>
-          <name>mexisme</name>
-          <url>https://github.com/mexisme</url>
+          <avatar>https://avatars.githubusercontent.com/u/28959268?s=40&amp;v=4</avatar>
+          <name>danth</name>
+          <url>https://github.com/danth</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1643293?s=40&amp;v=4</avatar>
-          <name>lukateras</name>
-          <url>https://github.com/lukateras</url>
+          <avatar>https://avatars.githubusercontent.com/u/153149335?s=40&amp;v=4</avatar>
+          <name>0xda157</name>
+          <url>https://github.com/0xda157</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13490857?s=40&amp;v=4</avatar>
-          <name>Lyndeno</name>
-          <url>https://github.com/Lyndeno</url>
+          <avatar>https://avatars.githubusercontent.com/u/5046562?s=40&amp;v=4</avatar>
+          <name>MattSturgeon</name>
+          <url>https://github.com/MattSturgeon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64027365?s=40&amp;v=4</avatar>
+          <name>urocylus</name>
+          <url>https://github.com/urocylus</url>
         </contributor>
       </contributors>
     </item>
@@ -295,7 +409,7 @@
       <guid>https://github.com/numtide/system-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,772</stars>
+      <stars>1,773</stars>
       <forks>68</forks>
       <addStars>44</addStars>
       <contributors>
