@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Oct 2026 07:18:18 GMT",
+  "pubDate": "Sun, 18 Oct 2026 12:02:51 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,8 +10,8 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,971",
-      "forks": "204",
+      "stars": "1,973",
+      "forks": "205",
       "addStars": "616",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,257",
+      "stars": "5,259",
       "forks": "461",
       "addStars": "135",
       "contributors": [
@@ -70,6 +70,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2286349?s=40&v=4",
           "name": "leecannon",
           "url": "https://github.com/leecannon"
+        }
+      ]
+    },
+    {
+      "title": "tonybanters/oxwm",
+      "url": "https://github.com/tonybanters/oxwm",
+      "description": "",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "1,008",
+      "forks": "78",
+      "addStars": "62",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27378358?s=40&v=4",
+          "name": "tonybanters",
+          "url": "https://github.com/tonybanters"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71552895?s=40&v=4",
+          "name": "emzywastaken",
+          "url": "https://github.com/emzywastaken"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/181005823?s=40&v=4",
+          "name": "Mr-Emacs",
+          "url": "https://github.com/Mr-Emacs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38508855?s=40&v=4",
+          "name": "ScottADeJong",
+          "url": "https://github.com/ScottADeJong"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49349614?s=40&v=4",
+          "name": "Iziram",
+          "url": "https://github.com/Iziram"
         }
       ]
     },
@@ -111,70 +148,6 @@
       ]
     },
     {
-      "title": "tigerbeetle/tigerbeetle",
-      "url": "https://github.com/tigerbeetle/tigerbeetle",
-      "description": "The financial transactions database designed for mission critical safety and performance.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "17,209",
-      "forks": "923",
-      "addStars": "191",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
-          "name": "sentientwaffle",
-          "url": "https://github.com/sentientwaffle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4",
-          "name": "matklad",
-          "url": "https://github.com/matklad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5728002?s=40&v=4",
-          "name": "batiati",
-          "url": "https://github.com/batiati"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/413206?s=40&v=4",
-          "name": "jorangreef",
-          "url": "https://github.com/jorangreef"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/703017?s=40&v=4",
-          "name": "cb22",
-          "url": "https://github.com/cb22"
-        }
-      ]
-    },
-    {
-      "title": "ghostty-org/ghostty",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "62,337",
-      "forks": "3,662",
-      "addStars": "1,252",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
-          "name": "mitchellh",
-          "url": "https://github.com/mitchellh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/740022?s=40&v=4",
-          "name": "jcollie",
-          "url": "https://github.com/jcollie"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7241851?s=40&v=4",
-          "name": "qwerasd205",
-          "url": "https://github.com/qwerasd205"
-        }
-      ]
-    },
-    {
       "title": "zml/zml",
       "url": "https://github.com/zml/zml",
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
@@ -212,39 +185,66 @@
       ]
     },
     {
-      "title": "ziglang/zig",
-      "url": "https://github.com/ziglang/zig",
-      "description": "Moved to Codeberg",
+      "title": "tigerbeetle/tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,286",
-      "forks": "3,183",
-      "addStars": "87",
+      "stars": "17,210",
+      "forks": "923",
+      "addStars": "191",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
-          "name": "andrewrk",
-          "url": "https://github.com/andrewrk"
+          "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
+          "name": "sentientwaffle",
+          "url": "https://github.com/sentientwaffle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1519747?s=40&v=4",
-          "name": "kubkon",
-          "url": "https://github.com/kubkon"
+          "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4",
+          "name": "matklad",
+          "url": "https://github.com/matklad"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44076?s=40&v=4",
-          "name": "alexrp",
-          "url": "https://github.com/alexrp"
+          "avatar": "https://avatars.githubusercontent.com/u/5728002?s=40&v=4",
+          "name": "batiati",
+          "url": "https://github.com/batiati"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15308111?s=40&v=4",
-          "name": "Vexu",
-          "url": "https://github.com/Vexu"
+          "avatar": "https://avatars.githubusercontent.com/u/413206?s=40&v=4",
+          "name": "jorangreef",
+          "url": "https://github.com/jorangreef"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15544577?s=40&v=4",
-          "name": "jacobly0",
-          "url": "https://github.com/jacobly0"
+          "avatar": "https://avatars.githubusercontent.com/u/703017?s=40&v=4",
+          "name": "cb22",
+          "url": "https://github.com/cb22"
+        }
+      ]
+    },
+    {
+      "title": "ghostty-org/ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "62,340",
+      "forks": "3,665",
+      "addStars": "1,252",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
+          "name": "mitchellh",
+          "url": "https://github.com/mitchellh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/740022?s=40&v=4",
+          "name": "jcollie",
+          "url": "https://github.com/jcollie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7241851?s=40&v=4",
+          "name": "qwerasd205",
+          "url": "https://github.com/qwerasd205"
         }
       ]
     },
@@ -286,12 +286,49 @@
       ]
     },
     {
+      "title": "ziglang/zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "43,286",
+      "forks": "3,183",
+      "addStars": "87",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
+          "name": "andrewrk",
+          "url": "https://github.com/andrewrk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1519747?s=40&v=4",
+          "name": "kubkon",
+          "url": "https://github.com/kubkon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44076?s=40&v=4",
+          "name": "alexrp",
+          "url": "https://github.com/alexrp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15308111?s=40&v=4",
+          "name": "Vexu",
+          "url": "https://github.com/Vexu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15544577?s=40&v=4",
+          "name": "jacobly0",
+          "url": "https://github.com/jacobly0"
+        }
+      ]
+    },
+    {
       "title": "PixelGuys/Cubyz",
       "url": "https://github.com/PixelGuys/Cubyz",
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,726",
+      "stars": "3,727",
       "forks": "247",
       "addStars": "74",
       "contributors": [
@@ -328,8 +365,8 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "7,782",
-      "forks": "326",
+      "stars": "7,781",
+      "forks": "327",
       "addStars": "124",
       "contributors": [
         {
@@ -360,49 +397,12 @@
       ]
     },
     {
-      "title": "tonybanters/oxwm",
-      "url": "https://github.com/tonybanters/oxwm",
-      "description": "",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "1,007",
-      "forks": "78",
-      "addStars": "62",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27378358?s=40&v=4",
-          "name": "tonybanters",
-          "url": "https://github.com/tonybanters"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71552895?s=40&v=4",
-          "name": "emzywastaken",
-          "url": "https://github.com/emzywastaken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/181005823?s=40&v=4",
-          "name": "Mr-Emacs",
-          "url": "https://github.com/Mr-Emacs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38508855?s=40&v=4",
-          "name": "ScottADeJong",
-          "url": "https://github.com/ScottADeJong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49349614?s=40&v=4",
-          "name": "Iziram",
-          "url": "https://github.com/Iziram"
-        }
-      ]
-    },
-    {
       "title": "if-not-nil/revo",
       "url": "https://github.com/if-not-nil/revo",
       "description": "a dynamic language for the joy of programming",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "555",
+      "stars": "556",
       "forks": "22",
       "addStars": "126",
       "contributors": [
@@ -477,7 +477,7 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "2,214",
-      "forks": "169",
+      "forks": "170",
       "addStars": "65",
       "contributors": [
         {

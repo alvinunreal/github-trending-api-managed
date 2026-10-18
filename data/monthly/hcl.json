@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Oct 2026 07:18:18 GMT",
+  "pubDate": "Sun, 18 Oct 2026 12:02:51 GMT",
   "items": [
     {
       "title": "terraform-google-modules/terraform-google-kubernetes-engine",
@@ -212,6 +212,38 @@
       ]
     },
     {
+      "title": "terraform-google-modules/terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "242",
+      "forks": "191",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/667688?s=40&v=4",
+          "name": "cray0000",
+          "url": "https://github.com/cray0000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        }
+      ]
+    },
+    {
       "title": "terraform-aws-modules/terraform-aws-elasticache",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
       "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
@@ -249,38 +281,6 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "242",
-      "forks": "191",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/667688?s=40&v=4",
-          "name": "cray0000",
-          "url": "https://github.com/cray0000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        }
-      ]
-    },
-    {
       "title": "terraform-google-modules/terraform-google-project-factory",
       "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
@@ -313,39 +313,29 @@
       ]
     },
     {
-      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "title": "terraform-google-modules/terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "2,117",
-      "forks": "1,271",
-      "addStars": "21",
+      "stars": "153",
+      "forks": "119",
+      "addStars": "1",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
           "name": "ludoo",
           "url": "https://github.com/ludoo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
-          "name": "juliocc",
-          "url": "https://github.com/juliocc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
-          "name": "lcaggio",
-          "url": "https://github.com/lcaggio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
-          "name": "wiktorn",
-          "url": "https://github.com/wiktorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2360747?s=40&v=4",
-          "name": "sruffilli",
-          "url": "https://github.com/sruffilli"
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
         }
       ]
     }
