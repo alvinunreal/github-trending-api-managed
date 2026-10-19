@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 07:18:16 GMT",
+  "pubDate": "Mon, 19 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "akitaonrails/ai-memory",
@@ -10,9 +10,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,735",
-      "forks": "759",
-      "addStars": "512",
+      "stars": "10,926",
+      "forks": "777",
+      "addStars": "666",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,674",
-      "forks": "465",
-      "addStars": "835",
+      "stars": "8,833",
+      "forks": "474",
+      "addStars": "675",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/297525353?s=40&v=4",
@@ -79,56 +79,83 @@
       ]
     },
     {
-      "title": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "title": "smg-project/smg",
+      "url": "https://github.com/smg-project/smg",
+      "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "83,909",
-      "forks": "5,334",
-      "addStars": "155",
+      "stars": "629",
+      "forks": "195",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43991222?s=40&v=4",
-          "name": "aeppling",
-          "url": "https://github.com/aeppling"
+          "avatar": "https://avatars.githubusercontent.com/u/25425177?s=40&v=4",
+          "name": "slin1237",
+          "url": "https://github.com/slin1237"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/319643551?s=40&v=4",
+          "name": "hello-alexmcc",
+          "url": "https://github.com/hello-alexmcc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/60970?s=40&v=4",
-          "name": "KuSh",
-          "url": "https://github.com/KuSh"
+          "avatar": "https://avatars.githubusercontent.com/u/8605658?s=40&v=4",
+          "name": "CatherineSue",
+          "url": "https://github.com/CatherineSue"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52030887?s=40&v=4",
-          "name": "pszymkowiak",
-          "url": "https://github.com/pszymkowiak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3902606?s=40&v=4",
-          "name": "FlorianBruniaux",
-          "url": "https://github.com/FlorianBruniaux"
+          "avatar": "https://avatars.githubusercontent.com/u/16893865?s=40&v=4",
+          "name": "key4ng",
+          "url": "https://github.com/key4ng"
         }
       ]
     },
     {
-      "title": "mixelpixx/Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
+      "title": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,289",
-      "forks": "146",
+      "stars": "96,302",
+      "forks": "5,144",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&v=4",
+          "name": "Jarred-Sumner",
+          "url": "https://github.com/Jarred-Sumner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/117481402?s=40&v=4",
+          "name": "robobun",
+          "url": "https://github.com/robobun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&v=4",
+          "name": "dylan-conway",
+          "url": "https://github.com/dylan-conway"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&v=4",
+          "name": "nektro",
+          "url": "https://github.com/nektro"
+        }
+      ]
+    },
+    {
+      "title": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "589",
+      "forks": "80",
       "addStars": "49",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11727006?s=40&v=4",
-          "name": "mixelpixx",
-          "url": "https://github.com/mixelpixx"
+          "avatar": "https://avatars.githubusercontent.com/u/109857817?s=40&v=4",
+          "name": "leepokai",
+          "url": "https://github.com/leepokai"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -136,88 +163,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6461221?s=40&v=4",
-          "name": "neusse",
-          "url": "https://github.com/neusse"
+          "avatar": "https://avatars.githubusercontent.com/u/1029297?s=40&v=4",
+          "name": "fergusean",
+          "url": "https://github.com/fergusean"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1389436?s=40&v=4",
-          "name": "pauliuszaleckas",
-          "url": "https://github.com/pauliuszaleckas"
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3920717?s=40&v=4",
-          "name": "triglav-modular",
-          "url": "https://github.com/triglav-modular"
-        }
-      ]
-    },
-    {
-      "title": "googleworkspace/cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "31,663",
-      "forks": "2,015",
-      "addStars": "47",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109114539?s=40&v=4",
-          "name": "googleworkspace-bot",
-          "url": "https://github.com/googleworkspace-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62852785?s=40&v=4",
-          "name": "jpoehnelt-bot",
-          "url": "https://github.com/jpoehnelt-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3392975?s=40&v=4",
-          "name": "jpoehnelt",
-          "url": "https://github.com/jpoehnelt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2914269?s=40&v=4",
-          "name": "malob",
-          "url": "https://github.com/malob"
-        }
-      ]
-    },
-    {
-      "title": "rubys/roundhouse",
-      "url": "https://github.com/rubys/roundhouse",
-      "description": "Rails as a specification; the deployment target is a build flag",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "485",
-      "forks": "43",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4815?s=40&v=4",
-          "name": "rubys",
-          "url": "https://github.com/rubys"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1100176?s=40&v=4",
-          "name": "thomasklemm",
-          "url": "https://github.com/thomasklemm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1844754?s=40&v=4",
-          "name": "dai199",
-          "url": "https://github.com/dai199"
+          "avatar": "https://avatars.githubusercontent.com/u/1180838?s=40&v=4",
+          "name": "icework",
+          "url": "https://github.com/icework"
         }
       ]
     },
@@ -227,8 +185,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,727",
-      "forks": "837",
+      "stars": "16,740",
+      "forks": "839",
       "addStars": "78",
       "contributors": [
         {
@@ -254,24 +212,19 @@
       ]
     },
     {
-      "title": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
+      "title": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,590",
-      "forks": "1,245",
-      "addStars": "29",
+      "stars": "4,466",
+      "forks": "787",
+      "addStars": "139",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4290742?s=40&v=4",
-          "name": "pierre-rouanet",
-          "url": "https://github.com/pierre-rouanet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
-          "name": "apirrone",
-          "url": "https://github.com/apirrone"
+          "avatar": "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
+          "name": "martin-olivier",
+          "url": "https://github.com/martin-olivier"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -279,110 +232,100 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&v=4",
-          "name": "Drenayaz",
-          "url": "https://github.com/Drenayaz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/185968020?s=40&v=4",
-          "name": "Nixxx19",
-          "url": "https://github.com/Nixxx19"
+          "avatar": "https://avatars.githubusercontent.com/u/55240433?s=40&v=4",
+          "name": "m-bdf",
+          "url": "https://github.com/m-bdf"
         }
       ]
     },
     {
-      "title": "GCWing/OpenBitFun",
-      "url": "https://github.com/GCWing/OpenBitFun",
-      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,856",
-      "forks": "273",
-      "addStars": "18",
+      "stars": "82,979",
+      "forks": "5,018",
+      "addStars": "415",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24753352?s=40&v=4",
-          "name": "bobleer",
-          "url": "https://github.com/bobleer"
+          "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+          "name": "pbakaus",
+          "url": "https://github.com/pbakaus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46290072?s=40&v=4",
-          "name": "wsp1911",
-          "url": "https://github.com/wsp1911"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51046187?s=40&v=4",
-          "name": "wgqqqqq",
-          "url": "https://github.com/wgqqqqq"
+          "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
+          "name": "abdulwahabone",
+          "url": "https://github.com/abdulwahabone"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84692569?s=40&v=4",
-          "name": "limityan",
-          "url": "https://github.com/limityan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59403997?s=40&v=4",
-          "name": "kev1n77",
-          "url": "https://github.com/kev1n77"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         }
       ]
     },
     {
-      "title": "claration/impactor",
-      "url": "https://github.com/claration/impactor",
-      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "title": "confeden/Antigravity",
+      "url": "https://github.com/confeden/Antigravity",
+      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,525",
-      "forks": "240",
+      "stars": "919",
+      "forks": "54",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7432044?s=40&v=4",
+          "name": "confeden",
+          "url": "https://github.com/confeden"
+        }
+      ]
+    },
+    {
+      "title": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "34,323",
+      "forks": "2,393",
       "addStars": "16",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/97859147?s=40&v=4",
-          "name": "claration",
-          "url": "https://github.com/claration"
+          "avatar": "https://avatars.githubusercontent.com/u/920838?s=40&v=4",
+          "name": "ridiculousfish",
+          "url": "https://github.com/ridiculousfish"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/151872490?s=40&v=4",
-          "name": "se2crid",
-          "url": "https://github.com/se2crid"
+          "avatar": "https://avatars.githubusercontent.com/u/5185367?s=40&v=4",
+          "name": "faho",
+          "url": "https://github.com/faho"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/235818692?s=40&v=4",
-          "name": "ssalggnikool",
-          "url": "https://github.com/ssalggnikool"
+          "avatar": "https://avatars.githubusercontent.com/u/6853872?s=40&v=4",
+          "name": "krobelus",
+          "url": "https://github.com/krobelus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/195622710?s=40&v=4",
-          "name": "Perry-322",
-          "url": "https://github.com/Perry-322"
+          "avatar": "https://avatars.githubusercontent.com/u/212675?s=40&v=4",
+          "name": "liljencrantz",
+          "url": "https://github.com/liljencrantz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29694921?s=40&v=4",
-          "name": "mq1",
-          "url": "https://github.com/mq1"
-        }
-      ]
-    },
-    {
-      "title": "starship/starship",
-      "url": "https://github.com/starship/starship",
-      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "60,336",
-      "forks": "2,713",
-      "addStars": "27",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4658208?s=40&v=4",
-          "name": "matchai",
-          "url": "https://github.com/matchai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/835177?s=40&v=4",
-          "name": "davidkna",
-          "url": "https://github.com/davidkna"
+          "avatar": "https://avatars.githubusercontent.com/u/606923?s=40&v=4",
+          "name": "mqudsi",
+          "url": "https://github.com/mqudsi"
         }
       ]
     }

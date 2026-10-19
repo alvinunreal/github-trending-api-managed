@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Mon, 19 Oct 2026 07:18:16 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 13:18:20 GMT</pubDate>
     <item>
       <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
       <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
@@ -114,41 +114,13 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-google-modules/terraform-google-network</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-network</link>
-      <description>Sets up a new VPC network on Google Cloud</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-network</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>501</stars>
-      <forks>1,279</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
-          <name>cloud-foundation-bot</name>
-          <url>https://github.com/cloud-foundation-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>semgrep/semgrep-rules</title>
       <link>https://github.com/semgrep/semgrep-rules</link>
       <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
       <guid>https://github.com/semgrep/semgrep-rules</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>1,276</stars>
+      <stars>1,277</stars>
       <forks>601</forks>
       <addStars>25</addStars>
       <contributors>
@@ -176,6 +148,34 @@
           <avatar>https://avatars.githubusercontent.com/u/3809983?s=40&amp;v=4</avatar>
           <name>0xDC0DE</name>
           <url>https://github.com/0xDC0DE</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-google-modules/terraform-google-network</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+      <description>Sets up a new VPC network on Google Cloud</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-network</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>501</stars>
+      <forks>1,279</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
         </contributor>
       </contributors>
     </item>
@@ -251,6 +251,39 @@
       </contributors>
     </item>
     <item>
+      <title>terraform-google-modules/terraform-google-project-factory</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+      <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-project-factory</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>965</stars>
+      <forks>591</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/172194?s=40&amp;v=4</avatar>
+          <name>adrienthebo</name>
+          <url>https://github.com/adrienthebo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>terraform-aws-modules/terraform-aws-elasticache</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
       <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
@@ -285,39 +318,6 @@
           <avatar>https://avatars.githubusercontent.com/u/1378071?s=40&amp;v=4</avatar>
           <name>mengesb</name>
           <url>https://github.com/mengesb</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>terraform-google-modules/terraform-google-project-factory</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-      <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-project-factory</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>965</stars>
-      <forks>591</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/172194?s=40&amp;v=4</avatar>
-          <name>adrienthebo</name>
-          <url>https://github.com/adrienthebo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
-          <name>cloud-foundation-bot</name>
-          <url>https://github.com/cloud-foundation-bot</url>
         </contributor>
       </contributors>
     </item>

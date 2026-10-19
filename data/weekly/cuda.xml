@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Mon, 19 Oct 2026 07:18:16 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 13:18:20 GMT</pubDate>
     <item>
       <title>flashinfer-ai/flashinfer</title>
       <link>https://github.com/flashinfer-ai/flashinfer</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/flashinfer-ai/flashinfer</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>6,697</stars>
-      <forks>1,610</forks>
+      <stars>6,702</stars>
+      <forks>1,614</forks>
       <addStars>101</addStars>
       <contributors>
         <contributor>
@@ -43,6 +43,44 @@
       </contributors>
     </item>
     <item>
+      <title>karpathy/llm.c</title>
+      <link>https://github.com/karpathy/llm.c</link>
+      <description>LLM training in simple, raw C/CUDA</description>
+      <guid>https://github.com/karpathy/llm.c</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>31,177</stars>
+      <forks>3,773</forks>
+      <addStars>50</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
+          <name>karpathy</name>
+          <url>https://github.com/karpathy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
+          <name>ngc92</name>
+          <url>https://github.com/ngc92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
+          <name>gordicaleksa</name>
+          <url>https://github.com/gordicaleksa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
+          <name>ademeure</name>
+          <url>https://github.com/ademeure</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
+          <name>rosslwheeler</name>
+          <url>https://github.com/rosslwheeler</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>NVIDIA/cuvs</title>
       <link>https://github.com/NVIDIA/cuvs</link>
       <description>cuVS - a library for vector search and clustering on the GPU</description>
@@ -50,7 +88,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>870</stars>
-      <forks>246</forks>
+      <forks>247</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -77,44 +115,6 @@
           <avatar>https://avatars.githubusercontent.com/u/1242464?s=40&amp;v=4</avatar>
           <name>cjnolet</name>
           <url>https://github.com/cjnolet</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>NVIDIA/nccl-tests</title>
-      <link>https://github.com/NVIDIA/nccl-tests</link>
-      <description>NCCL Tests</description>
-      <guid>https://github.com/NVIDIA/nccl-tests</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>1,675</stars>
-      <forks>412</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2538330?s=40&amp;v=4</avatar>
-          <name>AddyLaddy</name>
-          <url>https://github.com/AddyLaddy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24571836?s=40&amp;v=4</avatar>
-          <name>shanedsnyder</name>
-          <url>https://github.com/shanedsnyder</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12857445?s=40&amp;v=4</avatar>
-          <name>sjeaugey</name>
-          <url>https://github.com/sjeaugey</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29100714?s=40&amp;v=4</avatar>
-          <name>kgioioso</name>
-          <url>https://github.com/kgioioso</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24669680?s=40&amp;v=4</avatar>
-          <name>Bonjourz</name>
-          <url>https://github.com/Bonjourz</url>
         </contributor>
       </contributors>
     </item>
@@ -153,6 +153,44 @@
           <avatar>https://avatars.githubusercontent.com/u/160623740?s=40&amp;v=4</avatar>
           <name>aliceb-nv</name>
           <url>https://github.com/aliceb-nv</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NVIDIA/nccl-tests</title>
+      <link>https://github.com/NVIDIA/nccl-tests</link>
+      <description>NCCL Tests</description>
+      <guid>https://github.com/NVIDIA/nccl-tests</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>1,675</stars>
+      <forks>413</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2538330?s=40&amp;v=4</avatar>
+          <name>AddyLaddy</name>
+          <url>https://github.com/AddyLaddy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24571836?s=40&amp;v=4</avatar>
+          <name>shanedsnyder</name>
+          <url>https://github.com/shanedsnyder</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12857445?s=40&amp;v=4</avatar>
+          <name>sjeaugey</name>
+          <url>https://github.com/sjeaugey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29100714?s=40&amp;v=4</avatar>
+          <name>kgioioso</name>
+          <url>https://github.com/kgioioso</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24669680?s=40&amp;v=4</avatar>
+          <name>Bonjourz</name>
+          <url>https://github.com/Bonjourz</url>
         </contributor>
       </contributors>
     </item>

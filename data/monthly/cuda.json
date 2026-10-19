@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 07:18:16 GMT",
+  "pubDate": "Mon, 19 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,8 +10,8 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,983",
-      "forks": "1,424",
+      "stars": "8,986",
+      "forks": "1,425",
       "addStars": "1,164",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,697",
-      "forks": "1,610",
+      "stars": "6,702",
+      "forks": "1,614",
       "addStars": "254",
       "contributors": [
         {
@@ -153,43 +153,6 @@
       ]
     },
     {
-      "title": "NVIDIA/cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "870",
-      "forks": "246",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
-          "name": "GPUtester",
-          "url": "https://github.com/GPUtester"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
-          "name": "bdice",
-          "url": "https://github.com/bdice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
-          "name": "benfred",
-          "url": "https://github.com/benfred"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7608904?s=40&v=4",
-          "name": "jameslamb",
-          "url": "https://github.com/jameslamb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
-          "name": "cjnolet",
-          "url": "https://github.com/cjnolet"
-        }
-      ]
-    },
-    {
       "title": "mirage-project/mirage",
       "url": "https://github.com/mirage-project/mirage",
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
@@ -227,6 +190,80 @@
       ]
     },
     {
+      "title": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "10,292",
+      "forks": "1,479",
+      "addStars": "144",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
+          "name": "LyricZhao",
+          "url": "https://github.com/LyricZhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
+          "name": "sphish",
+          "url": "https://github.com/sphish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
+          "name": "fzyzcjy",
+          "url": "https://github.com/fzyzcjy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
+          "name": "seth-howell",
+          "url": "https://github.com/seth-howell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
+          "name": "wangfakang",
+          "url": "https://github.com/wangfakang"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "870",
+      "forks": "247",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
+          "name": "GPUtester",
+          "url": "https://github.com/GPUtester"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
+          "name": "bdice",
+          "url": "https://github.com/bdice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
+          "name": "benfred",
+          "url": "https://github.com/benfred"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7608904?s=40&v=4",
+          "name": "jameslamb",
+          "url": "https://github.com/jameslamb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
+          "name": "cjnolet",
+          "url": "https://github.com/cjnolet"
+        }
+      ]
+    },
+    {
       "title": "NVIDIA/cuopt",
       "url": "https://github.com/NVIDIA/cuopt",
       "description": "GPU accelerated decision optimization",
@@ -260,43 +297,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/160623740?s=40&v=4",
           "name": "aliceb-nv",
           "url": "https://github.com/aliceb-nv"
-        }
-      ]
-    },
-    {
-      "title": "thu-ml/SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "3,972",
-      "forks": "531",
-      "addStars": "174",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
-          "name": "jt-zhang",
-          "url": "https://github.com/jt-zhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110245937?s=40&v=4",
-          "name": "jason-huang03",
-          "url": "https://github.com/jason-huang03"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38180676?s=40&v=4",
-          "name": "whx1003",
-          "url": "https://github.com/whx1003"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37583905?s=40&v=4",
-          "name": "XiaomingXu1995",
-          "url": "https://github.com/XiaomingXu1995"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
-          "name": "guilhermeleobas",
-          "url": "https://github.com/guilhermeleobas"
         }
       ]
     }

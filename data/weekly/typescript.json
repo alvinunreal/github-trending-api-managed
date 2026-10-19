@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 07:18:16 GMT",
+  "pubDate": "Mon, 19 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "327,370",
-      "forks": "82,877",
+      "stars": "331,566",
+      "forks": "83,865",
       "addStars": "229,268",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,862",
-      "forks": "2,297",
+      "stars": "30,952",
+      "forks": "2,305",
       "addStars": "4,138",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "67,031",
-      "forks": "6,074",
+      "stars": "67,289",
+      "forks": "6,089",
       "addStars": "5,883",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,881",
-      "forks": "1,266",
+      "stars": "12,949",
+      "forks": "1,272",
       "addStars": "1,717",
       "contributors": [
         {
@@ -148,77 +148,13 @@
       ]
     },
     {
-      "title": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "1,927",
-      "forks": "164",
-      "addStars": "1,001",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
-          "name": "ranxianglei",
-          "url": "https://github.com/ranxianglei"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/154221037?s=40&v=4",
-          "name": "YunzhouLi-hub",
-          "url": "https://github.com/YunzhouLi-hub"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/187964595?s=40&v=4",
-          "name": "yingzhongshuoqi",
-          "url": "https://github.com/yingzhongshuoqi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38494?s=40&v=4",
-          "name": "aolshevskiy",
-          "url": "https://github.com/aolshevskiy"
-        }
-      ]
-    },
-    {
-      "title": "vercel-labs/skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "35,545",
-      "forks": "3,033",
-      "addStars": "1,734",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&v=4",
-          "name": "quuu",
-          "url": "https://github.com/quuu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&v=4",
-          "name": "huozhi",
-          "url": "https://github.com/huozhi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/771968?s=40&v=4",
-          "name": "jonathanhefner",
-          "url": "https://github.com/jonathanhefner"
-        }
-      ]
-    },
-    {
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,736",
-      "forks": "9,067",
+      "stars": "76,893",
+      "forks": "9,079",
       "addStars": "2,117",
       "contributors": [
         {
@@ -244,19 +180,24 @@
       ]
     },
     {
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "title": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "101,678",
-      "forks": "8,935",
-      "addStars": "2,131",
+      "stars": "35,600",
+      "forks": "3,038",
+      "addStars": "1,734",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
-          "name": "thedotmack",
-          "url": "https://github.com/thedotmack"
+          "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&v=4",
+          "name": "quuu",
+          "url": "https://github.com/quuu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&v=4",
+          "name": "huozhi",
+          "url": "https://github.com/huozhi"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -264,19 +205,41 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-          "name": "rudycelekli",
-          "url": "https://github.com/rudycelekli"
+          "avatar": "https://avatars.githubusercontent.com/u/771968?s=40&v=4",
+          "name": "jonathanhefner",
+          "url": "https://github.com/jonathanhefner"
+        }
+      ]
+    },
+    {
+      "title": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "1,977",
+      "forks": "168",
+      "addStars": "1,001",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/154221037?s=40&v=4",
+          "name": "YunzhouLi-hub",
+          "url": "https://github.com/YunzhouLi-hub"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4",
-          "name": "rodboev",
-          "url": "https://github.com/rodboev"
+          "avatar": "https://avatars.githubusercontent.com/u/187964595?s=40&v=4",
+          "name": "yingzhongshuoqi",
+          "url": "https://github.com/yingzhongshuoqi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38494?s=40&v=4",
+          "name": "aolshevskiy",
+          "url": "https://github.com/aolshevskiy"
         }
       ]
     },
@@ -286,8 +249,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,233",
-      "forks": "5,030",
+      "stars": "37,384",
+      "forks": "5,049",
       "addStars": "3,815",
       "contributors": [
         {
@@ -323,8 +286,8 @@
       "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,073",
-      "forks": "835",
+      "stars": "8,166",
+      "forks": "842",
       "addStars": "3,083",
       "contributors": [
         {
@@ -355,8 +318,8 @@
       "description": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,375",
-      "forks": "128",
+      "stars": "1,406",
+      "forks": "129",
       "addStars": "904",
       "contributors": [
         {
@@ -387,12 +350,49 @@
       ]
     },
     {
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "29,624",
+      "forks": "2,972",
+      "addStars": "1,673",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
+          "name": "Yuntong8888",
+          "url": "https://github.com/Yuntong8888"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52184295?s=40&v=4",
+          "name": "aleronwang",
+          "url": "https://github.com/aleronwang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
+          "name": "Maxwell-Code07",
+          "url": "https://github.com/Maxwell-Code07"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/120694702?s=40&v=4",
+          "name": "hot777zzz",
+          "url": "https://github.com/hot777zzz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        }
+      ]
+    },
+    {
       "title": "SegFault42/HeliosGen",
       "url": "https://github.com/SegFault42/HeliosGen",
       "description": "🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,168",
+      "stars": "3,171",
       "forks": "355",
       "addStars": "628",
       "contributors": [
@@ -424,87 +424,13 @@
       ]
     },
     {
-      "title": "CopilotKit/OpenIntelligentUI",
-      "url": "https://github.com/CopilotKit/OpenIntelligentUI",
-      "description": "Open-Source Generative UI Framework",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "3,452",
-      "forks": "385",
-      "addStars": "857",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85066839?s=40&v=4",
-          "name": "jerelvelarde",
-          "url": "https://github.com/jerelvelarde"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85142601?s=40&v=4",
-          "name": "breadoncee",
-          "url": "https://github.com/breadoncee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66887028?s=40&v=4",
-          "name": "NathanTarbert",
-          "url": "https://github.com/NathanTarbert"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86957?s=40&v=4",
-          "name": "jpr5",
-          "url": "https://github.com/jpr5"
-        }
-      ]
-    },
-    {
-      "title": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "29,602",
-      "forks": "2,969",
-      "addStars": "1,673",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
-          "name": "Yuntong8888",
-          "url": "https://github.com/Yuntong8888"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52184295?s=40&v=4",
-          "name": "aleronwang",
-          "url": "https://github.com/aleronwang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
-          "name": "Maxwell-Code07",
-          "url": "https://github.com/Maxwell-Code07"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/120694702?s=40&v=4",
-          "name": "hot777zzz",
-          "url": "https://github.com/hot777zzz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        }
-      ]
-    },
-    {
       "title": "krillinai/OpenCreator",
       "url": "https://github.com/krillinai/OpenCreator",
       "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,701",
-      "forks": "1,502",
+      "stars": "13,713",
+      "forks": "1,505",
       "addStars": "994",
       "contributors": [
         {
@@ -535,34 +461,145 @@
       ]
     },
     {
-      "title": "remotion-dev/remotion",
-      "url": "https://github.com/remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
+      "title": "CopilotKit/OpenIntelligentUI",
+      "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+      "description": "Open-Source Generative UI Framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "65,127",
-      "forks": "5,175",
-      "addStars": "1,785",
+      "stars": "3,480",
+      "forks": "388",
+      "addStars": "857",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&v=4",
-          "name": "JonnyBurger",
-          "url": "https://github.com/JonnyBurger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&v=4",
-          "name": "samohovets",
-          "url": "https://github.com/samohovets"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&v=4",
-          "name": "patsalv",
-          "url": "https://github.com/patsalv"
+          "avatar": "https://avatars.githubusercontent.com/u/85066839?s=40&v=4",
+          "name": "jerelvelarde",
+          "url": "https://github.com/jerelvelarde"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85142601?s=40&v=4",
+          "name": "breadoncee",
+          "url": "https://github.com/breadoncee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66887028?s=40&v=4",
+          "name": "NathanTarbert",
+          "url": "https://github.com/NathanTarbert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86957?s=40&v=4",
+          "name": "jpr5",
+          "url": "https://github.com/jpr5"
+        }
+      ]
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "217,280",
+      "forks": "29,059",
+      "addStars": "4,593",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
+          "name": "thdxr",
+          "url": "https://github.com/thdxr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
+          "name": "rekram1-node",
+          "url": "https://github.com/rekram1-node"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
+          "name": "adamdotdevin",
+          "url": "https://github.com/adamdotdevin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4",
+          "name": "kitlangton",
+          "url": "https://github.com/kitlangton"
+        }
+      ]
+    },
+    {
+      "title": "thesysdev/openui",
+      "url": "https://github.com/thesysdev/openui",
+      "description": "The Open Standard for Generative UI",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "12,072",
+      "forks": "820",
+      "addStars": "1,288",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173032156?s=40&v=4",
+          "name": "i-subham23",
+          "url": "https://github.com/i-subham23"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55152006?s=40&v=4",
+          "name": "AbhinRustagi",
+          "url": "https://github.com/AbhinRustagi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173031316?s=40&v=4",
+          "name": "ankit-thesys",
+          "url": "https://github.com/ankit-thesys"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/157345590?s=40&v=4",
+          "name": "abhithesys",
+          "url": "https://github.com/abhithesys"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27266434?s=40&v=4",
+          "name": "zahlekhan",
+          "url": "https://github.com/zahlekhan"
+        }
+      ]
+    },
+    {
+      "title": "ErTasselli/OpenTerminal",
+      "url": "https://github.com/ErTasselli/OpenTerminal",
+      "description": "A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "1,862",
+      "forks": "324",
+      "addStars": "419",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/231684775?s=40&v=4",
+          "name": "ErTasselli",
+          "url": "https://github.com/ErTasselli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62562712?s=40&v=4",
+          "name": "pranavmishra90",
+          "url": "https://github.com/pranavmishra90"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5397535?s=40&v=4",
+          "name": "philipsorensen",
+          "url": "https://github.com/philipsorensen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9637807?s=40&v=4",
+          "name": "ameyxd",
+          "url": "https://github.com/ameyxd"
         }
       ]
     },
@@ -572,8 +609,8 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,638",
-      "forks": "845",
+      "stars": "4,694",
+      "forks": "848",
       "addStars": "850",
       "contributors": [
         {
