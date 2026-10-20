@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 01:18:15 GMT",
+  "pubDate": "Tue, 20 Oct 2026 05:59:36 GMT",
   "items": [
     {
       "title": "NVIDIA/OpenShell",
@@ -10,7 +10,7 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,720",
+      "stars": "16,745",
       "forks": "1,819",
       "addStars": "8,061",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "83,245",
-      "forks": "5,034",
+      "stars": "83,356",
+      "forks": "5,043",
       "addStars": "14,255",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,340",
+      "stars": "18,370",
       "forks": "1,112",
       "addStars": "3,797",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,230",
-      "forks": "2,179",
+      "stars": "30,272",
+      "forks": "2,183",
       "addStars": "6,340",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "27,253",
-      "forks": "2,476",
+      "stars": "27,300",
+      "forks": "2,479",
       "addStars": "7,290",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,140",
+      "stars": "49,144",
       "forks": "4,948",
       "addStars": "977",
       "contributors": [
@@ -249,8 +249,8 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "152,533",
-      "forks": "10,949",
+      "stars": "152,583",
+      "forks": "10,953",
       "addStars": "7,808",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "19,680",
-      "forks": "722",
+      "stars": "19,732",
+      "forks": "745",
       "addStars": "17,899",
       "contributors": [
         {
@@ -319,7 +319,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "13,067",
-      "forks": "5,425",
+      "forks": "5,424",
       "addStars": "9,989",
       "contributors": [
         {
@@ -355,7 +355,7 @@
       "description": "Policy-driven, layered isolation and containment",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,925",
+      "stars": "2,930",
       "forks": "160",
       "addStars": "1,591",
       "contributors": [
@@ -387,8 +387,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,378",
-      "forks": "810",
+      "stars": "11,543",
+      "forks": "819",
       "addStars": "3,957",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "126,361",
-      "forks": "19,845",
+      "stars": "126,375",
+      "forks": "19,847",
       "addStars": "2,889",
       "contributors": [
         {
@@ -461,7 +461,7 @@
       "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,206",
+      "stars": "1,207",
       "forks": "70",
       "addStars": "479",
       "contributors": [
@@ -495,11 +495,11 @@
     {
       "title": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,544",
-      "forks": "577",
+      "stars": "10,700",
+      "forks": "646",
       "addStars": "7,469",
       "contributors": [
         {
@@ -535,7 +535,7 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,327",
+      "stars": "3,334",
       "forks": "388",
       "addStars": "1,247",
       "contributors": [
@@ -572,8 +572,8 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,536",
-      "forks": "939",
+      "stars": "12,541",
+      "forks": "940",
       "addStars": "1,302",
       "contributors": [
         {
@@ -609,7 +609,7 @@
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,545",
+      "stars": "6,561",
       "forks": "527",
       "addStars": "1,739",
       "contributors": [
@@ -646,7 +646,7 @@
       "description": "A secure Python sandbox, written in Rust, for code written by AI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,730",
+      "stars": "8,732",
       "forks": "465",
       "addStars": "515",
       "contributors": [
@@ -683,8 +683,8 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "120,625",
-      "forks": "19,112",
+      "stars": "120,627",
+      "forks": "19,118",
       "addStars": "2,666",
       "contributors": [
         {
@@ -720,8 +720,8 @@
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "45,375",
-      "forks": "6,450",
+      "stars": "45,376",
+      "forks": "6,451",
       "addStars": "1,947",
       "contributors": [
         {
