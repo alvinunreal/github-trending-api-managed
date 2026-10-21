@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Monthly Trending",
   "description": "Monthly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 07:18:26 GMT",
+  "pubDate": "Wed, 21 Oct 2026 12:55:27 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,8 +10,8 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,662",
-      "forks": "6,529",
+      "stars": "46,664",
+      "forks": "6,510",
       "addStars": "512",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,206",
+      "stars": "40,208",
       "forks": "1,961",
       "addStars": "180",
       "contributors": [
@@ -148,6 +148,43 @@
       ]
     },
     {
+      "title": "commercialhaskell/stack",
+      "url": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "4,080",
+      "forks": "854",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14206448?s=40&v=4",
+          "name": "mpilgrem",
+          "url": "https://github.com/mpilgrem"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49415?s=40&v=4",
+          "name": "snoyberg",
+          "url": "https://github.com/snoyberg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2164261?s=40&v=4",
+          "name": "borsboom",
+          "url": "https://github.com/borsboom"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22570?s=40&v=4",
+          "name": "mgsloan",
+          "url": "https://github.com/mgsloan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11019?s=40&v=4",
+          "name": "chrisdone",
+          "url": "https://github.com/chrisdone"
+        }
+      ]
+    },
+    {
       "title": "elm/compiler",
       "url": "https://github.com/elm/compiler",
       "description": "Compiler for Elm, a functional language for reliable webapps.",
@@ -185,39 +222,34 @@
       ]
     },
     {
-      "title": "commercialhaskell/stack",
-      "url": "https://github.com/commercialhaskell/stack",
-      "description": "The Haskell Tool Stack",
+      "title": "haskell/haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "4,080",
-      "forks": "855",
-      "addStars": "3",
+      "stars": "2,965",
+      "forks": "468",
+      "addStars": "11",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14206448?s=40&v=4",
-          "name": "mpilgrem",
-          "url": "https://github.com/mpilgrem"
+          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
+          "name": "pepeiborra",
+          "url": "https://github.com/pepeiborra"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/49415?s=40&v=4",
-          "name": "snoyberg",
-          "url": "https://github.com/snoyberg"
+          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
+          "name": "jneira",
+          "url": "https://github.com/jneira"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2164261?s=40&v=4",
-          "name": "borsboom",
-          "url": "https://github.com/borsboom"
+          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
+          "name": "fendor",
+          "url": "https://github.com/fendor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22570?s=40&v=4",
-          "name": "mgsloan",
-          "url": "https://github.com/mgsloan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11019?s=40&v=4",
-          "name": "chrisdone",
-          "url": "https://github.com/chrisdone"
+          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
+          "name": "wz1000",
+          "url": "https://github.com/wz1000"
         }
       ]
     },
@@ -260,7 +292,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "27,726",
-      "forks": "1,234",
+      "forks": "1,235",
       "addStars": "76",
       "contributors": [
         {
@@ -287,75 +319,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
           "name": "laurenceisla",
           "url": "https://github.com/laurenceisla"
-        }
-      ]
-    },
-    {
-      "title": "haskell/haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,965",
-      "forks": "468",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
-          "name": "pepeiborra",
-          "url": "https://github.com/pepeiborra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
-          "name": "jneira",
-          "url": "https://github.com/jneira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
-          "name": "fendor",
-          "url": "https://github.com/fendor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
-          "name": "wz1000",
-          "url": "https://github.com/wz1000"
-        }
-      ]
-    },
-    {
-      "title": "hledgerorg/hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,779",
-      "forks": "418",
-      "addStars": "72",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
-          "name": "simonmichael",
-          "url": "https://github.com/simonmichael"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
-          "name": "Xitian9",
-          "url": "https://github.com/Xitian9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
-          "name": "adept",
-          "url": "https://github.com/adept"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
-          "name": "thielema",
-          "url": "https://github.com/thielema"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700572?s=40&v=4",
-          "name": "acinader",
-          "url": "https://github.com/acinader"
         }
       ]
     },

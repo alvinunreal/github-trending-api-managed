@@ -2,8 +2,45 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 07:18:26 GMT",
+  "pubDate": "Wed, 21 Oct 2026 12:55:27 GMT",
   "items": [
+    {
+      "title": "semgrep/semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "1,279",
+      "forks": "606",
+      "addStars": "28",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2419690?s=40&v=4",
+          "name": "LewisArdern",
+          "url": "https://github.com/LewisArdern"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2299241?s=40&v=4",
+          "name": "inkz",
+          "url": "https://github.com/inkz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23181670?s=40&v=4",
+          "name": "colleend",
+          "url": "https://github.com/colleend"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98792107?s=40&v=4",
+          "name": "kurt-r2c",
+          "url": "https://github.com/kurt-r2c"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3809983?s=40&v=4",
+          "name": "0xDC0DE",
+          "url": "https://github.com/0xDC0DE"
+        }
+      ]
+    },
     {
       "title": "terraform-aws-modules/terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
@@ -75,43 +112,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
           "name": "pdecat",
           "url": "https://github.com/pdecat"
-        }
-      ]
-    },
-    {
-      "title": "semgrep/semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,279",
-      "forks": "606",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2419690?s=40&v=4",
-          "name": "LewisArdern",
-          "url": "https://github.com/LewisArdern"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2299241?s=40&v=4",
-          "name": "inkz",
-          "url": "https://github.com/inkz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23181670?s=40&v=4",
-          "name": "colleend",
-          "url": "https://github.com/colleend"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98792107?s=40&v=4",
-          "name": "kurt-r2c",
-          "url": "https://github.com/kurt-r2c"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3809983?s=40&v=4",
-          "name": "0xDC0DE",
-          "url": "https://github.com/0xDC0DE"
         }
       ]
     },
@@ -212,43 +212,6 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "29",
-      "forks": "72",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/901867?s=40&v=4",
-          "name": "FlorinAndrei",
-          "url": "https://github.com/FlorinAndrei"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1378071?s=40&v=4",
-          "name": "mengesb",
-          "url": "https://github.com/mengesb"
-        }
-      ]
-    },
-    {
       "title": "terraform-google-modules/terraform-google-project-factory",
       "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
@@ -277,6 +240,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
           "name": "cloud-foundation-bot",
           "url": "https://github.com/cloud-foundation-bot"
+        }
+      ]
+    },
+    {
+      "title": "terraform-aws-modules/terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "29",
+      "forks": "73",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/901867?s=40&v=4",
+          "name": "FlorinAndrei",
+          "url": "https://github.com/FlorinAndrei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1378071?s=40&v=4",
+          "name": "mengesb",
+          "url": "https://github.com/mengesb"
         }
       ]
     },

@@ -2,42 +2,79 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 07:18:26 GMT",
+  "pubDate": "Wed, 21 Oct 2026 12:55:27 GMT",
   "items": [
     {
-      "title": "koalaman/shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "jgm/pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,206",
-      "forks": "1,961",
-      "addStars": "6",
+      "stars": "46,664",
+      "forks": "6,510",
+      "addStars": "21",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
-          "name": "koalaman",
-          "url": "https://github.com/koalaman"
+          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
+          "name": "jgm",
+          "url": "https://github.com/jgm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
-          "name": "josephcsible",
-          "url": "https://github.com/josephcsible"
+          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
+          "name": "tarleb",
+          "url": "https://github.com/tarleb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
-          "name": "e-kwsm",
-          "url": "https://github.com/e-kwsm"
+          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
+          "name": "jkr",
+          "url": "https://github.com/jkr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
-          "name": "ngzhian",
-          "url": "https://github.com/ngzhian"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
-          "name": "contivero",
-          "url": "https://github.com/contivero"
+          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
+          "name": "mpickering",
+          "url": "https://github.com/mpickering"
+        }
+      ]
+    },
+    {
+      "title": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "19,576",
+      "forks": "1,310",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
+          "name": "epoberezkin",
+          "url": "https://github.com/epoberezkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
+          "name": "spaced4ndy",
+          "url": "https://github.com/spaced4ndy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
+          "name": "avently",
+          "url": "https://github.com/avently"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
+          "name": "shumvgolove",
+          "url": "https://github.com/shumvgolove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&v=4",
+          "name": "mlanp",
+          "url": "https://github.com/mlanp"
         }
       ]
     },
@@ -47,8 +84,8 @@
       "description": "A prompt engineering functional programming language",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "622",
-      "forks": "50",
+      "stars": "623",
+      "forks": "48",
       "addStars": "0",
       "contributors": [
         {
@@ -111,150 +148,39 @@
       ]
     },
     {
-      "title": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "title": "PostgREST/postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "19,579",
-      "forks": "1,324",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
-          "name": "epoberezkin",
-          "url": "https://github.com/epoberezkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
-          "name": "spaced4ndy",
-          "url": "https://github.com/spaced4ndy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
-          "name": "avently",
-          "url": "https://github.com/avently"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
-          "name": "shumvgolove",
-          "url": "https://github.com/shumvgolove"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&v=4",
-          "name": "mlanp",
-          "url": "https://github.com/mlanp"
-        }
-      ]
-    },
-    {
-      "title": "commercialhaskell/stack",
-      "url": "https://github.com/commercialhaskell/stack",
-      "description": "The Haskell Tool Stack",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,080",
-      "forks": "855",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14206448?s=40&v=4",
-          "name": "mpilgrem",
-          "url": "https://github.com/mpilgrem"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49415?s=40&v=4",
-          "name": "snoyberg",
-          "url": "https://github.com/snoyberg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2164261?s=40&v=4",
-          "name": "borsboom",
-          "url": "https://github.com/borsboom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22570?s=40&v=4",
-          "name": "mgsloan",
-          "url": "https://github.com/mgsloan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11019?s=40&v=4",
-          "name": "chrisdone",
-          "url": "https://github.com/chrisdone"
-        }
-      ]
-    },
-    {
-      "title": "hledgerorg/hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,779",
-      "forks": "418",
+      "stars": "27,726",
+      "forks": "1,235",
       "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
-          "name": "simonmichael",
-          "url": "https://github.com/simonmichael"
+          "avatar": "https://avatars.githubusercontent.com/u/1829294?s=40&v=4",
+          "name": "steve-chavez",
+          "url": "https://github.com/steve-chavez"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
-          "name": "Xitian9",
-          "url": "https://github.com/Xitian9"
+          "avatar": "https://avatars.githubusercontent.com/u/911911?s=40&v=4",
+          "name": "begriffs",
+          "url": "https://github.com/begriffs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
-          "name": "adept",
-          "url": "https://github.com/adept"
+          "avatar": "https://avatars.githubusercontent.com/u/9132420?s=40&v=4",
+          "name": "wolfgangwalther",
+          "url": "https://github.com/wolfgangwalther"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
-          "name": "thielema",
-          "url": "https://github.com/thielema"
+          "avatar": "https://avatars.githubusercontent.com/u/1560937?s=40&v=4",
+          "name": "nikita-volkov",
+          "url": "https://github.com/nikita-volkov"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/700572?s=40&v=4",
-          "name": "acinader",
-          "url": "https://github.com/acinader"
-        }
-      ]
-    },
-    {
-      "title": "jgm/pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "46,662",
-      "forks": "6,529",
-      "addStars": "21",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
-          "name": "jgm",
-          "url": "https://github.com/jgm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
-          "name": "tarleb",
-          "url": "https://github.com/tarleb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
-          "name": "jkr",
-          "url": "https://github.com/jkr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
-          "name": "mpickering",
-          "url": "https://github.com/mpickering"
+          "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
+          "name": "laurenceisla",
+          "url": "https://github.com/laurenceisla"
         }
       ]
     }
