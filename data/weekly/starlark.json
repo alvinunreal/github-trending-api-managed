@@ -2,8 +2,40 @@
   "title": "GitHub Starlark Languages Weekly Trending",
   "description": "Weekly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Oct 2026 07:18:20 GMT",
+  "pubDate": "Thu, 22 Oct 2026 12:57:37 GMT",
   "items": [
+    {
+      "title": "googleapis/googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "8,794",
+      "forks": "2,635",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
+          "name": "googleapis-publisher",
+          "url": "https://github.com/googleapis-publisher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1617025?s=40&v=4",
+          "name": "pongad",
+          "url": "https://github.com/pongad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25352356?s=40&v=4",
+          "name": "neozwu",
+          "url": "https://github.com/neozwu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
+          "name": "yoshi-code-bot",
+          "url": "https://github.com/yoshi-code-bot"
+        }
+      ]
+    },
     {
       "title": "uber/hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
@@ -38,38 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
           "name": "jonathanbaker7",
           "url": "https://github.com/jonathanbaker7"
-        }
-      ]
-    },
-    {
-      "title": "googleapis/googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "8,793",
-      "forks": "2,634",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
-          "name": "googleapis-publisher",
-          "url": "https://github.com/googleapis-publisher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1617025?s=40&v=4",
-          "name": "pongad",
-          "url": "https://github.com/pongad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25352356?s=40&v=4",
-          "name": "neozwu",
-          "url": "https://github.com/neozwu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
-          "name": "yoshi-code-bot",
-          "url": "https://github.com/yoshi-code-bot"
         }
       ]
     },
@@ -207,6 +207,43 @@
       ]
     },
     {
+      "title": "cel-expr/cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "4,025",
+      "forks": "308",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/483300?s=40&v=4",
+          "name": "TristonianJones",
+          "url": "https://github.com/TristonianJones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32469398?s=40&v=4",
+          "name": "JimLarson",
+          "url": "https://github.com/JimLarson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/997958?s=40&v=4",
+          "name": "jcking",
+          "url": "https://github.com/jcking"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2355949?s=40&v=4",
+          "name": "l46kok",
+          "url": "https://github.com/l46kok"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
+          "name": "eobrain",
+          "url": "https://github.com/eobrain"
+        }
+      ]
+    },
+    {
       "title": "bazelbuild/rules_apple",
       "url": "https://github.com/bazelbuild/rules_apple",
       "description": "Bazel rules to build apps for Apple platforms.",
@@ -244,49 +281,12 @@
       ]
     },
     {
-      "title": "cel-expr/cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "4,024",
-      "forks": "308",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/483300?s=40&v=4",
-          "name": "TristonianJones",
-          "url": "https://github.com/TristonianJones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32469398?s=40&v=4",
-          "name": "JimLarson",
-          "url": "https://github.com/JimLarson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/997958?s=40&v=4",
-          "name": "jcking",
-          "url": "https://github.com/jcking"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2355949?s=40&v=4",
-          "name": "l46kok",
-          "url": "https://github.com/l46kok"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
-          "name": "eobrain",
-          "url": "https://github.com/eobrain"
-        }
-      ]
-    },
-    {
       "title": "GoogleContainerTools/distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "23,164",
+      "stars": "23,167",
       "forks": "1,439",
       "addStars": "30",
       "contributors": [

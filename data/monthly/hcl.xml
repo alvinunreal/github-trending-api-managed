@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Thu, 22 Oct 2026 07:18:20 GMT</pubDate>
+    <pubDate>Thu, 22 Oct 2026 12:57:37 GMT</pubDate>
     <item>
       <title>semgrep/semgrep-rules</title>
       <link>https://github.com/semgrep/semgrep-rules</link>
@@ -119,39 +119,6 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
-      <description>Configures opinionated GKE clusters</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>1,283</stars>
-      <forks>1,292</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14035345?s=40&amp;v=4</avatar>
-          <name>apeabody</name>
-          <url>https://github.com/apeabody</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10992720?s=40&amp;v=4</avatar>
-          <name>bharathkkb</name>
-          <url>https://github.com/bharathkkb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>hashicorp/agent-skills</title>
       <link>https://github.com/hashicorp/agent-skills</link>
       <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
@@ -190,6 +157,39 @@
       </contributors>
     </item>
     <item>
+      <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+      <description>Configures opinionated GKE clusters</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>1,283</stars>
+      <forks>1,292</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14035345?s=40&amp;v=4</avatar>
+          <name>apeabody</name>
+          <url>https://github.com/apeabody</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10992720?s=40&amp;v=4</avatar>
+          <name>bharathkkb</name>
+          <url>https://github.com/bharathkkb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>terraform-google-modules/terraform-google-network</title>
       <link>https://github.com/terraform-google-modules/terraform-google-network</link>
       <description>Sets up a new VPC network on Google Cloud</description>
@@ -214,39 +214,6 @@
           <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
           <name>aaron-lane</name>
           <url>https://github.com/aaron-lane</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>terraform-google-modules/terraform-google-project-factory</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-      <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-project-factory</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>965</stars>
-      <forks>591</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/172194?s=40&amp;v=4</avatar>
-          <name>adrienthebo</name>
-          <url>https://github.com/adrienthebo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
-          <name>cloud-foundation-bot</name>
-          <url>https://github.com/cloud-foundation-bot</url>
         </contributor>
       </contributors>
     </item>
@@ -289,30 +256,35 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-google-modules/terraform-google-service-accounts</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
-      <description>Creates one or more service accounts and grants them basic roles</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-service-accounts</guid>
+      <title>terraform-google-modules/terraform-google-project-factory</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+      <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-project-factory</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>154</stars>
-      <forks>119</forks>
-      <addStars>1</addStars>
+      <stars>965</stars>
+      <forks>591</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
-          <name>cloud-foundation-bot</name>
-          <url>https://github.com/cloud-foundation-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66007?s=40&amp;v=4</avatar>
-          <name>ludoo</name>
-          <url>https://github.com/ludoo</url>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
           <name>morgante</name>
           <url>https://github.com/morgante</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/172194?s=40&amp;v=4</avatar>
+          <name>adrienthebo</name>
+          <url>https://github.com/adrienthebo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
         </contributor>
       </contributors>
     </item>

@@ -2,15 +2,52 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Oct 2026 07:18:20 GMT",
+  "pubDate": "Thu, 22 Oct 2026 12:57:37 GMT",
   "items": [
+    {
+      "title": "docker-library/php",
+      "url": "https://github.com/docker-library/php",
+      "description": "Docker Official Image packaging for PHP",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "4,109",
+      "forks": "2,028",
+      "addStars": "60",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
+          "name": "docker-library-bot",
+          "url": "https://github.com/docker-library-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161631?s=40&v=4",
+          "name": "tianon",
+          "url": "https://github.com/tianon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/896423?s=40&v=4",
+          "name": "yosifkit",
+          "url": "https://github.com/yosifkit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45041769?s=40&v=4",
+          "name": "jnoordsij",
+          "url": "https://github.com/jnoordsij"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/209270?s=40&v=4",
+          "name": "TimWolla",
+          "url": "https://github.com/TimWolla"
+        }
+      ]
+    },
     {
       "title": "vulhub/vulhub",
       "url": "https://github.com/vulhub/vulhub",
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "21,388",
+      "stars": "21,389",
       "forks": "4,818",
       "addStars": "162",
       "contributors": [
@@ -42,6 +79,43 @@
       ]
     },
     {
+      "title": "mikeroyal/Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "23,257",
+      "forks": "1,169",
+      "addStars": "453",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45159366?s=40&v=4",
+          "name": "mikeroyal",
+          "url": "https://github.com/mikeroyal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/134135415?s=40&v=4",
+          "name": "ElianaBrininger",
+          "url": "https://github.com/ElianaBrininger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/914224?s=40&v=4",
+          "name": "fiftin",
+          "url": "https://github.com/fiftin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1090838?s=40&v=4",
+          "name": "bsamadi",
+          "url": "https://github.com/bsamadi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2357342?s=40&v=4",
+          "name": "dmayboroda",
+          "url": "https://github.com/dmayboroda"
+        }
+      ]
+    },
+    {
       "title": "render-examples/mysql",
       "url": "https://github.com/render-examples/mysql",
       "description": "MySQL 8.0 and 5.7 on Render",
@@ -65,6 +139,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/66637250?s=40&v=4",
           "name": "davidmauskop",
           "url": "https://github.com/davidmauskop"
+        }
+      ]
+    },
+    {
+      "title": "linuxserver/docker-swag",
+      "url": "https://github.com/linuxserver/docker-swag",
+      "description": "Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "3,745",
+      "forks": "272",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20182680?s=40&v=4",
+          "name": "LinuxServer-CI",
+          "url": "https://github.com/LinuxServer-CI"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/725456?s=40&v=4",
+          "name": "nemchik",
+          "url": "https://github.com/nemchik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/541623?s=40&v=4",
+          "name": "aptalca",
+          "url": "https://github.com/aptalca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8425502?s=40&v=4",
+          "name": "thespad",
+          "url": "https://github.com/thespad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40674481?s=40&v=4",
+          "name": "drizuid",
+          "url": "https://github.com/drizuid"
         }
       ]
     },
@@ -111,8 +222,8 @@
       "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "15,245",
-      "forks": "2,222",
+      "stars": "15,244",
+      "forks": "2,221",
       "addStars": "32",
       "contributors": [
         {
@@ -133,81 +244,12 @@
       ]
     },
     {
-      "title": "kubernetes-sigs/contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "291",
-      "forks": "2,146",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
-          "name": "k8s-ci-robot",
-          "url": "https://github.com/k8s-ci-robot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/748740?s=40&v=4",
-          "name": "atoato88",
-          "url": "https://github.com/atoato88"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12838129?s=40&v=4",
-          "name": "shu-mutou",
-          "url": "https://github.com/shu-mutou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86868255?s=40&v=4",
-          "name": "Okabe-Junya",
-          "url": "https://github.com/Okabe-Junya"
-        }
-      ]
-    },
-    {
-      "title": "redhat-openshift-ecosystem/certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "87",
-      "forks": "678",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88447997?s=40&v=4",
-          "name": "rh-operator-bundle-bot",
-          "url": "https://github.com/rh-operator-bundle-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109753337?s=40&v=4",
-          "name": "turbodeploy",
-          "url": "https://github.com/turbodeploy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84674?s=40&v=4",
-          "name": "razvan",
-          "url": "https://github.com/razvan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/186472763?s=40&v=4",
-          "name": "scaleops-bot",
-          "url": "https://github.com/scaleops-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17576476?s=40&v=4",
-          "name": "jfrancin",
-          "url": "https://github.com/jfrancin"
-        }
-      ]
-    },
-    {
       "title": "laradock/laradock",
       "url": "https://github.com/laradock/laradock",
       "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,679",
+      "stars": "12,681",
       "forks": "4,329",
       "addStars": "18",
       "contributors": [
@@ -271,43 +313,6 @@
       ]
     },
     {
-      "title": "mikeroyal/Self-Hosting-Guide",
-      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "23,246",
-      "forks": "1,169",
-      "addStars": "453",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45159366?s=40&v=4",
-          "name": "mikeroyal",
-          "url": "https://github.com/mikeroyal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/134135415?s=40&v=4",
-          "name": "ElianaBrininger",
-          "url": "https://github.com/ElianaBrininger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/914224?s=40&v=4",
-          "name": "fiftin",
-          "url": "https://github.com/fiftin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1090838?s=40&v=4",
-          "name": "bsamadi",
-          "url": "https://github.com/bsamadi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2357342?s=40&v=4",
-          "name": "dmayboroda",
-          "url": "https://github.com/dmayboroda"
-        }
-      ]
-    },
-    {
       "title": "MicrosoftDocs/windows-powershell-docs",
       "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
       "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
@@ -341,6 +346,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/19415881?s=40&v=4",
           "name": "sdwheeler",
           "url": "https://github.com/sdwheeler"
+        }
+      ]
+    },
+    {
+      "title": "redhat-openshift-ecosystem/certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "87",
+      "forks": "678",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88447997?s=40&v=4",
+          "name": "rh-operator-bundle-bot",
+          "url": "https://github.com/rh-operator-bundle-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109753337?s=40&v=4",
+          "name": "turbodeploy",
+          "url": "https://github.com/turbodeploy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84674?s=40&v=4",
+          "name": "razvan",
+          "url": "https://github.com/razvan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/186472763?s=40&v=4",
+          "name": "scaleops-bot",
+          "url": "https://github.com/scaleops-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17576476?s=40&v=4",
+          "name": "jfrancin",
+          "url": "https://github.com/jfrancin"
         }
       ]
     },
@@ -382,12 +424,44 @@
       ]
     },
     {
+      "title": "goldbergyoni/nodebestpractices",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "description": "✅ The Node.js best practices list (July 2026)",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "105,668",
+      "forks": "10,717",
+      "addStars": "177",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8571500?s=40&v=4",
+          "name": "goldbergyoni",
+          "url": "https://github.com/goldbergyoni"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17216937?s=40&v=4",
+          "name": "anediaz",
+          "url": "https://github.com/anediaz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9084421?s=40&v=4",
+          "name": "idori",
+          "url": "https://github.com/idori"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16746759?s=40&v=4",
+          "name": "rluvaton",
+          "url": "https://github.com/rluvaton"
+        }
+      ]
+    },
+    {
       "title": "autowarefoundation/autoware",
       "url": "https://github.com/autowarefoundation/autoware",
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,170",
+      "stars": "12,171",
       "forks": "3,738",
       "addStars": "109",
       "contributors": [
@@ -405,43 +479,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/31987104?s=40&v=4",
           "name": "kenji-miyake",
           "url": "https://github.com/kenji-miyake"
-        }
-      ]
-    },
-    {
-      "title": "docker-library/php",
-      "url": "https://github.com/docker-library/php",
-      "description": "Docker Official Image packaging for PHP",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "4,104",
-      "forks": "2,028",
-      "addStars": "60",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
-          "name": "docker-library-bot",
-          "url": "https://github.com/docker-library-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161631?s=40&v=4",
-          "name": "tianon",
-          "url": "https://github.com/tianon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/896423?s=40&v=4",
-          "name": "yosifkit",
-          "url": "https://github.com/yosifkit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45041769?s=40&v=4",
-          "name": "jnoordsij",
-          "url": "https://github.com/jnoordsij"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/209270?s=40&v=4",
-          "name": "TimWolla",
-          "url": "https://github.com/TimWolla"
         }
       ]
     },

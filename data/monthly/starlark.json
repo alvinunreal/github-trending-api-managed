@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Oct 2026 07:18:20 GMT",
+  "pubDate": "Thu, 22 Oct 2026 12:57:37 GMT",
   "items": [
     {
       "title": "bazelbuild/rules_cc",
@@ -106,43 +106,6 @@
       ]
     },
     {
-      "title": "bazelbuild/bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "394",
-      "forks": "944",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
-          "name": "Vertexwahn",
-          "url": "https://github.com/Vertexwahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
-          "name": "aspect-marvin",
-          "url": "https://github.com/aspect-marvin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
-          "name": "fmeum",
-          "url": "https://github.com/fmeum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
-          "name": "meteorcloudy",
-          "url": "https://github.com/meteorcloudy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
-          "name": "jbedard",
-          "url": "https://github.com/jbedard"
-        }
-      ]
-    },
-    {
       "title": "uber/hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
@@ -185,8 +148,8 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,793",
-      "forks": "2,634",
+      "stars": "8,794",
+      "forks": "2,635",
       "addStars": "37",
       "contributors": [
         {
@@ -240,6 +203,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
           "name": "UebelAndre",
           "url": "https://github.com/UebelAndre"
+        }
+      ]
+    },
+    {
+      "title": "bazelbuild/bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "394",
+      "forks": "945",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
+          "name": "Vertexwahn",
+          "url": "https://github.com/Vertexwahn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
+          "name": "aspect-marvin",
+          "url": "https://github.com/aspect-marvin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
+          "name": "meteorcloudy",
+          "url": "https://github.com/meteorcloudy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
+          "name": "jbedard",
+          "url": "https://github.com/jbedard"
         }
       ]
     },
