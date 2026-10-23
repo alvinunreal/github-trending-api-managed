@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 07:18:16 GMT",
+  "pubDate": "Fri, 23 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform/cloud-foundation-fabric",
@@ -75,38 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
           "name": "brandonjbjelland",
           "url": "https://github.com/brandonjbjelland"
-        }
-      ]
-    },
-    {
-      "title": "hashicorp/terraform-provider-awscc",
-      "url": "https://github.com/hashicorp/terraform-provider-awscc",
-      "description": "Terraform AWS Cloud Control provider",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "315",
-      "forks": "154",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2404182?s=40&v=4",
-          "name": "ewbankkit",
-          "url": "https://github.com/ewbankkit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15265722?s=40&v=4",
-          "name": "johnsonaj",
-          "url": "https://github.com/johnsonaj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31492422?s=40&v=4",
-          "name": "YakDriver",
-          "url": "https://github.com/YakDriver"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14969179?s=40&v=4",
-          "name": "jar-b",
-          "url": "https://github.com/jar-b"
         }
       ]
     },
@@ -185,66 +153,66 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "title": "terraform-aws-modules/terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "242",
-      "forks": "191",
+      "stars": "156",
+      "forks": "180",
       "addStars": "0",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57947418?s=40&v=4",
+          "name": "svenlito",
+          "url": "https://github.com/svenlito"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "501",
+      "forks": "1,279",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
           "name": "cloud-foundation-bot",
           "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/667688?s=40&v=4",
-          "name": "cray0000",
-          "url": "https://github.com/cray0000"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
           "name": "aaron-lane",
           "url": "https://github.com/aaron-lane"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-elasticache-redis",
-      "url": "https://github.com/cloudposse/terraform-aws-elasticache-redis",
-      "description": "Terraform module to provision an ElastiCache Redis Cluster",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "144",
-      "forks": "254",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
         }
       ]
     },

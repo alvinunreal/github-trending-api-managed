@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Monthly Trending",
   "description": "Monthly Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 07:18:16 GMT",
+  "pubDate": "Fri, 23 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "leejet/stable-diffusion.cpp",
@@ -10,8 +10,8 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,763",
-      "forks": "889",
+      "stars": "7,764",
+      "forks": "890",
       "addStars": "691",
       "contributors": [
         {
@@ -42,39 +42,39 @@
       ]
     },
     {
-      "title": "harry7557558/spirula-studio",
-      "url": "https://github.com/harry7557558/spirula-studio",
-      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,844",
-      "forks": "168",
-      "addStars": "1,276",
+      "stars": "47,119",
+      "forks": "4,371",
+      "addStars": "47,077",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44143868?s=40&v=4",
-          "name": "harry7557558",
-          "url": "https://github.com/harry7557558"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24575521?s=40&v=4",
-          "name": "debsahu",
-          "url": "https://github.com/debsahu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7759954?s=40&v=4",
-          "name": "MotivaCG",
-          "url": "https://github.com/MotivaCG"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77882176?s=40&v=4",
-          "name": "IAMSebyi",
-          "url": "https://github.com/IAMSebyi"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
+          "name": "adriadam10",
+          "url": "https://github.com/adriadam10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
+          "name": "oneandonlydean",
+          "url": "https://github.com/oneandonlydean"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75296019?s=40&v=4",
+          "name": "EagleBearerYS",
+          "url": "https://github.com/EagleBearerYS"
         }
       ]
     },
@@ -84,8 +84,8 @@
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "31,787",
-      "forks": "7,431",
+      "stars": "31,810",
+      "forks": "7,439",
       "addStars": "1,684",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,872",
-      "forks": "2,839",
+      "stars": "33,880",
+      "forks": "2,840",
       "addStars": "1,043",
       "contributors": [
         {
@@ -153,12 +153,49 @@
       ]
     },
     {
+      "title": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "1,846",
+      "forks": "169",
+      "addStars": "1,276",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44143868?s=40&v=4",
+          "name": "harry7557558",
+          "url": "https://github.com/harry7557558"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24575521?s=40&v=4",
+          "name": "debsahu",
+          "url": "https://github.com/debsahu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7759954?s=40&v=4",
+          "name": "MotivaCG",
+          "url": "https://github.com/MotivaCG"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77882176?s=40&v=4",
+          "name": "IAMSebyi",
+          "url": "https://github.com/IAMSebyi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "description": "Firebase SDK for Apple App Development",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "6,979",
+      "stars": "6,980",
       "forks": "1,823",
       "addStars": "331",
       "contributors": [
@@ -195,8 +232,8 @@
       "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,657",
-      "forks": "211",
+      "stars": "3,659",
+      "forks": "213",
       "addStars": "388",
       "contributors": [
         {
@@ -227,13 +264,50 @@
       ]
     },
     {
+      "title": "WerWolv/ImHex",
+      "url": "https://github.com/WerWolv/ImHex",
+      "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "55,525",
+      "forks": "2,565",
+      "addStars": "727",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10835354?s=40&v=4",
+          "name": "WerWolv",
+          "url": "https://github.com/WerWolv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42669835?s=40&v=4",
+          "name": "iTrooz",
+          "url": "https://github.com/iTrooz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53811119?s=40&v=4",
+          "name": "paxcut",
+          "url": "https://github.com/paxcut"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/124004309?s=40&v=4",
+          "name": "WerWolvTranslationBot",
+          "url": "https://github.com/WerWolvTranslationBot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1760003?s=40&v=4",
+          "name": "marysaka",
+          "url": "https://github.com/marysaka"
+        }
+      ]
+    },
+    {
       "title": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "201,193",
-      "forks": "79,383",
+      "forks": "79,394",
       "addStars": "1,723",
       "contributors": [
         {
@@ -269,7 +343,7 @@
       "description": "Reimplementation of GTA:SA 1.0 US",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,141",
+      "stars": "1,145",
       "forks": "263",
       "addStars": "237",
       "contributors": [
@@ -306,7 +380,7 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "41,225",
+      "stars": "41,227",
       "forks": "3,838",
       "addStars": "994",
       "contributors": [
@@ -343,8 +417,8 @@
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "20,188",
-      "forks": "1,511",
+      "stars": "20,191",
+      "forks": "1,512",
       "addStars": "443",
       "contributors": [
         {
@@ -375,87 +449,13 @@
       ]
     },
     {
-      "title": "WerWolv/ImHex",
-      "url": "https://github.com/WerWolv/ImHex",
-      "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "55,515",
-      "forks": "2,564",
-      "addStars": "727",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10835354?s=40&v=4",
-          "name": "WerWolv",
-          "url": "https://github.com/WerWolv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42669835?s=40&v=4",
-          "name": "iTrooz",
-          "url": "https://github.com/iTrooz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53811119?s=40&v=4",
-          "name": "paxcut",
-          "url": "https://github.com/paxcut"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124004309?s=40&v=4",
-          "name": "WerWolvTranslationBot",
-          "url": "https://github.com/WerWolvTranslationBot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1760003?s=40&v=4",
-          "name": "marysaka",
-          "url": "https://github.com/marysaka"
-        }
-      ]
-    },
-    {
-      "title": "zeldaret/tww",
-      "url": "https://github.com/zeldaret/tww",
-      "description": "Decompilation of The Legend of Zelda: The Wind Waker",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "1,124",
-      "forks": "174",
-      "addStars": "148",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19174152?s=40&v=4",
-          "name": "LagoLunatic",
-          "url": "https://github.com/LagoLunatic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40890?s=40&v=4",
-          "name": "magcius",
-          "url": "https://github.com/magcius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/975426?s=40&v=4",
-          "name": "Jcw87",
-          "url": "https://github.com/Jcw87"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6289769?s=40&v=4",
-          "name": "Sage-of-Mirrors",
-          "url": "https://github.com/Sage-of-Mirrors"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34639600?s=40&v=4",
-          "name": "Kelebek1",
-          "url": "https://github.com/Kelebek1"
-        }
-      ]
-    },
-    {
       "title": "FreeCAD/FreeCAD",
       "url": "https://github.com/FreeCAD/FreeCAD",
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "34,683",
-      "forks": "6,262",
+      "stars": "34,699",
+      "forks": "6,263",
       "addStars": "1,027",
       "contributors": [
         {
@@ -486,77 +486,13 @@
       ]
     },
     {
-      "title": "LizardByte/Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "42,528",
-      "forks": "2,280",
-      "addStars": "1,217",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42013603?s=40&v=4",
-          "name": "ReenigneArcher",
-          "url": "https://github.com/ReenigneArcher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
-          "name": "cgutman",
-          "url": "https://github.com/cgutman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108553330?s=40&v=4",
-          "name": "LizardByte-bot",
-          "url": "https://github.com/LizardByte-bot"
-        }
-      ]
-    },
-    {
-      "title": "deskflow/deskflow",
-      "url": "https://github.com/deskflow/deskflow",
-      "description": "Share a single keyboard and mouse between multiple computers.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "30,045",
-      "forks": "5,011",
-      "addStars": "1,051",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7450820?s=40&v=4",
-          "name": "sithlord48",
-          "url": "https://github.com/sithlord48"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/313427?s=40&v=4",
-          "name": "nbolton",
-          "url": "https://github.com/nbolton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48688400?s=40&v=4",
-          "name": "Jnewbon",
-          "url": "https://github.com/Jnewbon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71632867?s=40&v=4",
-          "name": "SerhiiGadzhilov",
-          "url": "https://github.com/SerhiiGadzhilov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/148108?s=40&v=4",
-          "name": "speaker",
-          "url": "https://github.com/speaker"
-        }
-      ]
-    },
-    {
       "title": "qgis/QGIS",
       "url": "https://github.com/qgis/QGIS",
       "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,693",
-      "forks": "3,583",
+      "stars": "14,694",
+      "forks": "3,585",
       "addStars": "282",
       "contributors": [
         {
@@ -587,39 +523,29 @@
       ]
     },
     {
-      "title": "typesense/typesense",
-      "url": "https://github.com/typesense/typesense",
-      "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+      "title": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "27,032",
-      "forks": "1,019",
-      "addStars": "476",
+      "stars": "42,537",
+      "forks": "2,284",
+      "addStars": "1,217",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/782073?s=40&v=4",
-          "name": "kishorenc",
-          "url": "https://github.com/kishorenc"
+          "avatar": "https://avatars.githubusercontent.com/u/42013603?s=40&v=4",
+          "name": "ReenigneArcher",
+          "url": "https://github.com/ReenigneArcher"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/68999628?s=40&v=4",
-          "name": "happy-san",
-          "url": "https://github.com/happy-san"
+          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
+          "name": "cgutman",
+          "url": "https://github.com/cgutman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7035987?s=40&v=4",
-          "name": "krunal1313",
-          "url": "https://github.com/krunal1313"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70442658?s=40&v=4",
-          "name": "ozanarmagan",
-          "url": "https://github.com/ozanarmagan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/458383?s=40&v=4",
-          "name": "jasonbosco",
-          "url": "https://github.com/jasonbosco"
+          "avatar": "https://avatars.githubusercontent.com/u/108553330?s=40&v=4",
+          "name": "LizardByte-bot",
+          "url": "https://github.com/LizardByte-bot"
         }
       ]
     },
@@ -629,7 +555,7 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "34,181",
+      "stars": "34,185",
       "forks": "1,869",
       "addStars": "499",
       "contributors": [
@@ -661,8 +587,8 @@
       "description": "A framework for building native applications using React",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "126,759",
-      "forks": "25,348",
+      "stars": "126,764",
+      "forks": "25,353",
       "addStars": "415",
       "contributors": [
         {
@@ -689,6 +615,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/5676?s=40&v=4",
           "name": "javache",
           "url": "https://github.com/javache"
+        }
+      ]
+    },
+    {
+      "title": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "30,065",
+      "forks": "5,011",
+      "addStars": "1,051",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7450820?s=40&v=4",
+          "name": "sithlord48",
+          "url": "https://github.com/sithlord48"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/313427?s=40&v=4",
+          "name": "nbolton",
+          "url": "https://github.com/nbolton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48688400?s=40&v=4",
+          "name": "Jnewbon",
+          "url": "https://github.com/Jnewbon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71632867?s=40&v=4",
+          "name": "SerhiiGadzhilov",
+          "url": "https://github.com/SerhiiGadzhilov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/148108?s=40&v=4",
+          "name": "speaker",
+          "url": "https://github.com/speaker"
+        }
+      ]
+    },
+    {
+      "title": "typesense/typesense",
+      "url": "https://github.com/typesense/typesense",
+      "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "27,035",
+      "forks": "1,019",
+      "addStars": "476",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/782073?s=40&v=4",
+          "name": "kishorenc",
+          "url": "https://github.com/kishorenc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68999628?s=40&v=4",
+          "name": "happy-san",
+          "url": "https://github.com/happy-san"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7035987?s=40&v=4",
+          "name": "krunal1313",
+          "url": "https://github.com/krunal1313"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70442658?s=40&v=4",
+          "name": "ozanarmagan",
+          "url": "https://github.com/ozanarmagan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/458383?s=40&v=4",
+          "name": "jasonbosco",
+          "url": "https://github.com/jasonbosco"
         }
       ]
     }

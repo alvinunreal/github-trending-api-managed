@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 07:18:16 GMT",
+  "pubDate": "Fri, 23 Oct 2026 13:18:20 GMT",
   "items": [
     {
       "title": "akitaonrails/ai-memory",
@@ -10,8 +10,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,859",
-      "forks": "899",
+      "stars": "12,912",
+      "forks": "908",
       "addStars": "3,322",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,214",
-      "forks": "950",
+      "stars": "13,285",
+      "forks": "969",
       "addStars": "8,064",
       "contributors": [
         {
@@ -62,14 +62,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14009?s=40&v=4",
-          "name": "buger",
-          "url": "https://github.com/buger"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
           "name": "cursoragent",
           "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14009?s=40&v=4",
+          "name": "buger",
+          "url": "https://github.com/buger"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/157309135?s=40&v=4",
@@ -84,8 +84,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "96,360",
-      "forks": "5,108",
+      "stars": "96,356",
+      "forks": "5,113",
       "addStars": "191",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,369",
-      "forks": "164",
+      "stars": "1,379",
+      "forks": "165",
       "addStars": "378",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,084",
-      "forks": "277",
+      "stars": "3,100",
+      "forks": "278",
       "addStars": "639",
       "contributors": [
         {
@@ -185,12 +185,49 @@
       ]
     },
     {
+      "title": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "748",
+      "forks": "93",
+      "addStars": "308",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109857817?s=40&v=4",
+          "name": "leepokai",
+          "url": "https://github.com/leepokai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1029297?s=40&v=4",
+          "name": "fergusean",
+          "url": "https://github.com/fergusean"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1180838?s=40&v=4",
+          "name": "icework",
+          "url": "https://github.com/icework"
+        }
+      ]
+    },
+    {
       "title": "trymirai/uzu",
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,545",
+      "stars": "2,547",
       "forks": "146",
       "addStars": "198",
       "contributors": [
@@ -222,13 +259,50 @@
       ]
     },
     {
+      "title": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "10,351",
+      "forks": "1,324",
+      "addStars": "847",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4290742?s=40&v=4",
+          "name": "pierre-rouanet",
+          "url": "https://github.com/pierre-rouanet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
+          "name": "apirrone",
+          "url": "https://github.com/apirrone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&v=4",
+          "name": "Drenayaz",
+          "url": "https://github.com/Drenayaz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/185968020?s=40&v=4",
+          "name": "Nixxx19",
+          "url": "https://github.com/Nixxx19"
+        }
+      ]
+    },
+    {
       "title": "googleworkspace/cli",
       "url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,804",
-      "forks": "1,950",
+      "stars": "31,808",
+      "forks": "1,951",
       "addStars": "275",
       "contributors": [
         {
@@ -259,8 +333,8 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,676",
-      "forks": "237",
+      "stars": "1,687",
+      "forks": "238",
       "addStars": "378",
       "contributors": [
         {
@@ -286,76 +360,177 @@
       ]
     },
     {
-      "title": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "title": "claration/impactor",
+      "url": "https://github.com/claration/impactor",
+      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "35,728",
-      "forks": "5,655",
-      "addStars": "6,721",
+      "stars": "3,576",
+      "forks": "249",
+      "addStars": "91",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
-          "name": "echelon",
-          "url": "https://github.com/echelon"
+          "avatar": "https://avatars.githubusercontent.com/u/97859147?s=40&v=4",
+          "name": "claration",
+          "url": "https://github.com/claration"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
-          "name": "bflatastic",
-          "url": "https://github.com/bflatastic"
+          "avatar": "https://avatars.githubusercontent.com/u/151872490?s=40&v=4",
+          "name": "se2crid",
+          "url": "https://github.com/se2crid"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
-          "name": "ArEnSc",
-          "url": "https://github.com/ArEnSc"
+          "avatar": "https://avatars.githubusercontent.com/u/235818692?s=40&v=4",
+          "name": "ssalggnikool",
+          "url": "https://github.com/ssalggnikool"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
-          "name": "wilwong",
-          "url": "https://github.com/wilwong"
+          "avatar": "https://avatars.githubusercontent.com/u/195622710?s=40&v=4",
+          "name": "Perry-322",
+          "url": "https://github.com/Perry-322"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/75916236?s=40&v=4",
-          "name": "Quicksticks-oss",
-          "url": "https://github.com/Quicksticks-oss"
+          "avatar": "https://avatars.githubusercontent.com/u/29694921?s=40&v=4",
+          "name": "mq1",
+          "url": "https://github.com/mq1"
         }
       ]
     },
     {
-      "title": "voidzero-dev/vite-plus",
-      "url": "https://github.com/voidzero-dev/vite-plus",
-      "description": "The unified toolchain and entry point for web development.",
+      "title": "BrandonKowalski/slot",
+      "url": "https://github.com/BrandonKowalski/slot",
+      "description": "A bespoke, Game Boy-centric CFW for the RG SP.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,455",
-      "forks": "296",
-      "addStars": "225",
+      "stars": "241",
+      "forks": "68",
+      "addStars": "64",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/156269?s=40&v=4",
-          "name": "fengmk2",
-          "url": "https://github.com/fengmk2"
+          "avatar": "https://avatars.githubusercontent.com/u/1323467?s=40&v=4",
+          "name": "BrandonKowalski",
+          "url": "https://github.com/BrandonKowalski"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3468483?s=40&v=4",
-          "name": "Brooooooklyn",
-          "url": "https://github.com/Brooooooklyn"
+          "avatar": "https://avatars.githubusercontent.com/u/94869140?s=40&v=4",
+          "name": "MarkusMaribu",
+          "url": "https://github.com/MarkusMaribu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/118944686?s=40&v=4",
-          "name": "jong-kyung",
-          "url": "https://github.com/jong-kyung"
+          "avatar": "https://avatars.githubusercontent.com/u/224651984?s=40&v=4",
+          "name": "paulocoe-creator",
+          "url": "https://github.com/paulocoe-creator"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3612422?s=40&v=4",
-          "name": "wan9chi",
-          "url": "https://github.com/wan9chi"
+          "avatar": "https://avatars.githubusercontent.com/u/2156626?s=40&v=4",
+          "name": "diluno",
+          "url": "https://github.com/diluno"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/121547620?s=40&v=4",
-          "name": "liangmiQwQ",
-          "url": "https://github.com/liangmiQwQ"
+          "avatar": "https://avatars.githubusercontent.com/u/17793067?s=40&v=4",
+          "name": "flo333",
+          "url": "https://github.com/flo333"
+        }
+      ]
+    },
+    {
+      "title": "HakanSeven12/OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "3,467",
+      "forks": "411",
+      "addStars": "367",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3831435?s=40&v=4",
+          "name": "HakanSeven12",
+          "url": "https://github.com/HakanSeven12"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184937705?s=40&v=4",
+          "name": "ramox81",
+          "url": "https://github.com/ramox81"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/162724803?s=40&v=4",
+          "name": "KarimJerbi",
+          "url": "https://github.com/KarimJerbi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50465150?s=40&v=4",
+          "name": "gianlucafiore",
+          "url": "https://github.com/gianlucafiore"
+        }
+      ]
+    },
+    {
+      "title": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of high-performance JavaScript tools.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "23,201",
+      "forks": "1,398",
+      "addStars": "130",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1430279?s=40&v=4",
+          "name": "Boshen",
+          "url": "https://github.com/Boshen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/557937?s=40&v=4",
+          "name": "overlookmotel",
+          "url": "https://github.com/overlookmotel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18101008?s=40&v=4",
+          "name": "camc314",
+          "url": "https://github.com/camc314"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29533304?s=40&v=4",
+          "name": "Dunqing",
+          "url": "https://github.com/Dunqing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6259812?s=40&v=4",
+          "name": "leaysgur",
+          "url": "https://github.com/leaysgur"
+        }
+      ]
+    },
+    {
+      "title": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "4,732",
+      "forks": "792",
+      "addStars": "521",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
+          "name": "martin-olivier",
+          "url": "https://github.com/martin-olivier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55240433?s=40&v=4",
+          "name": "m-bdf",
+          "url": "https://github.com/m-bdf"
         }
       ]
     }
