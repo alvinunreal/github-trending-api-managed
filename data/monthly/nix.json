@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 24 Oct 2026 07:18:19 GMT",
+  "pubDate": "Sat, 24 Oct 2026 11:59:03 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,589",
-      "forks": "20,512",
+      "stars": "26,590",
+      "forks": "20,514",
       "addStars": "415",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,175",
+      "stars": "2,177",
       "forks": "307",
       "addStars": "181",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "4,031",
+      "stars": "4,030",
       "forks": "344",
       "addStars": "64",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,344",
+      "stars": "3,343",
       "forks": "991",
       "addStars": "40",
       "contributors": [
@@ -234,13 +234,50 @@
       ]
     },
     {
+      "title": "nix-community/stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "2,449",
+      "forks": "375",
+      "addStars": "44",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90870942?s=40&v=4",
+          "name": "trueNAHO",
+          "url": "https://github.com/trueNAHO"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28959268?s=40&v=4",
+          "name": "danth",
+          "url": "https://github.com/danth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/153149335?s=40&v=4",
+          "name": "0xda157",
+          "url": "https://github.com/0xda157"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5046562?s=40&v=4",
+          "name": "MattSturgeon",
+          "url": "https://github.com/MattSturgeon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64027365?s=40&v=4",
+          "name": "urocylus",
+          "url": "https://github.com/urocylus"
+        }
+      ]
+    },
+    {
       "title": "nix-community/home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "10,458",
-      "forks": "2,501",
+      "stars": "10,457",
+      "forks": "2,500",
       "addStars": "99",
       "contributors": [
         {
@@ -271,39 +308,39 @@
       ]
     },
     {
-      "title": "flyingcircusio/fc-nixos",
-      "url": "https://github.com/flyingcircusio/fc-nixos",
-      "description": "The Flying Circus platform, based on NixOS.",
+      "title": "cloud-gouv/securix",
+      "url": "https://github.com/cloud-gouv/securix",
+      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "39",
-      "forks": "14",
-      "addStars": "1",
+      "stars": "1,149",
+      "forks": "54",
+      "addStars": "108",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1965950?s=40&v=4",
-          "name": "dpausp",
-          "url": "https://github.com/dpausp"
+          "avatar": "https://avatars.githubusercontent.com/u/195482661?s=40&v=4",
+          "name": "rlahfa-dinum",
+          "url": "https://github.com/rlahfa-dinum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/104593071?s=40&v=4",
-          "name": "osnyx",
-          "url": "https://github.com/osnyx"
+          "avatar": "https://avatars.githubusercontent.com/u/229733000?s=40&v=4",
+          "name": "plegrand-dinum",
+          "url": "https://github.com/plegrand-dinum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1220572?s=40&v=4",
-          "name": "ctheune",
-          "url": "https://github.com/ctheune"
+          "avatar": "https://avatars.githubusercontent.com/u/195457469?s=40&v=4",
+          "name": "jdauphant-dinum",
+          "url": "https://github.com/jdauphant-dinum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33266253?s=40&v=4",
-          "name": "sysvinit",
-          "url": "https://github.com/sysvinit"
+          "avatar": "https://avatars.githubusercontent.com/u/3425311?s=40&v=4",
+          "name": "nlewo",
+          "url": "https://github.com/nlewo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11006031?s=40&v=4",
-          "name": "leona-ya",
-          "url": "https://github.com/leona-ya"
+          "avatar": "https://avatars.githubusercontent.com/u/81443404?s=40&v=4",
+          "name": "RISK-alt",
+          "url": "https://github.com/RISK-alt"
         }
       ]
     }

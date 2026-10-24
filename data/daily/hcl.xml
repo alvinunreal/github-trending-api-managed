@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Hcl Languages in GitHub</description>
-    <pubDate>Sat, 24 Oct 2026 07:18:19 GMT</pubDate>
+    <pubDate>Sat, 24 Oct 2026 11:59:03 GMT</pubDate>
     <item>
       <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
       <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
@@ -81,44 +81,6 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-aws-modules/terraform-aws-vpc</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-      <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-vpc</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>3,277</stars>
-      <forks>4,621</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33663870?s=40&amp;v=4</avatar>
-          <name>DrFaust92</name>
-          <url>https://github.com/DrFaust92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
-          <name>betajobot</name>
-          <url>https://github.com/betajobot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
       <description>Terraform module to create AWS S3 resources 🇺🇦</description>
@@ -157,14 +119,14 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-aws-modules/terraform-aws-dynamodb-table</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
-      <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</guid>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-vpc</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>117</stars>
-      <forks>203</forks>
+      <stars>3,277</stars>
+      <forks>4,621</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -183,14 +145,174 @@
           <url>https://github.com/bryantbiggs</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33663870?s=40&amp;v=4</avatar>
+          <name>DrFaust92</name>
+          <url>https://github.com/DrFaust92</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
           <name>betajobot</name>
           <url>https://github.com/betajobot</url>
         </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>bridgecrewio/terragoat</title>
+      <link>https://github.com/bridgecrewio/terragoat</link>
+      <description>TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</description>
+      <guid>https://github.com/bridgecrewio/terragoat</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>1,315</stars>
+      <forks>5,934</forks>
+      <addStars>0</addStars>
+      <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
-          <name>magreenbaum</name>
-          <url>https://github.com/magreenbaum</url>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16308767?s=40&amp;v=4</avatar>
+          <name>nimrodkor</name>
+          <url>https://github.com/nimrodkor</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4048539?s=40&amp;v=4</avatar>
+          <name>matansha</name>
+          <url>https://github.com/matansha</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6033501?s=40&amp;v=4</avatar>
+          <name>schosterbarak</name>
+          <url>https://github.com/schosterbarak</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-google-modules/terraform-google-project-factory</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+      <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-project-factory</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>965</stars>
+      <forks>591</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/172194?s=40&amp;v=4</avatar>
+          <name>adrienthebo</name>
+          <url>https://github.com/adrienthebo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>cloudposse/terraform-aws-ecs-container-definition</title>
+      <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
+      <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
+      <guid>https://github.com/cloudposse/terraform-aws-ecs-container-definition</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>350</stars>
+      <forks>238</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7775707?s=40&amp;v=4</avatar>
+          <name>nitrocode</name>
+          <url>https://github.com/nitrocode</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/58130806?s=40&amp;v=4</avatar>
+          <name>actions-bot</name>
+          <url>https://github.com/actions-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11232728?s=40&amp;v=4</avatar>
+          <name>cloudpossebot</name>
+          <url>https://github.com/cloudpossebot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52489?s=40&amp;v=4</avatar>
+          <name>osterman</name>
+          <url>https://github.com/osterman</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-google-modules/terraform-google-cloud-storage</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-cloud-storage</link>
+      <description>Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-cloud-storage</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>207</stars>
+      <forks>609</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10992720?s=40&amp;v=4</avatar>
+          <name>bharathkkb</name>
+          <url>https://github.com/bharathkkb</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>LinkedInLearning/learning-terraform-3087701</title>
+      <link>https://github.com/LinkedInLearning/learning-terraform-3087701</link>
+      <description>This repo is for the Linkedin Learning course: Learning Terraform</description>
+      <guid>https://github.com/LinkedInLearning/learning-terraform-3087701</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>151</stars>
+      <forks>7,370</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28540243?s=40&amp;v=4</avatar>
+          <name>skeedazzle</name>
+          <url>https://github.com/skeedazzle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8343987?s=40&amp;v=4</avatar>
+          <name>samuelson</name>
+          <url>https://github.com/samuelson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/88352515?s=40&amp;v=4</avatar>
+          <name>cmosier-LiL</name>
+          <url>https://github.com/cmosier-LiL</url>
         </contributor>
       </contributors>
     </item>
@@ -257,44 +379,6 @@
           <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
           <name>aaron-lane</name>
           <url>https://github.com/aaron-lane</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>cloudposse/terraform-aws-ecs-container-definition</title>
-      <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
-      <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
-      <guid>https://github.com/cloudposse/terraform-aws-ecs-container-definition</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>350</stars>
-      <forks>238</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7775707?s=40&amp;v=4</avatar>
-          <name>nitrocode</name>
-          <url>https://github.com/nitrocode</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58130806?s=40&amp;v=4</avatar>
-          <name>actions-bot</name>
-          <url>https://github.com/actions-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11232728?s=40&amp;v=4</avatar>
-          <name>cloudpossebot</name>
-          <url>https://github.com/cloudpossebot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52489?s=40&amp;v=4</avatar>
-          <name>osterman</name>
-          <url>https://github.com/osterman</url>
         </contributor>
       </contributors>
     </item>
