@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 25 Oct 2026 07:18:19 GMT",
+  "pubDate": "Sun, 25 Oct 2026 12:33:27 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "45,235",
-      "forks": "2,807",
+      "stars": "45,861",
+      "forks": "2,846",
       "addStars": "12,680",
       "contributors": [
         {
@@ -32,82 +32,13 @@
       ]
     },
     {
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "380,131",
-      "forks": "95,020",
-      "addStars": "78,562",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
-          "name": "morluto",
-          "url": "https://github.com/morluto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&v=4",
-          "name": "kaoru0822-kitauji",
-          "url": "https://github.com/kaoru0822-kitauji"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
-          "name": "N0zoM1z0",
-          "url": "https://github.com/N0zoM1z0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/342580529?s=40&v=4",
-          "name": "gensokyo-dev",
-          "url": "https://github.com/gensokyo-dev"
-        }
-      ]
-    },
-    {
-      "title": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "44,410",
-      "forks": "4,658",
-      "addStars": "3,232",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-          "name": "jordanecker-ant",
-          "url": "https://github.com/jordanecker-ant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-          "name": "bryan-anthropic",
-          "url": "https://github.com/bryan-anthropic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&v=4",
-          "name": "mhegazy",
-          "url": "https://github.com/mhegazy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "79,107",
-      "forks": "9,288",
+      "stars": "79,155",
+      "forks": "9,289",
       "addStars": "3,241",
       "contributors": [
         {
@@ -133,13 +64,77 @@
       ]
     },
     {
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "32,819",
+      "forks": "3,623",
+      "addStars": "2,631",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+          "name": "jordanecker-ant",
+          "url": "https://github.com/jordanecker-ant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+          "name": "bryan-anthropic",
+          "url": "https://github.com/bryan-anthropic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
+          "name": "mattpic-ant",
+          "url": "https://github.com/mattpic-ant"
+        }
+      ]
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "221,362",
+      "forks": "29,627",
+      "addStars": "6,857",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
+          "name": "thdxr",
+          "url": "https://github.com/thdxr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
+          "name": "rekram1-node",
+          "url": "https://github.com/rekram1-node"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
+          "name": "adamdotdevin",
+          "url": "https://github.com/adamdotdevin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4",
+          "name": "kitlangton",
+          "url": "https://github.com/kitlangton"
+        }
+      ]
+    },
+    {
       "title": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "105,144",
-      "forks": "6,641",
+      "stars": "105,336",
+      "forks": "6,655",
       "addStars": "9,828",
       "contributors": [
         {
@@ -170,151 +165,13 @@
       ]
     },
     {
-      "title": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "221,275",
-      "forks": "29,608",
-      "addStars": "6,857",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
-          "name": "thdxr",
-          "url": "https://github.com/thdxr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
-          "name": "rekram1-node",
-          "url": "https://github.com/rekram1-node"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
-          "name": "adamdotdevin",
-          "url": "https://github.com/adamdotdevin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4",
-          "name": "kitlangton",
-          "url": "https://github.com/kitlangton"
-        }
-      ]
-    },
-    {
-      "title": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "13,940",
-      "forks": "1,391",
-      "addStars": "1,729",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-          "name": "poteto",
-          "url": "https://github.com/poteto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
-          "name": "minupalaniappan",
-          "url": "https://github.com/minupalaniappan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-          "name": "ericzakariasson",
-          "url": "https://github.com/ericzakariasson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
-          "name": "roshansada",
-          "url": "https://github.com/roshansada"
-        }
-      ]
-    },
-    {
-      "title": "android/skills",
-      "url": "https://github.com/android/skills",
-      "description": "",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "9,629",
-      "forks": "621",
-      "addStars": "1,317",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
-          "name": "android-devrel-github-bot",
-          "url": "https://github.com/android-devrel-github-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35065668?s=40&v=4",
-          "name": "simona-anomis",
-          "url": "https://github.com/simona-anomis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/609125?s=40&v=4",
-          "name": "JoseAlcerreca",
-          "url": "https://github.com/JoseAlcerreca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19445?s=40&v=4",
-          "name": "bentrengrove",
-          "url": "https://github.com/bentrengrove"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35296563?s=40&v=4",
-          "name": "vinishavathwani",
-          "url": "https://github.com/vinishavathwani"
-        }
-      ]
-    },
-    {
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "32,729",
-      "forks": "3,615",
-      "addStars": "2,631",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-          "name": "jordanecker-ant",
-          "url": "https://github.com/jordanecker-ant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-          "name": "bryan-anthropic",
-          "url": "https://github.com/bryan-anthropic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
-          "name": "mattpic-ant",
-          "url": "https://github.com/mattpic-ant"
-        }
-      ]
-    },
-    {
       "title": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "71,630",
-      "forks": "6,471",
+      "stars": "71,803",
+      "forks": "6,487",
       "addStars": "5,633",
       "contributors": [
         {
@@ -345,76 +202,39 @@
       ]
     },
     {
-      "title": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "142,720",
-      "forks": "16,834",
-      "addStars": "4,648",
+      "title": "android/skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "9,656",
+      "forks": "624",
+      "addStars": "1,317",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
-          "name": "comfyanonymous",
-          "url": "https://github.com/comfyanonymous"
+          "avatar": "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
+          "name": "android-devrel-github-bot",
+          "url": "https://github.com/android-devrel-github-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
-          "name": "bigcat88",
-          "url": "https://github.com/bigcat88"
+          "avatar": "https://avatars.githubusercontent.com/u/35065668?s=40&v=4",
+          "name": "simona-anomis",
+          "url": "https://github.com/simona-anomis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/125205205?s=40&v=4",
-          "name": "pythongosssss",
-          "url": "https://github.com/pythongosssss"
+          "avatar": "https://avatars.githubusercontent.com/u/609125?s=40&v=4",
+          "name": "JoseAlcerreca",
+          "url": "https://github.com/JoseAlcerreca"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/192523189?s=40&v=4",
-          "name": "comfyui-wiki",
-          "url": "https://github.com/comfyui-wiki"
+          "avatar": "https://avatars.githubusercontent.com/u/19445?s=40&v=4",
+          "name": "bentrengrove",
+          "url": "https://github.com/bentrengrove"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46076784?s=40&v=4",
-          "name": "rattus128",
-          "url": "https://github.com/rattus128"
-        }
-      ]
-    },
-    {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "13,337",
-      "forks": "944",
-      "addStars": "3,541",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-          "name": "akitaonrails",
-          "url": "https://github.com/akitaonrails"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95101505?s=40&v=4",
-          "name": "viniciusdsandrade",
-          "url": "https://github.com/viniciusdsandrade"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-          "name": "rudycelekli",
-          "url": "https://github.com/rudycelekli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-          "name": "djalmajr",
-          "url": "https://github.com/djalmajr"
+          "avatar": "https://avatars.githubusercontent.com/u/35296563?s=40&v=4",
+          "name": "vinishavathwani",
+          "url": "https://github.com/vinishavathwani"
         }
       ]
     },
@@ -424,8 +244,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "134,596",
-      "forks": "12,847",
+      "stars": "134,739",
+      "forks": "12,862",
       "addStars": "6,868",
       "contributors": [
         {
@@ -456,19 +276,19 @@
       ]
     },
     {
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "56,897",
-      "forks": "5,100",
-      "addStars": "3,069",
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "13,397",
+      "forks": "946",
+      "addStars": "3,541",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
-          "name": "yuh-yang",
-          "url": "https://github.com/yuh-yang"
+          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+          "name": "akitaonrails",
+          "url": "https://github.com/akitaonrails"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -476,19 +296,88 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
-          "name": "AiMiDi",
-          "url": "https://github.com/AiMiDi"
+          "avatar": "https://avatars.githubusercontent.com/u/95101505?s=40&v=4",
+          "name": "viniciusdsandrade",
+          "url": "https://github.com/viniciusdsandrade"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
-          "name": "omerarslan0",
-          "url": "https://github.com/omerarslan0"
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&v=4",
-          "name": "hito0512",
-          "url": "https://github.com/hito0512"
+          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+          "name": "djalmajr",
+          "url": "https://github.com/djalmajr"
+        }
+      ]
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "142,794",
+      "forks": "16,848",
+      "addStars": "4,648",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
+          "name": "comfyanonymous",
+          "url": "https://github.com/comfyanonymous"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
+          "name": "bigcat88",
+          "url": "https://github.com/bigcat88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125205205?s=40&v=4",
+          "name": "pythongosssss",
+          "url": "https://github.com/pythongosssss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/192523189?s=40&v=4",
+          "name": "comfyui-wiki",
+          "url": "https://github.com/comfyui-wiki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46076784?s=40&v=4",
+          "name": "rattus128",
+          "url": "https://github.com/rattus128"
+        }
+      ]
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "44,459",
+      "forks": "4,658",
+      "addStars": "3,232",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+          "name": "jordanecker-ant",
+          "url": "https://github.com/jordanecker-ant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+          "name": "bryan-anthropic",
+          "url": "https://github.com/bryan-anthropic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&v=4",
+          "name": "mhegazy",
+          "url": "https://github.com/mhegazy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -498,8 +387,8 @@
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "95,388",
-      "forks": "23,914",
+      "stars": "95,429",
+      "forks": "23,925",
       "addStars": "1,371",
       "contributors": [
         {
@@ -526,6 +415,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/19981378?s=40&v=4",
           "name": "hmellor",
           "url": "https://github.com/hmellor"
+        }
+      ]
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "languageColor": "",
+      "stars": "223,545",
+      "forks": "22,390",
+      "addStars": "2,981",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
+          "name": "forrestchang",
+          "url": "https://github.com/forrestchang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&v=4",
+          "name": "back1ply",
+          "url": "https://github.com/back1ply"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&v=4",
+          "name": "herobrine19",
+          "url": "https://github.com/herobrine19"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&v=4",
+          "name": "szkocot",
+          "url": "https://github.com/szkocot"
+        }
+      ]
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "29,942",
+      "forks": "8,043",
+      "addStars": "1,778",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+          "name": "juliusmarminge",
+          "url": "https://github.com/juliusmarminge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
+          "name": "t3dotgg",
+          "url": "https://github.com/t3dotgg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254055478?s=40&v=4",
+          "name": "maria-rcks",
+          "url": "https://github.com/maria-rcks"
         }
       ]
     }

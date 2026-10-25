@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Weekly Trending",
   "description": "Weekly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 25 Oct 2026 07:18:19 GMT",
+  "pubDate": "Sun, 25 Oct 2026 12:33:27 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -10,7 +10,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,797",
+      "stars": "8,798",
       "forks": "2,637",
       "addStars": "13",
       "contributors": [
@@ -74,6 +74,43 @@
       ]
     },
     {
+      "title": "bazelbuild/rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "595",
+      "forks": "339",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
+          "name": "sergiocampama",
+          "url": "https://github.com/sergiocampama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
+          "name": "brentleyjones",
+          "url": "https://github.com/brentleyjones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
+          "name": "nglevin",
+          "url": "https://github.com/nglevin"
+        }
+      ]
+    },
+    {
       "title": "immich-app/immich-charts",
       "url": "https://github.com/immich-app/immich-charts",
       "description": "Helm chart implementation of Immich",
@@ -97,6 +134,70 @@
           "avatar": "https://avatars.githubusercontent.com/u/8062692?s=40&v=4",
           "name": "orbatschow",
           "url": "https://github.com/orbatschow"
+        }
+      ]
+    },
+    {
+      "title": "GoogleContainerTools/distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "23,172",
+      "forks": "1,441",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
+          "name": "loosebazooka",
+          "url": "https://github.com/loosebazooka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
+          "name": "omBratteng",
+          "url": "https://github.com/omBratteng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
+          "name": "chanseokoh",
+          "url": "https://github.com/chanseokoh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
+          "name": "distroless-bot",
+          "url": "https://github.com/distroless-bot"
+        }
+      ]
+    },
+    {
+      "title": "tilt-dev/tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "242",
+      "forks": "195",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/278641?s=40&v=4",
+          "name": "nicks",
+          "url": "https://github.com/nicks"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
+          "name": "milas",
+          "url": "https://github.com/milas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6332648?s=40&v=4",
+          "name": "maiamcc",
+          "url": "https://github.com/maiamcc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7453991?s=40&v=4",
+          "name": "landism",
+          "url": "https://github.com/landism"
         }
       ]
     },
@@ -138,34 +239,39 @@
       ]
     },
     {
-      "title": "tilt-dev/tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
+      "title": "bazelbuild/bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "242",
-      "forks": "195",
-      "addStars": "0",
+      "stars": "395",
+      "forks": "948",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/278641?s=40&v=4",
-          "name": "nicks",
-          "url": "https://github.com/nicks"
+          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
+          "name": "Vertexwahn",
+          "url": "https://github.com/Vertexwahn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
-          "name": "milas",
-          "url": "https://github.com/milas"
+          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
+          "name": "aspect-marvin",
+          "url": "https://github.com/aspect-marvin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6332648?s=40&v=4",
-          "name": "maiamcc",
-          "url": "https://github.com/maiamcc"
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7453991?s=40&v=4",
-          "name": "landism",
-          "url": "https://github.com/landism"
+          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
+          "name": "meteorcloudy",
+          "url": "https://github.com/meteorcloudy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
+          "name": "jbedard",
+          "url": "https://github.com/jbedard"
         }
       ]
     },
@@ -240,75 +346,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
           "name": "eobrain",
           "url": "https://github.com/eobrain"
-        }
-      ]
-    },
-    {
-      "title": "GoogleContainerTools/distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "23,171",
-      "forks": "1,441",
-      "addStars": "27",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
-          "name": "loosebazooka",
-          "url": "https://github.com/loosebazooka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
-          "name": "omBratteng",
-          "url": "https://github.com/omBratteng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
-          "name": "chanseokoh",
-          "url": "https://github.com/chanseokoh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
-          "name": "distroless-bot",
-          "url": "https://github.com/distroless-bot"
-        }
-      ]
-    },
-    {
-      "title": "bazelbuild/bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "395",
-      "forks": "948",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
-          "name": "Vertexwahn",
-          "url": "https://github.com/Vertexwahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208529797?s=40&v=4",
-          "name": "aspect-marvin",
-          "url": "https://github.com/aspect-marvin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
-          "name": "fmeum",
-          "url": "https://github.com/fmeum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
-          "name": "meteorcloudy",
-          "url": "https://github.com/meteorcloudy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
-          "name": "jbedard",
-          "url": "https://github.com/jbedard"
         }
       ]
     }

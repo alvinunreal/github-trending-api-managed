@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 25 Oct 2026 07:18:19 GMT",
+  "pubDate": "Sun, 25 Oct 2026 12:33:27 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,605",
-      "forks": "20,521",
+      "stars": "26,608",
+      "forks": "20,520",
       "addStars": "412",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "2,181",
-      "forks": "306",
+      "forks": "309",
       "addStars": "179",
       "contributors": [
         {
@@ -75,7 +75,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "1,801",
-      "forks": "272",
+      "forks": "273",
       "addStars": "15",
       "contributors": [
         {
@@ -149,7 +149,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "3,344",
-      "forks": "991",
+      "forks": "992",
       "addStars": "38",
       "contributors": [
         {
@@ -175,109 +175,13 @@
       ]
     },
     {
-      "title": "finix-community/finix",
-      "url": "https://github.com/finix-community/finix",
-      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "590",
-      "forks": "43",
-      "addStars": "61",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7755101?s=40&v=4",
-          "name": "aanderse",
-          "url": "https://github.com/aanderse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/134298056?s=40&v=4",
-          "name": "FixeQD",
-          "url": "https://github.com/FixeQD"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100892812?s=40&v=4",
-          "name": "r0chd",
-          "url": "https://github.com/r0chd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130176904?s=40&v=4",
-          "name": "deathbymanatee",
-          "url": "https://github.com/deathbymanatee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128353633?s=40&v=4",
-          "name": "N1meses",
-          "url": "https://github.com/N1meses"
-        }
-      ]
-    },
-    {
-      "title": "Mic92/sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,240",
-      "forks": "236",
-      "addStars": "67",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
-          "name": "dasJ",
-          "url": "https://github.com/dasJ"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/stylix",
-      "url": "https://github.com/nix-community/stylix",
-      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "2,449",
-      "forks": "376",
-      "addStars": "44",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90870942?s=40&v=4",
-          "name": "trueNAHO",
-          "url": "https://github.com/trueNAHO"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28959268?s=40&v=4",
-          "name": "danth",
-          "url": "https://github.com/danth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153149335?s=40&v=4",
-          "name": "0xda157",
-          "url": "https://github.com/0xda157"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5046562?s=40&v=4",
-          "name": "MattSturgeon",
-          "url": "https://github.com/MattSturgeon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64027365?s=40&v=4",
-          "name": "urocylus",
-          "url": "https://github.com/urocylus"
-        }
-      ]
-    },
-    {
       "title": "nix-community/home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "10,460",
-      "forks": "2,501",
+      "forks": "2,502",
       "addStars": "95",
       "contributors": [
         {
@@ -304,6 +208,28 @@
           "avatar": "https://avatars.githubusercontent.com/u/20448408?s=40&v=4",
           "name": "berbiche",
           "url": "https://github.com/berbiche"
+        }
+      ]
+    },
+    {
+      "title": "Mic92/sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,241",
+      "forks": "236",
+      "addStars": "67",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
+          "name": "dasJ",
+          "url": "https://github.com/dasJ"
         }
       ]
     },
