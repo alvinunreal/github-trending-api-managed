@@ -2,8 +2,40 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 Oct 2026 07:18:24 GMT",
+  "pubDate": "Mon, 26 Oct 2026 13:18:24 GMT",
   "items": [
+    {
+      "title": "googleapis/googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "8,799",
+      "forks": "2,636",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
+          "name": "googleapis-publisher",
+          "url": "https://github.com/googleapis-publisher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1617025?s=40&v=4",
+          "name": "pongad",
+          "url": "https://github.com/pongad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25352356?s=40&v=4",
+          "name": "neozwu",
+          "url": "https://github.com/neozwu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
+          "name": "yoshi-code-bot",
+          "url": "https://github.com/yoshi-code-bot"
+        }
+      ]
+    },
     {
       "title": "bazelbuild/bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
@@ -11,7 +43,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "395",
-      "forks": "949",
+      "forks": "952",
       "addStars": "0",
       "contributors": [
         {
@@ -42,71 +74,34 @@
       ]
     },
     {
-      "title": "bazelbuild/rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
+      "title": "GoogleContainerTools/distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "595",
-      "forks": "339",
-      "addStars": "0",
+      "stars": "23,176",
+      "forks": "1,441",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
+          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
+          "name": "loosebazooka",
+          "url": "https://github.com/loosebazooka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
-          "name": "sergiocampama",
-          "url": "https://github.com/sergiocampama"
+          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
+          "name": "omBratteng",
+          "url": "https://github.com/omBratteng"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
-          "name": "thomasvl",
-          "url": "https://github.com/thomasvl"
+          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
+          "name": "chanseokoh",
+          "url": "https://github.com/chanseokoh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
-          "name": "brentleyjones",
-          "url": "https://github.com/brentleyjones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
-          "name": "nglevin",
-          "url": "https://github.com/nglevin"
-        }
-      ]
-    },
-    {
-      "title": "googleapis/googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "8,798",
-      "forks": "2,636",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
-          "name": "googleapis-publisher",
-          "url": "https://github.com/googleapis-publisher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1617025?s=40&v=4",
-          "name": "pongad",
-          "url": "https://github.com/pongad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25352356?s=40&v=4",
-          "name": "neozwu",
-          "url": "https://github.com/neozwu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
-          "name": "yoshi-code-bot",
-          "url": "https://github.com/yoshi-code-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
+          "name": "distroless-bot",
+          "url": "https://github.com/distroless-bot"
         }
       ]
     },
@@ -139,80 +134,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
           "name": "UebelAndre",
           "url": "https://github.com/UebelAndre"
-        }
-      ]
-    },
-    {
-      "title": "cncf/xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "272",
-      "forks": "85",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6032561?s=40&v=4",
-          "name": "mmorel-35",
-          "url": "https://github.com/mmorel-35"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/672669?s=40&v=4",
-          "name": "sergiitk",
-          "url": "https://github.com/sergiitk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9537734?s=40&v=4",
-          "name": "kyessenov",
-          "url": "https://github.com/kyessenov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/454682?s=40&v=4",
-          "name": "phlax",
-          "url": "https://github.com/phlax"
-        }
-      ]
-    },
-    {
-      "title": "cel-expr/cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "4,030",
-      "forks": "308",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/483300?s=40&v=4",
-          "name": "TristonianJones",
-          "url": "https://github.com/TristonianJones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32469398?s=40&v=4",
-          "name": "JimLarson",
-          "url": "https://github.com/JimLarson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/997958?s=40&v=4",
-          "name": "jcking",
-          "url": "https://github.com/jcking"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2355949?s=40&v=4",
-          "name": "l46kok",
-          "url": "https://github.com/l46kok"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
-          "name": "eobrain",
-          "url": "https://github.com/eobrain"
         }
       ]
     }

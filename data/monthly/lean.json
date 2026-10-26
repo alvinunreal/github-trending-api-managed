@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 Oct 2026 07:18:24 GMT",
+  "pubDate": "Mon, 26 Oct 2026 13:18:24 GMT",
   "items": [
     {
       "title": "leanprover/lean4",
@@ -10,7 +10,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "9,676",
+      "stars": "9,677",
       "forks": "1,063",
       "addStars": "388",
       "contributors": [
@@ -48,7 +48,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "308",
-      "forks": "68",
+      "forks": "69",
       "addStars": "69",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "4,356",
+      "stars": "4,360",
       "forks": "1,793",
       "addStars": "187",
       "contributors": [
@@ -107,6 +107,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/37772949?s=40&v=4",
           "name": "joelriou",
           "url": "https://github.com/joelriou"
+        }
+      ]
+    },
+    {
+      "title": "leanprover-community/mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "1,666",
+      "forks": "291",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
+          "name": "urkud",
+          "url": "https://github.com/urkud"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
+          "name": "eric-wieser",
+          "url": "https://github.com/eric-wieser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
+          "name": "YaelDillies",
+          "url": "https://github.com/YaelDillies"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
+          "name": "jcommelin",
+          "url": "https://github.com/jcommelin"
+        }
+      ]
+    },
+    {
+      "title": "leanprover/cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "777",
+      "forks": "217",
+      "addStars": "54",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
+          "name": "chenson2018",
+          "url": "https://github.com/chenson2018"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
+          "name": "ctchou",
+          "url": "https://github.com/ctchou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
+          "name": "SamuelSchlesinger",
+          "url": "https://github.com/SamuelSchlesinger"
         }
       ]
     },
@@ -222,43 +291,6 @@
       ]
     },
     {
-      "title": "leanprover-community/mathlib3",
-      "url": "https://github.com/leanprover-community/mathlib3",
-      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "1,666",
-      "forks": "291",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
-          "name": "urkud",
-          "url": "https://github.com/urkud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
-          "name": "eric-wieser",
-          "url": "https://github.com/eric-wieser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
-          "name": "YaelDillies",
-          "url": "https://github.com/YaelDillies"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
-          "name": "jcommelin",
-          "url": "https://github.com/jcommelin"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/plausible",
       "url": "https://github.com/leanprover-community/plausible",
       "description": "",
@@ -301,7 +333,7 @@
       "description": "White-box automation for Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "410",
+      "stars": "411",
       "forks": "61",
       "addStars": "7",
       "contributors": [
@@ -444,38 +476,6 @@
       ]
     },
     {
-      "title": "leanprover/cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "777",
-      "forks": "217",
-      "addStars": "54",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
-          "name": "chenson2018",
-          "url": "https://github.com/chenson2018"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
-          "name": "ctchou",
-          "url": "https://github.com/ctchou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
-          "name": "SamuelSchlesinger",
-          "url": "https://github.com/SamuelSchlesinger"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/physlib",
       "url": "https://github.com/leanprover-community/physlib",
       "description": "A project to digitalise results from physics into Lean.",
@@ -541,43 +541,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "google-deepmind/formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "1,336",
-      "forks": "552",
-      "addStars": "51",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3491627?s=40&v=4",
-          "name": "mo271",
-          "url": "https://github.com/mo271"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72892199?s=40&v=4",
-          "name": "Paul-Lez",
-          "url": "https://github.com/Paul-Lez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47568553?s=40&v=4",
-          "name": "smmercuri",
-          "url": "https://github.com/smmercuri"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
-          "name": "YaelDillies",
-          "url": "https://github.com/YaelDillies"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66788334?s=40&v=4",
-          "name": "Konamiu",
-          "url": "https://github.com/Konamiu"
         }
       ]
     }

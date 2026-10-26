@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 Oct 2026 07:18:24 GMT",
+  "pubDate": "Mon, 26 Oct 2026 13:18:24 GMT",
   "items": [
     {
       "title": "anthropics/knowledge-work-plugins",
@@ -10,8 +10,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,061",
-      "forks": "3,644",
+      "stars": "33,126",
+      "forks": "3,648",
       "addStars": "2,790",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "135,526",
-      "forks": "12,928",
+      "stars": "135,792",
+      "forks": "12,950",
       "addStars": "6,903",
       "contributors": [
         {
@@ -74,13 +74,114 @@
       ]
     },
     {
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "115,383",
+      "forks": "22,197",
+      "addStars": "2,461",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+          "name": "Yijia-Xiao",
+          "url": "https://github.com/Yijia-Xiao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
+          "name": "EdwardoSunny",
+          "url": "https://github.com/EdwardoSunny"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
+          "name": "CadeYu",
+          "url": "https://github.com/CadeYu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
+          "name": "luohy15",
+          "url": "https://github.com/luohy15"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "41,752",
+      "forks": "4,429",
+      "addStars": "726",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/553618?s=40&v=4",
+          "name": "wshobson",
+          "url": "https://github.com/wshobson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
+          "name": "web-flow",
+          "url": "https://github.com/web-flow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130447398?s=40&v=4",
+          "name": "jau123",
+          "url": "https://github.com/jau123"
+        }
+      ]
+    },
+    {
+      "title": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "21,791",
+      "forks": "3,003",
+      "addStars": "2,492",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
+          "name": "AgriciDaniel",
+          "url": "https://github.com/AgriciDaniel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129338099?s=40&v=4",
+          "name": "Nordalux",
+          "url": "https://github.com/Nordalux"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        }
+      ]
+    },
+    {
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "143,053",
-      "forks": "16,882",
+      "stars": "143,141",
+      "forks": "16,897",
       "addStars": "4,790",
       "contributors": [
         {
@@ -111,82 +212,13 @@
       ]
     },
     {
-      "title": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "44,626",
-      "forks": "4,668",
-      "addStars": "2,245",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-          "name": "jordanecker-ant",
-          "url": "https://github.com/jordanecker-ant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-          "name": "bryan-anthropic",
-          "url": "https://github.com/bryan-anthropic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&v=4",
-          "name": "mhegazy",
-          "url": "https://github.com/mhegazy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "95,544",
-      "forks": "23,968",
-      "addStars": "1,445",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44970335?s=40&v=4",
-          "name": "DarkLight1337",
-          "url": "https://github.com/DarkLight1337"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3195154?s=40&v=4",
-          "name": "mgoin",
-          "url": "https://github.com/mgoin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46394894?s=40&v=4",
-          "name": "WoosukKwon",
-          "url": "https://github.com/WoosukKwon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19981378?s=40&v=4",
-          "name": "hmellor",
-          "url": "https://github.com/hmellor"
-        }
-      ]
-    },
-    {
       "title": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,194",
-      "forks": "10,125",
+      "stars": "104,205",
+      "forks": "10,128",
       "addStars": "1,048",
       "contributors": [
         {
@@ -202,119 +234,13 @@
       ]
     },
     {
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "57,176",
-      "forks": "5,132",
-      "addStars": "2,691",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
-          "name": "yuh-yang",
-          "url": "https://github.com/yuh-yang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
-          "name": "AiMiDi",
-          "url": "https://github.com/AiMiDi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
-          "name": "omerarslan0",
-          "url": "https://github.com/omerarslan0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&v=4",
-          "name": "hito0512",
-          "url": "https://github.com/hito0512"
-        }
-      ]
-    },
-    {
-      "title": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "87,473",
-      "forks": "9,665",
-      "addStars": "11,837",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-          "name": "debpalash",
-          "url": "https://github.com/debpalash"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-          "name": "velixio",
-          "url": "https://github.com/velixio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-          "name": "kevin9327",
-          "url": "https://github.com/kevin9327"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
-          "name": "jaketame",
-          "url": "https://github.com/jaketame"
-        }
-      ]
-    },
-    {
-      "title": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "41,725",
-      "forks": "4,426",
-      "addStars": "726",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/553618?s=40&v=4",
-          "name": "wshobson",
-          "url": "https://github.com/wshobson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
-          "name": "web-flow",
-          "url": "https://github.com/web-flow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130447398?s=40&v=4",
-          "name": "jau123",
-          "url": "https://github.com/jau123"
-        }
-      ]
-    },
-    {
       "title": "sgl-project/sglang",
       "url": "https://github.com/sgl-project/sglang",
       "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,177",
-      "forks": "9,890",
+      "stars": "38,198",
+      "forks": "9,902",
       "addStars": "946",
       "contributors": [
         {
@@ -345,13 +271,124 @@
       ]
     },
     {
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "95,592",
+      "forks": "23,983",
+      "addStars": "1,445",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44970335?s=40&v=4",
+          "name": "DarkLight1337",
+          "url": "https://github.com/DarkLight1337"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3195154?s=40&v=4",
+          "name": "mgoin",
+          "url": "https://github.com/mgoin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46394894?s=40&v=4",
+          "name": "WoosukKwon",
+          "url": "https://github.com/WoosukKwon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19981378?s=40&v=4",
+          "name": "hmellor",
+          "url": "https://github.com/hmellor"
+        }
+      ]
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "57,215",
+      "forks": "5,137",
+      "addStars": "2,691",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+          "name": "yuh-yang",
+          "url": "https://github.com/yuh-yang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
+          "name": "AiMiDi",
+          "url": "https://github.com/AiMiDi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
+          "name": "omerarslan0",
+          "url": "https://github.com/omerarslan0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&v=4",
+          "name": "hito0512",
+          "url": "https://github.com/hito0512"
+        }
+      ]
+    },
+    {
+      "title": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "3,285",
+      "forks": "407",
+      "addStars": "383",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
+          "name": "arnewouters",
+          "url": "https://github.com/arnewouters"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10217123?s=40&v=4",
+          "name": "herosjourney",
+          "url": "https://github.com/herosjourney"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/203639952?s=40&v=4",
+          "name": "anasstahr",
+          "url": "https://github.com/anasstahr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51510790?s=40&v=4",
+          "name": "rshevchuk-git",
+          "url": "https://github.com/rshevchuk-git"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3831693?s=40&v=4",
+          "name": "leon1418",
+          "url": "https://github.com/leon1418"
+        }
+      ]
+    },
+    {
       "title": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,141",
-      "forks": "5,546",
+      "stars": "45,216",
+      "forks": "5,550",
       "addStars": "3,063",
       "contributors": [
         {
@@ -387,8 +424,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,797",
-      "forks": "7,232",
+      "stars": "43,817",
+      "forks": "7,238",
       "addStars": "2,801",
       "contributors": [
         {
@@ -419,24 +456,19 @@
       ]
     },
     {
-      "title": "Kruk2/jasna",
-      "url": "https://github.com/Kruk2/jasna",
-      "description": "Video restoration tool",
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,721",
-      "forks": "288",
-      "addStars": "1,398",
+      "stars": "9,327",
+      "forks": "1,236",
+      "addStars": "1,704",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/59397941?s=40&v=4",
-          "name": "Kruk2",
-          "url": "https://github.com/Kruk2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17669188?s=40&v=4",
-          "name": "suphamster",
-          "url": "https://github.com/suphamster"
+          "avatar": "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
+          "name": "SnailSploit",
+          "url": "https://github.com/SnailSploit"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -444,120 +476,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-          "name": "kevin9327",
-          "url": "https://github.com/kevin9327"
+          "avatar": "https://avatars.githubusercontent.com/u/90972683?s=40&v=4",
+          "name": "halilkirazkaya",
+          "url": "https://github.com/halilkirazkaya"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6428432?s=40&v=4",
-          "name": "helkaluin",
-          "url": "https://github.com/helkaluin"
-        }
-      ]
-    },
-    {
-      "title": "ethanplusai/harvey",
-      "url": "https://github.com/ethanplusai/harvey",
-      "description": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "2,587",
-      "forks": "533",
-      "addStars": "1,147",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/249879463?s=40&v=4",
-          "name": "ethanplusai",
-          "url": "https://github.com/ethanplusai"
+          "avatar": "https://avatars.githubusercontent.com/u/130660521?s=40&v=4",
+          "name": "LvL23HT",
+          "url": "https://github.com/LvL23HT"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/324858924?s=40&v=4",
-          "name": "gabrielaoimevbore-beep",
-          "url": "https://github.com/gabrielaoimevbore-beep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113460291?s=40&v=4",
-          "name": "thekasyap",
-          "url": "https://github.com/thekasyap"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/336808523?s=40&v=4",
-          "name": "xiaoheiai4719-collab",
-          "url": "https://github.com/xiaoheiai4719-collab"
-        }
-      ]
-    },
-    {
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "54,638",
-      "forks": "4,819",
-      "addStars": "2,030",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-          "name": "timothykassis",
-          "url": "https://github.com/timothykassis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
-          "name": "borealBytes",
-          "url": "https://github.com/borealBytes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "114,992",
-      "forks": "22,163",
-      "addStars": "2,461",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
-          "name": "Yijia-Xiao",
-          "url": "https://github.com/Yijia-Xiao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
-          "name": "EdwardoSunny",
-          "url": "https://github.com/EdwardoSunny"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
-          "name": "CadeYu",
-          "url": "https://github.com/CadeYu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
-          "name": "luohy15",
-          "url": "https://github.com/luohy15"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/246077594?s=40&v=4",
+          "name": "yogesh-tessl",
+          "url": "https://github.com/yogesh-tessl"
         }
       ]
     }
