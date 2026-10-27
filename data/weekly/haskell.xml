@@ -3,7 +3,7 @@
     <title>GitHub Haskell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Haskell Languages in GitHub</description>
-    <pubDate>Tue, 27 Oct 2026 07:18:34 GMT</pubDate>
+    <pubDate>Tue, 27 Oct 2026 13:11:26 GMT</pubDate>
     <item>
       <title>koalaman/shellcheck</title>
       <link>https://github.com/koalaman/shellcheck</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/koalaman/shellcheck</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>40,251</stars>
+      <stars>40,253</stars>
       <forks>1,970</forks>
       <addStars>53</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/simplex-chat/simplex-chat</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>19,602</stars>
+      <stars>19,603</stars>
       <forks>1,317</forks>
       <addStars>49</addStars>
       <contributors>
@@ -77,6 +77,39 @@
           <avatar>https://avatars.githubusercontent.com/u/112780386?s=40&amp;v=4</avatar>
           <name>mlanp</name>
           <url>https://github.com/mlanp</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>haskell/cabal</title>
+      <link>https://github.com/haskell/cabal</link>
+      <description>Official upstream development repository for Cabal and cabal-install</description>
+      <guid>https://github.com/haskell/cabal</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>1,748</stars>
+      <forks>761</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47439?s=40&amp;v=4</avatar>
+          <name>23Skidoo</name>
+          <url>https://github.com/23Skidoo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
+          <name>dcoutts</name>
+          <url>https://github.com/dcoutts</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51087?s=40&amp;v=4</avatar>
+          <name>phadej</name>
+          <url>https://github.com/phadej</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13564?s=40&amp;v=4</avatar>
+          <name>ezyang</name>
+          <url>https://github.com/ezyang</url>
         </contributor>
       </contributors>
     </item>
@@ -119,133 +152,6 @@
       </contributors>
     </item>
     <item>
-      <title>hadolint/hadolint</title>
-      <link>https://github.com/hadolint/hadolint</link>
-      <description>Dockerfile linter, validate inline bash, written in Haskell</description>
-      <guid>https://github.com/hadolint/hadolint</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>12,499</stars>
-      <forks>512</forks>
-      <addStars>18</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37621?s=40&amp;v=4</avatar>
-          <name>lorenzo</name>
-          <url>https://github.com/lorenzo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17141774?s=40&amp;v=4</avatar>
-          <name>m-ildefons</name>
-          <url>https://github.com/m-ildefons</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1288339?s=40&amp;v=4</avatar>
-          <name>lukasmartinelli</name>
-          <url>https://github.com/lukasmartinelli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18702153?s=40&amp;v=4</avatar>
-          <name>zemanlx</name>
-          <url>https://github.com/zemanlx</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mtolly/onyx</title>
-      <link>https://github.com/mtolly/onyx</link>
-      <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
-      <guid>https://github.com/mtolly/onyx</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>306</stars>
-      <forks>25</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1427698?s=40&amp;v=4</avatar>
-          <name>mtolly</name>
-          <url>https://github.com/mtolly</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/74471839?s=40&amp;v=4</avatar>
-          <name>AddyMills</name>
-          <url>https://github.com/AddyMills</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>haskell/cabal</title>
-      <link>https://github.com/haskell/cabal</link>
-      <description>Official upstream development repository for Cabal and cabal-install</description>
-      <guid>https://github.com/haskell/cabal</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>1,748</stars>
-      <forks>761</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47439?s=40&amp;v=4</avatar>
-          <name>23Skidoo</name>
-          <url>https://github.com/23Skidoo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
-          <name>dcoutts</name>
-          <url>https://github.com/dcoutts</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51087?s=40&amp;v=4</avatar>
-          <name>phadej</name>
-          <url>https://github.com/phadej</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13564?s=40&amp;v=4</avatar>
-          <name>ezyang</name>
-          <url>https://github.com/ezyang</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hledgerorg/hledger</title>
-      <link>https://github.com/hledgerorg/hledger</link>
-      <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
-      <guid>https://github.com/hledgerorg/hledger</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>4,795</stars>
-      <forks>424</forks>
-      <addStars>19</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10144?s=40&amp;v=4</avatar>
-          <name>simonmichael</name>
-          <url>https://github.com/simonmichael</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18479956?s=40&amp;v=4</avatar>
-          <name>Xitian9</name>
-          <url>https://github.com/Xitian9</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/118058?s=40&amp;v=4</avatar>
-          <name>adept</name>
-          <url>https://github.com/adept</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/700572?s=40&amp;v=4</avatar>
-          <name>acinader</name>
-          <url>https://github.com/acinader</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/898989?s=40&amp;v=4</avatar>
-          <name>thielema</name>
-          <url>https://github.com/thielema</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>jgm/pandoc</title>
       <link>https://github.com/jgm/pandoc</link>
       <description>Universal markup converter</description>
@@ -280,6 +186,100 @@
           <avatar>https://avatars.githubusercontent.com/u/1216657?s=40&amp;v=4</avatar>
           <name>mpickering</name>
           <url>https://github.com/mpickering</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>hadolint/hadolint</title>
+      <link>https://github.com/hadolint/hadolint</link>
+      <description>Dockerfile linter, validate inline bash, written in Haskell</description>
+      <guid>https://github.com/hadolint/hadolint</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>12,499</stars>
+      <forks>512</forks>
+      <addStars>18</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37621?s=40&amp;v=4</avatar>
+          <name>lorenzo</name>
+          <url>https://github.com/lorenzo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17141774?s=40&amp;v=4</avatar>
+          <name>m-ildefons</name>
+          <url>https://github.com/m-ildefons</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1288339?s=40&amp;v=4</avatar>
+          <name>lukasmartinelli</name>
+          <url>https://github.com/lukasmartinelli</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18702153?s=40&amp;v=4</avatar>
+          <name>zemanlx</name>
+          <url>https://github.com/zemanlx</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>hledgerorg/hledger</title>
+      <link>https://github.com/hledgerorg/hledger</link>
+      <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
+      <guid>https://github.com/hledgerorg/hledger</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>4,796</stars>
+      <forks>424</forks>
+      <addStars>19</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10144?s=40&amp;v=4</avatar>
+          <name>simonmichael</name>
+          <url>https://github.com/simonmichael</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18479956?s=40&amp;v=4</avatar>
+          <name>Xitian9</name>
+          <url>https://github.com/Xitian9</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/118058?s=40&amp;v=4</avatar>
+          <name>adept</name>
+          <url>https://github.com/adept</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/700572?s=40&amp;v=4</avatar>
+          <name>acinader</name>
+          <url>https://github.com/acinader</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/898989?s=40&amp;v=4</avatar>
+          <name>thielema</name>
+          <url>https://github.com/thielema</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mtolly/onyx</title>
+      <link>https://github.com/mtolly/onyx</link>
+      <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
+      <guid>https://github.com/mtolly/onyx</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>306</stars>
+      <forks>25</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1427698?s=40&amp;v=4</avatar>
+          <name>mtolly</name>
+          <url>https://github.com/mtolly</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/74471839?s=40&amp;v=4</avatar>
+          <name>AddyMills</name>
+          <url>https://github.com/AddyMills</url>
         </contributor>
       </contributors>
     </item>

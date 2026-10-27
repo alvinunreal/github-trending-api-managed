@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 27 Oct 2026 07:18:34 GMT",
+  "pubDate": "Tue, 27 Oct 2026 13:11:26 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,629",
-      "forks": "20,528",
+      "stars": "26,631",
+      "forks": "20,530",
       "addStars": "107",
       "contributors": [
         {
@@ -111,12 +111,66 @@
       ]
     },
     {
+      "title": "nix-community/disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,400",
+      "forks": "337",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
+          "name": "lassulus",
+          "url": "https://github.com/lassulus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
+          "name": "iFreilicht",
+          "url": "https://github.com/iFreilicht"
+        }
+      ]
+    },
+    {
+      "title": "numtide/llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "2,191",
+      "forks": "311",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
+          "name": "zimbatm",
+          "url": "https://github.com/zimbatm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "nix-darwin/nix-darwin",
       "url": "https://github.com/nix-darwin/nix-darwin",
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "6,032",
+      "stars": "6,031",
       "forks": "669",
       "addStars": "25",
       "contributors": [
@@ -148,7 +202,7 @@
       "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,687",
+      "stars": "1,688",
       "forks": "174",
       "addStars": "8",
       "contributors": [
@@ -171,33 +225,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/78790545?s=40&v=4",
           "name": "sempiternal-aurora",
           "url": "https://github.com/sempiternal-aurora"
-        }
-      ]
-    },
-    {
-      "title": "numtide/llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "2,190",
-      "forks": "311",
-      "addStars": "29",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     },

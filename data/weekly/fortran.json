@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Weekly Trending",
   "description": "Weekly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 27 Oct 2026 07:18:34 GMT",
+  "pubDate": "Tue, 27 Oct 2026 13:11:26 GMT",
   "items": [
     {
       "title": "grimme-lab/xtb",
@@ -42,43 +42,6 @@
       ]
     },
     {
-      "title": "OpenFAST/openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "984",
-      "forks": "548",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
-          "name": "bjonkman",
-          "url": "https://github.com/bjonkman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2745453?s=40&v=4",
-          "name": "andrew-platt",
-          "url": "https://github.com/andrew-platt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13797903?s=40&v=4",
-          "name": "rafmudaf",
-          "url": "https://github.com/rafmudaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4530253?s=40&v=4",
-          "name": "deslaughter",
-          "url": "https://github.com/deslaughter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
-          "name": "ebranlard",
-          "url": "https://github.com/ebranlard"
-        }
-      ]
-    },
-    {
       "title": "firemodels/fds",
       "url": "https://github.com/firemodels/fds",
       "description": "Fire Dynamics Simulator",
@@ -112,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
           "name": "marcosvanella",
           "url": "https://github.com/marcosvanella"
+        }
+      ]
+    },
+    {
+      "title": "OpenFAST/openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "985",
+      "forks": "548",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
+          "name": "bjonkman",
+          "url": "https://github.com/bjonkman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2745453?s=40&v=4",
+          "name": "andrew-platt",
+          "url": "https://github.com/andrew-platt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13797903?s=40&v=4",
+          "name": "rafmudaf",
+          "url": "https://github.com/rafmudaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4530253?s=40&v=4",
+          "name": "deslaughter",
+          "url": "https://github.com/deslaughter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
+          "name": "ebranlard",
+          "url": "https://github.com/ebranlard"
         }
       ]
     },
@@ -186,80 +186,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
           "name": "vchuravy",
           "url": "https://github.com/vchuravy"
-        }
-      ]
-    },
-    {
-      "title": "wrf-model/WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,793",
-      "forks": "894",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
-          "name": "davegill",
-          "url": "https://github.com/davegill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
-          "name": "weiwangncar",
-          "url": "https://github.com/weiwangncar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
-          "name": "dudhia",
-          "url": "https://github.com/dudhia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
-          "name": "mkavulich",
-          "url": "https://github.com/mkavulich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
-          "name": "jamiebresch",
-          "url": "https://github.com/jamiebresch"
-        }
-      ]
-    },
-    {
-      "title": "ElmerCSC/elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,748",
-      "forks": "406",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
-          "name": "raback",
-          "url": "https://github.com/raback"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
-          "name": "mmalinen",
-          "url": "https://github.com/mmalinen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10937930?s=40&v=4",
-          "name": "juharu",
-          "url": "https://github.com/juharu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
-          "name": "ettaka",
-          "url": "https://github.com/ettaka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
-          "name": "juhanikataja",
-          "url": "https://github.com/juhanikataja"
         }
       ]
     }

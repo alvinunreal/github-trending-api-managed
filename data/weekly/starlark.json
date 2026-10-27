@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Weekly Trending",
   "description": "Weekly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 27 Oct 2026 07:18:34 GMT",
+  "pubDate": "Tue, 27 Oct 2026 13:11:26 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -10,7 +10,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,800",
+      "stars": "8,801",
       "forks": "2,636",
       "addStars": "16",
       "contributors": [
@@ -33,6 +33,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
           "name": "yoshi-code-bot",
           "url": "https://github.com/yoshi-code-bot"
+        }
+      ]
+    },
+    {
+      "title": "GoogleContainerTools/distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "23,175",
+      "forks": "1,441",
+      "addStars": "30",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
+          "name": "loosebazooka",
+          "url": "https://github.com/loosebazooka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
+          "name": "omBratteng",
+          "url": "https://github.com/omBratteng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
+          "name": "chanseokoh",
+          "url": "https://github.com/chanseokoh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
+          "name": "distroless-bot",
+          "url": "https://github.com/distroless-bot"
         }
       ]
     },
@@ -74,34 +106,34 @@
       ]
     },
     {
-      "title": "GoogleContainerTools/distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
+      "title": "bazelbuild/rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "23,177",
-      "forks": "1,441",
-      "addStars": "30",
+      "stars": "853",
+      "forks": "679",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
-          "name": "loosebazooka",
-          "url": "https://github.com/loosebazooka"
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
-          "name": "omBratteng",
-          "url": "https://github.com/omBratteng"
+          "avatar": "https://avatars.githubusercontent.com/u/1131704?s=40&v=4",
+          "name": "illicitonion",
+          "url": "https://github.com/illicitonion"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
-          "name": "chanseokoh",
-          "url": "https://github.com/chanseokoh"
+          "avatar": "https://avatars.githubusercontent.com/u/814566?s=40&v=4",
+          "name": "hlopko",
+          "url": "https://github.com/hlopko"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
-          "name": "distroless-bot",
-          "url": "https://github.com/distroless-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/29306214?s=40&v=4",
+          "name": "krasimirgg",
+          "url": "https://github.com/krasimirgg"
         }
       ]
     },
@@ -175,43 +207,6 @@
       ]
     },
     {
-      "title": "bazel-contrib/rules_perl",
-      "url": "https://github.com/bazel-contrib/rules_perl",
-      "description": "Perl rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "31",
-      "forks": "49",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
-          "name": "UebelAndre",
-          "url": "https://github.com/UebelAndre"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/190297?s=40&v=4",
-          "name": "PiotrSikora",
-          "url": "https://github.com/PiotrSikora"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1487600?s=40&v=4",
-          "name": "skeletonkey",
-          "url": "https://github.com/skeletonkey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
-          "name": "fmeum",
-          "url": "https://github.com/fmeum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48310225?s=40&v=4",
-          "name": "jheaff1",
-          "url": "https://github.com/jheaff1"
-        }
-      ]
-    },
-    {
       "title": "bazelbuild/bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
@@ -249,6 +244,43 @@
       ]
     },
     {
+      "title": "bazel-contrib/rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "31",
+      "forks": "49",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/190297?s=40&v=4",
+          "name": "PiotrSikora",
+          "url": "https://github.com/PiotrSikora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1487600?s=40&v=4",
+          "name": "skeletonkey",
+          "url": "https://github.com/skeletonkey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48310225?s=40&v=4",
+          "name": "jheaff1",
+          "url": "https://github.com/jheaff1"
+        }
+      ]
+    },
+    {
       "title": "cel-expr/cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
@@ -282,33 +314,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
           "name": "eobrain",
           "url": "https://github.com/eobrain"
-        }
-      ]
-    },
-    {
-      "title": "immich-app/immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "363",
-      "forks": "114",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11602424?s=40&v=4",
-          "name": "bo0tzz",
-          "url": "https://github.com/bo0tzz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5434875?s=40&v=4",
-          "name": "PixelJonas",
-          "url": "https://github.com/PixelJonas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8062692?s=40&v=4",
-          "name": "orbatschow",
-          "url": "https://github.com/orbatschow"
         }
       ]
     }
