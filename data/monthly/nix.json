@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 07:18:18 GMT",
+  "pubDate": "Wed, 28 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,643",
-      "forks": "20,536",
+      "stars": "26,647",
+      "forks": "20,540",
       "addStars": "436",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,192",
+      "stars": "2,195",
       "forks": "312",
       "addStars": "181",
       "contributors": [
@@ -106,6 +106,43 @@
       ]
     },
     {
+      "title": "cloud-gouv/securix",
+      "url": "https://github.com/cloud-gouv/securix",
+      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,150",
+      "forks": "54",
+      "addStars": "63",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/195482661?s=40&v=4",
+          "name": "rlahfa-dinum",
+          "url": "https://github.com/rlahfa-dinum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/229733000?s=40&v=4",
+          "name": "plegrand-dinum",
+          "url": "https://github.com/plegrand-dinum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/195457469?s=40&v=4",
+          "name": "jdauphant-dinum",
+          "url": "https://github.com/jdauphant-dinum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3425311?s=40&v=4",
+          "name": "nlewo",
+          "url": "https://github.com/nlewo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/326417883?s=40&v=4",
+          "name": "ldesgouilles-dinum",
+          "url": "https://github.com/ldesgouilles-dinum"
+        }
+      ]
+    },
+    {
       "title": "nix-community/NixOS-WSL",
       "url": "https://github.com/nix-community/NixOS-WSL",
       "description": "NixOS on WSL [maintainer=@nzbr]",
@@ -134,6 +171,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/332418?s=40&v=4",
           "name": "Trundle",
           "url": "https://github.com/Trundle"
+        }
+      ]
+    },
+    {
+      "title": "NixOS/nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,347",
+      "forks": "993",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
+          "name": "mexisme",
+          "url": "https://github.com/mexisme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
+          "name": "lukateras",
+          "url": "https://github.com/lukateras"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
+          "name": "Lyndeno",
+          "url": "https://github.com/Lyndeno"
         }
       ]
     },
@@ -175,38 +244,6 @@
       ]
     },
     {
-      "title": "NixOS/nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,346",
-      "forks": "993",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
-          "name": "mexisme",
-          "url": "https://github.com/mexisme"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
-          "name": "lukateras",
-          "url": "https://github.com/lukateras"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
-          "name": "Lyndeno",
-          "url": "https://github.com/Lyndeno"
-        }
-      ]
-    },
-    {
       "title": "nix-community/home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
@@ -240,6 +277,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/20448408?s=40&v=4",
           "name": "berbiche",
           "url": "https://github.com/berbiche"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "2,451",
+      "forks": "375",
+      "addStars": "44",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90870942?s=40&v=4",
+          "name": "trueNAHO",
+          "url": "https://github.com/trueNAHO"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28959268?s=40&v=4",
+          "name": "danth",
+          "url": "https://github.com/danth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/153149335?s=40&v=4",
+          "name": "0xda157",
+          "url": "https://github.com/0xda157"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5046562?s=40&v=4",
+          "name": "MattSturgeon",
+          "url": "https://github.com/MattSturgeon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64027365?s=40&v=4",
+          "name": "urocylus",
+          "url": "https://github.com/urocylus"
         }
       ]
     }

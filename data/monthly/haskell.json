@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Monthly Trending",
   "description": "Monthly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 07:18:18 GMT",
+  "pubDate": "Wed, 28 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,7 +10,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,724",
+      "stars": "46,732",
       "forks": "5,834",
       "addStars": "525",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,257",
+      "stars": "40,259",
       "forks": "1,971",
       "addStars": "206",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,748",
+      "stars": "1,749",
       "forks": "761",
       "addStars": "4",
       "contributors": [
@@ -185,38 +185,6 @@
       ]
     },
     {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "12,499",
-      "forks": "512",
-      "addStars": "79",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
-        }
-      ]
-    },
-    {
       "title": "elm/compiler",
       "url": "https://github.com/elm/compiler",
       "description": "Compiler for Elm, a functional language for reliable webapps.",
@@ -250,6 +218,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/6323656?s=40&v=4",
           "name": "xash",
           "url": "https://github.com/xash"
+        }
+      ]
+    },
+    {
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "12,501",
+      "forks": "512",
+      "addStars": "79",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
         }
       ]
     },
@@ -291,60 +291,6 @@
       ]
     },
     {
-      "title": "haskell/haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,963",
-      "forks": "470",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
-          "name": "pepeiborra",
-          "url": "https://github.com/pepeiborra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
-          "name": "jneira",
-          "url": "https://github.com/jneira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
-          "name": "fendor",
-          "url": "https://github.com/fendor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
-          "name": "wz1000",
-          "url": "https://github.com/wz1000"
-        }
-      ]
-    },
-    {
-      "title": "mtolly/onyx",
-      "url": "https://github.com/mtolly/onyx",
-      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "307",
-      "forks": "25",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1427698?s=40&v=4",
-          "name": "mtolly",
-          "url": "https://github.com/mtolly"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74471839?s=40&v=4",
-          "name": "AddyMills",
-          "url": "https://github.com/AddyMills"
-        }
-      ]
-    },
-    {
       "title": "digital-asset/daml",
       "url": "https://github.com/digital-asset/daml",
       "description": "The Daml smart contract language",
@@ -373,6 +319,60 @@
           "avatar": "https://avatars.githubusercontent.com/u/43749967?s=40&v=4",
           "name": "stefanobaghino-da",
           "url": "https://github.com/stefanobaghino-da"
+        }
+      ]
+    },
+    {
+      "title": "mtolly/onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "307",
+      "forks": "25",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1427698?s=40&v=4",
+          "name": "mtolly",
+          "url": "https://github.com/mtolly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74471839?s=40&v=4",
+          "name": "AddyMills",
+          "url": "https://github.com/AddyMills"
+        }
+      ]
+    },
+    {
+      "title": "haskell/haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,963",
+      "forks": "470",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
+          "name": "pepeiborra",
+          "url": "https://github.com/pepeiborra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
+          "name": "jneira",
+          "url": "https://github.com/jneira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
+          "name": "fendor",
+          "url": "https://github.com/fendor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
+          "name": "wz1000",
+          "url": "https://github.com/wz1000"
         }
       ]
     }

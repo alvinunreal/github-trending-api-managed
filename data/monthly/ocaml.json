@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Monthly Trending",
   "description": "Monthly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 07:18:18 GMT",
+  "pubDate": "Wed, 28 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "ocaml/ocaml",
@@ -11,7 +11,7 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": "6,610",
-      "forks": "1,420",
+      "forks": "1,424",
       "addStars": "60",
       "contributors": [
         {
@@ -79,12 +79,44 @@
       ]
     },
     {
+      "title": "rocq-prover/rocq",
+      "url": "https://github.com/rocq-prover/rocq",
+      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "5,643",
+      "forks": "772",
+      "addStars": "60",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1202327?s=40&v=4",
+          "name": "ppedrot",
+          "url": "https://github.com/ppedrot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2461932?s=40&v=4",
+          "name": "SkySkimmer",
+          "url": "https://github.com/SkySkimmer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/460771?s=40&v=4",
+          "name": "herbelin",
+          "url": "https://github.com/herbelin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/647105?s=40&v=4",
+          "name": "maximedenes",
+          "url": "https://github.com/maximedenes"
+        }
+      ]
+    },
+    {
       "title": "facebook/infer",
       "url": "https://github.com/facebook/infer",
       "description": "A static analyzer for Java, C, C++, and Objective-C",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "15,736",
+      "stars": "15,735",
       "forks": "2,101",
       "addStars": "39",
       "contributors": [
@@ -116,49 +148,12 @@
       ]
     },
     {
-      "title": "rescript-lang/rescript",
-      "url": "https://github.com/rescript-lang/rescript",
-      "description": "ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "7,471",
-      "forks": "484",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/747051?s=40&v=4",
-          "name": "bobzhang",
-          "url": "https://github.com/bobzhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7965335?s=40&v=4",
-          "name": "cristianoc",
-          "url": "https://github.com/cristianoc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/591384?s=40&v=4",
-          "name": "cknitt",
-          "url": "https://github.com/cknitt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3487?s=40&v=4",
-          "name": "nico",
-          "url": "https://github.com/nico"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "AeneasVerif/aeneas",
       "url": "https://github.com/AeneasVerif/aeneas",
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "1,115",
+      "stars": "1,116",
       "forks": "135",
       "addStars": "125",
       "contributors": [
@@ -223,38 +218,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/617530?s=40&v=4",
           "name": "mefyl",
           "url": "https://github.com/mefyl"
-        }
-      ]
-    },
-    {
-      "title": "rocq-prover/rocq",
-      "url": "https://github.com/rocq-prover/rocq",
-      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "5,641",
-      "forks": "772",
-      "addStars": "60",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1202327?s=40&v=4",
-          "name": "ppedrot",
-          "url": "https://github.com/ppedrot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2461932?s=40&v=4",
-          "name": "SkySkimmer",
-          "url": "https://github.com/SkySkimmer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/460771?s=40&v=4",
-          "name": "herbelin",
-          "url": "https://github.com/herbelin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/647105?s=40&v=4",
-          "name": "maximedenes",
-          "url": "https://github.com/maximedenes"
         }
       ]
     },
@@ -365,49 +328,12 @@
       ]
     },
     {
-      "title": "xapi-project/xen-api",
-      "url": "https://github.com/xapi-project/xen-api",
-      "description": "The Xapi Project's XenAPI Server",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "368",
-      "forks": "308",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5189409?s=40&v=4",
-          "name": "psafont",
-          "url": "https://github.com/psafont"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/112119?s=40&v=4",
-          "name": "johnelse",
-          "url": "https://github.com/johnelse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/721894?s=40&v=4",
-          "name": "edwintorok",
-          "url": "https://github.com/edwintorok"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/843617?s=40&v=4",
-          "name": "lindig",
-          "url": "https://github.com/lindig"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/210963?s=40&v=4",
-          "name": "jonludlam",
-          "url": "https://github.com/jonludlam"
-        }
-      ]
-    },
-    {
       "title": "opengrep/opengrep",
       "url": "https://github.com/opengrep/opengrep",
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "3,252",
+      "stars": "3,253",
       "forks": "286",
       "addStars": "140",
       "contributors": [
@@ -444,7 +370,7 @@
       "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "6,322",
+      "stars": "6,324",
       "forks": "217",
       "addStars": "52",
       "contributors": [

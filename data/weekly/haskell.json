@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 07:18:18 GMT",
+  "pubDate": "Wed, 28 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "koalaman/shellcheck",
@@ -10,7 +10,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,257",
+      "stars": "40,259",
       "forks": "1,971",
       "addStars": "63",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,748",
+      "stars": "1,749",
       "forks": "761",
       "addStars": "1",
       "contributors": [
@@ -148,75 +148,6 @@
       ]
     },
     {
-      "title": "jgm/pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "46,724",
-      "forks": "5,834",
-      "addStars": "98",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
-          "name": "jgm",
-          "url": "https://github.com/jgm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
-          "name": "tarleb",
-          "url": "https://github.com/tarleb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
-          "name": "jkr",
-          "url": "https://github.com/jkr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
-          "name": "mpickering",
-          "url": "https://github.com/mpickering"
-        }
-      ]
-    },
-    {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "12,499",
-      "forks": "512",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
-        }
-      ]
-    },
-    {
       "title": "hledgerorg/hledger",
       "url": "https://github.com/hledgerorg/hledger",
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
@@ -250,6 +181,112 @@
           "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
           "name": "thielema",
           "url": "https://github.com/thielema"
+        }
+      ]
+    },
+    {
+      "title": "agda/agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,957",
+      "forks": "433",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1155218?s=40&v=4",
+          "name": "andreasabel",
+          "url": "https://github.com/andreasabel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/447950?s=40&v=4",
+          "name": "UlfNorell",
+          "url": "https://github.com/UlfNorell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/635804?s=40&v=4",
+          "name": "asr",
+          "url": "https://github.com/asr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/293222?s=40&v=4",
+          "name": "nad",
+          "url": "https://github.com/nad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
+          "name": "jespercockx",
+          "url": "https://github.com/jespercockx"
+        }
+      ]
+    },
+    {
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "12,501",
+      "forks": "512",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
+        }
+      ]
+    },
+    {
+      "title": "jgm/pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "46,732",
+      "forks": "5,834",
+      "addStars": "98",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
+          "name": "jgm",
+          "url": "https://github.com/jgm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
+          "name": "tarleb",
+          "url": "https://github.com/tarleb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
+          "name": "jkr",
+          "url": "https://github.com/jkr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
+          "name": "mpickering",
+          "url": "https://github.com/mpickering"
         }
       ]
     },

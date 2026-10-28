@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 07:18:18 GMT",
+  "pubDate": "Wed, 28 Oct 2026 13:18:17 GMT",
   "items": [
     {
       "title": "pbakaus/impeccable",
@@ -10,8 +10,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "91,045",
-      "forks": "5,392",
+      "stars": "91,460",
+      "forks": "5,411",
       "addStars": "18,683",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,362",
-      "forks": "2,001",
+      "stars": "20,429",
+      "forks": "2,009",
       "addStars": "11,510",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,312",
-      "forks": "546",
+      "stars": "9,334",
+      "forks": "549",
       "addStars": "4,683",
       "contributors": [
         {
@@ -106,13 +106,50 @@
       ]
     },
     {
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "14,219",
+      "forks": "1,014",
+      "addStars": "5,623",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+          "name": "akitaonrails",
+          "url": "https://github.com/akitaonrails"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95101505?s=40&v=4",
+          "name": "viniciusdsandrade",
+          "url": "https://github.com/viniciusdsandrade"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+          "name": "djalmajr",
+          "url": "https://github.com/djalmajr"
+        }
+      ]
+    },
+    {
       "title": "longbridge/gpui-kit",
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,713",
-      "forks": "1,157",
+      "stars": "18,722",
+      "forks": "1,158",
       "addStars": "3,924",
       "contributors": [
         {
@@ -148,8 +185,8 @@
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,199",
-      "forks": "1,259",
+      "stars": "17,273",
+      "forks": "1,274",
       "addStars": "15,238",
       "contributors": [
         {
@@ -185,7 +222,7 @@
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,245",
+      "stars": "21,287",
       "forks": "571",
       "addStars": "19,309",
       "contributors": [
@@ -217,45 +254,13 @@
       ]
     },
     {
-      "title": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "27,970",
-      "forks": "2,531",
-      "addStars": "7,107",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
-          "name": "t8y2",
-          "url": "https://github.com/t8y2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
-          "name": "zipg",
-          "url": "https://github.com/zipg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
-          "name": "eryajf",
-          "url": "https://github.com/eryajf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/164191365?s=40&v=4",
-          "name": "lxk955",
-          "url": "https://github.com/lxk955"
-        }
-      ]
-    },
-    {
       "title": "jub0t/Concat",
       "url": "https://github.com/jub0t/Concat",
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,210",
-      "forks": "1,500",
+      "stars": "12,308",
+      "forks": "1,512",
       "addStars": "8,241",
       "contributors": [
         {
@@ -286,50 +291,13 @@
       ]
     },
     {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "14,161",
-      "forks": "1,010",
-      "addStars": "5,623",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-          "name": "akitaonrails",
-          "url": "https://github.com/akitaonrails"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95101505?s=40&v=4",
-          "name": "viniciusdsandrade",
-          "url": "https://github.com/viniciusdsandrade"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-          "name": "rudycelekli",
-          "url": "https://github.com/rudycelekli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-          "name": "djalmajr",
-          "url": "https://github.com/djalmajr"
-        }
-      ]
-    },
-    {
       "title": "bevyengine/bevy",
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,329",
-      "forks": "4,988",
+      "stars": "49,337",
+      "forks": "4,992",
       "addStars": "1,034",
       "contributors": [
         {
@@ -360,39 +328,34 @@
       ]
     },
     {
-      "title": "pydantic/monty",
-      "url": "https://github.com/pydantic/monty",
-      "description": "A secure Python sandbox, written in Rust, for code written by AI.",
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,797",
-      "forks": "476",
-      "addStars": "461",
+      "stars": "28,011",
+      "forks": "2,539",
+      "addStars": "7,107",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&v=4",
-          "name": "samuelcolvin",
-          "url": "https://github.com/samuelcolvin"
+          "avatar": "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
+          "name": "t8y2",
+          "url": "https://github.com/t8y2"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
+          "name": "zipg",
+          "url": "https://github.com/zipg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1939362?s=40&v=4",
-          "name": "davidhewitt",
-          "url": "https://github.com/davidhewitt"
+          "avatar": "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
+          "name": "eryajf",
+          "url": "https://github.com/eryajf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33395399?s=40&v=4",
-          "name": "rewitt94",
-          "url": "https://github.com/rewitt94"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13347?s=40&v=4",
-          "name": "petyosi",
-          "url": "https://github.com/petyosi"
+          "avatar": "https://avatars.githubusercontent.com/u/164191365?s=40&v=4",
+          "name": "lxk955",
+          "url": "https://github.com/lxk955"
         }
       ]
     },
@@ -402,8 +365,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "127,345",
-      "forks": "20,081",
+      "stars": "127,311",
+      "forks": "20,087",
       "addStars": "3,178",
       "contributors": [
         {
@@ -430,43 +393,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
           "name": "Heap-Hop",
           "url": "https://github.com/Heap-Hop"
-        }
-      ]
-    },
-    {
-      "title": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "12,696",
-      "forks": "959",
-      "addStars": "1,385",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&v=4",
-          "name": "Snowiiii",
-          "url": "https://github.com/Snowiiii"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&v=4",
-          "name": "kralverde",
-          "url": "https://github.com/kralverde"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&v=4",
-          "name": "Bryntet",
-          "url": "https://github.com/Bryntet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&v=4",
-          "name": "lukas0008",
-          "url": "https://github.com/lukas0008"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36972202?s=40&v=4",
-          "name": "RoosterBooster007",
-          "url": "https://github.com/RoosterBooster007"
         }
       ]
     },
@@ -508,7 +434,7 @@
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,980",
+      "stars": "6,990",
       "forks": "561",
       "addStars": "1,995",
       "contributors": [
@@ -545,8 +471,8 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,929",
-      "forks": "178",
+      "stars": "2,963",
+      "forks": "180",
       "addStars": "949",
       "contributors": [
         {
@@ -577,34 +503,39 @@
       ]
     },
     {
-      "title": "voidzero-dev/vite-plus",
-      "url": "https://github.com/voidzero-dev/vite-plus",
-      "description": "The unified toolchain and entry point for web development.",
+      "title": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,506",
-      "forks": "296",
-      "addStars": "674",
+      "stars": "12,701",
+      "forks": "960",
+      "addStars": "1,385",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/156269?s=40&v=4",
-          "name": "fengmk2",
-          "url": "https://github.com/fengmk2"
+          "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&v=4",
+          "name": "Snowiiii",
+          "url": "https://github.com/Snowiiii"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3468483?s=40&v=4",
-          "name": "Brooooooklyn",
-          "url": "https://github.com/Brooooooklyn"
+          "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&v=4",
+          "name": "kralverde",
+          "url": "https://github.com/kralverde"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/118944686?s=40&v=4",
-          "name": "jong-kyung",
-          "url": "https://github.com/jong-kyung"
+          "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&v=4",
+          "name": "Bryntet",
+          "url": "https://github.com/Bryntet"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3612422?s=40&v=4",
-          "name": "wan9chi",
-          "url": "https://github.com/wan9chi"
+          "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&v=4",
+          "name": "lukas0008",
+          "url": "https://github.com/lukas0008"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36972202?s=40&v=4",
+          "name": "RoosterBooster007",
+          "url": "https://github.com/RoosterBooster007"
         }
       ]
     },
@@ -614,8 +545,8 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,637",
-      "forks": "424",
+      "stars": "3,646",
+      "forks": "427",
       "addStars": "1,317",
       "contributors": [
         {
@@ -646,34 +577,39 @@
       ]
     },
     {
-      "title": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+      "title": "zerx-lab/FluxDown",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,152",
-      "forks": "2,284",
-      "addStars": "4,641",
+      "stars": "5,101",
+      "forks": "300",
+      "addStars": "1,906",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
-          "name": "f-trycua",
-          "url": "https://github.com/f-trycua"
+          "avatar": "https://avatars.githubusercontent.com/u/161401688?s=40&v=4",
+          "name": "zerx-lab",
+          "url": "https://github.com/zerx-lab"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86734069?s=40&v=4",
+          "name": "ZerxLabBot",
+          "url": "https://github.com/ZerxLabBot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72749591?s=40&v=4",
+          "name": "MIt-gancm",
+          "url": "https://github.com/MIt-gancm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/264628003?s=40&v=4",
+          "name": "yashodhan-krita",
+          "url": "https://github.com/yashodhan-krita"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
-          "name": "ddupont808",
-          "url": "https://github.com/ddupont808"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57335981?s=40&v=4",
-          "name": "r33drichards",
-          "url": "https://github.com/r33drichards"
         }
       ]
     },
@@ -683,8 +619,8 @@
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,429",
-      "forks": "187",
+      "stars": "1,431",
+      "forks": "189",
       "addStars": "621",
       "contributors": [
         {
@@ -720,7 +656,7 @@
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,816",
+      "stars": "31,821",
       "forks": "2,270",
       "addStars": "1,158",
       "contributors": [
@@ -748,6 +684,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/127506429?s=40&v=4",
           "name": "rustbasic",
           "url": "https://github.com/rustbasic"
+        }
+      ]
+    },
+    {
+      "title": "voidzero-dev/vite-plus",
+      "url": "https://github.com/voidzero-dev/vite-plus",
+      "description": "The unified toolchain and entry point for web development.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "6,510",
+      "forks": "296",
+      "addStars": "674",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156269?s=40&v=4",
+          "name": "fengmk2",
+          "url": "https://github.com/fengmk2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3468483?s=40&v=4",
+          "name": "Brooooooklyn",
+          "url": "https://github.com/Brooooooklyn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118944686?s=40&v=4",
+          "name": "jong-kyung",
+          "url": "https://github.com/jong-kyung"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3612422?s=40&v=4",
+          "name": "wan9chi",
+          "url": "https://github.com/wan9chi"
+        }
+      ]
+    },
+    {
+      "title": "changexbc/workbuddy-switch",
+      "url": "https://github.com/changexbc/workbuddy-switch",
+      "description": "WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "1,579",
+      "forks": "214",
+      "addStars": "699",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8199684?s=40&v=4",
+          "name": "changexbc",
+          "url": "https://github.com/changexbc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78581469?s=40&v=4",
+          "name": "magicapple123",
+          "url": "https://github.com/magicapple123"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46642679?s=40&v=4",
+          "name": "NicholasLea",
+          "url": "https://github.com/NicholasLea"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43734212?s=40&v=4",
+          "name": "Mintimate",
+          "url": "https://github.com/Mintimate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/202139834?s=40&v=4",
+          "name": "t3nc",
+          "url": "https://github.com/t3nc"
         }
       ]
     }
