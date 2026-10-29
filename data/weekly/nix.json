@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 07:02:26 GMT",
+  "pubDate": "Thu, 29 Oct 2026 13:18:22 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,649",
-      "forks": "20,550",
+      "stars": "26,655",
+      "forks": "20,555",
       "addStars": "104",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "10,474",
+      "stars": "10,473",
       "forks": "2,506",
       "addStars": "25",
       "contributors": [
@@ -79,12 +79,34 @@
       ]
     },
     {
+      "title": "Mic92/sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,248",
+      "forks": "238",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
+          "name": "dasJ",
+          "url": "https://github.com/dasJ"
+        }
+      ]
+    },
+    {
       "title": "NixOS/nixos-hardware",
       "url": "https://github.com/NixOS/nixos-hardware",
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,348",
+      "stars": "3,349",
       "forks": "992",
       "addStars": "11",
       "contributors": [
@@ -117,7 +139,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "596",
-      "forks": "44",
+      "forks": "45",
       "addStars": "16",
       "contributors": [
         {
@@ -144,87 +166,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/128353633?s=40&v=4",
           "name": "N1meses",
           "url": "https://github.com/N1meses"
-        }
-      ]
-    },
-    {
-      "title": "numtide/llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "2,200",
-      "forks": "312",
-      "addStars": "32",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/nixos-apple-silicon",
-      "url": "https://github.com/nix-community/nixos-apple-silicon",
-      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,693",
-      "forks": "175",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208010?s=40&v=4",
-          "name": "tpwrules",
-          "url": "https://github.com/tpwrules"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/183879?s=40&v=4",
-          "name": "flokli",
-          "url": "https://github.com/flokli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/193895068?s=40&v=4",
-          "name": "yuyuyureka",
-          "url": "https://github.com/yuyuyureka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78790545?s=40&v=4",
-          "name": "sempiternal-aurora",
-          "url": "https://github.com/sempiternal-aurora"
-        }
-      ]
-    },
-    {
-      "title": "Mic92/sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,249",
-      "forks": "237",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
-          "name": "dasJ",
-          "url": "https://github.com/dasJ"
         }
       ]
     }

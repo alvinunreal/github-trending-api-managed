@@ -2,15 +2,52 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 07:02:26 GMT",
+  "pubDate": "Thu, 29 Oct 2026 13:18:22 GMT",
   "items": [
+    {
+      "title": "iterorganization/JOREK",
+      "url": "https://github.com/iterorganization/JOREK",
+      "description": "Non-linear extended fluid and hybrid fluid-kinetic code for simulations of transient events in magnetically confined fusion plasmas. Documentation Wiki: https://iterorganization.github.io/JOREK",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "62",
+      "forks": "42",
+      "addStars": "42",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36197091?s=40&v=4",
+          "name": "csommariva",
+          "url": "https://github.com/csommariva"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35944?s=40&v=4",
+          "name": "DaanVanVugt",
+          "url": "https://github.com/DaanVanVugt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101673476?s=40&v=4",
+          "name": "spamela-ukaea",
+          "url": "https://github.com/spamela-ukaea"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/196643851?s=40&v=4",
+          "name": "Daniel-Maris",
+          "url": "https://github.com/Daniel-Maris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/253468153?s=40&v=4",
+          "name": "enardon",
+          "url": "https://github.com/enardon"
+        }
+      ]
+    },
     {
       "title": "firemodels/fds",
       "url": "https://github.com/firemodels/fds",
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "898",
+      "stars": "899",
       "forks": "698",
       "addStars": "20",
       "contributors": [
@@ -47,7 +84,7 @@
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "985",
+      "stars": "984",
       "forks": "548",
       "addStars": "12",
       "contributors": [
@@ -75,43 +112,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
           "name": "ebranlard",
           "url": "https://github.com/ebranlard"
-        }
-      ]
-    },
-    {
-      "title": "wrf-model/WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,796",
-      "forks": "894",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
-          "name": "davegill",
-          "url": "https://github.com/davegill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
-          "name": "weiwangncar",
-          "url": "https://github.com/weiwangncar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
-          "name": "dudhia",
-          "url": "https://github.com/dudhia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
-          "name": "mkavulich",
-          "url": "https://github.com/mkavulich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
-          "name": "jamiebresch",
-          "url": "https://github.com/jamiebresch"
         }
       ]
     },
@@ -153,6 +153,43 @@
       ]
     },
     {
+      "title": "wrf-model/WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,796",
+      "forks": "894",
+      "addStars": "28",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
+          "name": "davegill",
+          "url": "https://github.com/davegill"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
+          "name": "weiwangncar",
+          "url": "https://github.com/weiwangncar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
+          "name": "dudhia",
+          "url": "https://github.com/dudhia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
+          "name": "mkavulich",
+          "url": "https://github.com/mkavulich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
+          "name": "jamiebresch",
+          "url": "https://github.com/jamiebresch"
+        }
+      ]
+    },
+    {
       "title": "cp2k/cp2k",
       "url": "https://github.com/cp2k/cp2k",
       "description": "Quantum chemistry and solid state physics software package",
@@ -190,43 +227,6 @@
       ]
     },
     {
-      "title": "ElmerCSC/elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,748",
-      "forks": "407",
-      "addStars": "35",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
-          "name": "raback",
-          "url": "https://github.com/raback"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
-          "name": "mmalinen",
-          "url": "https://github.com/mmalinen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10937930?s=40&v=4",
-          "name": "juharu",
-          "url": "https://github.com/juharu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
-          "name": "ettaka",
-          "url": "https://github.com/ettaka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
-          "name": "juhanikataja",
-          "url": "https://github.com/juhanikataja"
-        }
-      ]
-    },
-    {
       "title": "ESCOMP/CTSM",
       "url": "https://github.com/ESCOMP/CTSM",
       "description": "Community Terrestrial Systems Model (includes the Community Land Model of CESM)",
@@ -260,6 +260,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/7565064?s=40&v=4",
           "name": "glemieux",
           "url": "https://github.com/glemieux"
+        }
+      ]
+    },
+    {
+      "title": "ElmerCSC/elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,750",
+      "forks": "407",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
+          "name": "raback",
+          "url": "https://github.com/raback"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
+          "name": "mmalinen",
+          "url": "https://github.com/mmalinen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10937930?s=40&v=4",
+          "name": "juharu",
+          "url": "https://github.com/juharu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
+          "name": "ettaka",
+          "url": "https://github.com/ettaka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
+          "name": "juhanikataja",
+          "url": "https://github.com/juhanikataja"
         }
       ]
     }

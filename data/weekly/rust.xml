@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Thu, 29 Oct 2026 07:02:26 GMT</pubDate>
+    <pubDate>Thu, 29 Oct 2026 13:18:22 GMT</pubDate>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>93,549</stars>
-      <forks>5,522</forks>
+      <stars>94,415</stars>
+      <forks>5,575</forks>
       <addStars>7,283</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,339</stars>
-      <forks>1,026</forks>
+      <stars>14,372</stars>
+      <forks>1,030</forks>
       <addStars>2,194</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/pollen-robotics/microduck</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,988</stars>
-      <forks>1,603</forks>
+      <stars>13,039</stars>
+      <forks>1,610</forks>
       <addStars>3,245</addStars>
       <contributors>
         <contributor>
@@ -114,14 +114,47 @@
       </contributors>
     </item>
     <item>
+      <title>agentgateway/agentgateway</title>
+      <link>https://github.com/agentgateway/agentgateway</link>
+      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
+      <guid>https://github.com/agentgateway/agentgateway</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>5,766</stars>
+      <forks>1,020</forks>
+      <addStars>259</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/623453?s=40&amp;v=4</avatar>
+          <name>howardjohn</name>
+          <url>https://github.com/howardjohn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4185086?s=40&amp;v=4</avatar>
+          <name>EItanya</name>
+          <url>https://github.com/EItanya</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15183287?s=40&amp;v=4</avatar>
+          <name>npolshakova</name>
+          <url>https://github.com/npolshakova</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61794?s=40&amp;v=4</avatar>
+          <name>markuskobler</name>
+          <url>https://github.com/markuskobler</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>xerj-org/xerj</title>
       <link>https://github.com/xerj-org/xerj</link>
       <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,407</stars>
-      <forks>1,309</forks>
+      <stars>17,486</stars>
+      <forks>1,322</forks>
       <addStars>4,974</addStars>
       <contributors>
         <contributor>
@@ -152,52 +185,14 @@
       </contributors>
     </item>
     <item>
-      <title>ZSeven-W/openpencil</title>
-      <link>https://github.com/ZSeven-W/openpencil</link>
-      <description>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
-      <guid>https://github.com/ZSeven-W/openpencil</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>6,928</stars>
-      <forks>601</forks>
-      <addStars>487</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/162498?s=40&amp;v=4</avatar>
-          <name>finiking</name>
-          <url>https://github.com/finiking</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30104542?s=40&amp;v=4</avatar>
-          <name>Kayshen-X</name>
-          <url>https://github.com/Kayshen-X</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60176594?s=40&amp;v=4</avatar>
-          <name>leinaldo</name>
-          <url>https://github.com/leinaldo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4</avatar>
-          <name>kevin9327</name>
-          <url>https://github.com/kevin9327</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>macro-inc/macro</title>
       <link>https://github.com/macro-inc/macro</link>
       <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
       <guid>https://github.com/macro-inc/macro</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,567</stars>
-      <forks>527</forks>
+      <stars>5,624</stars>
+      <forks>531</forks>
       <addStars>475</addStars>
       <contributors>
         <contributor>
@@ -228,14 +223,118 @@
       </contributors>
     </item>
     <item>
+      <title>ZSeven-W/openpencil</title>
+      <link>https://github.com/ZSeven-W/openpencil</link>
+      <description>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
+      <guid>https://github.com/ZSeven-W/openpencil</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>6,942</stars>
+      <forks>603</forks>
+      <addStars>487</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/162498?s=40&amp;v=4</avatar>
+          <name>finiking</name>
+          <url>https://github.com/finiking</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30104542?s=40&amp;v=4</avatar>
+          <name>Kayshen-X</name>
+          <url>https://github.com/Kayshen-X</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60176594?s=40&amp;v=4</avatar>
+          <name>leinaldo</name>
+          <url>https://github.com/leinaldo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4</avatar>
+          <name>kevin9327</name>
+          <url>https://github.com/kevin9327</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ruvnet/RuView</title>
+      <link>https://github.com/ruvnet/RuView</link>
+      <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+      <guid>https://github.com/ruvnet/RuView</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>101,474</stars>
+      <forks>13,187</forks>
+      <addStars>2,449</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
+          <name>ruvnet</name>
+          <url>https://github.com/ruvnet</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4</avatar>
+          <name>proffesor-for-testing</name>
+          <url>https://github.com/proffesor-for-testing</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/124563?s=40&amp;v=4</avatar>
+          <name>aepod</name>
+          <url>https://github.com/aepod</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>stalwartlabs/stalwart</title>
+      <link>https://github.com/stalwartlabs/stalwart</link>
+      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+      <guid>https://github.com/stalwartlabs/stalwart</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>15,485</stars>
+      <forks>1,029</forks>
+      <addStars>264</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11444311?s=40&amp;v=4</avatar>
+          <name>mdecimus</name>
+          <url>https://github.com/mdecimus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/279488187?s=40&amp;v=4</avatar>
+          <name>stalwart-labs</name>
+          <url>https://github.com/stalwart-labs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31735039?s=40&amp;v=4</avatar>
+          <name>vickunwu</name>
+          <url>https://github.com/vickunwu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1345795?s=40&amp;v=4</avatar>
+          <name>rmsc</name>
+          <url>https://github.com/rmsc</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>CapSoftware/Cap</title>
       <link>https://github.com/CapSoftware/Cap</link>
       <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
       <guid>https://github.com/CapSoftware/Cap</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>24,028</stars>
-      <forks>2,191</forks>
+      <stars>24,043</stars>
+      <forks>2,195</forks>
       <addStars>519</addStars>
       <contributors>
         <contributor>
@@ -272,8 +371,8 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,625</stars>
-      <forks>2,022</forks>
+      <stars>20,664</stars>
+      <forks>2,024</forks>
       <addStars>3,555</addStars>
       <contributors>
         <contributor>
@@ -304,106 +403,106 @@
       </contributors>
     </item>
     <item>
-      <title>agentgateway/agentgateway</title>
-      <link>https://github.com/agentgateway/agentgateway</link>
-      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
-      <guid>https://github.com/agentgateway/agentgateway</guid>
+      <title>xai-org/x-algorithm</title>
+      <link>https://github.com/xai-org/x-algorithm</link>
+      <description>Algorithm powering the For You feed on X</description>
+      <guid>https://github.com/xai-org/x-algorithm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,750</stars>
-      <forks>1,015</forks>
-      <addStars>259</addStars>
+      <stars>33,893</stars>
+      <forks>5,480</forks>
+      <addStars>171</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/623453?s=40&amp;v=4</avatar>
-          <name>howardjohn</name>
-          <url>https://github.com/howardjohn</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4185086?s=40&amp;v=4</avatar>
-          <name>EItanya</name>
-          <url>https://github.com/EItanya</url>
+          <avatar>https://avatars.githubusercontent.com/u/219145320?s=40&amp;v=4</avatar>
+          <name>joshs1017dev</name>
+          <url>https://github.com/joshs1017dev</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15183287?s=40&amp;v=4</avatar>
-          <name>npolshakova</name>
-          <url>https://github.com/npolshakova</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61794?s=40&amp;v=4</avatar>
-          <name>markuskobler</name>
-          <url>https://github.com/markuskobler</url>
+          <avatar>https://avatars.githubusercontent.com/u/320713965?s=40&amp;v=4</avatar>
+          <name>x-open-source</name>
+          <url>https://github.com/x-open-source</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>stalwartlabs/stalwart</title>
-      <link>https://github.com/stalwartlabs/stalwart</link>
-      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
-      <guid>https://github.com/stalwartlabs/stalwart</guid>
+      <title>trymirai/uzu</title>
+      <link>https://github.com/trymirai/uzu</link>
+      <description>A high-performance inference engine for AI models</description>
+      <guid>https://github.com/trymirai/uzu</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,480</stars>
-      <forks>1,029</forks>
-      <addStars>264</addStars>
+      <stars>3,022</stars>
+      <forks>185</forks>
+      <addStars>509</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11444311?s=40&amp;v=4</avatar>
-          <name>mdecimus</name>
-          <url>https://github.com/mdecimus</url>
+          <avatar>https://avatars.githubusercontent.com/u/83587632?s=40&amp;v=4</avatar>
+          <name>uuuvn</name>
+          <url>https://github.com/uuuvn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/279488187?s=40&amp;v=4</avatar>
-          <name>stalwart-labs</name>
-          <url>https://github.com/stalwart-labs</url>
+          <avatar>https://avatars.githubusercontent.com/u/8983647?s=40&amp;v=4</avatar>
+          <name>eugenebokhan</name>
+          <url>https://github.com/eugenebokhan</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31735039?s=40&amp;v=4</avatar>
-          <name>vickunwu</name>
-          <url>https://github.com/vickunwu</url>
+          <avatar>https://avatars.githubusercontent.com/u/46629671?s=40&amp;v=4</avatar>
+          <name>CC-Yeh</name>
+          <url>https://github.com/CC-Yeh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1345795?s=40&amp;v=4</avatar>
-          <name>rmsc</name>
-          <url>https://github.com/rmsc</url>
+          <avatar>https://avatars.githubusercontent.com/u/5617556?s=40&amp;v=4</avatar>
+          <name>agolokoz</name>
+          <url>https://github.com/agolokoz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13415959?s=40&amp;v=4</avatar>
+          <name>alexxale</name>
+          <url>https://github.com/alexxale</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>nautechsystems/nautilus_trader</title>
-      <link>https://github.com/nautechsystems/nautilus_trader</link>
-      <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
-      <guid>https://github.com/nautechsystems/nautilus_trader</guid>
+      <title>NVIDIA/cuda-rust</title>
+      <link>https://github.com/NVIDIA/cuda-rust</link>
+      <description>NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.</description>
+      <guid>https://github.com/NVIDIA/cuda-rust</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>31,014</stars>
-      <forks>4,176</forks>
-      <addStars>548</addStars>
+      <stars>3,870</stars>
+      <forks>349</forks>
+      <addStars>101</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4</avatar>
-          <name>cjdsellers</name>
-          <url>https://github.com/cjdsellers</url>
+          <avatar>https://avatars.githubusercontent.com/u/20253082?s=40&amp;v=4</avatar>
+          <name>nihalpasham</name>
+          <url>https://github.com/nihalpasham</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4</avatar>
-          <name>faysou</name>
-          <url>https://github.com/faysou</url>
+          <avatar>https://avatars.githubusercontent.com/u/1884921?s=40&amp;v=4</avatar>
+          <name>elibol</name>
+          <url>https://github.com/elibol</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4816153?s=40&amp;v=4</avatar>
-          <name>limx0</name>
-          <url>https://github.com/limx0</url>
+          <avatar>https://avatars.githubusercontent.com/u/115854244?s=40&amp;v=4</avatar>
+          <name>vyncint</name>
+          <url>https://github.com/vyncint</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16453976?s=40&amp;v=4</avatar>
-          <name>filipmacek</name>
-          <url>https://github.com/filipmacek</url>
+          <avatar>https://avatars.githubusercontent.com/u/2509572?s=40&amp;v=4</avatar>
+          <name>uurl</name>
+          <url>https://github.com/uurl</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49148?s=40&amp;v=4</avatar>
-          <name>davidsblom</name>
-          <url>https://github.com/davidsblom</url>
+          <avatar>https://avatars.githubusercontent.com/u/140040678?s=40&amp;v=4</avatar>
+          <name>alejandro-soto-franco</name>
+          <url>https://github.com/alejandro-soto-franco</url>
         </contributor>
       </contributors>
     </item>
@@ -446,42 +545,14 @@
       </contributors>
     </item>
     <item>
-      <title>xai-org/x-algorithm</title>
-      <link>https://github.com/xai-org/x-algorithm</link>
-      <description>Algorithm powering the For You feed on X</description>
-      <guid>https://github.com/xai-org/x-algorithm</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>33,887</stars>
-      <forks>5,479</forks>
-      <addStars>171</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/219145320?s=40&amp;v=4</avatar>
-          <name>joshs1017dev</name>
-          <url>https://github.com/joshs1017dev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/320713965?s=40&amp;v=4</avatar>
-          <name>x-open-source</name>
-          <url>https://github.com/x-open-source</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>oven-sh/bun</title>
       <link>https://github.com/oven-sh/bun</link>
       <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,455</stars>
-      <forks>5,205</forks>
+      <stars>96,459</stars>
+      <forks>5,210</forks>
       <addStars>198</addStars>
       <contributors>
         <contributor>
@@ -507,40 +578,40 @@
       </contributors>
     </item>
     <item>
-      <title>trymirai/uzu</title>
-      <link>https://github.com/trymirai/uzu</link>
-      <description>A high-performance inference engine for AI models</description>
-      <guid>https://github.com/trymirai/uzu</guid>
+      <title>fabio-rovai/open-ontologies</title>
+      <link>https://github.com/fabio-rovai/open-ontologies</link>
+      <description>Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.</description>
+      <guid>https://github.com/fabio-rovai/open-ontologies</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,008</stars>
-      <forks>184</forks>
-      <addStars>509</addStars>
+      <stars>2,049</stars>
+      <forks>243</forks>
+      <addStars>824</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83587632?s=40&amp;v=4</avatar>
-          <name>uuuvn</name>
-          <url>https://github.com/uuuvn</url>
+          <avatar>https://avatars.githubusercontent.com/u/146086869?s=40&amp;v=4</avatar>
+          <name>fabio-rovai</name>
+          <url>https://github.com/fabio-rovai</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8983647?s=40&amp;v=4</avatar>
-          <name>eugenebokhan</name>
-          <url>https://github.com/eugenebokhan</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46629671?s=40&amp;v=4</avatar>
-          <name>CC-Yeh</name>
-          <url>https://github.com/CC-Yeh</url>
+          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
+          <name>rudycelekli</name>
+          <url>https://github.com/rudycelekli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5617556?s=40&amp;v=4</avatar>
-          <name>agolokoz</name>
-          <url>https://github.com/agolokoz</url>
+          <avatar>https://avatars.githubusercontent.com/u/8360521?s=40&amp;v=4</avatar>
+          <name>nicolas-geysse</name>
+          <url>https://github.com/nicolas-geysse</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13415959?s=40&amp;v=4</avatar>
-          <name>alexxale</name>
-          <url>https://github.com/alexxale</url>
+          <avatar>https://avatars.githubusercontent.com/u/1618537?s=40&amp;v=4</avatar>
+          <name>ziozzang</name>
+          <url>https://github.com/ziozzang</url>
         </contributor>
       </contributors>
     </item>

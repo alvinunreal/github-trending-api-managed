@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 07:02:26 GMT",
+  "pubDate": "Thu, 29 Oct 2026 13:18:22 GMT",
   "items": [
     {
       "title": "bazelbuild/rules_rust",
@@ -10,8 +10,8 @@
       "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "853",
-      "forks": "681",
+      "stars": "854",
+      "forks": "682",
       "addStars": "8",
       "contributors": [
         {
@@ -138,43 +138,6 @@
       ]
     },
     {
-      "title": "bazelbuild/rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "595",
-      "forks": "342",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
-          "name": "sergiocampama",
-          "url": "https://github.com/sergiocampama"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
-          "name": "thomasvl",
-          "url": "https://github.com/thomasvl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
-          "name": "brentleyjones",
-          "url": "https://github.com/brentleyjones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
-          "name": "nglevin",
-          "url": "https://github.com/nglevin"
-        }
-      ]
-    },
-    {
       "title": "uber/hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
@@ -208,6 +171,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
           "name": "jonathanbaker7",
           "url": "https://github.com/jonathanbaker7"
+        }
+      ]
+    },
+    {
+      "title": "bazelbuild/rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "595",
+      "forks": "342",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
+          "name": "sergiocampama",
+          "url": "https://github.com/sergiocampama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
+          "name": "brentleyjones",
+          "url": "https://github.com/brentleyjones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122120823?s=40&v=4",
+          "name": "nglevin",
+          "url": "https://github.com/nglevin"
         }
       ]
     },
@@ -281,38 +281,6 @@
       ]
     },
     {
-      "title": "tilt-dev/tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "243",
-      "forks": "195",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/278641?s=40&v=4",
-          "name": "nicks",
-          "url": "https://github.com/nicks"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
-          "name": "milas",
-          "url": "https://github.com/milas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6332648?s=40&v=4",
-          "name": "maiamcc",
-          "url": "https://github.com/maiamcc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7453991?s=40&v=4",
-          "name": "landism",
-          "url": "https://github.com/landism"
-        }
-      ]
-    },
-    {
       "title": "cncf/xds",
       "url": "https://github.com/cncf/xds",
       "description": "xDS API Working Group",
@@ -346,38 +314,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/454682?s=40&v=4",
           "name": "phlax",
           "url": "https://github.com/phlax"
-        }
-      ]
-    },
-    {
-      "title": "google/fully-homomorphic-encryption",
-      "url": "https://github.com/google/fully-homomorphic-encryption",
-      "description": "Homomorphic Encryption demos",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "3,785",
-      "forks": "280",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2467754?s=40&v=4",
-          "name": "j2kun",
-          "url": "https://github.com/j2kun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1027767?s=40&v=4",
-          "name": "ericastor",
-          "url": "https://github.com/ericastor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6102220?s=40&v=4",
-          "name": "code-perspective",
-          "url": "https://github.com/code-perspective"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5194569?s=40&v=4",
-          "name": "asraa",
-          "url": "https://github.com/asraa"
         }
       ]
     }
