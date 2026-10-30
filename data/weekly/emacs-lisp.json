@@ -2,15 +2,52 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 07:04:43 GMT",
+  "pubDate": "Fri, 30 Oct 2026 13:18:15 GMT",
   "items": [
+    {
+      "title": "doomemacs/core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "22,792",
+      "forks": "3,144",
+      "addStars": "31",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/510883?s=40&v=4",
+          "name": "hlissner",
+          "url": "https://github.com/hlissner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19792685?s=40&v=4",
+          "name": "iyefrat",
+          "url": "https://github.com/iyefrat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20903656?s=40&v=4",
+          "name": "tecosaur",
+          "url": "https://github.com/tecosaur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13229321?s=40&v=4",
+          "name": "patrl",
+          "url": "https://github.com/patrl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2872862?s=40&v=4",
+          "name": "elken",
+          "url": "https://github.com/elken"
+        }
+      ]
+    },
     {
       "title": "dakra/ghostel",
       "url": "https://github.com/dakra/ghostel",
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,072",
+      "stars": "1,075",
       "forks": "69",
       "addStars": "57",
       "contributors": [
@@ -42,50 +79,13 @@
       ]
     },
     {
-      "title": "emacs-mirror/emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "5,239",
-      "forks": "1,418",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20908835?s=40&v=4",
-          "name": "Eli-Zaretskii",
-          "url": "https://github.com/Eli-Zaretskii"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4054496?s=40&v=4",
-          "name": "rgmorris",
-          "url": "https://github.com/rgmorris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
-          "name": "monnier",
-          "url": "https://github.com/monnier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/572024?s=40&v=4",
-          "name": "eggert",
-          "url": "https://github.com/eggert"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/553982?s=40&v=4",
-          "name": "larsmagne",
-          "url": "https://github.com/larsmagne"
-        }
-      ]
-    },
-    {
       "title": "syl20bnr/spacemacs",
       "url": "https://github.com/syl20bnr/spacemacs",
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "24,545",
-      "forks": "4,823",
+      "stars": "24,546",
+      "forks": "4,822",
       "addStars": "8",
       "contributors": [
         {
@@ -112,6 +112,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/1239097?s=40&v=4",
           "name": "bcc32",
           "url": "https://github.com/bcc32"
+        }
+      ]
+    },
+    {
+      "title": "xenodium/agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "2,013",
+      "forks": "256",
+      "addStars": "31",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8107219?s=40&v=4",
+          "name": "xenodium",
+          "url": "https://github.com/xenodium"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/312540?s=40&v=4",
+          "name": "nhojb",
+          "url": "https://github.com/nhojb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/255802?s=40&v=4",
+          "name": "liaowang11",
+          "url": "https://github.com/liaowang11"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/592734?s=40&v=4",
+          "name": "fritzgrabo",
+          "url": "https://github.com/fritzgrabo"
+        }
+      ]
+    },
+    {
+      "title": "magit/magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "7,249",
+      "forks": "882",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1297788?s=40&v=4",
+          "name": "kyleam",
+          "url": "https://github.com/kyleam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16090?s=40&v=4",
+          "name": "sigma",
+          "url": "https://github.com/sigma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43794?s=40&v=4",
+          "name": "philjackson",
+          "url": "https://github.com/philjackson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/637127?s=40&v=4",
+          "name": "peweisberg-fadv",
+          "url": "https://github.com/peweisberg-fadv"
         }
       ]
     },
@@ -153,113 +227,39 @@
       ]
     },
     {
-      "title": "google-coral/coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "title": "emacs-mirror/emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,644",
-      "forks": "360",
-      "addStars": "33",
+      "stars": "5,239",
+      "forks": "1,418",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/168087?s=40&v=4",
-          "name": "atvrager",
-          "url": "https://github.com/atvrager"
+          "avatar": "https://avatars.githubusercontent.com/u/20908835?s=40&v=4",
+          "name": "Eli-Zaretskii",
+          "url": "https://github.com/Eli-Zaretskii"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1381752?s=40&v=4",
-          "name": "davidgao",
-          "url": "https://github.com/davidgao"
+          "avatar": "https://avatars.githubusercontent.com/u/4054496?s=40&v=4",
+          "name": "rgmorris",
+          "url": "https://github.com/rgmorris"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/107084677?s=40&v=4",
-          "name": "derekjchow-google",
-          "url": "https://github.com/derekjchow-google"
+          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
+          "name": "monnier",
+          "url": "https://github.com/monnier"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/605639?s=40&v=4",
-          "name": "unrepentantgeek",
-          "url": "https://github.com/unrepentantgeek"
+          "avatar": "https://avatars.githubusercontent.com/u/572024?s=40&v=4",
+          "name": "eggert",
+          "url": "https://github.com/eggert"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5769457?s=40&v=4",
-          "name": "mhoangy",
-          "url": "https://github.com/mhoangy"
-        }
-      ]
-    },
-    {
-      "title": "magit/magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "7,248",
-      "forks": "883",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
-          "name": "tarsius",
-          "url": "https://github.com/tarsius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1297788?s=40&v=4",
-          "name": "kyleam",
-          "url": "https://github.com/kyleam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16090?s=40&v=4",
-          "name": "sigma",
-          "url": "https://github.com/sigma"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43794?s=40&v=4",
-          "name": "philjackson",
-          "url": "https://github.com/philjackson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/637127?s=40&v=4",
-          "name": "peweisberg-fadv",
-          "url": "https://github.com/peweisberg-fadv"
-        }
-      ]
-    },
-    {
-      "title": "doomemacs/core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "22,790",
-      "forks": "3,144",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/510883?s=40&v=4",
-          "name": "hlissner",
-          "url": "https://github.com/hlissner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19792685?s=40&v=4",
-          "name": "iyefrat",
-          "url": "https://github.com/iyefrat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20903656?s=40&v=4",
-          "name": "tecosaur",
-          "url": "https://github.com/tecosaur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13229321?s=40&v=4",
-          "name": "patrl",
-          "url": "https://github.com/patrl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2872862?s=40&v=4",
-          "name": "elken",
-          "url": "https://github.com/elken"
+          "avatar": "https://avatars.githubusercontent.com/u/553982?s=40&v=4",
+          "name": "larsmagne",
+          "url": "https://github.com/larsmagne"
         }
       ]
     },
@@ -301,39 +301,39 @@
       ]
     },
     {
-      "title": "xenodium/agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
+      "title": "google-coral/coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,011",
-      "forks": "256",
-      "addStars": "31",
+      "stars": "2,648",
+      "forks": "362",
+      "addStars": "33",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8107219?s=40&v=4",
-          "name": "xenodium",
-          "url": "https://github.com/xenodium"
+          "avatar": "https://avatars.githubusercontent.com/u/168087?s=40&v=4",
+          "name": "atvrager",
+          "url": "https://github.com/atvrager"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/1381752?s=40&v=4",
+          "name": "davidgao",
+          "url": "https://github.com/davidgao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/312540?s=40&v=4",
-          "name": "nhojb",
-          "url": "https://github.com/nhojb"
+          "avatar": "https://avatars.githubusercontent.com/u/107084677?s=40&v=4",
+          "name": "derekjchow-google",
+          "url": "https://github.com/derekjchow-google"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/255802?s=40&v=4",
-          "name": "liaowang11",
-          "url": "https://github.com/liaowang11"
+          "avatar": "https://avatars.githubusercontent.com/u/605639?s=40&v=4",
+          "name": "unrepentantgeek",
+          "url": "https://github.com/unrepentantgeek"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/592734?s=40&v=4",
-          "name": "fritzgrabo",
-          "url": "https://github.com/fritzgrabo"
+          "avatar": "https://avatars.githubusercontent.com/u/5769457?s=40&v=4",
+          "name": "mhoangy",
+          "url": "https://github.com/mhoangy"
         }
       ]
     }
