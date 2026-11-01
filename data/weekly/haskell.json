@@ -2,42 +2,37 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 01 Nov 2026 07:18:20 GMT",
+  "pubDate": "Sun, 01 Nov 2026 13:18:19 GMT",
   "items": [
     {
-      "title": "koalaman/shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,266",
-      "forks": "1,972",
-      "addStars": "49",
+      "stars": "12,504",
+      "forks": "514",
+      "addStars": "19",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
-          "name": "koalaman",
-          "url": "https://github.com/koalaman"
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
-          "name": "josephcsible",
-          "url": "https://github.com/josephcsible"
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
-          "name": "e-kwsm",
-          "url": "https://github.com/e-kwsm"
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
-          "name": "ngzhian",
-          "url": "https://github.com/ngzhian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
-          "name": "contivero",
-          "url": "https://github.com/contivero"
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
         }
       ]
     },
@@ -47,7 +42,7 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "4,801",
+      "stars": "4,802",
       "forks": "425",
       "addStars": "20",
       "contributors": [
@@ -111,34 +106,39 @@
       ]
     },
     {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "title": "koalaman/shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "12,504",
-      "forks": "514",
-      "addStars": "19",
+      "stars": "40,267",
+      "forks": "1,972",
+      "addStars": "49",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
+          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
+          "name": "koalaman",
+          "url": "https://github.com/koalaman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
+          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
+          "name": "josephcsible",
+          "url": "https://github.com/josephcsible"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
+          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
+          "name": "e-kwsm",
+          "url": "https://github.com/e-kwsm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
+          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
+          "name": "ngzhian",
+          "url": "https://github.com/ngzhian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
+          "name": "contivero",
+          "url": "https://github.com/contivero"
         }
       ]
     },
@@ -148,8 +148,8 @@
       "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "2,962",
-      "forks": "433",
+      "stars": "2,963",
+      "forks": "432",
       "addStars": "8",
       "contributors": [
         {
@@ -217,39 +217,39 @@
       ]
     },
     {
-      "title": "jgm/pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
+      "title": "PostgREST/postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,771",
-      "forks": "5,152",
-      "addStars": "99",
+      "stars": "27,740",
+      "forks": "1,234",
+      "addStars": "19",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
-          "name": "jgm",
-          "url": "https://github.com/jgm"
+          "avatar": "https://avatars.githubusercontent.com/u/1829294?s=40&v=4",
+          "name": "steve-chavez",
+          "url": "https://github.com/steve-chavez"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
-          "name": "tarleb",
-          "url": "https://github.com/tarleb"
+          "avatar": "https://avatars.githubusercontent.com/u/911911?s=40&v=4",
+          "name": "begriffs",
+          "url": "https://github.com/begriffs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
-          "name": "jkr",
-          "url": "https://github.com/jkr"
+          "avatar": "https://avatars.githubusercontent.com/u/9132420?s=40&v=4",
+          "name": "wolfgangwalther",
+          "url": "https://github.com/wolfgangwalther"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/1560937?s=40&v=4",
+          "name": "nikita-volkov",
+          "url": "https://github.com/nikita-volkov"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
-          "name": "mpickering",
-          "url": "https://github.com/mpickering"
+          "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
+          "name": "laurenceisla",
+          "url": "https://github.com/laurenceisla"
         }
       ]
     },
@@ -286,39 +286,39 @@
       ]
     },
     {
-      "title": "PostgREST/postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
+      "title": "jgm/pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "27,740",
-      "forks": "1,234",
-      "addStars": "19",
+      "stars": "46,775",
+      "forks": "5,152",
+      "addStars": "99",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1829294?s=40&v=4",
-          "name": "steve-chavez",
-          "url": "https://github.com/steve-chavez"
+          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
+          "name": "jgm",
+          "url": "https://github.com/jgm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/911911?s=40&v=4",
-          "name": "begriffs",
-          "url": "https://github.com/begriffs"
+          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
+          "name": "tarleb",
+          "url": "https://github.com/tarleb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9132420?s=40&v=4",
-          "name": "wolfgangwalther",
-          "url": "https://github.com/wolfgangwalther"
+          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
+          "name": "jkr",
+          "url": "https://github.com/jkr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1560937?s=40&v=4",
-          "name": "nikita-volkov",
-          "url": "https://github.com/nikita-volkov"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
-          "name": "laurenceisla",
-          "url": "https://github.com/laurenceisla"
+          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
+          "name": "mpickering",
+          "url": "https://github.com/mpickering"
         }
       ]
     },
