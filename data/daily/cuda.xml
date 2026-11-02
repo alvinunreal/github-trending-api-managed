@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Cuda Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 07:18:24 GMT</pubDate>
+    <pubDate>Mon, 02 Nov 2026 13:18:17 GMT</pubDate>
     <item>
       <title>karpathy/llm.c</title>
       <link>https://github.com/karpathy/llm.c</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>31,365</stars>
-      <forks>3,806</forks>
+      <stars>31,371</stars>
+      <forks>3,807</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/flashinfer-ai/flashinfer</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>6,833</stars>
-      <forks>1,685</forks>
+      <stars>6,838</stars>
+      <forks>1,684</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -81,13 +81,89 @@
       </contributors>
     </item>
     <item>
+      <title>deepseek-ai/DeepEP</title>
+      <link>https://github.com/deepseek-ai/DeepEP</link>
+      <description>DeepEP: an efficient expert-parallel communication library</description>
+      <guid>https://github.com/deepseek-ai/DeepEP</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>10,402</stars>
+      <forks>1,534</forks>
+      <addStars>7</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4</avatar>
+          <name>LyricZhao</name>
+          <url>https://github.com/LyricZhao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9213347?s=40&amp;v=4</avatar>
+          <name>sphish</name>
+          <url>https://github.com/sphish</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5236035?s=40&amp;v=4</avatar>
+          <name>fzyzcjy</name>
+          <url>https://github.com/fzyzcjy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/166747556?s=40&amp;v=4</avatar>
+          <name>seth-howell</name>
+          <url>https://github.com/seth-howell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8215757?s=40&amp;v=4</avatar>
+          <name>wangfakang</name>
+          <url>https://github.com/wangfakang</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>thu-ml/SageAttention</title>
+      <link>https://github.com/thu-ml/SageAttention</link>
+      <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
+      <guid>https://github.com/thu-ml/SageAttention</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>3,987</stars>
+      <forks>541</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59364182?s=40&amp;v=4</avatar>
+          <name>jt-zhang</name>
+          <url>https://github.com/jt-zhang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/110245937?s=40&amp;v=4</avatar>
+          <name>jason-huang03</name>
+          <url>https://github.com/jason-huang03</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38180676?s=40&amp;v=4</avatar>
+          <name>whx1003</name>
+          <url>https://github.com/whx1003</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37583905?s=40&amp;v=4</avatar>
+          <name>XiaomingXu1995</name>
+          <url>https://github.com/XiaomingXu1995</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2712115?s=40&amp;v=4</avatar>
+          <name>guilhermeleobas</name>
+          <url>https://github.com/guilhermeleobas</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>NVIDIA/cuvs</title>
       <link>https://github.com/NVIDIA/cuvs</link>
       <description>cuVS - a library for vector search and clustering on the GPU</description>
       <guid>https://github.com/NVIDIA/cuvs</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>883</stars>
+      <stars>884</stars>
       <forks>255</forks>
       <addStars>1</addStars>
       <contributors>
@@ -153,44 +229,6 @@
           <avatar>https://avatars.githubusercontent.com/u/7057863?s=40&amp;v=4</avatar>
           <name>yenchenlin</name>
           <url>https://github.com/yenchenlin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>thu-ml/SageAttention</title>
-      <link>https://github.com/thu-ml/SageAttention</link>
-      <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
-      <guid>https://github.com/thu-ml/SageAttention</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>3,986</stars>
-      <forks>541</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59364182?s=40&amp;v=4</avatar>
-          <name>jt-zhang</name>
-          <url>https://github.com/jt-zhang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110245937?s=40&amp;v=4</avatar>
-          <name>jason-huang03</name>
-          <url>https://github.com/jason-huang03</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38180676?s=40&amp;v=4</avatar>
-          <name>whx1003</name>
-          <url>https://github.com/whx1003</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37583905?s=40&amp;v=4</avatar>
-          <name>XiaomingXu1995</name>
-          <url>https://github.com/XiaomingXu1995</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2712115?s=40&amp;v=4</avatar>
-          <name>guilhermeleobas</name>
-          <url>https://github.com/guilhermeleobas</url>
         </contributor>
       </contributors>
     </item>

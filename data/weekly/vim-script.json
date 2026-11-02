@@ -2,8 +2,45 @@
   "title": "GitHub Vim-script Languages Weekly Trending",
   "description": "Weekly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 07:18:24 GMT",
+  "pubDate": "Mon, 02 Nov 2026 13:18:17 GMT",
   "items": [
+    {
+      "title": "neovim/neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "103,299",
+      "forks": "7,395",
+      "addStars": "214",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
+          "name": "zeertzjq",
+          "url": "https://github.com/zeertzjq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1359421?s=40&v=4",
+          "name": "justinmk",
+          "url": "https://github.com/justinmk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
+          "name": "janlazo",
+          "url": "https://github.com/janlazo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1363104?s=40&v=4",
+          "name": "bfredl",
+          "url": "https://github.com/bfredl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2361214?s=40&v=4",
+          "name": "clason",
+          "url": "https://github.com/clason"
+        }
+      ]
+    },
     {
       "title": "vim/vim",
       "url": "https://github.com/vim/vim",
@@ -42,43 +79,6 @@
       ]
     },
     {
-      "title": "neovim/neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "103,301",
-      "forks": "7,394",
-      "addStars": "214",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
-          "name": "zeertzjq",
-          "url": "https://github.com/zeertzjq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1359421?s=40&v=4",
-          "name": "justinmk",
-          "url": "https://github.com/justinmk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
-          "name": "janlazo",
-          "url": "https://github.com/janlazo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1363104?s=40&v=4",
-          "name": "bfredl",
-          "url": "https://github.com/bfredl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2361214?s=40&v=4",
-          "name": "clason",
-          "url": "https://github.com/clason"
-        }
-      ]
-    },
-    {
       "title": "github/copilot.vim",
       "url": "https://github.com/github/copilot.vim",
       "description": "Neovim plugin for GitHub Copilot",
@@ -106,7 +106,7 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "21,817",
+      "stars": "21,818",
       "forks": "1,082",
       "addStars": "8",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "🎓 All things Vim!",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "18,038",
+      "stars": "18,039",
       "forks": "625",
       "addStars": "18",
       "contributors": [
@@ -212,12 +212,44 @@
       ]
     },
     {
+      "title": "jbranchaud/til",
+      "url": "https://github.com/jbranchaud/til",
+      "description": "📝 Today I Learned",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "14,162",
+      "forks": "748",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/694063?s=40&v=4",
+          "name": "jbranchaud",
+          "url": "https://github.com/jbranchaud"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4399718?s=40&v=4",
+          "name": "sdegutis",
+          "url": "https://github.com/sdegutis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/328734?s=40&v=4",
+          "name": "tumdum",
+          "url": "https://github.com/tumdum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/378917?s=40&v=4",
+          "name": "mcrapet",
+          "url": "https://github.com/mcrapet"
+        }
+      ]
+    },
+    {
       "title": "preservim/nerdtree",
       "url": "https://github.com/preservim/nerdtree",
       "description": "A tree explorer plugin for vim.",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "20,086",
+      "stars": "20,085",
       "forks": "1,433",
       "addStars": "6",
       "contributors": [
@@ -286,44 +318,12 @@
       ]
     },
     {
-      "title": "jbranchaud/til",
-      "url": "https://github.com/jbranchaud/til",
-      "description": "📝 Today I Learned",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "14,161",
-      "forks": "748",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/694063?s=40&v=4",
-          "name": "jbranchaud",
-          "url": "https://github.com/jbranchaud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4399718?s=40&v=4",
-          "name": "sdegutis",
-          "url": "https://github.com/sdegutis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/328734?s=40&v=4",
-          "name": "tumdum",
-          "url": "https://github.com/tumdum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/378917?s=40&v=4",
-          "name": "mcrapet",
-          "url": "https://github.com/mcrapet"
-        }
-      ]
-    },
-    {
       "title": "junegunn/vim-plug",
       "url": "https://github.com/junegunn/vim-plug",
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "35,790",
+      "stars": "35,791",
       "forks": "1,927",
       "addStars": "18",
       "contributors": [

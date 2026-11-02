@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 07:18:24 GMT",
+  "pubDate": "Mon, 02 Nov 2026 13:18:17 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,8 +10,8 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,365",
-      "forks": "3,806",
+      "stars": "31,371",
+      "forks": "3,807",
       "addStars": "34",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,833",
-      "forks": "1,685",
+      "stars": "6,838",
+      "forks": "1,684",
       "addStars": "3",
       "contributors": [
         {
@@ -79,12 +79,86 @@
       ]
     },
     {
+      "title": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "10,402",
+      "forks": "1,534",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
+          "name": "LyricZhao",
+          "url": "https://github.com/LyricZhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
+          "name": "sphish",
+          "url": "https://github.com/sphish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
+          "name": "fzyzcjy",
+          "url": "https://github.com/fzyzcjy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
+          "name": "seth-howell",
+          "url": "https://github.com/seth-howell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
+          "name": "wangfakang",
+          "url": "https://github.com/wangfakang"
+        }
+      ]
+    },
+    {
+      "title": "thu-ml/SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "3,987",
+      "forks": "541",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
+          "name": "jt-zhang",
+          "url": "https://github.com/jt-zhang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110245937?s=40&v=4",
+          "name": "jason-huang03",
+          "url": "https://github.com/jason-huang03"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38180676?s=40&v=4",
+          "name": "whx1003",
+          "url": "https://github.com/whx1003"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37583905?s=40&v=4",
+          "name": "XiaomingXu1995",
+          "url": "https://github.com/XiaomingXu1995"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
+          "name": "guilhermeleobas",
+          "url": "https://github.com/guilhermeleobas"
+        }
+      ]
+    },
+    {
       "title": "NVIDIA/cuvs",
       "url": "https://github.com/NVIDIA/cuvs",
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "883",
+      "stars": "884",
       "forks": "255",
       "addStars": "1",
       "contributors": [
@@ -149,43 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/7057863?s=40&v=4",
           "name": "yenchenlin",
           "url": "https://github.com/yenchenlin"
-        }
-      ]
-    },
-    {
-      "title": "thu-ml/SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "3,986",
-      "forks": "541",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
-          "name": "jt-zhang",
-          "url": "https://github.com/jt-zhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110245937?s=40&v=4",
-          "name": "jason-huang03",
-          "url": "https://github.com/jason-huang03"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38180676?s=40&v=4",
-          "name": "whx1003",
-          "url": "https://github.com/whx1003"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37583905?s=40&v=4",
-          "name": "XiaomingXu1995",
-          "url": "https://github.com/XiaomingXu1995"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
-          "name": "guilhermeleobas",
-          "url": "https://github.com/guilhermeleobas"
         }
       ]
     }
