@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Nix Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 07:54:01 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 13:18:22 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>26,698</stars>
-      <forks>20,612</forks>
+      <stars>26,699</stars>
+      <forks>20,617</forks>
       <addStars>15</addStars>
       <contributors>
         <contributor>
@@ -71,14 +71,42 @@
       </contributors>
     </item>
     <item>
+      <title>nix-community/disko</title>
+      <link>https://github.com/nix-community/disko</link>
+      <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+      <guid>https://github.com/nix-community/disko</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>3,417</stars>
+      <forks>340</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
+          <name>Mic92</name>
+          <url>https://github.com/Mic92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
+          <name>lassulus</name>
+          <url>https://github.com/lassulus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9742635?s=40&amp;v=4</avatar>
+          <name>iFreilicht</name>
+          <url>https://github.com/iFreilicht</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>nix-community/home-manager</title>
       <link>https://github.com/nix-community/home-manager</link>
       <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
       <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>10,488</stars>
-      <forks>2,507</forks>
+      <stars>10,489</stars>
+      <forks>2,508</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -105,62 +133,6 @@
           <avatar>https://avatars.githubusercontent.com/u/20448408?s=40&amp;v=4</avatar>
           <name>berbiche</name>
           <url>https://github.com/berbiche</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Mic92/sops-nix</title>
-      <link>https://github.com/Mic92/sops-nix</link>
-      <description>Atomic secret provisioning for NixOS based on sops</description>
-      <guid>https://github.com/Mic92/sops-nix</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>3,251</stars>
-      <forks>239</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4971975?s=40&amp;v=4</avatar>
-          <name>dasJ</name>
-          <url>https://github.com/dasJ</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>NixOS/nixos-hardware</title>
-      <link>https://github.com/NixOS/nixos-hardware</link>
-      <description>A collection of NixOS modules covering hardware quirks.</description>
-      <guid>https://github.com/NixOS/nixos-hardware</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>3,351</stars>
-      <forks>996</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/329349?s=40&amp;v=4</avatar>
-          <name>mexisme</name>
-          <url>https://github.com/mexisme</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1643293?s=40&amp;v=4</avatar>
-          <name>lukateras</name>
-          <url>https://github.com/lukateras</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
-          <name>SuperSandro2000</name>
-          <url>https://github.com/SuperSandro2000</url>
         </contributor>
       </contributors>
     </item>
@@ -199,44 +171,6 @@
           <avatar>https://avatars.githubusercontent.com/u/1639722?s=40&amp;v=4</avatar>
           <name>sweatybridge</name>
           <url>https://github.com/sweatybridge</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nix-community/nixGL</title>
-      <link>https://github.com/nix-community/nixGL</link>
-      <description>A wrapper tool for nix OpenGL application [maintainer=@guibou]</description>
-      <guid>https://github.com/nix-community/nixGL</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>1,041</stars>
-      <forks>153</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9705357?s=40&amp;v=4</avatar>
-          <name>guibou</name>
-          <url>https://github.com/guibou</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/857308?s=40&amp;v=4</avatar>
-          <name>expipiplus1</name>
-          <url>https://github.com/expipiplus1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1748936?s=40&amp;v=4</avatar>
-          <name>PaulGrandperrin</name>
-          <url>https://github.com/PaulGrandperrin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3248?s=40&amp;v=4</avatar>
-          <name>zimbatm</name>
-          <url>https://github.com/zimbatm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
-          <name>SuperSandro2000</name>
-          <url>https://github.com/SuperSandro2000</url>
         </contributor>
       </contributors>
     </item>

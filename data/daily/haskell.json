@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 07:54:01 GMT",
+  "pubDate": "Tue, 03 Nov 2026 13:18:22 GMT",
   "items": [
     {
       "title": "simplex-chat/simplex-chat",
@@ -10,7 +10,7 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "19,644",
+      "stars": "19,640",
       "forks": "1,318",
       "addStars": "12",
       "contributors": [
@@ -42,76 +42,12 @@
       ]
     },
     {
-      "title": "monoscope-tech/monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,035",
-      "forks": "87",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6564482?s=40&v=4",
-          "name": "tonyalaribe",
-          "url": "https://github.com/tonyalaribe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49823605?s=40&v=4",
-          "name": "dawkaka",
-          "url": "https://github.com/dawkaka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99889673?s=40&v=4",
-          "name": "jesseamos",
-          "url": "https://github.com/jesseamos"
-        }
-      ]
-    },
-    {
-      "title": "hledgerorg/hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,808",
-      "forks": "426",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
-          "name": "simonmichael",
-          "url": "https://github.com/simonmichael"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
-          "name": "Xitian9",
-          "url": "https://github.com/Xitian9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
-          "name": "adept",
-          "url": "https://github.com/adept"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700572?s=40&v=4",
-          "name": "acinader",
-          "url": "https://github.com/acinader"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
-          "name": "thielema",
-          "url": "https://github.com/thielema"
-        }
-      ]
-    },
-    {
       "title": "reanimate/reanimate",
       "url": "https://github.com/reanimate/reanimate",
       "description": "Haskell library for building declarative animations based on SVG graphics",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,233",
+      "stars": "1,236",
       "forks": "75",
       "addStars": "20",
       "contributors": [
@@ -138,61 +74,66 @@
       ]
     },
     {
-      "title": "mtolly/onyx",
-      "url": "https://github.com/mtolly/onyx",
-      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "title": "jgm/pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "309",
-      "forks": "25",
-      "addStars": "1",
+      "stars": "46,791",
+      "forks": "5,152",
+      "addStars": "13",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1427698?s=40&v=4",
-          "name": "mtolly",
-          "url": "https://github.com/mtolly"
+          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
+          "name": "jgm",
+          "url": "https://github.com/jgm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/74471839?s=40&v=4",
-          "name": "AddyMills",
-          "url": "https://github.com/AddyMills"
+          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
+          "name": "tarleb",
+          "url": "https://github.com/tarleb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
+          "name": "jkr",
+          "url": "https://github.com/jkr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
+          "name": "mpickering",
+          "url": "https://github.com/mpickering"
         }
       ]
     },
     {
-      "title": "koalaman/shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "monoscope-tech/monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,277",
-      "forks": "1,973",
-      "addStars": "7",
+      "stars": "2,038",
+      "forks": "87",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
-          "name": "koalaman",
-          "url": "https://github.com/koalaman"
+          "avatar": "https://avatars.githubusercontent.com/u/6564482?s=40&v=4",
+          "name": "tonyalaribe",
+          "url": "https://github.com/tonyalaribe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
-          "name": "josephcsible",
-          "url": "https://github.com/josephcsible"
+          "avatar": "https://avatars.githubusercontent.com/u/49823605?s=40&v=4",
+          "name": "dawkaka",
+          "url": "https://github.com/dawkaka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
-          "name": "e-kwsm",
-          "url": "https://github.com/e-kwsm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
-          "name": "ngzhian",
-          "url": "https://github.com/ngzhian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
-          "name": "contivero",
-          "url": "https://github.com/contivero"
+          "avatar": "https://avatars.githubusercontent.com/u/99889673?s=40&v=4",
+          "name": "jesseamos",
+          "url": "https://github.com/jesseamos"
         }
       ]
     },
@@ -229,39 +170,93 @@
       ]
     },
     {
-      "title": "jgm/pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
+      "title": "koalaman/shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,790",
-      "forks": "5,152",
-      "addStars": "13",
+      "stars": "40,276",
+      "forks": "1,973",
+      "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
-          "name": "jgm",
-          "url": "https://github.com/jgm"
+          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
+          "name": "koalaman",
+          "url": "https://github.com/koalaman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/507994?s=40&v=4",
-          "name": "tarleb",
-          "url": "https://github.com/tarleb"
+          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
+          "name": "josephcsible",
+          "url": "https://github.com/josephcsible"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/835121?s=40&v=4",
-          "name": "jkr",
-          "url": "https://github.com/jkr"
+          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
+          "name": "e-kwsm",
+          "url": "https://github.com/e-kwsm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
+          "name": "ngzhian",
+          "url": "https://github.com/ngzhian"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
-          "name": "mpickering",
-          "url": "https://github.com/mpickering"
+          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
+          "name": "contivero",
+          "url": "https://github.com/contivero"
+        }
+      ]
+    },
+    {
+      "title": "IntersectMBO/cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "3,173",
+      "forks": "763",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9418537?s=40&v=4",
+          "name": "Jimbo4350",
+          "url": "https://github.com/Jimbo4350"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63014?s=40&v=4",
+          "name": "newhoggy",
+          "url": "https://github.com/newhoggy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
+          "name": "dcoutts",
+          "url": "https://github.com/dcoutts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
+          "name": "deepfire",
+          "url": "https://github.com/deepfire"
+        }
+      ]
+    },
+    {
+      "title": "mtolly/onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "309",
+      "forks": "25",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1427698?s=40&v=4",
+          "name": "mtolly",
+          "url": "https://github.com/mtolly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74471839?s=40&v=4",
+          "name": "AddyMills",
+          "url": "https://github.com/AddyMills"
         }
       ]
     }
