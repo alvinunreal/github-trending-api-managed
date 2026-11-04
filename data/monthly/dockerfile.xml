@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Wed, 04 Nov 2026 07:18:15 GMT</pubDate>
+    <pubDate>Wed, 04 Nov 2026 13:18:32 GMT</pubDate>
     <item>
       <title>mikeroyal/Self-Hosting-Guide</title>
       <link>https://github.com/mikeroyal/Self-Hosting-Guide</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/mikeroyal/Self-Hosting-Guide</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>23,452</stars>
+      <stars>23,453</stars>
       <forks>1,172</forks>
       <addStars>554</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/docker-library/php</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>4,121</stars>
-      <forks>2,035</forks>
+      <stars>4,122</stars>
+      <forks>2,036</forks>
       <addStars>90</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/goldbergyoni/nodebestpractices</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>105,715</stars>
+      <stars>105,714</stars>
       <forks>10,744</forks>
       <addStars>220</addStars>
       <contributors>
@@ -114,13 +114,51 @@
       </contributors>
     </item>
     <item>
+      <title>nodejs/docker-node</title>
+      <link>https://github.com/nodejs/docker-node</link>
+      <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
+      <guid>https://github.com/nodejs/docker-node</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>8,597</stars>
+      <forks>1,973</forks>
+      <addStars>13</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4</avatar>
+          <name>PeterDaveHello</name>
+          <url>https://github.com/PeterDaveHello</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1297909?s=40&amp;v=4</avatar>
+          <name>nschonni</name>
+          <url>https://github.com/nschonni</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2781?s=40&amp;v=4</avatar>
+          <name>chorrell</name>
+          <url>https://github.com/chorrell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1404810?s=40&amp;v=4</avatar>
+          <name>SimenB</name>
+          <url>https://github.com/SimenB</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18269663?s=40&amp;v=4</avatar>
+          <name>nodejs-github-bot</name>
+          <url>https://github.com/nodejs-github-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>iggredible/Learn-Vim</title>
       <link>https://github.com/iggredible/Learn-Vim</link>
       <description>Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖</description>
       <guid>https://github.com/iggredible/Learn-Vim</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>15,357</stars>
+      <stars>15,359</stars>
       <forks>1,143</forks>
       <addStars>141</addStars>
       <contributors>
@@ -148,44 +186,6 @@
           <avatar>https://avatars.githubusercontent.com/u/8423728?s=40&amp;v=4</avatar>
           <name>qq88976321</name>
           <url>https://github.com/qq88976321</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nodejs/docker-node</title>
-      <link>https://github.com/nodejs/docker-node</link>
-      <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
-      <guid>https://github.com/nodejs/docker-node</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>8,598</stars>
-      <forks>1,975</forks>
-      <addStars>13</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4</avatar>
-          <name>PeterDaveHello</name>
-          <url>https://github.com/PeterDaveHello</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1297909?s=40&amp;v=4</avatar>
-          <name>nschonni</name>
-          <url>https://github.com/nschonni</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2781?s=40&amp;v=4</avatar>
-          <name>chorrell</name>
-          <url>https://github.com/chorrell</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1404810?s=40&amp;v=4</avatar>
-          <name>SimenB</name>
-          <url>https://github.com/SimenB</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18269663?s=40&amp;v=4</avatar>
-          <name>nodejs-github-bot</name>
-          <url>https://github.com/nodejs-github-bot</url>
         </contributor>
       </contributors>
     </item>
@@ -228,35 +228,53 @@
       </contributors>
     </item>
     <item>
-      <title>zabbix/zabbix-docker</title>
-      <link>https://github.com/zabbix/zabbix-docker</link>
-      <description>Official Zabbix Dockerfiles</description>
-      <guid>https://github.com/zabbix/zabbix-docker</guid>
+      <title>oxsecurity/megalinter</title>
+      <link>https://github.com/oxsecurity/megalinter</link>
+      <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
+      <guid>https://github.com/oxsecurity/megalinter</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,857</stars>
-      <forks>1,435</forks>
-      <addStars>12</addStars>
+      <stars>2,641</stars>
+      <forks>320</forks>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10911965?s=40&amp;v=4</avatar>
-          <name>dotneft</name>
-          <url>https://github.com/dotneft</url>
+          <avatar>https://avatars.githubusercontent.com/u/17500430?s=40&amp;v=4</avatar>
+          <name>nvuillam</name>
+          <url>https://github.com/nvuillam</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17094454?s=40&amp;v=4</avatar>
-          <name>saranf</name>
-          <url>https://github.com/saranf</url>
+          <avatar>https://avatars.githubusercontent.com/u/129584137?s=40&amp;v=4</avatar>
+          <name>megalinter-bot</name>
+          <url>https://github.com/megalinter-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>render-examples/mysql</title>
+      <link>https://github.com/render-examples/mysql</link>
+      <description>MySQL 8.0 and 5.7 on Render</description>
+      <guid>https://github.com/render-examples/mysql</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>46</stars>
+      <forks>1,192</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59905?s=40&amp;v=4</avatar>
+          <name>anurag</name>
+          <url>https://github.com/anurag</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/198607025?s=40&amp;v=4</avatar>
-          <name>marsunin</name>
-          <url>https://github.com/marsunin</url>
+          <avatar>https://avatars.githubusercontent.com/u/106683122?s=40&amp;v=4</avatar>
+          <name>zach-render</name>
+          <url>https://github.com/zach-render</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30318953?s=40&amp;v=4</avatar>
-          <name>kernbug</name>
-          <url>https://github.com/kernbug</url>
+          <avatar>https://avatars.githubusercontent.com/u/66637250?s=40&amp;v=4</avatar>
+          <name>davidmauskop</name>
+          <url>https://github.com/davidmauskop</url>
         </contributor>
       </contributors>
     </item>
@@ -267,7 +285,7 @@
       <guid>https://github.com/corretto/corretto-docker</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>199</stars>
+      <stars>200</stars>
       <forks>70</forks>
       <addStars>3</addStars>
       <contributors>
@@ -295,57 +313,6 @@
           <avatar>https://avatars.githubusercontent.com/u/92710734?s=40&amp;v=4</avatar>
           <name>cost0much</name>
           <url>https://github.com/cost0much</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>oxsecurity/megalinter</title>
-      <link>https://github.com/oxsecurity/megalinter</link>
-      <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
-      <guid>https://github.com/oxsecurity/megalinter</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>2,640</stars>
-      <forks>320</forks>
-      <addStars>38</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17500430?s=40&amp;v=4</avatar>
-          <name>nvuillam</name>
-          <url>https://github.com/nvuillam</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/129584137?s=40&amp;v=4</avatar>
-          <name>megalinter-bot</name>
-          <url>https://github.com/megalinter-bot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>render-examples/mysql</title>
-      <link>https://github.com/render-examples/mysql</link>
-      <description>MySQL 8.0 and 5.7 on Render</description>
-      <guid>https://github.com/render-examples/mysql</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>46</stars>
-      <forks>1,191</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59905?s=40&amp;v=4</avatar>
-          <name>anurag</name>
-          <url>https://github.com/anurag</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/106683122?s=40&amp;v=4</avatar>
-          <name>zach-render</name>
-          <url>https://github.com/zach-render</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66637250?s=40&amp;v=4</avatar>
-          <name>davidmauskop</name>
-          <url>https://github.com/davidmauskop</url>
         </contributor>
       </contributors>
     </item>
@@ -422,44 +389,6 @@
           <avatar>https://avatars.githubusercontent.com/u/7462604?s=40&amp;v=4</avatar>
           <name>perrysk-msft</name>
           <url>https://github.com/perrysk-msft</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>vulhub/vulhub</title>
-      <link>https://github.com/vulhub/vulhub</link>
-      <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
-      <guid>https://github.com/vulhub/vulhub</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>21,449</stars>
-      <forks>4,819</forks>
-      <addStars>162</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5711185?s=40&amp;v=4</avatar>
-          <name>phith0n</name>
-          <url>https://github.com/phith0n</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/228831800?s=40&amp;v=4</avatar>
-          <name>happy-otter</name>
-          <url>https://github.com/happy-otter</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37445725?s=40&amp;v=4</avatar>
-          <name>JrDw0</name>
-          <url>https://github.com/JrDw0</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83867734?s=40&amp;v=4</avatar>
-          <name>D3vil0p3r</name>
-          <url>https://github.com/D3vil0p3r</url>
         </contributor>
       </contributors>
     </item>

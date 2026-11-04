@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 04 Nov 2026 07:18:15 GMT",
+  "pubDate": "Wed, 04 Nov 2026 13:18:32 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -47,8 +47,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,852",
-      "forks": "1,692",
+      "stars": "6,854",
+      "forks": "1,694",
       "addStars": "56",
       "contributors": [
         {
@@ -79,49 +79,12 @@
       ]
     },
     {
-      "title": "deepseek-ai/DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "10,409",
-      "forks": "1,542",
-      "addStars": "42",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
-          "name": "LyricZhao",
-          "url": "https://github.com/LyricZhao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
-          "name": "sphish",
-          "url": "https://github.com/sphish"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
-          "name": "fzyzcjy",
-          "url": "https://github.com/fzyzcjy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
-          "name": "seth-howell",
-          "url": "https://github.com/seth-howell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
-          "name": "wangfakang",
-          "url": "https://github.com/wangfakang"
-        }
-      ]
-    },
-    {
       "title": "NVIDIA/cuvs",
       "url": "https://github.com/NVIDIA/cuvs",
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "886",
+      "stars": "887",
       "forks": "255",
       "addStars": "9",
       "contributors": [
@@ -153,13 +116,50 @@
       ]
     },
     {
+      "title": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "10,411",
+      "forks": "1,543",
+      "addStars": "42",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
+          "name": "LyricZhao",
+          "url": "https://github.com/LyricZhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
+          "name": "sphish",
+          "url": "https://github.com/sphish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
+          "name": "fzyzcjy",
+          "url": "https://github.com/fzyzcjy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
+          "name": "seth-howell",
+          "url": "https://github.com/seth-howell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
+          "name": "wangfakang",
+          "url": "https://github.com/wangfakang"
+        }
+      ]
+    },
+    {
       "title": "NVIDIA/cuopt",
       "url": "https://github.com/NVIDIA/cuopt",
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,095",
-      "forks": "252",
+      "stars": "1,096",
+      "forks": "254",
       "addStars": "17",
       "contributors": [
         {
@@ -196,7 +196,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "2,596",
-      "forks": "273",
+      "forks": "274",
       "addStars": "21",
       "contributors": [
         {
@@ -223,43 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/145248565?s=40&v=4",
           "name": "undefined-c0der",
           "url": "https://github.com/undefined-c0der"
-        }
-      ]
-    },
-    {
-      "title": "BBuf/how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "3,340",
-      "forks": "296",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35585791?s=40&v=4",
-          "name": "BBuf",
-          "url": "https://github.com/BBuf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67543126?s=40&v=4",
-          "name": "peakcrosser7",
-          "url": "https://github.com/peakcrosser7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
-          "name": "Dessalines39394",
-          "url": "https://github.com/Dessalines39394"
         }
       ]
     },
@@ -301,13 +264,50 @@
       ]
     },
     {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "3,340",
+      "forks": "296",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35585791?s=40&v=4",
+          "name": "BBuf",
+          "url": "https://github.com/BBuf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67543126?s=40&v=4",
+          "name": "peakcrosser7",
+          "url": "https://github.com/peakcrosser7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
+          "name": "Dessalines39394",
+          "url": "https://github.com/Dessalines39394"
+        }
+      ]
+    },
+    {
       "title": "deepseek-ai/DeepGEMM",
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "9,155",
-      "forks": "1,508",
+      "forks": "1,510",
       "addStars": "43",
       "contributors": [
         {
@@ -343,7 +343,7 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "17,585",
+      "stars": "17,586",
       "forks": "2,067",
       "addStars": "6",
       "contributors": [
