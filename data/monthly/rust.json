@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 05 Nov 2026 07:18:38 GMT",
+  "pubDate": "Thu, 05 Nov 2026 13:18:48 GMT",
   "items": [
     {
       "title": "pbakaus/impeccable",
@@ -10,8 +10,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "103,149",
-      "forks": "6,103",
+      "stars": "103,463",
+      "forks": "6,129",
       "addStars": "26,803",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,165",
-      "forks": "1,093",
+      "stars": "15,180",
+      "forks": "1,096",
       "addStars": "6,382",
       "contributors": [
         {
@@ -74,13 +74,45 @@
       ]
     },
     {
+      "title": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "3,094",
+      "forks": "172",
+      "addStars": "1,718",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26722142?s=40&v=4",
+          "name": "MGudgin",
+          "url": "https://github.com/MGudgin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93530301?s=40&v=4",
+          "name": "SohamDas2021",
+          "url": "https://github.com/SohamDas2021"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105318831?s=40&v=4",
+          "name": "bbonaby",
+          "url": "https://github.com/bbonaby"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31219104?s=40&v=4",
+          "name": "theelliotm",
+          "url": "https://github.com/theelliotm"
+        }
+      ]
+    },
+    {
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,111",
-      "forks": "2,062",
+      "stars": "21,130",
+      "forks": "2,068",
       "addStars": "6,428",
       "contributors": [
         {
@@ -116,8 +148,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "38,851",
-      "forks": "6,132",
+      "stars": "38,911",
+      "forks": "6,141",
       "addStars": "36,697",
       "contributors": [
         {
@@ -148,13 +180,35 @@
       ]
     },
     {
+      "title": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "16,236",
+      "forks": "1,133",
+      "addStars": "12,732",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
+          "name": "lahfir",
+          "url": "https://github.com/lahfir"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+          "name": "ctate",
+          "url": "https://github.com/ctate"
+        }
+      ]
+    },
+    {
       "title": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "19,125",
-      "forks": "1,478",
+      "stars": "19,163",
+      "forks": "1,482",
       "addStars": "17,273",
       "contributors": [
         {
@@ -185,35 +239,13 @@
       ]
     },
     {
-      "title": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "15,789",
-      "forks": "1,101",
-      "addStars": "12,732",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-          "name": "lahfir",
-          "url": "https://github.com/lahfir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-          "name": "ctate",
-          "url": "https://github.com/ctate"
-        }
-      ]
-    },
-    {
       "title": "jub0t/Concat",
       "url": "https://github.com/jub0t/Concat",
       "description": "Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,242",
-      "forks": "1,767",
+      "stars": "14,296",
+      "forks": "1,774",
       "addStars": "10,186",
       "contributors": [
         {
@@ -244,13 +276,40 @@
       ]
     },
     {
+      "title": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "11,334",
+      "forks": "426",
+      "addStars": "2,534",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
+          "name": "max-sixty",
+          "url": "https://github.com/max-sixty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
+          "name": "worktrunk-bot",
+          "url": "https://github.com/worktrunk-bot"
+        }
+      ]
+    },
+    {
       "title": "cjpais/Handy",
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,568",
-      "forks": "3,546",
+      "stars": "37,611",
+      "forks": "3,547",
       "addStars": "4,809",
       "contributors": [
         {
@@ -286,8 +345,8 @@
       "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "22,645",
-      "forks": "627",
+      "stars": "22,683",
+      "forks": "629",
       "addStars": "16,161",
       "contributors": [
         {
@@ -323,8 +382,8 @@
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,517",
-      "forks": "5,020",
+      "stars": "49,526",
+      "forks": "5,023",
       "addStars": "1,041",
       "contributors": [
         {
@@ -360,7 +419,7 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,221",
+      "stars": "3,223",
       "forks": "220",
       "addStars": "1,398",
       "contributors": [
@@ -397,7 +456,7 @@
       "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,371",
+      "stars": "17,374",
       "forks": "1,470",
       "addStars": "834",
       "contributors": [
@@ -434,8 +493,8 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,808",
-      "forks": "456",
+      "stars": "3,822",
+      "forks": "457",
       "addStars": "1,375",
       "contributors": [
         {
@@ -466,86 +525,12 @@
       ]
     },
     {
-      "title": "SimoHypers/limusic",
-      "url": "https://github.com/SimoHypers/limusic",
-      "description": "Feature rich, native desktop, YouTube Music client.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "1,805",
-      "forks": "117",
-      "addStars": "1,042",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153776287?s=40&v=4",
-          "name": "SimoHypers",
-          "url": "https://github.com/SimoHypers"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/120938252?s=40&v=4",
-          "name": "F0nax9566",
-          "url": "https://github.com/F0nax9566"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57292142?s=40&v=4",
-          "name": "yiesko",
-          "url": "https://github.com/yiesko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/129229152?s=40&v=4",
-          "name": "Voltikor",
-          "url": "https://github.com/Voltikor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/150385054?s=40&v=4",
-          "name": "TeseySTD",
-          "url": "https://github.com/TeseySTD"
-        }
-      ]
-    },
-    {
-      "title": "emilk/egui",
-      "url": "https://github.com/emilk/egui",
-      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "32,009",
-      "forks": "2,322",
-      "addStars": "1,232",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1148717?s=40&v=4",
-          "name": "emilk",
-          "url": "https://github.com/emilk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8009393?s=40&v=4",
-          "name": "lucasmerlin",
-          "url": "https://github.com/lucasmerlin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1220815?s=40&v=4",
-          "name": "Wumpf",
-          "url": "https://github.com/Wumpf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/127506429?s=40&v=4",
-          "name": "rustbasic",
-          "url": "https://github.com/rustbasic"
-        }
-      ]
-    },
-    {
       "title": "Mesh-LLM/mesh-llm",
       "url": "https://github.com/Mesh-LLM/mesh-llm",
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,944",
+      "stars": "3,947",
       "forks": "499",
       "addStars": "462",
       "contributors": [
@@ -573,80 +558,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/20299097?s=40&v=4",
           "name": "IvGolovach",
           "url": "https://github.com/IvGolovach"
-        }
-      ]
-    },
-    {
-      "title": "denoland/deno",
-      "url": "https://github.com/denoland/deno",
-      "description": "A modern runtime for JavaScript and TypeScript.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "108,814",
-      "forks": "6,579",
-      "addStars": "827",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13602871?s=40&v=4",
-          "name": "bartlomieju",
-          "url": "https://github.com/bartlomieju"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1609021?s=40&v=4",
-          "name": "dsherret",
-          "url": "https://github.com/dsherret"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80?s=40&v=4",
-          "name": "ry",
-          "url": "https://github.com/ry"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34997667?s=40&v=4",
-          "name": "littledivy",
-          "url": "https://github.com/littledivy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17734409?s=40&v=4",
-          "name": "nathanwhit",
-          "url": "https://github.com/nathanwhit"
-        }
-      ]
-    },
-    {
-      "title": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "128,245",
-      "forks": "20,332",
-      "addStars": "3,685",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
-          "name": "rustdesk",
-          "url": "https://github.com/rustdesk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
-          "name": "fufesou",
-          "url": "https://github.com/fufesou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
-          "name": "21pages",
-          "url": "https://github.com/21pages"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
-          "name": "Kingtous",
-          "url": "https://github.com/Kingtous"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
-          "name": "Heap-Hop",
-          "url": "https://github.com/Heap-Hop"
         }
       ]
     }

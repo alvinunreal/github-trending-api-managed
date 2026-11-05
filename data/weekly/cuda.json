@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 05 Nov 2026 07:18:38 GMT",
+  "pubDate": "Thu, 05 Nov 2026 13:18:48 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,7 +10,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,391",
+      "stars": "31,394",
       "forks": "3,814",
       "addStars": "115",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,858",
-      "forks": "1,698",
+      "stars": "6,859",
+      "forks": "1,700",
       "addStars": "58",
       "contributors": [
         {
@@ -75,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
           "name": "bkryu",
           "url": "https://github.com/bkryu"
-        }
-      ]
-    },
-    {
-      "title": "NVIDIA/cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "887",
-      "forks": "257",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
-          "name": "GPUtester",
-          "url": "https://github.com/GPUtester"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
-          "name": "bdice",
-          "url": "https://github.com/bdice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
-          "name": "benfred",
-          "url": "https://github.com/benfred"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7608904?s=40&v=4",
-          "name": "jameslamb",
-          "url": "https://github.com/jameslamb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
-          "name": "achirkin",
-          "url": "https://github.com/achirkin"
         }
       ]
     },
@@ -153,6 +116,43 @@
       ]
     },
     {
+      "title": "NVIDIA/cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "888",
+      "forks": "258",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
+          "name": "GPUtester",
+          "url": "https://github.com/GPUtester"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
+          "name": "bdice",
+          "url": "https://github.com/bdice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
+          "name": "benfred",
+          "url": "https://github.com/benfred"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7608904?s=40&v=4",
+          "name": "jameslamb",
+          "url": "https://github.com/jameslamb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
+          "name": "achirkin",
+          "url": "https://github.com/achirkin"
+        }
+      ]
+    },
+    {
       "title": "NVIDIA/cuopt",
       "url": "https://github.com/NVIDIA/cuopt",
       "description": "GPU accelerated decision optimization",
@@ -190,49 +190,12 @@
       ]
     },
     {
-      "title": "mirage-project/mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "2,598",
-      "forks": "274",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
-          "name": "jiazhihao",
-          "url": "https://github.com/jiazhihao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82456363?s=40&v=4",
-          "name": "yzhou442",
-          "url": "https://github.com/yzhou442"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99570243?s=40&v=4",
-          "name": "xinhaoc",
-          "url": "https://github.com/xinhaoc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48128384?s=40&v=4",
-          "name": "wmdi",
-          "url": "https://github.com/wmdi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/145248565?s=40&v=4",
-          "name": "undefined-c0der",
-          "url": "https://github.com/undefined-c0der"
-        }
-      ]
-    },
-    {
       "title": "NVIDIA/nccl-tests",
       "url": "https://github.com/NVIDIA/nccl-tests",
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,692",
+      "stars": "1,693",
       "forks": "415",
       "addStars": "7",
       "contributors": [
@@ -269,7 +232,7 @@
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,340",
+      "stars": "3,341",
       "forks": "296",
       "addStars": "7",
       "contributors": [
@@ -338,12 +301,49 @@
       ]
     },
     {
+      "title": "mirage-project/mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "2,599",
+      "forks": "274",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
+          "name": "jiazhihao",
+          "url": "https://github.com/jiazhihao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82456363?s=40&v=4",
+          "name": "yzhou442",
+          "url": "https://github.com/yzhou442"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99570243?s=40&v=4",
+          "name": "xinhaoc",
+          "url": "https://github.com/xinhaoc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48128384?s=40&v=4",
+          "name": "wmdi",
+          "url": "https://github.com/wmdi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145248565?s=40&v=4",
+          "name": "undefined-c0der",
+          "url": "https://github.com/undefined-c0der"
+        }
+      ]
+    },
+    {
       "title": "NVlabs/instant-ngp",
       "url": "https://github.com/NVlabs/instant-ngp",
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "17,587",
+      "stars": "17,588",
       "forks": "2,066",
       "addStars": "6",
       "contributors": [

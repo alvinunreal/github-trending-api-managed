@@ -2,16 +2,48 @@
   "title": "GitHub C# Languages Weekly Trending",
   "description": "Weekly Trending of C# Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 05 Nov 2026 07:18:38 GMT",
+  "pubDate": "Thu, 05 Nov 2026 13:18:48 GMT",
   "items": [
+    {
+      "title": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "12,244",
+      "forks": "1,632",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
+          "name": "Cyan4973",
+          "url": "https://github.com/Cyan4973"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
+          "name": "inikep",
+          "url": "https://github.com/inikep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&v=4",
+          "name": "t-mat",
+          "url": "https://github.com/t-mat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
+          "name": "felixhandte",
+          "url": "https://github.com/felixhandte"
+        }
+      ]
+    },
     {
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "10,517",
-      "forks": "1,648",
+      "stars": "10,662",
+      "forks": "1,660",
       "addStars": "351",
       "contributors": [
         {
@@ -47,9 +79,9 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "47,872",
-      "forks": "5,556",
-      "addStars": "642",
+      "stars": "47,982",
+      "forks": "5,577",
+      "addStars": "424",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
@@ -79,187 +111,182 @@
       ]
     },
     {
-      "title": "dorianborian/sesame-robot",
-      "url": "https://github.com/dorianborian/sesame-robot",
-      "description": "An open and affordable mini quadruped robot based on ESP32.",
+      "title": "unkyulee/micro-journal",
+      "url": "https://github.com/unkyulee/micro-journal",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,954",
-      "forks": "681",
-      "addStars": "14",
+      "stars": "1,067",
+      "forks": "48",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33707294?s=40&v=4",
-          "name": "dorianborian",
-          "url": "https://github.com/dorianborian"
+          "avatar": "https://avatars.githubusercontent.com/u/6221038?s=40&v=4",
+          "name": "unkyulee",
+          "url": "https://github.com/unkyulee"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/275412484?s=40&v=4",
-          "name": "kcode-15",
-          "url": "https://github.com/kcode-15"
+          "avatar": "https://avatars.githubusercontent.com/u/654128?s=40&v=4",
+          "name": "bmcgavin",
+          "url": "https://github.com/bmcgavin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22573854?s=40&v=4",
-          "name": "shariqnaiyer",
-          "url": "https://github.com/shariqnaiyer"
+          "avatar": "https://avatars.githubusercontent.com/u/6968137?s=40&v=4",
+          "name": "jceaser",
+          "url": "https://github.com/jceaser"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/466956?s=40&v=4",
-          "name": "one-for-all",
-          "url": "https://github.com/one-for-all"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3700226?s=40&v=4",
-          "name": "vido89",
-          "url": "https://github.com/vido89"
+          "avatar": "https://avatars.githubusercontent.com/u/62474854?s=40&v=4",
+          "name": "HookPro1",
+          "url": "https://github.com/HookPro1"
         }
       ]
     },
     {
-      "title": "radareorg/radare2",
-      "url": "https://github.com/radareorg/radare2",
-      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "title": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "25,322",
-      "forks": "3,417",
-      "addStars": "25",
+      "stars": "29,090",
+      "forks": "13,332",
+      "addStars": "26",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/917142?s=40&v=4",
-          "name": "radare",
-          "url": "https://github.com/radare"
+          "avatar": "https://avatars.githubusercontent.com/u/19352056?s=40&v=4",
+          "name": "juhosg",
+          "url": "https://github.com/juhosg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6431515?s=40&v=4",
-          "name": "trufae",
-          "url": "https://github.com/trufae"
+          "avatar": "https://avatars.githubusercontent.com/u/1110044?s=40&v=4",
+          "name": "ffainelli",
+          "url": "https://github.com/ffainelli"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5904302?s=40&v=4",
-          "name": "condret",
-          "url": "https://github.com/condret"
+          "avatar": "https://avatars.githubusercontent.com/u/2529314?s=40&v=4",
+          "name": "nbd168",
+          "url": "https://github.com/nbd168"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3474042?s=40&v=4",
-          "name": "alvarofe",
-          "url": "https://github.com/alvarofe"
+          "avatar": "https://avatars.githubusercontent.com/u/78494?s=40&v=4",
+          "name": "hauke",
+          "url": "https://github.com/hauke"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/203261?s=40&v=4",
-          "name": "XVilka",
-          "url": "https://github.com/XVilka"
+          "avatar": "https://avatars.githubusercontent.com/u/2528802?s=40&v=4",
+          "name": "jow-",
+          "url": "https://github.com/jow-"
         }
       ]
     },
     {
-      "title": "YizhengWw/HachimoDock",
-      "url": "https://github.com/YizhengWw/HachimoDock",
-      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
+      "title": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "872",
-      "forks": "85",
-      "addStars": "67",
+      "stars": "43,398",
+      "forks": "7,480",
+      "addStars": "23",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/130424699?s=40&v=4",
-          "name": "tudoom",
-          "url": "https://github.com/tudoom"
+          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
+          "name": "bagder",
+          "url": "https://github.com/bagder"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26279399?s=40&v=4",
-          "name": "ptmax",
-          "url": "https://github.com/ptmax"
+          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
+          "name": "vszakats",
+          "url": "https://github.com/vszakats"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/62310391?s=40&v=4",
-          "name": "YizhengWw",
-          "url": "https://github.com/YizhengWw"
+          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4",
+          "name": "yangtse",
+          "url": "https://github.com/yangtse"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-          "name": "codex",
-          "url": "https://github.com/codex"
+          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4",
+          "name": "captain-caveman2k",
+          "url": "https://github.com/captain-caveman2k"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4",
+          "name": "dfandrich",
+          "url": "https://github.com/dfandrich"
         }
       ]
     },
     {
-      "title": "vedderb/bldc",
-      "url": "https://github.com/vedderb/bldc",
-      "description": "The VESC motor control firmware",
+      "title": "FreeRDP/FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,563",
-      "forks": "2,000",
-      "addStars": "4",
+      "stars": "13,976",
+      "forks": "15,577",
+      "addStars": "12",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2311760?s=40&v=4",
-          "name": "vedderb",
-          "url": "https://github.com/vedderb"
+          "avatar": "https://avatars.githubusercontent.com/u/3472254?s=40&v=4",
+          "name": "akallabeth",
+          "url": "https://github.com/akallabeth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/146864?s=40&v=4",
-          "name": "Mitchlol",
-          "url": "https://github.com/Mitchlol"
+          "avatar": "https://avatars.githubusercontent.com/u/295841?s=40&v=4",
+          "name": "awakecoding",
+          "url": "https://github.com/awakecoding"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/309472?s=40&v=4",
-          "name": "nitrousnrg",
-          "url": "https://github.com/nitrousnrg"
+          "avatar": "https://avatars.githubusercontent.com/u/3237998?s=40&v=4",
+          "name": "hardening",
+          "url": "https://github.com/hardening"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/135954?s=40&v=4",
-          "name": "lukash",
-          "url": "https://github.com/lukash"
+          "avatar": "https://avatars.githubusercontent.com/u/195793?s=40&v=4",
+          "name": "bmiklautz",
+          "url": "https://github.com/bmiklautz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1118185?s=40&v=4",
-          "name": "kubark42",
-          "url": "https://github.com/kubark42"
+          "avatar": "https://avatars.githubusercontent.com/u/669070?s=40&v=4",
+          "name": "mfleisz",
+          "url": "https://github.com/mfleisz"
         }
       ]
     },
     {
-      "title": "Serial-Studio/Serial-Studio",
-      "url": "https://github.com/Serial-Studio/Serial-Studio",
-      "description": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.",
+      "title": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,308",
-      "forks": "1,102",
-      "addStars": "6",
+      "stars": "7,552",
+      "forks": "630",
+      "addStars": "54",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4225542?s=40&v=4",
-          "name": "alex-spataru",
-          "url": "https://github.com/alex-spataru"
+          "avatar": "https://avatars.githubusercontent.com/u/1232553?s=40&v=4",
+          "name": "mackron",
+          "url": "https://github.com/mackron"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/29616?s=40&v=4",
+          "name": "tycho",
+          "url": "https://github.com/tycho"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/109301228?s=40&v=4",
-          "name": "AlisonTristao",
-          "url": "https://github.com/AlisonTristao"
+          "avatar": "https://avatars.githubusercontent.com/u/958469?s=40&v=4",
+          "name": "znakeeye",
+          "url": "https://github.com/znakeeye"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38422348?s=40&v=4",
-          "name": "umarcor",
-          "url": "https://github.com/umarcor"
+          "avatar": "https://avatars.githubusercontent.com/u/7667009?s=40&v=4",
+          "name": "Clownacy",
+          "url": "https://github.com/Clownacy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/96739684?s=40&v=4",
-          "name": "calyle",
-          "url": "https://github.com/calyle"
+          "avatar": "https://avatars.githubusercontent.com/u/1697224?s=40&v=4",
+          "name": "iarwain",
+          "url": "https://github.com/iarwain"
         }
       ]
     }
