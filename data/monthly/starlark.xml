@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Fri, 06 Nov 2026 07:18:21 GMT</pubDate>
+    <pubDate>Fri, 06 Nov 2026 13:18:21 GMT</pubDate>
     <item>
       <title>bazel-contrib/rules_perl</title>
       <link>https://github.com/bazel-contrib/rules_perl</link>
@@ -39,39 +39,6 @@
           <avatar>https://avatars.githubusercontent.com/u/48310225?s=40&amp;v=4</avatar>
           <name>jheaff1</name>
           <url>https://github.com/jheaff1</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bazelbuild/rules_rust</title>
-      <link>https://github.com/bazelbuild/rules_rust</link>
-      <description>Rust rules for Bazel</description>
-      <guid>https://github.com/bazelbuild/rules_rust</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>854</stars>
-      <forks>684</forks>
-      <addStars>8</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
-          <name>UebelAndre</name>
-          <url>https://github.com/UebelAndre</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1131704?s=40&amp;v=4</avatar>
-          <name>illicitonion</name>
-          <url>https://github.com/illicitonion</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/814566?s=40&amp;v=4</avatar>
-          <name>hlopko</name>
-          <url>https://github.com/hlopko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29306214?s=40&amp;v=4</avatar>
-          <name>krasimirgg</name>
-          <url>https://github.com/krasimirgg</url>
         </contributor>
       </contributors>
     </item>
@@ -147,25 +114,25 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/rules_cc</title>
-      <link>https://github.com/bazelbuild/rules_cc</link>
-      <description>C++ Rules for Bazel</description>
-      <guid>https://github.com/bazelbuild/rules_cc</guid>
+      <title>bazelbuild/rules_rust</title>
+      <link>https://github.com/bazelbuild/rules_rust</link>
+      <description>Rust rules for Bazel</description>
+      <guid>https://github.com/bazelbuild/rules_rust</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>249</stars>
-      <forks>206</forks>
-      <addStars>2</addStars>
+      <stars>854</stars>
+      <forks>685</forks>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4</avatar>
-          <name>keith</name>
-          <url>https://github.com/keith</url>
+          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
+          <name>UebelAndre</name>
+          <url>https://github.com/UebelAndre</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23365806?s=40&amp;v=4</avatar>
-          <name>oquenchil</name>
-          <url>https://github.com/oquenchil</url>
+          <avatar>https://avatars.githubusercontent.com/u/1131704?s=40&amp;v=4</avatar>
+          <name>illicitonion</name>
+          <url>https://github.com/illicitonion</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/814566?s=40&amp;v=4</avatar>
@@ -173,9 +140,9 @@
           <url>https://github.com/hlopko</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1796240?s=40&amp;v=4</avatar>
-          <name>comius</name>
-          <url>https://github.com/comius</url>
+          <avatar>https://avatars.githubusercontent.com/u/29306214?s=40&amp;v=4</avatar>
+          <name>krasimirgg</name>
+          <url>https://github.com/krasimirgg</url>
         </contributor>
       </contributors>
     </item>
@@ -213,13 +180,46 @@
       </contributors>
     </item>
     <item>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>🥑 Language focused docker images, minus the operating system.</description>
+      <guid>https://github.com/GoogleContainerTools/distroless</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>23,209</stars>
+      <forks>1,441</forks>
+      <addStars>112</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1304826?s=40&amp;v=4</avatar>
+          <name>loosebazooka</name>
+          <url>https://github.com/loosebazooka</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1681525?s=40&amp;v=4</avatar>
+          <name>omBratteng</name>
+          <url>https://github.com/omBratteng</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10523105?s=40&amp;v=4</avatar>
+          <name>chanseokoh</name>
+          <url>https://github.com/chanseokoh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99663502?s=40&amp;v=4</avatar>
+          <name>distroless-bot</name>
+          <url>https://github.com/distroless-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>bazelbuild/rules_apple</title>
       <link>https://github.com/bazelbuild/rules_apple</link>
       <description>Bazel rules to build apps for Apple platforms.</description>
       <guid>https://github.com/bazelbuild/rules_apple</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>597</stars>
+      <stars>598</stars>
       <forks>342</forks>
       <addStars>2</addStars>
       <contributors>

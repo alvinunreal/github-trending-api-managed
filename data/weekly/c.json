@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Nov 2026 07:18:21 GMT",
+  "pubDate": "Fri, 06 Nov 2026 13:18:21 GMT",
   "items": [
     {
       "title": "JustVugg/colibri",
@@ -10,8 +10,8 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "48,237",
-      "forks": "5,611",
+      "stars": "48,322",
+      "forks": "5,623",
       "addStars": "3,214",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "10,787",
-      "forks": "1,685",
+      "stars": "10,833",
+      "forks": "1,691",
       "addStars": "1,490",
       "contributors": [
         {
@@ -79,39 +79,34 @@
       ]
     },
     {
-      "title": "microsoft/PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "title": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "140,616",
-      "forks": "8,704",
-      "addStars": "491",
+      "stars": "12,546",
+      "forks": "1,640",
+      "addStars": "348",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&v=4",
-          "name": "crutkas",
-          "url": "https://github.com/crutkas"
+          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
+          "name": "Cyan4973",
+          "url": "https://github.com/Cyan4973"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&v=4",
-          "name": "bao-qian",
-          "url": "https://github.com/bao-qian"
+          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
+          "name": "inikep",
+          "url": "https://github.com/inikep"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&v=4",
-          "name": "niels9001",
-          "url": "https://github.com/niels9001"
+          "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&v=4",
+          "name": "t-mat",
+          "url": "https://github.com/t-mat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&v=4",
-          "name": "qianlifeng",
-          "url": "https://github.com/qianlifeng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&v=4",
-          "name": "jaimecbernardo",
-          "url": "https://github.com/jaimecbernardo"
+          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
+          "name": "felixhandte",
+          "url": "https://github.com/felixhandte"
         }
       ]
     },
@@ -121,7 +116,7 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "34,242",
+      "stars": "34,245",
       "forks": "1,388",
       "addStars": "87",
       "contributors": [
@@ -153,12 +148,160 @@
       ]
     },
     {
+      "title": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "43,404",
+      "forks": "7,486",
+      "addStars": "133",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
+          "name": "bagder",
+          "url": "https://github.com/bagder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
+          "name": "vszakats",
+          "url": "https://github.com/vszakats"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4",
+          "name": "yangtse",
+          "url": "https://github.com/yangtse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4",
+          "name": "captain-caveman2k",
+          "url": "https://github.com/captain-caveman2k"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4",
+          "name": "dfandrich",
+          "url": "https://github.com/dfandrich"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "140,625",
+      "forks": "8,703",
+      "addStars": "491",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&v=4",
+          "name": "crutkas",
+          "url": "https://github.com/crutkas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&v=4",
+          "name": "bao-qian",
+          "url": "https://github.com/bao-qian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&v=4",
+          "name": "niels9001",
+          "url": "https://github.com/niels9001"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&v=4",
+          "name": "qianlifeng",
+          "url": "https://github.com/qianlifeng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&v=4",
+          "name": "jaimecbernardo",
+          "url": "https://github.com/jaimecbernardo"
+        }
+      ]
+    },
+    {
+      "title": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "31,210",
+      "forks": "11,579",
+      "addStars": "114",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&v=4",
+          "name": "levitte",
+          "url": "https://github.com/levitte"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7422273?s=40&v=4",
+          "name": "mattcaswell",
+          "url": "https://github.com/mattcaswell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9038069?s=40&v=4",
+          "name": "dot-asm",
+          "url": "https://github.com/dot-asm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17916609?s=40&v=4",
+          "name": "paulidale",
+          "url": "https://github.com/paulidale"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6590984?s=40&v=4",
+          "name": "snhenson",
+          "url": "https://github.com/snhenson"
+        }
+      ]
+    },
+    {
+      "title": "YizhengWw/HachimoDock",
+      "url": "https://github.com/YizhengWw/HachimoDock",
+      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "913",
+      "forks": "92",
+      "addStars": "402",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130424699?s=40&v=4",
+          "name": "tudoom",
+          "url": "https://github.com/tudoom"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26279399?s=40&v=4",
+          "name": "ptmax",
+          "url": "https://github.com/ptmax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62310391?s=40&v=4",
+          "name": "YizhengWw",
+          "url": "https://github.com/YizhengWw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "rizinorg/rizin",
       "url": "https://github.com/rizinorg/rizin",
       "description": "UNIX-like reverse engineering framework and command-line toolset.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,137",
+      "stars": "4,139",
       "forks": "694",
       "addStars": "64",
       "contributors": [
@@ -190,161 +333,13 @@
       ]
     },
     {
-      "title": "YizhengWw/HachimoDock",
-      "url": "https://github.com/YizhengWw/HachimoDock",
-      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "902",
-      "forks": "89",
-      "addStars": "402",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130424699?s=40&v=4",
-          "name": "tudoom",
-          "url": "https://github.com/tudoom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26279399?s=40&v=4",
-          "name": "ptmax",
-          "url": "https://github.com/ptmax"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62310391?s=40&v=4",
-          "name": "YizhengWw",
-          "url": "https://github.com/YizhengWw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-          "name": "codex",
-          "url": "https://github.com/codex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "meta/zstd",
-      "url": "https://github.com/meta/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "28,175",
-      "forks": "2,679",
-      "addStars": "60",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
-          "name": "Cyan4973",
-          "url": "https://github.com/Cyan4973"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6619134?s=40&v=4",
-          "name": "terrelln",
-          "url": "https://github.com/terrelln"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
-          "name": "inikep",
-          "url": "https://github.com/inikep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
-          "name": "felixhandte",
-          "url": "https://github.com/felixhandte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7366343?s=40&v=4",
-          "name": "stellamplau",
-          "url": "https://github.com/stellamplau"
-        }
-      ]
-    },
-    {
-      "title": "openwrt/openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "29,105",
-      "forks": "13,333",
-      "addStars": "139",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19352056?s=40&v=4",
-          "name": "juhosg",
-          "url": "https://github.com/juhosg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1110044?s=40&v=4",
-          "name": "ffainelli",
-          "url": "https://github.com/ffainelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2529314?s=40&v=4",
-          "name": "nbd168",
-          "url": "https://github.com/nbd168"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78494?s=40&v=4",
-          "name": "hauke",
-          "url": "https://github.com/hauke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2528802?s=40&v=4",
-          "name": "jow-",
-          "url": "https://github.com/jow-"
-        }
-      ]
-    },
-    {
-      "title": "valkey-io/valkey",
-      "url": "https://github.com/valkey-io/valkey",
-      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "27,632",
-      "forks": "1,516",
-      "addStars": "75",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
-          "name": "antirez",
-          "url": "https://github.com/antirez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22811481?s=40&v=4",
-          "name": "enjoy-binbin",
-          "url": "https://github.com/enjoy-binbin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7045099?s=40&v=4",
-          "name": "oranagra",
-          "url": "https://github.com/oranagra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9845?s=40&v=4",
-          "name": "pietern",
-          "url": "https://github.com/pietern"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34459052?s=40&v=4",
-          "name": "madolson",
-          "url": "https://github.com/madolson"
-        }
-      ]
-    },
-    {
       "title": "zephyrproject-rtos/zephyr",
       "url": "https://github.com/zephyrproject-rtos/zephyr",
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "17,015",
-      "forks": "10,366",
+      "stars": "17,021",
+      "forks": "10,368",
       "addStars": "76",
       "contributors": [
         {

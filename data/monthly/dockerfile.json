@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Nov 2026 07:18:21 GMT",
+  "pubDate": "Fri, 06 Nov 2026 13:18:21 GMT",
   "items": [
     {
       "title": "mikeroyal/Self-Hosting-Guide",
@@ -10,7 +10,7 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "23,478",
+      "stars": "23,479",
       "forks": "1,170",
       "addStars": "566",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,716",
-      "forks": "10,745",
+      "stars": "105,714",
+      "forks": "10,744",
       "addStars": "224",
       "contributors": [
         {
@@ -148,13 +148,35 @@
       ]
     },
     {
+      "title": "oxsecurity/megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "2,647",
+      "forks": "321",
+      "addStars": "41",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17500430?s=40&v=4",
+          "name": "nvuillam",
+          "url": "https://github.com/nvuillam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129584137?s=40&v=4",
+          "name": "megalinter-bot",
+          "url": "https://github.com/megalinter-bot"
+        }
+      ]
+    },
+    {
       "title": "nodejs/docker-node",
       "url": "https://github.com/nodejs/docker-node",
       "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "8,595",
-      "forks": "1,973",
+      "forks": "1,975",
       "addStars": "12",
       "contributors": [
         {
@@ -185,28 +207,6 @@
       ]
     },
     {
-      "title": "oxsecurity/megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "2,647",
-      "forks": "321",
-      "addStars": "41",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17500430?s=40&v=4",
-          "name": "nvuillam",
-          "url": "https://github.com/nvuillam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/129584137?s=40&v=4",
-          "name": "megalinter-bot",
-          "url": "https://github.com/megalinter-bot"
-        }
-      ]
-    },
-    {
       "title": "render-examples/mysql",
       "url": "https://github.com/render-examples/mysql",
       "description": "MySQL 8.0 and 5.7 on Render",
@@ -230,6 +230,117 @@
           "avatar": "https://avatars.githubusercontent.com/u/66637250?s=40&v=4",
           "name": "davidmauskop",
           "url": "https://github.com/davidmauskop"
+        }
+      ]
+    },
+    {
+      "title": "aws-amplify/amplify-hosting",
+      "url": "https://github.com/aws-amplify/amplify-hosting",
+      "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "479",
+      "forks": "123",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2429410?s=40&v=4",
+          "name": "swaminator",
+          "url": "https://github.com/swaminator"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38470430?s=40&v=4",
+          "name": "Jay2113",
+          "url": "https://github.com/Jay2113"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/634958?s=40&v=4",
+          "name": "siegerts",
+          "url": "https://github.com/siegerts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1050?s=40&v=4",
+          "name": "calavera",
+          "url": "https://github.com/calavera"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5371802?s=40&v=4",
+          "name": "abhi7cr",
+          "url": "https://github.com/abhi7cr"
+        }
+      ]
+    },
+    {
+      "title": "solana-foundation/solana-verifiable-build",
+      "url": "https://github.com/solana-foundation/solana-verifiable-build",
+      "description": "CLI tool for deterministically building and verifying executable against on-chain programs or buffer accounts",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "497",
+      "forks": "259",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7481857?s=40&v=4",
+          "name": "ngundotra",
+          "url": "https://github.com/ngundotra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61092285?s=40&v=4",
+          "name": "jarry-xiao",
+          "url": "https://github.com/jarry-xiao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118954594?s=40&v=4",
+          "name": "swaroop-osec",
+          "url": "https://github.com/swaroop-osec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79476913?s=40&v=4",
+          "name": "throwbackjams",
+          "url": "https://github.com/throwbackjams"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/187092323?s=40&v=4",
+          "name": "meumar-osec",
+          "url": "https://github.com/meumar-osec"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/mssql-docker",
+      "url": "https://github.com/microsoft/mssql-docker",
+      "description": "Official Microsoft repository for SQL Server in Docker resources",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "1,896",
+      "forks": "764",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4452738?s=40&v=4",
+          "name": "jamesongithub",
+          "url": "https://github.com/jamesongithub"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14988070?s=40&v=4",
+          "name": "twright-msft",
+          "url": "https://github.com/twright-msft"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63835878?s=40&v=4",
+          "name": "amvin87-zz",
+          "url": "https://github.com/amvin87-zz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/885585?s=40&v=4",
+          "name": "LuisBosquez",
+          "url": "https://github.com/LuisBosquez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7462604?s=40&v=4",
+          "name": "perrysk-msft",
+          "url": "https://github.com/perrysk-msft"
         }
       ]
     },
@@ -304,80 +415,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/92710734?s=40&v=4",
           "name": "cost0much",
           "url": "https://github.com/cost0much"
-        }
-      ]
-    },
-    {
-      "title": "aws-amplify/amplify-hosting",
-      "url": "https://github.com/aws-amplify/amplify-hosting",
-      "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "479",
-      "forks": "123",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2429410?s=40&v=4",
-          "name": "swaminator",
-          "url": "https://github.com/swaminator"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38470430?s=40&v=4",
-          "name": "Jay2113",
-          "url": "https://github.com/Jay2113"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/634958?s=40&v=4",
-          "name": "siegerts",
-          "url": "https://github.com/siegerts"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1050?s=40&v=4",
-          "name": "calavera",
-          "url": "https://github.com/calavera"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5371802?s=40&v=4",
-          "name": "abhi7cr",
-          "url": "https://github.com/abhi7cr"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/mssql-docker",
-      "url": "https://github.com/microsoft/mssql-docker",
-      "description": "Official Microsoft repository for SQL Server in Docker resources",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "1,896",
-      "forks": "764",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4452738?s=40&v=4",
-          "name": "jamesongithub",
-          "url": "https://github.com/jamesongithub"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14988070?s=40&v=4",
-          "name": "twright-msft",
-          "url": "https://github.com/twright-msft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63835878?s=40&v=4",
-          "name": "amvin87-zz",
-          "url": "https://github.com/amvin87-zz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/885585?s=40&v=4",
-          "name": "LuisBosquez",
-          "url": "https://github.com/LuisBosquez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7462604?s=40&v=4",
-          "name": "perrysk-msft",
-          "url": "https://github.com/perrysk-msft"
         }
       ]
     }
