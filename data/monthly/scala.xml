@@ -3,7 +3,7 @@
     <title>GitHub Scala Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Scala Languages in GitHub</description>
-    <pubDate>Sat, 07 Nov 2026 07:18:15 GMT</pubDate>
+    <pubDate>Sat, 07 Nov 2026 13:18:21 GMT</pubDate>
     <item>
       <title>apache/spark</title>
       <link>https://github.com/apache/spark</link>
@@ -43,6 +43,39 @@
       </contributors>
     </item>
     <item>
+      <title>apache/datafusion-comet</title>
+      <link>https://github.com/apache/datafusion-comet</link>
+      <description>Apache DataFusion Comet Spark Accelerator</description>
+      <guid>https://github.com/apache/datafusion-comet</guid>
+      <language>Scala</language>
+      <languageColor>#c22d40</languageColor>
+      <stars>1,316</stars>
+      <forks>414</forks>
+      <addStars>29</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/934084?s=40&amp;v=4</avatar>
+          <name>andygrove</name>
+          <url>https://github.com/andygrove</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/68855?s=40&amp;v=4</avatar>
+          <name>viirya</name>
+          <url>https://github.com/viirya</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10247224?s=40&amp;v=4</avatar>
+          <name>comphead</name>
+          <url>https://github.com/comphead</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6855576?s=40&amp;v=4</avatar>
+          <name>mbutrovich</name>
+          <url>https://github.com/mbutrovich</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>scala/scala3</title>
       <link>https://github.com/scala/scala3</link>
       <description>The Scala 3 compiler, also known as Dotty.</description>
@@ -50,7 +83,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>6,334</stars>
-      <forks>1,189</forks>
+      <forks>1,188</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -195,77 +228,6 @@
       </contributors>
     </item>
     <item>
-      <title>apache/datafusion-comet</title>
-      <link>https://github.com/apache/datafusion-comet</link>
-      <description>Apache DataFusion Comet Spark Accelerator</description>
-      <guid>https://github.com/apache/datafusion-comet</guid>
-      <language>Scala</language>
-      <languageColor>#c22d40</languageColor>
-      <stars>1,316</stars>
-      <forks>414</forks>
-      <addStars>29</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/934084?s=40&amp;v=4</avatar>
-          <name>andygrove</name>
-          <url>https://github.com/andygrove</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68855?s=40&amp;v=4</avatar>
-          <name>viirya</name>
-          <url>https://github.com/viirya</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10247224?s=40&amp;v=4</avatar>
-          <name>comphead</name>
-          <url>https://github.com/comphead</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6855576?s=40&amp;v=4</avatar>
-          <name>mbutrovich</name>
-          <url>https://github.com/mbutrovich</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>OpenXiangShan/XiangShan</title>
-      <link>https://github.com/OpenXiangShan/XiangShan</link>
-      <description>Open-source high-performance RISC-V processor</description>
-      <guid>https://github.com/OpenXiangShan/XiangShan</guid>
-      <language>Scala</language>
-      <languageColor>#c22d40</languageColor>
-      <stars>7,368</stars>
-      <forks>977</forks>
-      <addStars>91</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14199583?s=40&amp;v=4</avatar>
-          <name>poemonsense</name>
-          <url>https://github.com/poemonsense</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28356235?s=40&amp;v=4</avatar>
-          <name>AugustusWillisWang</name>
-          <url>https://github.com/AugustusWillisWang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32027544?s=40&amp;v=4</avatar>
-          <name>Lingrui98</name>
-          <url>https://github.com/Lingrui98</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45601194?s=40&amp;v=4</avatar>
-          <name>ljwljwljwljw</name>
-          <url>https://github.com/ljwljwljwljw</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35767095?s=40&amp;v=4</avatar>
-          <name>Lemover</name>
-          <url>https://github.com/Lemover</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>scalameta/metals</title>
       <link>https://github.com/scalameta/metals</link>
       <description>Scala language server with rich IDE features 🚀</description>
@@ -300,6 +262,120 @@
           <avatar>https://avatars.githubusercontent.com/u/43047562?s=40&amp;v=4</avatar>
           <name>scala-steward</name>
           <url>https://github.com/scala-steward</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>sbt/sbt</title>
+      <link>https://github.com/sbt/sbt</link>
+      <description>sbt, the interactive build tool</description>
+      <guid>https://github.com/sbt/sbt</guid>
+      <language>Scala</language>
+      <languageColor>#c22d40</languageColor>
+      <stars>4,955</stars>
+      <forks>1,052</forks>
+      <addStars>5</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/184683?s=40&amp;v=4</avatar>
+          <name>eed3si9n</name>
+          <url>https://github.com/eed3si9n</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/72742?s=40&amp;v=4</avatar>
+          <name>harrah</name>
+          <url>https://github.com/harrah</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7063723?s=40&amp;v=4</avatar>
+          <name>alexarchambault</name>
+          <url>https://github.com/alexarchambault</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/344610?s=40&amp;v=4</avatar>
+          <name>dwijnand</name>
+          <url>https://github.com/dwijnand</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2658825?s=40&amp;v=4</avatar>
+          <name>eatkins</name>
+          <url>https://github.com/eatkins</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>OpenXiangShan/XiangShan</title>
+      <link>https://github.com/OpenXiangShan/XiangShan</link>
+      <description>Open-source high-performance RISC-V processor</description>
+      <guid>https://github.com/OpenXiangShan/XiangShan</guid>
+      <language>Scala</language>
+      <languageColor>#c22d40</languageColor>
+      <stars>7,370</stars>
+      <forks>977</forks>
+      <addStars>91</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14199583?s=40&amp;v=4</avatar>
+          <name>poemonsense</name>
+          <url>https://github.com/poemonsense</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28356235?s=40&amp;v=4</avatar>
+          <name>AugustusWillisWang</name>
+          <url>https://github.com/AugustusWillisWang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32027544?s=40&amp;v=4</avatar>
+          <name>Lingrui98</name>
+          <url>https://github.com/Lingrui98</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45601194?s=40&amp;v=4</avatar>
+          <name>ljwljwljwljw</name>
+          <url>https://github.com/ljwljwljwljw</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35767095?s=40&amp;v=4</avatar>
+          <name>Lemover</name>
+          <url>https://github.com/Lemover</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>apache/gluten</title>
+      <link>https://github.com/apache/gluten</link>
+      <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</description>
+      <guid>https://github.com/apache/gluten</guid>
+      <language>Scala</language>
+      <languageColor>#c22d40</languageColor>
+      <stars>1,618</stars>
+      <forks>677</forks>
+      <addStars>19</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11284395?s=40&amp;v=4</avatar>
+          <name>zhztheplayer</name>
+          <url>https://github.com/zhztheplayer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/137994563?s=40&amp;v=4</avatar>
+          <name>GlutenPerfBot</name>
+          <url>https://github.com/GlutenPerfBot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13806761?s=40&amp;v=4</avatar>
+          <name>philo-he</name>
+          <url>https://github.com/philo-he</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43917?s=40&amp;v=4</avatar>
+          <name>zhouyuan</name>
+          <url>https://github.com/zhouyuan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52736607?s=40&amp;v=4</avatar>
+          <name>marin-ma</name>
+          <url>https://github.com/marin-ma</url>
         </contributor>
       </contributors>
     </item>
@@ -342,44 +418,6 @@
       </contributors>
     </item>
     <item>
-      <title>sbt/sbt</title>
-      <link>https://github.com/sbt/sbt</link>
-      <description>sbt, the interactive build tool</description>
-      <guid>https://github.com/sbt/sbt</guid>
-      <language>Scala</language>
-      <languageColor>#c22d40</languageColor>
-      <stars>4,954</stars>
-      <forks>1,052</forks>
-      <addStars>5</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184683?s=40&amp;v=4</avatar>
-          <name>eed3si9n</name>
-          <url>https://github.com/eed3si9n</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/72742?s=40&amp;v=4</avatar>
-          <name>harrah</name>
-          <url>https://github.com/harrah</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7063723?s=40&amp;v=4</avatar>
-          <name>alexarchambault</name>
-          <url>https://github.com/alexarchambault</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/344610?s=40&amp;v=4</avatar>
-          <name>dwijnand</name>
-          <url>https://github.com/dwijnand</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2658825?s=40&amp;v=4</avatar>
-          <name>eatkins</name>
-          <url>https://github.com/eatkins</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>chipsalliance/chisel</title>
       <link>https://github.com/chipsalliance/chisel</link>
       <description>Chisel: A Modern Hardware Design Language</description>
@@ -387,7 +425,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>4,829</stars>
-      <forks>665</forks>
+      <forks>666</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -486,7 +524,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>2,626</stars>
-      <forks>821</forks>
+      <forks>820</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -513,44 +551,6 @@
           <avatar>https://avatars.githubusercontent.com/u/2948506?s=40&amp;v=4</avatar>
           <name>bryce-anderson</name>
           <url>https://github.com/bryce-anderson</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>lichess-org/lila</title>
-      <link>https://github.com/lichess-org/lila</link>
-      <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
-      <guid>https://github.com/lichess-org/lila</guid>
-      <language>Scala</language>
-      <languageColor>#c22d40</languageColor>
-      <stars>18,951</stars>
-      <forks>2,804</forks>
-      <addStars>183</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/140370?s=40&amp;v=4</avatar>
-          <name>ornicar</name>
-          <url>https://github.com/ornicar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/402777?s=40&amp;v=4</avatar>
-          <name>niklasf</name>
-          <url>https://github.com/niklasf</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/101470903?s=40&amp;v=4</avatar>
-          <name>jonbgamble</name>
-          <url>https://github.com/jonbgamble</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/437967?s=40&amp;v=4</avatar>
-          <name>lenguyenthanh</name>
-          <url>https://github.com/lenguyenthanh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19309705?s=40&amp;v=4</avatar>
-          <name>benediktwerner</name>
-          <url>https://github.com/benediktwerner</url>
         </contributor>
       </contributors>
     </item>
@@ -626,40 +626,73 @@
       </contributors>
     </item>
     <item>
-      <title>apache/gluten</title>
-      <link>https://github.com/apache/gluten</link>
-      <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</description>
-      <guid>https://github.com/apache/gluten</guid>
+      <title>lichess-org/lila</title>
+      <link>https://github.com/lichess-org/lila</link>
+      <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
+      <guid>https://github.com/lichess-org/lila</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>1,618</stars>
-      <forks>677</forks>
-      <addStars>19</addStars>
+      <stars>18,951</stars>
+      <forks>2,804</forks>
+      <addStars>183</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11284395?s=40&amp;v=4</avatar>
-          <name>zhztheplayer</name>
-          <url>https://github.com/zhztheplayer</url>
+          <avatar>https://avatars.githubusercontent.com/u/140370?s=40&amp;v=4</avatar>
+          <name>ornicar</name>
+          <url>https://github.com/ornicar</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/137994563?s=40&amp;v=4</avatar>
-          <name>GlutenPerfBot</name>
-          <url>https://github.com/GlutenPerfBot</url>
+          <avatar>https://avatars.githubusercontent.com/u/402777?s=40&amp;v=4</avatar>
+          <name>niklasf</name>
+          <url>https://github.com/niklasf</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13806761?s=40&amp;v=4</avatar>
-          <name>philo-he</name>
-          <url>https://github.com/philo-he</url>
+          <avatar>https://avatars.githubusercontent.com/u/101470903?s=40&amp;v=4</avatar>
+          <name>jonbgamble</name>
+          <url>https://github.com/jonbgamble</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43917?s=40&amp;v=4</avatar>
-          <name>zhouyuan</name>
-          <url>https://github.com/zhouyuan</url>
+          <avatar>https://avatars.githubusercontent.com/u/437967?s=40&amp;v=4</avatar>
+          <name>lenguyenthanh</name>
+          <url>https://github.com/lenguyenthanh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52736607?s=40&amp;v=4</avatar>
-          <name>marin-ma</name>
-          <url>https://github.com/marin-ma</url>
+          <avatar>https://avatars.githubusercontent.com/u/19309705?s=40&amp;v=4</avatar>
+          <name>benediktwerner</name>
+          <url>https://github.com/benediktwerner</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>playframework/playframework</title>
+      <link>https://github.com/playframework/playframework</link>
+      <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
+      <guid>https://github.com/playframework/playframework</guid>
+      <language>Scala</language>
+      <languageColor>#c22d40</languageColor>
+      <stars>12,620</stars>
+      <forks>4,011</forks>
+      <addStars>10</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/644927?s=40&amp;v=4</avatar>
+          <name>mkurz</name>
+          <url>https://github.com/mkurz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/105833?s=40&amp;v=4</avatar>
+          <name>jroper</name>
+          <url>https://github.com/jroper</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43047562?s=40&amp;v=4</avatar>
+          <name>scala-steward</name>
+          <url>https://github.com/scala-steward</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4576?s=40&amp;v=4</avatar>
+          <name>marcospereira</name>
+          <url>https://github.com/marcospereira</url>
         </contributor>
       </contributors>
     </item>
@@ -702,25 +735,20 @@
       </contributors>
     </item>
     <item>
-      <title>playframework/playframework</title>
-      <link>https://github.com/playframework/playframework</link>
-      <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
-      <guid>https://github.com/playframework/playframework</guid>
+      <title>scalapb/ScalaPB</title>
+      <link>https://github.com/scalapb/ScalaPB</link>
+      <description>Protocol buffer compiler for Scala.</description>
+      <guid>https://github.com/scalapb/ScalaPB</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>12,620</stars>
-      <forks>4,011</forks>
-      <addStars>10</addStars>
+      <stars>1,341</stars>
+      <forks>293</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/644927?s=40&amp;v=4</avatar>
-          <name>mkurz</name>
-          <url>https://github.com/mkurz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/105833?s=40&amp;v=4</avatar>
-          <name>jroper</name>
-          <url>https://github.com/jroper</url>
+          <avatar>https://avatars.githubusercontent.com/u/307373?s=40&amp;v=4</avatar>
+          <name>thesamet</name>
+          <url>https://github.com/thesamet</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43047562?s=40&amp;v=4</avatar>
@@ -728,9 +756,9 @@
           <url>https://github.com/scala-steward</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4576?s=40&amp;v=4</avatar>
-          <name>marcospereira</name>
-          <url>https://github.com/marcospereira</url>
+          <avatar>https://avatars.githubusercontent.com/u/389787?s=40&amp;v=4</avatar>
+          <name>xuwei-k</name>
+          <url>https://github.com/xuwei-k</url>
         </contributor>
       </contributors>
     </item>
@@ -802,34 +830,6 @@
           <avatar>https://avatars.githubusercontent.com/u/43047562?s=40&amp;v=4</avatar>
           <name>scala-steward</name>
           <url>https://github.com/scala-steward</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>scalapb/ScalaPB</title>
-      <link>https://github.com/scalapb/ScalaPB</link>
-      <description>Protocol buffer compiler for Scala.</description>
-      <guid>https://github.com/scalapb/ScalaPB</guid>
-      <language>Scala</language>
-      <languageColor>#c22d40</languageColor>
-      <stars>1,341</stars>
-      <forks>293</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/307373?s=40&amp;v=4</avatar>
-          <name>thesamet</name>
-          <url>https://github.com/thesamet</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43047562?s=40&amp;v=4</avatar>
-          <name>scala-steward</name>
-          <url>https://github.com/scala-steward</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/389787?s=40&amp;v=4</avatar>
-          <name>xuwei-k</name>
-          <url>https://github.com/xuwei-k</url>
         </contributor>
       </contributors>
     </item>

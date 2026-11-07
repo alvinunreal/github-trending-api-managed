@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 07:18:15 GMT",
+  "pubDate": "Sat, 07 Nov 2026 13:18:21 GMT",
   "items": [
     {
       "title": "max-sixty/worktrunk",
@@ -10,8 +10,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,841",
-      "forks": "458",
+      "stars": "11,879",
+      "forks": "460",
       "addStars": "2,184",
       "contributors": [
         {
@@ -32,13 +32,45 @@
       ]
     },
     {
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "46,456",
+      "forks": "3,185",
+      "addStars": "1,404",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+          "name": "ctate",
+          "url": "https://github.com/ctate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
+          "name": "Railly",
+          "url": "https://github.com/Railly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
+          "name": "lahfir",
+          "url": "https://github.com/lahfir"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "104,995",
-      "forks": "6,239",
+      "stars": "105,182",
+      "forks": "6,248",
       "addStars": "8,172",
       "contributors": [
         {
@@ -69,8 +101,8 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "48,821",
-      "forks": "3,928",
+      "stars": "48,937",
+      "forks": "3,936",
       "addStars": "1,661",
       "contributors": [
         {
@@ -96,50 +128,13 @@
       ]
     },
     {
-      "title": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "133,510",
-      "forks": "21,160",
-      "addStars": "1,930",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
-          "name": "jif-oai",
-          "url": "https://github.com/jif-oai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
-          "name": "bolinfest",
-          "url": "https://github.com/bolinfest"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
-          "name": "etraut-openai",
-          "url": "https://github.com/etraut-openai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
-          "name": "aibrahim-oai",
-          "url": "https://github.com/aibrahim-oai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&v=4",
-          "name": "pakrym-oai",
-          "url": "https://github.com/pakrym-oai"
-        }
-      ]
-    },
-    {
       "title": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "93,875",
-      "forks": "11,522",
+      "stars": "94,070",
+      "forks": "11,537",
       "addStars": "995",
       "contributors": [
         {
@@ -175,7 +170,7 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,853",
+      "stars": "37,882",
       "forks": "3,575",
       "addStars": "2,677",
       "contributors": [
@@ -207,71 +202,135 @@
       ]
     },
     {
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
+      "title": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "46,349",
-      "forks": "3,175",
-      "addStars": "1,404",
+      "stars": "50,831",
+      "forks": "2,624",
+      "addStars": "369",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-          "name": "ctate",
-          "url": "https://github.com/ctate"
+          "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
+          "name": "charliermarsh",
+          "url": "https://github.com/charliermarsh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-          "name": "Railly",
-          "url": "https://github.com/Railly"
+          "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&v=4",
+          "name": "MichaReiser",
+          "url": "https://github.com/MichaReiser"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-          "name": "lahfir",
-          "url": "https://github.com/lahfir"
+          "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&v=4",
+          "name": "AlexWaygood",
+          "url": "https://github.com/AlexWaygood"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&v=4",
+          "name": "sharkdp",
+          "url": "https://github.com/sharkdp"
         }
       ]
     },
     {
-      "title": "anomalyco/hex",
-      "url": "https://github.com/anomalyco/hex",
-      "description": "Local voice dictation for mac, windows and linux",
+      "title": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,567",
-      "forks": "327",
-      "addStars": "4,291",
+      "stars": "133,548",
+      "forks": "21,171",
+      "addStars": "1,930",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4",
-          "name": "kitlangton",
-          "url": "https://github.com/kitlangton"
+          "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
+          "name": "jif-oai",
+          "url": "https://github.com/jif-oai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
-          "name": "thdxr",
-          "url": "https://github.com/thdxr"
+          "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
+          "name": "bolinfest",
+          "url": "https://github.com/bolinfest"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10430890?s=40&v=4",
-          "name": "Hona",
-          "url": "https://github.com/Hona"
+          "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
+          "name": "etraut-openai",
+          "url": "https://github.com/etraut-openai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
-          "name": "rekram1-node",
-          "url": "https://github.com/rekram1-node"
+          "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
+          "name": "aibrahim-oai",
+          "url": "https://github.com/aibrahim-oai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34747899?s=40&v=4",
-          "name": "neriousy",
-          "url": "https://github.com/neriousy"
+          "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&v=4",
+          "name": "pakrym-oai",
+          "url": "https://github.com/pakrym-oai"
+        }
+      ]
+    },
+    {
+      "title": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "41,051",
+      "forks": "2,345",
+      "addStars": "220",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&v=4",
+          "name": "sophiajt",
+          "url": "https://github.com/sophiajt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/343840?s=40&v=4",
+          "name": "fdncred",
+          "url": "https://github.com/fdncred"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15833959?s=40&v=4",
+          "name": "sholderbach",
+          "url": "https://github.com/sholderbach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/951128?s=40&v=4",
+          "name": "andrasio",
+          "url": "https://github.com/andrasio"
+        }
+      ]
+    },
+    {
+      "title": "clap-rs/clap",
+      "url": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "16,939",
+      "forks": "1,308",
+      "addStars": "168",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60961?s=40&v=4",
+          "name": "epage",
+          "url": "https://github.com/epage"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6942134?s=40&v=4",
+          "name": "kbknapp",
+          "url": "https://github.com/kbknapp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/174703?s=40&v=4",
+          "name": "pksunkara",
+          "url": "https://github.com/pksunkara"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10212162?s=40&v=4",
+          "name": "homu",
+          "url": "https://github.com/homu"
         }
       ]
     },
@@ -281,8 +340,8 @@
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,944",
-      "forks": "199",
+      "stars": "1,955",
+      "forks": "200",
       "addStars": "922",
       "contributors": [
         {
@@ -313,61 +372,39 @@
       ]
     },
     {
-      "title": "xai-org/x-algorithm",
-      "url": "https://github.com/xai-org/x-algorithm",
-      "description": "Algorithm powering the For You feed on X",
+      "title": "Mesh-LLM/mesh-llm",
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,124",
-      "forks": "5,514",
-      "addStars": "217",
+      "stars": "3,965",
+      "forks": "499",
+      "addStars": "280",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/50156?s=40&v=4",
+          "name": "i386",
+          "url": "https://github.com/i386"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/219145320?s=40&v=4",
-          "name": "joshs1017dev",
-          "url": "https://github.com/joshs1017dev"
+          "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&v=4",
+          "name": "michaelneale",
+          "url": "https://github.com/michaelneale"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/320713965?s=40&v=4",
-          "name": "x-open-source",
-          "url": "https://github.com/x-open-source"
-        }
-      ]
-    },
-    {
-      "title": "agentgateway/agentgateway",
-      "url": "https://github.com/agentgateway/agentgateway",
-      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "6,007",
-      "forks": "1,062",
-      "addStars": "180",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/623453?s=40&v=4",
-          "name": "howardjohn",
-          "url": "https://github.com/howardjohn"
+          "avatar": "https://avatars.githubusercontent.com/u/728690?s=40&v=4",
+          "name": "ndizazzo",
+          "url": "https://github.com/ndizazzo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4185086?s=40&v=4",
-          "name": "EItanya",
-          "url": "https://github.com/EItanya"
+          "avatar": "https://avatars.githubusercontent.com/u/222121099?s=40&v=4",
+          "name": "Virgile-pct",
+          "url": "https://github.com/Virgile-pct"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15183287?s=40&v=4",
-          "name": "npolshakova",
-          "url": "https://github.com/npolshakova"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61794?s=40&v=4",
-          "name": "markuskobler",
-          "url": "https://github.com/markuskobler"
+          "avatar": "https://avatars.githubusercontent.com/u/20299097?s=40&v=4",
+          "name": "IvGolovach",
+          "url": "https://github.com/IvGolovach"
         }
       ]
     },
@@ -377,8 +414,8 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,305",
-      "forks": "344",
+      "stars": "3,324",
+      "forks": "347",
       "addStars": "931",
       "contributors": [
         {
@@ -404,45 +441,13 @@
       ]
     },
     {
-      "title": "clap-rs/clap",
-      "url": "https://github.com/clap-rs/clap",
-      "description": "A full featured, fast Command Line Argument Parser for Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "16,936",
-      "forks": "1,308",
-      "addStars": "168",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60961?s=40&v=4",
-          "name": "epage",
-          "url": "https://github.com/epage"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6942134?s=40&v=4",
-          "name": "kbknapp",
-          "url": "https://github.com/kbknapp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/174703?s=40&v=4",
-          "name": "pksunkara",
-          "url": "https://github.com/pksunkara"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10212162?s=40&v=4",
-          "name": "homu",
-          "url": "https://github.com/homu"
-        }
-      ]
-    },
-    {
       "title": "denoland/deno",
       "url": "https://github.com/denoland/deno",
       "description": "A modern runtime for JavaScript and TypeScript.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "108,905",
-      "forks": "6,666",
+      "stars": "108,908",
+      "forks": "6,710",
       "addStars": "280",
       "contributors": [
         {
@@ -473,34 +478,66 @@
       ]
     },
     {
-      "title": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "title": "xai-org/x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,764",
-      "forks": "2,616",
-      "addStars": "369",
+      "stars": "34,126",
+      "forks": "5,514",
+      "addStars": "217",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
-          "name": "charliermarsh",
-          "url": "https://github.com/charliermarsh"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&v=4",
-          "name": "MichaReiser",
-          "url": "https://github.com/MichaReiser"
+          "avatar": "https://avatars.githubusercontent.com/u/219145320?s=40&v=4",
+          "name": "joshs1017dev",
+          "url": "https://github.com/joshs1017dev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&v=4",
-          "name": "AlexWaygood",
-          "url": "https://github.com/AlexWaygood"
+          "avatar": "https://avatars.githubusercontent.com/u/320713965?s=40&v=4",
+          "name": "x-open-source",
+          "url": "https://github.com/x-open-source"
+        }
+      ]
+    },
+    {
+      "title": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "70,367",
+      "forks": "3,430",
+      "addStars": "438",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/725423?s=40&v=4",
+          "name": "dani-garcia",
+          "url": "https://github.com/dani-garcia"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&v=4",
-          "name": "sharkdp",
-          "url": "https://github.com/sharkdp"
+          "avatar": "https://avatars.githubusercontent.com/u/610450?s=40&v=4",
+          "name": "BlackDex",
+          "url": "https://github.com/BlackDex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/203380?s=40&v=4",
+          "name": "jjlin",
+          "url": "https://github.com/jjlin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8255364?s=40&v=4",
+          "name": "mprasil",
+          "url": "https://github.com/mprasil"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/509385?s=40&v=4",
+          "name": "stefan0xC",
+          "url": "https://github.com/stefan0xC"
         }
       ]
     },
@@ -510,8 +547,8 @@
       "description": "Feature rich, native desktop, YouTube Music client.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,870",
-      "forks": "121",
+      "stars": "1,874",
+      "forks": "122",
       "addStars": "382",
       "contributors": [
         {
@@ -538,75 +575,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/150385054?s=40&v=4",
           "name": "TeseySTD",
           "url": "https://github.com/TeseySTD"
-        }
-      ]
-    },
-    {
-      "title": "janhq/jan",
-      "url": "https://github.com/janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "45,542",
-      "forks": "3,157",
-      "addStars": "399",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10354610?s=40&v=4",
-          "name": "urmauur",
-          "url": "https://github.com/urmauur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17230826?s=40&v=4",
-          "name": "qnixsynapse",
-          "url": "https://github.com/qnixsynapse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/150573299?s=40&v=4",
-          "name": "hohieuai",
-          "url": "https://github.com/hohieuai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90838458?s=40&v=4",
-          "name": "thinhlpg",
-          "url": "https://github.com/thinhlpg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/818645?s=40&v=4",
-          "name": "Vanalite",
-          "url": "https://github.com/Vanalite"
-        }
-      ]
-    },
-    {
-      "title": "nushell/nushell",
-      "url": "https://github.com/nushell/nushell",
-      "description": "A new type of shell",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "41,028",
-      "forks": "2,344",
-      "addStars": "220",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&v=4",
-          "name": "sophiajt",
-          "url": "https://github.com/sophiajt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/343840?s=40&v=4",
-          "name": "fdncred",
-          "url": "https://github.com/fdncred"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15833959?s=40&v=4",
-          "name": "sholderbach",
-          "url": "https://github.com/sholderbach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/951128?s=40&v=4",
-          "name": "andrasio",
-          "url": "https://github.com/andrasio"
         }
       ]
     }

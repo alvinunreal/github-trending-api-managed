@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 07:18:15 GMT",
+  "pubDate": "Sat, 07 Nov 2026 13:18:21 GMT",
   "items": [
     {
       "title": "verilator/verilator",
@@ -10,7 +10,7 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "4,063",
+      "stars": "4,064",
       "forks": "972",
       "addStars": "20",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "13,192",
+      "stars": "13,196",
       "forks": "1,273",
       "addStars": "43",
       "contributors": [
@@ -148,6 +148,43 @@
       ]
     },
     {
+      "title": "pavona/pavona",
+      "url": "https://github.com/pavona/pavona",
+      "description": "A library of modular, tapeout-proven, and secure-by-default open silicon blocks",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "103",
+      "forks": "35",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3984960?s=40&v=4",
+          "name": "mkannwischer",
+          "url": "https://github.com/mkannwischer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103673975?s=40&v=4",
+          "name": "vlpannel",
+          "url": "https://github.com/vlpannel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/231391756?s=40&v=4",
+          "name": "rtorok-zr",
+          "url": "https://github.com/rtorok-zr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47877802?s=40&v=4",
+          "name": "LouisTheLuis",
+          "url": "https://github.com/LouisTheLuis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80294896?s=40&v=4",
+          "name": "matutem",
+          "url": "https://github.com/matutem"
+        }
+      ]
+    },
+    {
       "title": "openhwfoundation/cvw",
       "url": "https://github.com/openhwfoundation/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
@@ -181,43 +218,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/51968757?s=40&v=4",
           "name": "BBracker",
           "url": "https://github.com/BBracker"
-        }
-      ]
-    },
-    {
-      "title": "chipsalliance/caliptra-ss",
-      "url": "https://github.com/chipsalliance/caliptra-ss",
-      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "56",
-      "forks": "66",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
-          "name": "calebofearth",
-          "url": "https://github.com/calebofearth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
-          "name": "ekarabu",
-          "url": "https://github.com/ekarabu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7507042?s=40&v=4",
-          "name": "clayton8",
-          "url": "https://github.com/clayton8"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142342517?s=40&v=4",
-          "name": "nileshbpat",
-          "url": "https://github.com/nileshbpat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
-          "name": "Nitsirks",
-          "url": "https://github.com/Nitsirks"
         }
       ]
     }
