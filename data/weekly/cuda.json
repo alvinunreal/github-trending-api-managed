@@ -2,15 +2,52 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Nov 2026 07:18:15 GMT",
+  "pubDate": "Sun, 08 Nov 2026 13:18:22 GMT",
   "items": [
+    {
+      "title": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "6,875",
+      "forks": "1,717",
+      "addStars": "53",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
+          "name": "yyihuang",
+          "url": "https://github.com/yyihuang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
+          "name": "averyhNV",
+          "url": "https://github.com/averyhNV"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
+          "name": "yzh119",
+          "url": "https://github.com/yzh119"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
+          "name": "bkryu",
+          "url": "https://github.com/bkryu"
+        }
+      ]
+    },
     {
       "title": "karpathy/llm.c",
       "url": "https://github.com/karpathy/llm.c",
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,409",
+      "stars": "31,408",
       "forks": "3,815",
       "addStars": "89",
       "contributors": [
@@ -38,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
           "name": "rosslwheeler",
           "url": "https://github.com/rosslwheeler"
-        }
-      ]
-    },
-    {
-      "title": "flashinfer-ai/flashinfer",
-      "url": "https://github.com/flashinfer-ai/flashinfer",
-      "description": "FlashInfer: Kernel Library for LLM Serving",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "6,874",
-      "forks": "1,713",
-      "addStars": "53",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
-          "name": "yyihuang",
-          "url": "https://github.com/yyihuang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
-          "name": "averyhNV",
-          "url": "https://github.com/averyhNV"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
-          "name": "yzh119",
-          "url": "https://github.com/yzh119"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
-          "name": "bkryu",
-          "url": "https://github.com/bkryu"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,603",
+      "stars": "2,605",
       "forks": "272",
       "addStars": "19",
       "contributors": [
@@ -195,8 +195,8 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,419",
-      "forks": "1,546",
+      "stars": "10,420",
+      "forks": "1,547",
       "addStars": "33",
       "contributors": [
         {
@@ -269,8 +269,8 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,170",
-      "forks": "1,513",
+      "stars": "9,171",
+      "forks": "1,514",
       "addStars": "39",
       "contributors": [
         {
@@ -297,43 +297,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
           "name": "ko3n1g",
           "url": "https://github.com/ko3n1g"
-        }
-      ]
-    },
-    {
-      "title": "NVlabs/instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "17,589",
-      "forks": "2,066",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4923655?s=40&v=4",
-          "name": "Tom94",
-          "url": "https://github.com/Tom94"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7601391?s=40&v=4",
-          "name": "FlorisE",
-          "url": "https://github.com/FlorisE"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29726242?s=40&v=4",
-          "name": "jc211",
-          "url": "https://github.com/jc211"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24607227?s=40&v=4",
-          "name": "ziyi-zhang",
-          "url": "https://github.com/ziyi-zhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7057863?s=40&v=4",
-          "name": "yenchenlin",
-          "url": "https://github.com/yenchenlin"
         }
       ]
     }

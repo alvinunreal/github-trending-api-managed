@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Nov 2026 07:18:15 GMT",
+  "pubDate": "Sun, 08 Nov 2026 13:18:22 GMT",
   "items": [
     {
       "title": "verilator/verilator",
@@ -10,7 +10,7 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "4,066",
+      "stars": "4,068",
       "forks": "973",
       "addStars": "19",
       "contributors": [
@@ -42,13 +42,45 @@
       ]
     },
     {
+      "title": "adam-maj/tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "13,204",
+      "forks": "1,274",
+      "addStars": "49",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
+          "name": "adam-maj",
+          "url": "https://github.com/adam-maj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
+          "name": "ashaltu",
+          "url": "https://github.com/ashaltu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
+          "name": "xianbaoqian",
+          "url": "https://github.com/xianbaoqian"
+        }
+      ]
+    },
+    {
       "title": "lowRISC/opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,745",
-      "forks": "1,154",
+      "stars": "3,746",
+      "forks": "1,155",
       "addStars": "22",
       "contributors": [
         {
@@ -75,38 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
           "name": "vogelpi",
           "url": "https://github.com/vogelpi"
-        }
-      ]
-    },
-    {
-      "title": "adam-maj/tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "13,201",
-      "forks": "1,274",
-      "addStars": "49",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
-          "name": "adam-maj",
-          "url": "https://github.com/adam-maj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
-          "name": "ashaltu",
-          "url": "https://github.com/ashaltu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-          "name": "eltociear",
-          "url": "https://github.com/eltociear"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
-          "name": "xianbaoqian",
-          "url": "https://github.com/xianbaoqian"
         }
       ]
     },
@@ -148,50 +148,13 @@
       ]
     },
     {
-      "title": "pavona/pavona",
-      "url": "https://github.com/pavona/pavona",
-      "description": "A library of modular, tapeout-proven, and secure-by-default open silicon blocks",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "104",
-      "forks": "35",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3984960?s=40&v=4",
-          "name": "mkannwischer",
-          "url": "https://github.com/mkannwischer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/103673975?s=40&v=4",
-          "name": "vlpannel",
-          "url": "https://github.com/vlpannel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/231391756?s=40&v=4",
-          "name": "rtorok-zr",
-          "url": "https://github.com/rtorok-zr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47877802?s=40&v=4",
-          "name": "LouisTheLuis",
-          "url": "https://github.com/LouisTheLuis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80294896?s=40&v=4",
-          "name": "matutem",
-          "url": "https://github.com/matutem"
-        }
-      ]
-    },
-    {
       "title": "openhwfoundation/cvw",
       "url": "https://github.com/openhwfoundation/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": "660",
-      "forks": "596",
+      "forks": "595",
       "addStars": "3",
       "contributors": [
         {

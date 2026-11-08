@@ -2,15 +2,47 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Nov 2026 07:18:15 GMT",
+  "pubDate": "Sun, 08 Nov 2026 13:18:22 GMT",
   "items": [
+    {
+      "title": "google/styleguide",
+      "url": "https://github.com/google/styleguide",
+      "description": "Style guides for Google-originated open-source projects",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "39,810",
+      "forks": "12,918",
+      "addStars": "39",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/176950?s=40&v=4",
+          "name": "vapier",
+          "url": "https://github.com/vapier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1343864?s=40&v=4",
+          "name": "tonyruscoe",
+          "url": "https://github.com/tonyruscoe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12462303?s=40&v=4",
+          "name": "tituswinters",
+          "url": "https://github.com/tituswinters"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68491?s=40&v=4",
+          "name": "gpshead",
+          "url": "https://github.com/gpshead"
+        }
+      ]
+    },
     {
       "title": "google-coral/coralnpu",
       "url": "https://github.com/google-coral/coralnpu",
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,678",
+      "stars": "2,679",
       "forks": "372",
       "addStars": "27",
       "contributors": [
@@ -47,8 +79,8 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "24,551",
-      "forks": "4,819",
+      "stars": "24,552",
+      "forks": "4,820",
       "addStars": "6",
       "contributors": [
         {
@@ -79,12 +111,49 @@
       ]
     },
     {
+      "title": "dakra/ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "1,121",
+      "forks": "76",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/574659?s=40&v=4",
+          "name": "dakra",
+          "url": "https://github.com/dakra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5737870?s=40&v=4",
+          "name": "emil-e",
+          "url": "https://github.com/emil-e"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2631472?s=40&v=4",
+          "name": "kiennq",
+          "url": "https://github.com/kiennq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44319627?s=40&v=4",
+          "name": "Cianidos",
+          "url": "https://github.com/Cianidos"
+        }
+      ]
+    },
+    {
       "title": "doomemacs/core",
       "url": "https://github.com/doomemacs/core",
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "22,802",
+      "stars": "22,803",
       "forks": "3,140",
       "addStars": "18",
       "contributors": [
@@ -153,43 +222,6 @@
       ]
     },
     {
-      "title": "dakra/ghostel",
-      "url": "https://github.com/dakra/ghostel",
-      "description": "Terminal emulator powered by libghostty",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "1,121",
-      "forks": "76",
-      "addStars": "35",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/574659?s=40&v=4",
-          "name": "dakra",
-          "url": "https://github.com/dakra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5737870?s=40&v=4",
-          "name": "emil-e",
-          "url": "https://github.com/emil-e"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2631472?s=40&v=4",
-          "name": "kiennq",
-          "url": "https://github.com/kiennq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44319627?s=40&v=4",
-          "name": "Cianidos",
-          "url": "https://github.com/Cianidos"
-        }
-      ]
-    },
-    {
       "title": "clojure-emacs/cider",
       "url": "https://github.com/clojure-emacs/cider",
       "description": "The Clojure Interactive Development Environment that Rocks for Emacs",
@@ -232,7 +264,7 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "3,563",
+      "stars": "3,565",
       "forks": "452",
       "addStars": "6",
       "contributors": [
@@ -264,34 +296,39 @@
       ]
     },
     {
-      "title": "google/styleguide",
-      "url": "https://github.com/google/styleguide",
-      "description": "Style guides for Google-originated open-source projects",
+      "title": "emacs-lsp/lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "39,811",
-      "forks": "12,918",
-      "addStars": "39",
+      "stars": "5,134",
+      "forks": "984",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/176950?s=40&v=4",
-          "name": "vapier",
-          "url": "https://github.com/vapier"
+          "avatar": "https://avatars.githubusercontent.com/u/13259670?s=40&v=4",
+          "name": "yyoncho",
+          "url": "https://github.com/yyoncho"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1343864?s=40&v=4",
-          "name": "tonyruscoe",
-          "url": "https://github.com/tonyruscoe"
+          "avatar": "https://avatars.githubusercontent.com/u/2142872?s=40&v=4",
+          "name": "vibhavp",
+          "url": "https://github.com/vibhavp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12462303?s=40&v=4",
-          "name": "tituswinters",
-          "url": "https://github.com/tituswinters"
+          "avatar": "https://avatars.githubusercontent.com/u/7820865?s=40&v=4",
+          "name": "ericdallo",
+          "url": "https://github.com/ericdallo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/68491?s=40&v=4",
-          "name": "gpshead",
-          "url": "https://github.com/gpshead"
+          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
+          "name": "jcs090218",
+          "url": "https://github.com/jcs090218"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
         }
       ]
     },
@@ -338,7 +375,7 @@
       "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,040",
+      "stars": "2,041",
       "forks": "265",
       "addStars": "20",
       "contributors": [
@@ -370,39 +407,39 @@
       ]
     },
     {
-      "title": "emacs-lsp/lsp-mode",
-      "url": "https://github.com/emacs-lsp/lsp-mode",
-      "description": "Emacs client/library for the Language Server Protocol",
+      "title": "emacs-mirror/emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "5,134",
-      "forks": "984",
-      "addStars": "3",
+      "stars": "5,244",
+      "forks": "1,423",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13259670?s=40&v=4",
-          "name": "yyoncho",
-          "url": "https://github.com/yyoncho"
+          "avatar": "https://avatars.githubusercontent.com/u/20908835?s=40&v=4",
+          "name": "Eli-Zaretskii",
+          "url": "https://github.com/Eli-Zaretskii"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2142872?s=40&v=4",
-          "name": "vibhavp",
-          "url": "https://github.com/vibhavp"
+          "avatar": "https://avatars.githubusercontent.com/u/4054496?s=40&v=4",
+          "name": "rgmorris",
+          "url": "https://github.com/rgmorris"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7820865?s=40&v=4",
-          "name": "ericdallo",
-          "url": "https://github.com/ericdallo"
+          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
+          "name": "monnier",
+          "url": "https://github.com/monnier"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
-          "name": "jcs090218",
-          "url": "https://github.com/jcs090218"
+          "avatar": "https://avatars.githubusercontent.com/u/572024?s=40&v=4",
+          "name": "eggert",
+          "url": "https://github.com/eggert"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
+          "avatar": "https://avatars.githubusercontent.com/u/553982?s=40&v=4",
+          "name": "larsmagne",
+          "url": "https://github.com/larsmagne"
         }
       ]
     }

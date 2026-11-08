@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Nov 2026 07:18:15 GMT",
+  "pubDate": "Sun, 08 Nov 2026 13:18:22 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,743",
-      "forks": "20,663",
+      "stars": "26,747",
+      "forks": "20,665",
       "addStars": "433",
       "contributors": [
         {
@@ -79,38 +79,6 @@
       ]
     },
     {
-      "title": "chaotic-cx/nyx",
-      "url": "https://github.com/chaotic-cx/nyx",
-      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "800",
-      "forks": "84",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133350171?s=40&v=4",
-          "name": "temeraire-cx",
-          "url": "https://github.com/temeraire-cx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1368952?s=40&v=4",
-          "name": "PedroHLC",
-          "url": "https://github.com/PedroHLC"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68736947?s=40&v=4",
-          "name": "lonerOrz",
-          "url": "https://github.com/lonerOrz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12834713?s=40&v=4",
-          "name": "dr460nf1r3",
-          "url": "https://github.com/dr460nf1r3"
-        }
-      ]
-    },
-    {
       "title": "NixOS/nixos-hardware",
       "url": "https://github.com/NixOS/nixos-hardware",
       "description": "A collection of NixOS modules covering hardware quirks.",
@@ -143,29 +111,61 @@
       ]
     },
     {
-      "title": "numtide/llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "title": "chaotic-cx/nyx",
+      "url": "https://github.com/chaotic-cx/nyx",
+      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,256",
-      "forks": "321",
-      "addStars": "188",
+      "stars": "800",
+      "forks": "84",
+      "addStars": "24",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
+          "avatar": "https://avatars.githubusercontent.com/u/133350171?s=40&v=4",
+          "name": "temeraire-cx",
+          "url": "https://github.com/temeraire-cx"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3248?s=40&v=4",
-          "name": "zimbatm",
-          "url": "https://github.com/zimbatm"
+          "avatar": "https://avatars.githubusercontent.com/u/1368952?s=40&v=4",
+          "name": "PedroHLC",
+          "url": "https://github.com/PedroHLC"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/68736947?s=40&v=4",
+          "name": "lonerOrz",
+          "url": "https://github.com/lonerOrz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12834713?s=40&v=4",
+          "name": "dr460nf1r3",
+          "url": "https://github.com/dr460nf1r3"
+        }
+      ]
+    },
+    {
+      "title": "Tarow/nix-podman-stacks",
+      "url": "https://github.com/Tarow/nix-podman-stacks",
+      "description": "Home Manager Modules for integrated Podman Stacks",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "201",
+      "forks": "16",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15030658?s=40&v=4",
+          "name": "Tarow",
+          "url": "https://github.com/Tarow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71256193?s=40&v=4",
+          "name": "fizzybuzz",
+          "url": "https://github.com/fizzybuzz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/196055729?s=40&v=4",
+          "name": "first-uninteresting-username",
+          "url": "https://github.com/first-uninteresting-username"
         }
       ]
     }

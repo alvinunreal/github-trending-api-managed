@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sun, 08 Nov 2026 07:18:15 GMT</pubDate>
+    <pubDate>Sun, 08 Nov 2026 13:18:22 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>26,743</stars>
-      <forks>20,663</forks>
+      <stars>26,747</stars>
+      <forks>20,665</forks>
       <addStars>103</addStars>
       <contributors>
         <contributor>
@@ -43,34 +43,6 @@
       </contributors>
     </item>
     <item>
-      <title>nix-community/disko</title>
-      <link>https://github.com/nix-community/disko</link>
-      <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
-      <guid>https://github.com/nix-community/disko</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>3,420</stars>
-      <forks>340</forks>
-      <addStars>17</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
-          <name>lassulus</name>
-          <url>https://github.com/lassulus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9742635?s=40&amp;v=4</avatar>
-          <name>iFreilicht</name>
-          <url>https://github.com/iFreilicht</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>numtide/llm-agents.nix</title>
       <link>https://github.com/numtide/llm-agents.nix</link>
       <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
@@ -95,6 +67,44 @@
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>nix-community/home-manager</title>
+      <link>https://github.com/nix-community/home-manager</link>
+      <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+      <guid>https://github.com/nix-community/home-manager</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>10,501</stars>
+      <forks>2,506</forks>
+      <addStars>23</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1778670?s=40&amp;v=4</avatar>
+          <name>khaneliman</name>
+          <url>https://github.com/khaneliman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/798147?s=40&amp;v=4</avatar>
+          <name>rycee</name>
+          <url>https://github.com/rycee</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/886074?s=40&amp;v=4</avatar>
+          <name>teto</name>
+          <url>https://github.com/teto</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4323933?s=40&amp;v=4</avatar>
+          <name>ncfavier</name>
+          <url>https://github.com/ncfavier</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20448408?s=40&amp;v=4</avatar>
+          <name>berbiche</name>
+          <url>https://github.com/berbiche</url>
         </contributor>
       </contributors>
     </item>
@@ -132,13 +142,41 @@
       </contributors>
     </item>
     <item>
+      <title>nix-community/disko</title>
+      <link>https://github.com/nix-community/disko</link>
+      <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+      <guid>https://github.com/nix-community/disko</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>3,420</stars>
+      <forks>340</forks>
+      <addStars>17</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
+          <name>Mic92</name>
+          <url>https://github.com/Mic92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
+          <name>lassulus</name>
+          <url>https://github.com/lassulus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9742635?s=40&amp;v=4</avatar>
+          <name>iFreilicht</name>
+          <url>https://github.com/iFreilicht</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>microvm-nix/microvm.nix</title>
       <link>https://github.com/microvm-nix/microvm.nix</link>
       <description>NixOS MicroVMs</description>
       <guid>https://github.com/microvm-nix/microvm.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,066</stars>
+      <stars>3,069</stars>
       <forks>242</forks>
       <addStars>19</addStars>
       <contributors>
@@ -194,44 +232,6 @@
           <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
           <name>SuperSandro2000</name>
           <url>https://github.com/SuperSandro2000</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nix-community/home-manager</title>
-      <link>https://github.com/nix-community/home-manager</link>
-      <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
-      <guid>https://github.com/nix-community/home-manager</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>10,501</stars>
-      <forks>2,507</forks>
-      <addStars>23</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1778670?s=40&amp;v=4</avatar>
-          <name>khaneliman</name>
-          <url>https://github.com/khaneliman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/798147?s=40&amp;v=4</avatar>
-          <name>rycee</name>
-          <url>https://github.com/rycee</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/886074?s=40&amp;v=4</avatar>
-          <name>teto</name>
-          <url>https://github.com/teto</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4323933?s=40&amp;v=4</avatar>
-          <name>ncfavier</name>
-          <url>https://github.com/ncfavier</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20448408?s=40&amp;v=4</avatar>
-          <name>berbiche</name>
-          <url>https://github.com/berbiche</url>
         </contributor>
       </contributors>
     </item>

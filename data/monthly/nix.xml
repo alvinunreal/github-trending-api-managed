@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sun, 08 Nov 2026 07:18:15 GMT</pubDate>
+    <pubDate>Sun, 08 Nov 2026 13:18:22 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>26,743</stars>
-      <forks>20,663</forks>
+      <stars>26,747</stars>
+      <forks>20,665</forks>
       <addStars>433</addStars>
       <contributors>
         <contributor>
@@ -81,39 +81,6 @@
       </contributors>
     </item>
     <item>
-      <title>chaotic-cx/nyx</title>
-      <link>https://github.com/chaotic-cx/nyx</link>
-      <description>Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).</description>
-      <guid>https://github.com/chaotic-cx/nyx</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>800</stars>
-      <forks>84</forks>
-      <addStars>24</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/133350171?s=40&amp;v=4</avatar>
-          <name>temeraire-cx</name>
-          <url>https://github.com/temeraire-cx</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1368952?s=40&amp;v=4</avatar>
-          <name>PedroHLC</name>
-          <url>https://github.com/PedroHLC</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68736947?s=40&amp;v=4</avatar>
-          <name>lonerOrz</name>
-          <url>https://github.com/lonerOrz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12834713?s=40&amp;v=4</avatar>
-          <name>dr460nf1r3</name>
-          <url>https://github.com/dr460nf1r3</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>NixOS/nixos-hardware</title>
       <link>https://github.com/NixOS/nixos-hardware</link>
       <description>A collection of NixOS modules covering hardware quirks.</description>
@@ -147,30 +114,63 @@
       </contributors>
     </item>
     <item>
-      <title>numtide/llm-agents.nix</title>
-      <link>https://github.com/numtide/llm-agents.nix</link>
-      <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
-      <guid>https://github.com/numtide/llm-agents.nix</guid>
+      <title>chaotic-cx/nyx</title>
+      <link>https://github.com/chaotic-cx/nyx</link>
+      <description>Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).</description>
+      <guid>https://github.com/chaotic-cx/nyx</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,256</stars>
-      <forks>321</forks>
-      <addStars>188</addStars>
+      <stars>800</stars>
+      <forks>84</forks>
+      <addStars>24</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
+          <avatar>https://avatars.githubusercontent.com/u/133350171?s=40&amp;v=4</avatar>
+          <name>temeraire-cx</name>
+          <url>https://github.com/temeraire-cx</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3248?s=40&amp;v=4</avatar>
-          <name>zimbatm</name>
-          <url>https://github.com/zimbatm</url>
+          <avatar>https://avatars.githubusercontent.com/u/1368952?s=40&amp;v=4</avatar>
+          <name>PedroHLC</name>
+          <url>https://github.com/PedroHLC</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/68736947?s=40&amp;v=4</avatar>
+          <name>lonerOrz</name>
+          <url>https://github.com/lonerOrz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12834713?s=40&amp;v=4</avatar>
+          <name>dr460nf1r3</name>
+          <url>https://github.com/dr460nf1r3</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Tarow/nix-podman-stacks</title>
+      <link>https://github.com/Tarow/nix-podman-stacks</link>
+      <description>Home Manager Modules for integrated Podman Stacks</description>
+      <guid>https://github.com/Tarow/nix-podman-stacks</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>201</stars>
+      <forks>16</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15030658?s=40&amp;v=4</avatar>
+          <name>Tarow</name>
+          <url>https://github.com/Tarow</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/71256193?s=40&amp;v=4</avatar>
+          <name>fizzybuzz</name>
+          <url>https://github.com/fizzybuzz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/196055729?s=40&amp;v=4</avatar>
+          <name>first-uninteresting-username</name>
+          <url>https://github.com/first-uninteresting-username</url>
         </contributor>
       </contributors>
     </item>
