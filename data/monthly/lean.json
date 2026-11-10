@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Nov 2026 07:18:17 GMT",
+  "pubDate": "Tue, 10 Nov 2026 13:18:27 GMT",
   "items": [
     {
       "title": "anthropics/formal-math",
@@ -47,8 +47,8 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "4,458",
-      "forks": "1,845",
+      "stars": "4,460",
+      "forks": "1,846",
       "addStars": "203",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "9,940",
+      "stars": "9,944",
       "forks": "1,101",
       "addStars": "479",
       "contributors": [
@@ -153,43 +153,6 @@
       ]
     },
     {
-      "title": "leanprover-community/plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "119",
-      "forks": "30",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
-          "name": "Garmelon",
-          "url": "https://github.com/Garmelon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33270164?s=40&v=4",
-          "name": "hargoniX",
-          "url": "https://github.com/hargoniX"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4193616?s=40&v=4",
-          "name": "codyroux",
-          "url": "https://github.com/codyroux"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
-          "name": "jcommelin",
-          "url": "https://github.com/jcommelin"
-        }
-      ]
-    },
-    {
       "title": "leanprover-community/quote4",
       "url": "https://github.com/leanprover-community/quote4",
       "description": "Intuitive, type-safe expression quotations for Lean 4.",
@@ -227,20 +190,15 @@
       ]
     },
     {
-      "title": "leanprover/lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "title": "leanprover-community/plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "125",
+      "stars": "119",
       "forks": "30",
-      "addStars": "1",
+      "addStars": "3",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
-          "name": "mhuisi",
-          "url": "https://github.com/mhuisi"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
           "name": "kim-em",
@@ -252,9 +210,14 @@
           "url": "https://github.com/Garmelon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
-          "name": "Vierkantor",
-          "url": "https://github.com/Vierkantor"
+          "avatar": "https://avatars.githubusercontent.com/u/33270164?s=40&v=4",
+          "name": "hargoniX",
+          "url": "https://github.com/hargoniX"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4193616?s=40&v=4",
+          "name": "codyroux",
+          "url": "https://github.com/codyroux"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
@@ -297,6 +260,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
           "name": "Vierkantor",
           "url": "https://github.com/Vierkantor"
+        }
+      ]
+    },
+    {
+      "title": "leanprover/lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "125",
+      "forks": "30",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
+          "name": "mhuisi",
+          "url": "https://github.com/mhuisi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
+          "name": "Garmelon",
+          "url": "https://github.com/Garmelon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
+          "name": "Vierkantor",
+          "url": "https://github.com/Vierkantor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
+          "name": "jcommelin",
+          "url": "https://github.com/jcommelin"
         }
       ]
     },
@@ -454,8 +454,8 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "1,357",
-      "forks": "580",
+      "stars": "1,358",
+      "forks": "582",
       "addStars": "48",
       "contributors": [
         {
@@ -519,38 +519,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
           "name": "pitmonticone",
           "url": "https://github.com/pitmonticone"
-        }
-      ]
-    },
-    {
-      "title": "leanprover/cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "802",
-      "forks": "222",
-      "addStars": "62",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
-          "name": "chenson2018",
-          "url": "https://github.com/chenson2018"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
-          "name": "ctchou",
-          "url": "https://github.com/ctchou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
-          "name": "SamuelSchlesinger",
-          "url": "https://github.com/SamuelSchlesinger"
         }
       ]
     },

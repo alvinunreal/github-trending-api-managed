@@ -2,15 +2,84 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Nov 2026 07:18:17 GMT",
+  "pubDate": "Tue, 10 Nov 2026 13:18:27 GMT",
   "items": [
+    {
+      "title": "google/styleguide",
+      "url": "https://github.com/google/styleguide",
+      "description": "Style guides for Google-originated open-source projects",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "39,813",
+      "forks": "12,919",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/176950?s=40&v=4",
+          "name": "vapier",
+          "url": "https://github.com/vapier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1343864?s=40&v=4",
+          "name": "tonyruscoe",
+          "url": "https://github.com/tonyruscoe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12462303?s=40&v=4",
+          "name": "tituswinters",
+          "url": "https://github.com/tituswinters"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68491?s=40&v=4",
+          "name": "gpshead",
+          "url": "https://github.com/gpshead"
+        }
+      ]
+    },
+    {
+      "title": "melpa/melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "2,986",
+      "forks": "2,844",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636?s=40&v=4",
+          "name": "purcell",
+          "url": "https://github.com/purcell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38066?s=40&v=4",
+          "name": "milkypostman",
+          "url": "https://github.com/milkypostman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/554281?s=40&v=4",
+          "name": "syohex",
+          "url": "https://github.com/syohex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3079551?s=40&v=4",
+          "name": "yasuyk",
+          "url": "https://github.com/yasuyk"
+        }
+      ]
+    },
     {
       "title": "doomemacs/core",
       "url": "https://github.com/doomemacs/core",
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "22,808",
+      "stars": "22,810",
       "forks": "3,140",
       "addStars": "4",
       "contributors": [
@@ -38,80 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2872862?s=40&v=4",
           "name": "elken",
           "url": "https://github.com/elken"
-        }
-      ]
-    },
-    {
-      "title": "emacs-mirror/emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "5,245",
-      "forks": "1,423",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20908835?s=40&v=4",
-          "name": "Eli-Zaretskii",
-          "url": "https://github.com/Eli-Zaretskii"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4054496?s=40&v=4",
-          "name": "rgmorris",
-          "url": "https://github.com/rgmorris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
-          "name": "monnier",
-          "url": "https://github.com/monnier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/572024?s=40&v=4",
-          "name": "eggert",
-          "url": "https://github.com/eggert"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/553982?s=40&v=4",
-          "name": "larsmagne",
-          "url": "https://github.com/larsmagne"
-        }
-      ]
-    },
-    {
-      "title": "xenodium/agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "2,045",
-      "forks": "264",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8107219?s=40&v=4",
-          "name": "xenodium",
-          "url": "https://github.com/xenodium"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/312540?s=40&v=4",
-          "name": "nhojb",
-          "url": "https://github.com/nhojb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/255802?s=40&v=4",
-          "name": "liaowang11",
-          "url": "https://github.com/liaowang11"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/592734?s=40&v=4",
-          "name": "fritzgrabo",
-          "url": "https://github.com/fritzgrabo"
         }
       ]
     }

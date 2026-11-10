@@ -2,15 +2,42 @@
   "title": "GitHub Swift Languages Weekly Trending",
   "description": "Weekly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Nov 2026 07:18:17 GMT",
+  "pubDate": "Tue, 10 Nov 2026 13:18:27 GMT",
   "items": [
+    {
+      "title": "HD838A/remote-mic-app",
+      "url": "https://github.com/HD838A/remote-mic-app",
+      "description": "无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "2,772",
+      "forks": "286",
+      "addStars": "441",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/126734171?s=40&v=4",
+          "name": "HD838A",
+          "url": "https://github.com/HD838A"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/996292?s=40&v=4",
+          "name": "Channe",
+          "url": "https://github.com/Channe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
     {
       "title": "apple/coreai-models",
       "url": "https://github.com/apple/coreai-models",
       "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,304",
+      "stars": "2,305",
       "forks": "259",
       "addStars": "62",
       "contributors": [
@@ -42,39 +69,12 @@
       ]
     },
     {
-      "title": "HD838A/remote-mic-app",
-      "url": "https://github.com/HD838A/remote-mic-app",
-      "description": "无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "2,761",
-      "forks": "286",
-      "addStars": "441",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/126734171?s=40&v=4",
-          "name": "HD838A",
-          "url": "https://github.com/HD838A"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/996292?s=40&v=4",
-          "name": "Channe",
-          "url": "https://github.com/Channe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "l984-451/Rivulet",
       "url": "https://github.com/l984-451/Rivulet",
       "description": "A native Apple TV app for Plex, Jellyfin, and Live TV",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "318",
+      "stars": "322",
       "forks": "50",
       "addStars": "89",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR pairing, and push notifications when an agent needs you",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "855",
+      "stars": "860",
       "forks": "94",
       "addStars": "117",
       "contributors": [
@@ -143,13 +143,50 @@
       ]
     },
     {
+      "title": "jithin-sabu/purge-app",
+      "url": "https://github.com/jithin-sabu/purge-app",
+      "description": "Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "1,830",
+      "forks": "99",
+      "addStars": "288",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110096782?s=40&v=4",
+          "name": "jithin-sabu",
+          "url": "https://github.com/jithin-sabu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/239800305?s=40&v=4",
+          "name": "monis-ecom",
+          "url": "https://github.com/monis-ecom"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
+        }
+      ]
+    },
+    {
       "title": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "12,935",
-      "forks": "973",
+      "stars": "12,941",
+      "forks": "975",
       "addStars": "263",
       "contributors": [
         {
@@ -176,6 +213,112 @@
           "avatar": "https://avatars.githubusercontent.com/u/5984169?s=40&v=4",
           "name": "postoso",
           "url": "https://github.com/postoso"
+        }
+      ]
+    },
+    {
+      "title": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "8,733",
+      "forks": "1,110",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54219?s=40&v=4",
+          "name": "groue",
+          "url": "https://github.com/groue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27460?s=40&v=4",
+          "name": "pakko972",
+          "url": "https://github.com/pakko972"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18540905?s=40&v=4",
+          "name": "swiftlyfalling",
+          "url": "https://github.com/swiftlyfalling"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1203835?s=40&v=4",
+          "name": "sobri909",
+          "url": "https://github.com/sobri909"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/833693?s=40&v=4",
+          "name": "mallman",
+          "url": "https://github.com/mallman"
+        }
+      ]
+    },
+    {
+      "title": "sw33tLie/macshot",
+      "url": "https://github.com/sw33tLie/macshot",
+      "description": "Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "4,093",
+      "forks": "270",
+      "addStars": "100",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47645560?s=40&v=4",
+          "name": "sw33tLie",
+          "url": "https://github.com/sw33tLie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4518860?s=40&v=4",
+          "name": "bytepl",
+          "url": "https://github.com/bytepl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19365375?s=40&v=4",
+          "name": "YuriNachos",
+          "url": "https://github.com/YuriNachos"
+        }
+      ]
+    },
+    {
+      "title": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "A native macOS launcher for everyday productivity. Lightweight and open source.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "9,354",
+      "forks": "583",
+      "addStars": "302",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
+          "name": "abue-ammar",
+          "url": "https://github.com/abue-ammar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81174108?s=40&v=4",
+          "name": "list-jonas",
+          "url": "https://github.com/list-jonas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11879201?s=40&v=4",
+          "name": "Risengan",
+          "url": "https://github.com/Risengan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/319949436?s=40&v=4",
+          "name": "notsoshu",
+          "url": "https://github.com/notsoshu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39670015?s=40&v=4",
+          "name": "mathieusouflis",
+          "url": "https://github.com/mathieusouflis"
         }
       ]
     },
@@ -212,24 +355,24 @@
       ]
     },
     {
-      "title": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "title": "robinebers/openusage",
+      "url": "https://github.com/robinebers/openusage",
+      "description": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "28,745",
-      "forks": "2,642",
-      "addStars": "162",
+      "stars": "4,580",
+      "forks": "538",
+      "addStars": "66",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54008264?s=40&v=4",
-          "name": "lawrencecchen",
-          "url": "https://github.com/lawrencecchen"
+          "avatar": "https://avatars.githubusercontent.com/u/16515780?s=40&v=4",
+          "name": "robinebers",
+          "url": "https://github.com/robinebers"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38676809?s=40&v=4",
-          "name": "austinywang",
-          "url": "https://github.com/austinywang"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -237,83 +380,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13091533?s=40&v=4",
-          "name": "teamleaderleo",
-          "url": "https://github.com/teamleaderleo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67667005?s=40&v=4",
-          "name": "azooz2003-bit",
-          "url": "https://github.com/azooz2003-bit"
-        }
-      ]
-    },
-    {
-      "title": "sw33tLie/macshot",
-      "url": "https://github.com/sw33tLie/macshot",
-      "description": "Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "4,091",
-      "forks": "270",
-      "addStars": "100",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47645560?s=40&v=4",
-          "name": "sw33tLie",
-          "url": "https://github.com/sw33tLie"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4518860?s=40&v=4",
-          "name": "bytepl",
-          "url": "https://github.com/bytepl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19365375?s=40&v=4",
-          "name": "YuriNachos",
-          "url": "https://github.com/YuriNachos"
-        }
-      ]
-    },
-    {
-      "title": "swiftlang/swift",
-      "url": "https://github.com/swiftlang/swift",
-      "description": "The Swift Programming Language",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "70,548",
-      "forks": "10,900",
-      "addStars": "48",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15467072?s=40&v=4",
-          "name": "swift-ci",
-          "url": "https://github.com/swift-ci"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/989428?s=40&v=4",
-          "name": "DougGregor",
-          "url": "https://github.com/DougGregor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66486?s=40&v=4",
-          "name": "slavapestov",
-          "url": "https://github.com/slavapestov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/499423?s=40&v=4",
-          "name": "gottesmm",
-          "url": "https://github.com/gottesmm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21240?s=40&v=4",
-          "name": "xedin",
-          "url": "https://github.com/xedin"
+          "avatar": "https://avatars.githubusercontent.com/u/29679552?s=40&v=4",
+          "name": "validatedev",
+          "url": "https://github.com/validatedev"
         }
       ]
     },
@@ -323,8 +392,8 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "43,275",
-      "forks": "1,622",
+      "stars": "43,285",
+      "forks": "1,621",
       "addStars": "221",
       "contributors": [
         {
@@ -355,86 +424,12 @@
       ]
     },
     {
-      "title": "abue-ammar/tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "description": "A native macOS launcher for everyday productivity. Lightweight and open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "9,346",
-      "forks": "585",
-      "addStars": "302",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
-          "name": "abue-ammar",
-          "url": "https://github.com/abue-ammar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81174108?s=40&v=4",
-          "name": "list-jonas",
-          "url": "https://github.com/list-jonas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11879201?s=40&v=4",
-          "name": "Risengan",
-          "url": "https://github.com/Risengan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/319949436?s=40&v=4",
-          "name": "notsoshu",
-          "url": "https://github.com/notsoshu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39670015?s=40&v=4",
-          "name": "mathieusouflis",
-          "url": "https://github.com/mathieusouflis"
-        }
-      ]
-    },
-    {
-      "title": "groue/GRDB.swift",
-      "url": "https://github.com/groue/GRDB.swift",
-      "description": "A toolkit for SQLite databases, with a focus on application development",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "8,732",
-      "forks": "1,110",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54219?s=40&v=4",
-          "name": "groue",
-          "url": "https://github.com/groue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27460?s=40&v=4",
-          "name": "pakko972",
-          "url": "https://github.com/pakko972"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18540905?s=40&v=4",
-          "name": "swiftlyfalling",
-          "url": "https://github.com/swiftlyfalling"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1203835?s=40&v=4",
-          "name": "sobri909",
-          "url": "https://github.com/sobri909"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/833693?s=40&v=4",
-          "name": "mallman",
-          "url": "https://github.com/mallman"
-        }
-      ]
-    },
-    {
       "title": "claration/feather",
       "url": "https://github.com/claration/feather",
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,061",
+      "stars": "5,063",
       "forks": "479",
       "addStars": "73",
       "contributors": [
@@ -466,19 +461,61 @@
       ]
     },
     {
-      "title": "jithin-sabu/purge-app",
-      "url": "https://github.com/jithin-sabu/purge-app",
-      "description": "Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.",
+      "title": "apple/swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,818",
-      "forks": "98",
-      "addStars": "288",
+      "stars": "8,549",
+      "forks": "825",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/110096782?s=40&v=4",
-          "name": "jithin-sabu",
-          "url": "https://github.com/jithin-sabu"
+          "avatar": "https://avatars.githubusercontent.com/u/624238?s=40&v=4",
+          "name": "weissi",
+          "url": "https://github.com/weissi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1382556?s=40&v=4",
+          "name": "Lukasa",
+          "url": "https://github.com/Lukasa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/439362?s=40&v=4",
+          "name": "normanmaurer",
+          "url": "https://github.com/normanmaurer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5047671?s=40&v=4",
+          "name": "glbrntt",
+          "url": "https://github.com/glbrntt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3491887?s=40&v=4",
+          "name": "FranzBusch",
+          "url": "https://github.com/FranzBusch"
+        }
+      ]
+    },
+    {
+      "title": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "28,749",
+      "forks": "2,643",
+      "addStars": "162",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54008264?s=40&v=4",
+          "name": "lawrencecchen",
+          "url": "https://github.com/lawrencecchen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38676809?s=40&v=4",
+          "name": "austinywang",
+          "url": "https://github.com/austinywang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -486,19 +523,51 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/13091533?s=40&v=4",
+          "name": "teamleaderleo",
+          "url": "https://github.com/teamleaderleo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/239800305?s=40&v=4",
-          "name": "monis-ecom",
-          "url": "https://github.com/monis-ecom"
+          "avatar": "https://avatars.githubusercontent.com/u/67667005?s=40&v=4",
+          "name": "azooz2003-bit",
+          "url": "https://github.com/azooz2003-bit"
+        }
+      ]
+    },
+    {
+      "title": "iina/iina",
+      "url": "https://github.com/iina/iina",
+      "description": "The modern video player for macOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "47,076",
+      "forks": "2,988",
+      "addStars": "108",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8478049?s=40&v=4",
+          "name": "lhc70000",
+          "url": "https://github.com/lhc70000"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
+          "avatar": "https://avatars.githubusercontent.com/u/20237141?s=40&v=4",
+          "name": "uiryuu",
+          "url": "https://github.com/uiryuu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86170219?s=40&v=4",
+          "name": "low-batt",
+          "url": "https://github.com/low-batt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13786931?s=40&v=4",
+          "name": "saagarjha",
+          "url": "https://github.com/saagarjha"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2213815?s=40&v=4",
+          "name": "svobs",
+          "url": "https://github.com/svobs"
         }
       ]
     }

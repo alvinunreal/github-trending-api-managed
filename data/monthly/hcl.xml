@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Tue, 10 Nov 2026 07:18:17 GMT</pubDate>
+    <pubDate>Tue, 10 Nov 2026 13:18:27 GMT</pubDate>
     <item>
       <title>semgrep/semgrep-rules</title>
       <link>https://github.com/semgrep/semgrep-rules</link>
@@ -159,7 +159,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>2,133</stars>
-      <forks>1,281</forks>
+      <forks>1,282</forks>
       <addStars>24</addStars>
       <contributors>
         <contributor>
@@ -337,41 +337,13 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-google-modules/terraform-google-service-accounts</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
-      <description>Creates one or more service accounts and grants them basic roles</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-service-accounts</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>155</stars>
-      <forks>119</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
-          <name>cloud-foundation-bot</name>
-          <url>https://github.com/cloud-foundation-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66007?s=40&amp;v=4</avatar>
-          <name>ludoo</name>
-          <url>https://github.com/ludoo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>hashicorp/agent-skills</title>
       <link>https://github.com/hashicorp/agent-skills</link>
       <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
       <guid>https://github.com/hashicorp/agent-skills</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>924</stars>
+      <stars>925</stars>
       <forks>136</forks>
       <addStars>35</addStars>
       <contributors>
@@ -403,40 +375,58 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-aws-modules/terraform-aws-eventbridge</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-eventbridge</link>
-      <description>Terraform module to create AWS EventBridge resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-eventbridge</guid>
+      <title>terraform-google-modules/terraform-google-service-accounts</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
+      <description>Creates one or more service accounts and grants them basic roles</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-service-accounts</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>156</stars>
-      <forks>180</forks>
-      <addStars>0</addStars>
+      <stars>155</stars>
+      <forks>119</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
+          <avatar>https://avatars.githubusercontent.com/u/66007?s=40&amp;v=4</avatar>
+          <name>ludoo</name>
+          <url>https://github.com/ludoo</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
-          <name>magreenbaum</name>
-          <url>https://github.com/magreenbaum</url>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-google-modules/terraform-google-network</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+      <description>Sets up a new VPC network on Google Cloud</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-network</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>502</stars>
+      <forks>1,279</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57947418?s=40&amp;v=4</avatar>
-          <name>svenlito</name>
-          <url>https://github.com/svenlito</url>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
         </contributor>
       </contributors>
     </item>

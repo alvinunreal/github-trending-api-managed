@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Nov 2026 07:18:17 GMT",
+  "pubDate": "Tue, 10 Nov 2026 13:18:27 GMT",
   "items": [
     {
       "title": "JustVugg/colibri",
@@ -10,8 +10,8 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "49,512",
-      "forks": "5,825",
+      "stars": "49,620",
+      "forks": "5,840",
       "addStars": "3,084",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,400",
-      "forks": "11,591",
+      "stars": "31,402",
+      "forks": "11,593",
       "addStars": "281",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "11,516",
-      "forks": "1,795",
+      "stars": "11,549",
+      "forks": "1,799",
       "addStars": "2,146",
       "contributors": [
         {
@@ -116,49 +116,12 @@
       ]
     },
     {
-      "title": "mpv-player/mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "38,034",
-      "forks": "3,645",
-      "addStars": "378",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1126053?s=40&v=4",
-          "name": "kasper93",
-          "url": "https://github.com/kasper93"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5105515?s=40&v=4",
-          "name": "Dudemanguy",
-          "url": "https://github.com/Dudemanguy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11783568?s=40&v=4",
-          "name": "guidocella",
-          "url": "https://github.com/guidocella"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1149047?s=40&v=4",
-          "name": "haasn",
-          "url": "https://github.com/haasn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24681?s=40&v=4",
-          "name": "pigoz",
-          "url": "https://github.com/pigoz"
-        }
-      ]
-    },
-    {
       "title": "curl/curl",
       "url": "https://github.com/curl/curl",
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "43,459",
+      "stars": "43,461",
       "forks": "7,495",
       "addStars": "150",
       "contributors": [
@@ -190,13 +153,50 @@
       ]
     },
     {
+      "title": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "38,044",
+      "forks": "3,646",
+      "addStars": "378",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1126053?s=40&v=4",
+          "name": "kasper93",
+          "url": "https://github.com/kasper93"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5105515?s=40&v=4",
+          "name": "Dudemanguy",
+          "url": "https://github.com/Dudemanguy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11783568?s=40&v=4",
+          "name": "guidocella",
+          "url": "https://github.com/guidocella"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1149047?s=40&v=4",
+          "name": "haasn",
+          "url": "https://github.com/haasn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24681?s=40&v=4",
+          "name": "pigoz",
+          "url": "https://github.com/pigoz"
+        }
+      ]
+    },
+    {
       "title": "madler/zlib",
       "url": "https://github.com/madler/zlib",
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,210",
-      "forks": "2,898",
+      "stars": "7,211",
+      "forks": "2,899",
       "addStars": "23",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,958",
+      "stars": "5,961",
       "forks": "994",
       "addStars": "136",
       "contributors": [
@@ -264,13 +264,87 @@
       ]
     },
     {
+      "title": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "29,163",
+      "forks": "13,393",
+      "addStars": "151",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19352056?s=40&v=4",
+          "name": "juhosg",
+          "url": "https://github.com/juhosg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1110044?s=40&v=4",
+          "name": "ffainelli",
+          "url": "https://github.com/ffainelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2529314?s=40&v=4",
+          "name": "nbd168",
+          "url": "https://github.com/nbd168"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78494?s=40&v=4",
+          "name": "hauke",
+          "url": "https://github.com/hauke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2528802?s=40&v=4",
+          "name": "jow-",
+          "url": "https://github.com/jow-"
+        }
+      ]
+    },
+    {
+      "title": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "7,597",
+      "forks": "636",
+      "addStars": "123",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1232553?s=40&v=4",
+          "name": "mackron",
+          "url": "https://github.com/mackron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29616?s=40&v=4",
+          "name": "tycho",
+          "url": "https://github.com/tycho"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/958469?s=40&v=4",
+          "name": "znakeeye",
+          "url": "https://github.com/znakeeye"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7667009?s=40&v=4",
+          "name": "Clownacy",
+          "url": "https://github.com/Clownacy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1697224?s=40&v=4",
+          "name": "iarwain",
+          "url": "https://github.com/iarwain"
+        }
+      ]
+    },
+    {
       "title": "espressif/esp-idf",
       "url": "https://github.com/espressif/esp-idf",
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "19,472",
-      "forks": "8,586",
+      "stars": "19,476",
+      "forks": "8,588",
       "addStars": "67",
       "contributors": [
         {
@@ -306,8 +380,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "17,042",
-      "forks": "10,389",
+      "stars": "17,046",
+      "forks": "10,392",
       "addStars": "72",
       "contributors": [
         {
@@ -334,117 +408,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/25011557?s=40&v=4",
           "name": "gmarull",
           "url": "https://github.com/gmarull"
-        }
-      ]
-    },
-    {
-      "title": "mackron/miniaudio",
-      "url": "https://github.com/mackron/miniaudio",
-      "description": "Audio playback and capture library written in C, in a single source file.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "7,596",
-      "forks": "636",
-      "addStars": "123",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1232553?s=40&v=4",
-          "name": "mackron",
-          "url": "https://github.com/mackron"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29616?s=40&v=4",
-          "name": "tycho",
-          "url": "https://github.com/tycho"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/958469?s=40&v=4",
-          "name": "znakeeye",
-          "url": "https://github.com/znakeeye"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7667009?s=40&v=4",
-          "name": "Clownacy",
-          "url": "https://github.com/Clownacy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1697224?s=40&v=4",
-          "name": "iarwain",
-          "url": "https://github.com/iarwain"
-        }
-      ]
-    },
-    {
-      "title": "rizinorg/rizin",
-      "url": "https://github.com/rizinorg/rizin",
-      "description": "UNIX-like reverse engineering framework and command-line toolset.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "4,171",
-      "forks": "706",
-      "addStars": "70",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/203261?s=40&v=4",
-          "name": "XVilka",
-          "url": "https://github.com/XVilka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/562321?s=40&v=4",
-          "name": "ret2libc",
-          "url": "https://github.com/ret2libc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1460997?s=40&v=4",
-          "name": "thestr4ng3r",
-          "url": "https://github.com/thestr4ng3r"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/561184?s=40&v=4",
-          "name": "wargio",
-          "url": "https://github.com/wargio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12002672?s=40&v=4",
-          "name": "kazarmy",
-          "url": "https://github.com/kazarmy"
-        }
-      ]
-    },
-    {
-      "title": "meta/zstd",
-      "url": "https://github.com/meta/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "28,215",
-      "forks": "2,680",
-      "addStars": "68",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
-          "name": "Cyan4973",
-          "url": "https://github.com/Cyan4973"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6619134?s=40&v=4",
-          "name": "terrelln",
-          "url": "https://github.com/terrelln"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
-          "name": "inikep",
-          "url": "https://github.com/inikep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
-          "name": "felixhandte",
-          "url": "https://github.com/felixhandte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7366343?s=40&v=4",
-          "name": "stellamplau",
-          "url": "https://github.com/stellamplau"
         }
       ]
     }
