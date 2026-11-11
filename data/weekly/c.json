@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 07:18:21 GMT",
+  "pubDate": "Wed, 11 Nov 2026 13:18:12 GMT",
   "items": [
     {
       "title": "lz4/lz4",
@@ -10,8 +10,8 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,756",
-      "forks": "1,652",
+      "stars": "12,767",
+      "forks": "1,653",
       "addStars": "569",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "49,822",
-      "forks": "5,869",
+      "stars": "49,893",
+      "forks": "5,876",
       "addStars": "2,605",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,409",
+      "stars": "31,410",
       "forks": "11,595",
       "addStars": "280",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "11,692",
-      "forks": "1,813",
+      "stars": "11,757",
+      "forks": "1,818",
       "addStars": "1,794",
       "contributors": [
         {
@@ -148,49 +148,12 @@
       ]
     },
     {
-      "title": "curl/curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "43,470",
-      "forks": "7,498",
-      "addStars": "143",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
-          "name": "bagder",
-          "url": "https://github.com/bagder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
-          "name": "vszakats",
-          "url": "https://github.com/vszakats"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4",
-          "name": "yangtse",
-          "url": "https://github.com/yangtse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4",
-          "name": "captain-caveman2k",
-          "url": "https://github.com/captain-caveman2k"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4",
-          "name": "dfandrich",
-          "url": "https://github.com/dfandrich"
-        }
-      ]
-    },
-    {
       "title": "mpv-player/mpv",
       "url": "https://github.com/mpv-player/mpv",
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "38,060",
+      "stars": "38,065",
       "forks": "3,649",
       "addStars": "388",
       "contributors": [
@@ -218,6 +181,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/24681?s=40&v=4",
           "name": "pigoz",
           "url": "https://github.com/pigoz"
+        }
+      ]
+    },
+    {
+      "title": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "25,145",
+      "forks": "4,446",
+      "addStars": "72",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7599318?s=40&v=4",
+          "name": "kisvegabor",
+          "url": "https://github.com/kisvegabor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55462127?s=40&v=4",
+          "name": "AndreCostaaa",
+          "url": "https://github.com/AndreCostaaa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42941056?s=40&v=4",
+          "name": "embeddedt",
+          "url": "https://github.com/embeddedt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26767803?s=40&v=4",
+          "name": "FASTSHIFT",
+          "url": "https://github.com/FASTSHIFT"
         }
       ]
     },
@@ -259,50 +254,13 @@
       ]
     },
     {
-      "title": "HarbourMasters/Shipwright",
-      "url": "https://github.com/HarbourMasters/Shipwright",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "5,980",
-      "forks": "996",
-      "addStars": "141",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/159546?s=40&v=4",
-          "name": "serprex",
-          "url": "https://github.com/serprex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70942617?s=40&v=4",
-          "name": "briaguya0",
-          "url": "https://github.com/briaguya0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/774771?s=40&v=4",
-          "name": "Malkierian",
-          "url": "https://github.com/Malkierian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13861068?s=40&v=4",
-          "name": "Archez",
-          "url": "https://github.com/Archez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7316699?s=40&v=4",
-          "name": "garrettjoecox",
-          "url": "https://github.com/garrettjoecox"
-        }
-      ]
-    },
-    {
       "title": "openwrt/openwrt",
       "url": "https://github.com/openwrt/openwrt",
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,170",
-      "forks": "13,405",
+      "stars": "29,177",
+      "forks": "13,409",
       "addStars": "137",
       "contributors": [
         {
@@ -333,39 +291,76 @@
       ]
     },
     {
-      "title": "espressif/esp-idf",
-      "url": "https://github.com/espressif/esp-idf",
-      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "title": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "19,480",
-      "forks": "8,589",
-      "addStars": "64",
+      "stars": "43,471",
+      "forks": "7,498",
+      "addStars": "143",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4349050?s=40&v=4",
-          "name": "igrr",
-          "url": "https://github.com/igrr"
+          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
+          "name": "bagder",
+          "url": "https://github.com/bagder"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/205573?s=40&v=4",
-          "name": "projectgus",
-          "url": "https://github.com/projectgus"
+          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
+          "name": "vszakats",
+          "url": "https://github.com/vszakats"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8869469?s=40&v=4",
-          "name": "suda-morris",
-          "url": "https://github.com/suda-morris"
+          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4",
+          "name": "yangtse",
+          "url": "https://github.com/yangtse"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21117421?s=40&v=4",
-          "name": "jack0c",
-          "url": "https://github.com/jack0c"
+          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4",
+          "name": "captain-caveman2k",
+          "url": "https://github.com/captain-caveman2k"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/902446?s=40&v=4",
-          "name": "mahavirj",
-          "url": "https://github.com/mahavirj"
+          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4",
+          "name": "dfandrich",
+          "url": "https://github.com/dfandrich"
+        }
+      ]
+    },
+    {
+      "title": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "8,186",
+      "forks": "2,033",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/369718?s=40&v=4",
+          "name": "edsiper",
+          "url": "https://github.com/edsiper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/700876?s=40&v=4",
+          "name": "cosmo0920",
+          "url": "https://github.com/cosmo0920"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16795275?s=40&v=4",
+          "name": "nokute78",
+          "url": "https://github.com/nokute78"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/601645?s=40&v=4",
+          "name": "pwhelan",
+          "url": "https://github.com/pwhelan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28335?s=40&v=4",
+          "name": "leonardo-albertovich",
+          "url": "https://github.com/leonardo-albertovich"
         }
       ]
     },
@@ -375,8 +370,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "17,054",
-      "forks": "10,403",
+      "stars": "17,058",
+      "forks": "10,407",
       "addStars": "72",
       "contributors": [
         {
@@ -403,6 +398,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/25011557?s=40&v=4",
           "name": "gmarull",
           "url": "https://github.com/gmarull"
+        }
+      ]
+    },
+    {
+      "title": "meta/zstd",
+      "url": "https://github.com/meta/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "28,225",
+      "forks": "2,683",
+      "addStars": "75",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
+          "name": "Cyan4973",
+          "url": "https://github.com/Cyan4973"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6619134?s=40&v=4",
+          "name": "terrelln",
+          "url": "https://github.com/terrelln"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
+          "name": "inikep",
+          "url": "https://github.com/inikep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
+          "name": "felixhandte",
+          "url": "https://github.com/felixhandte"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7366343?s=40&v=4",
+          "name": "stellamplau",
+          "url": "https://github.com/stellamplau"
         }
       ]
     }

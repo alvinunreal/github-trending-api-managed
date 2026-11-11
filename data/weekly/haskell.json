@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 07:18:21 GMT",
+  "pubDate": "Wed, 11 Nov 2026 13:18:12 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,7 +10,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,900",
+      "stars": "46,905",
       "forks": "4,436",
       "addStars": "112",
       "contributors": [
@@ -42,13 +42,50 @@
       ]
     },
     {
+      "title": "koalaman/shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "40,322",
+      "forks": "1,974",
+      "addStars": "49",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
+          "name": "koalaman",
+          "url": "https://github.com/koalaman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
+          "name": "josephcsible",
+          "url": "https://github.com/josephcsible"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
+          "name": "e-kwsm",
+          "url": "https://github.com/e-kwsm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
+          "name": "ngzhian",
+          "url": "https://github.com/ngzhian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
+          "name": "contivero",
+          "url": "https://github.com/contivero"
+        }
+      ]
+    },
+    {
       "title": "hadolint/hadolint",
       "url": "https://github.com/hadolint/hadolint",
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "12,524",
-      "forks": "513",
+      "forks": "514",
       "addStars": "15",
       "contributors": [
         {
@@ -70,6 +107,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
           "name": "zemanlx",
           "url": "https://github.com/zemanlx"
+        }
+      ]
+    },
+    {
+      "title": "reanimate/reanimate",
+      "url": "https://github.com/reanimate/reanimate",
+      "description": "Haskell library for building declarative animations based on SVG graphics",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "1,378",
+      "forks": "89",
+      "addStars": "136",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1443107?s=40&v=4",
+          "name": "lemmih",
+          "url": "https://github.com/lemmih"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2716069?s=40&v=4",
+          "name": "jhrcek",
+          "url": "https://github.com/jhrcek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14206448?s=40&v=4",
+          "name": "mpilgrem",
+          "url": "https://github.com/mpilgrem"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17098235?s=40&v=4",
+          "name": "Krantz-XRF",
+          "url": "https://github.com/Krantz-XRF"
         }
       ]
     },
@@ -249,49 +318,12 @@
       ]
     },
     {
-      "title": "koalaman/shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "40,321",
-      "forks": "1,974",
-      "addStars": "49",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
-          "name": "koalaman",
-          "url": "https://github.com/koalaman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
-          "name": "josephcsible",
-          "url": "https://github.com/josephcsible"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11627708?s=40&v=4",
-          "name": "e-kwsm",
-          "url": "https://github.com/e-kwsm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
-          "name": "ngzhian",
-          "url": "https://github.com/ngzhian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
-          "name": "contivero",
-          "url": "https://github.com/contivero"
-        }
-      ]
-    },
-    {
       "title": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "19,680",
+      "stars": "19,681",
       "forks": "1,329",
       "addStars": "45",
       "contributors": [
@@ -319,80 +351,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&v=4",
           "name": "mlanp",
           "url": "https://github.com/mlanp"
-        }
-      ]
-    },
-    {
-      "title": "purescript/purescript",
-      "url": "https://github.com/purescript/purescript",
-      "description": "A strongly-typed language that compiles to JavaScript",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "8,922",
-      "forks": "574",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/630306?s=40&v=4",
-          "name": "paf31",
-          "url": "https://github.com/paf31"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/693642?s=40&v=4",
-          "name": "garyb",
-          "url": "https://github.com/garyb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1270186?s=40&v=4",
-          "name": "hdgarrood",
-          "url": "https://github.com/hdgarrood"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1570964?s=40&v=4",
-          "name": "rhendric",
-          "url": "https://github.com/rhendric"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6189397?s=40&v=4",
-          "name": "kritzcreek",
-          "url": "https://github.com/kritzcreek"
-        }
-      ]
-    },
-    {
-      "title": "unisonweb/unison",
-      "url": "https://github.com/unisonweb/unison",
-      "description": "A friendly programming language from the future",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "6,785",
-      "forks": "315",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11074?s=40&v=4",
-          "name": "pchiusano",
-          "url": "https://github.com/pchiusano"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/538571?s=40&v=4",
-          "name": "aryairani",
-          "url": "https://github.com/aryairani"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6439644?s=40&v=4",
-          "name": "ChrisPenner",
-          "url": "https://github.com/ChrisPenner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1074598?s=40&v=4",
-          "name": "mitchellwrosen",
-          "url": "https://github.com/mitchellwrosen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/750648?s=40&v=4",
-          "name": "dolio",
-          "url": "https://github.com/dolio"
         }
       ]
     },
@@ -430,6 +388,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/87592739?s=40&v=4",
           "name": "taimoorzaeem",
           "url": "https://github.com/taimoorzaeem"
+        }
+      ]
+    },
+    {
+      "title": "purescript/purescript",
+      "url": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to JavaScript",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "8,922",
+      "forks": "574",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/630306?s=40&v=4",
+          "name": "paf31",
+          "url": "https://github.com/paf31"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/693642?s=40&v=4",
+          "name": "garyb",
+          "url": "https://github.com/garyb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1270186?s=40&v=4",
+          "name": "hdgarrood",
+          "url": "https://github.com/hdgarrood"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1570964?s=40&v=4",
+          "name": "rhendric",
+          "url": "https://github.com/rhendric"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6189397?s=40&v=4",
+          "name": "kritzcreek",
+          "url": "https://github.com/kritzcreek"
         }
       ]
     },
@@ -494,33 +489,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
           "name": "deepfire",
           "url": "https://github.com/deepfire"
-        }
-      ]
-    },
-    {
-      "title": "monoscope-tech/monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,077",
-      "forks": "90",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6564482?s=40&v=4",
-          "name": "tonyalaribe",
-          "url": "https://github.com/tonyalaribe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49823605?s=40&v=4",
-          "name": "dawkaka",
-          "url": "https://github.com/dawkaka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99889673?s=40&v=4",
-          "name": "jesseamos",
-          "url": "https://github.com/jesseamos"
         }
       ]
     }

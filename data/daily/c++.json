@@ -2,17 +2,86 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 07:18:21 GMT",
+  "pubDate": "Wed, 11 Nov 2026 13:18:12 GMT",
   "items": [
+    {
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "53,149",
+      "forks": "5,042",
+      "addStars": "367",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
+          "name": "oneandonlydean",
+          "url": "https://github.com/oneandonlydean"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
+          "name": "adriadam10",
+          "url": "https://github.com/adriadam10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67475268?s=40&v=4",
+          "name": "MarcZX10",
+          "url": "https://github.com/MarcZX10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar"
+        }
+      ]
+    },
+    {
+      "title": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "41,413",
+      "forks": "4,606",
+      "addStars": "68",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6422482?s=40&v=4",
+          "name": "facebook-github-bot",
+          "url": "https://github.com/facebook-github-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25364969?s=40&v=4",
+          "name": "mdouze",
+          "url": "https://github.com/mdouze"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20392406?s=40&v=4",
+          "name": "alibeklfc",
+          "url": "https://github.com/alibeklfc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1299134?s=40&v=4",
+          "name": "algoriddle",
+          "url": "https://github.com/algoriddle"
+        }
+      ]
+    },
     {
       "title": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,498",
-      "forks": "2,159",
-      "addStars": "456",
+      "stars": "17,578",
+      "forks": "2,161",
+      "addStars": "421",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
@@ -42,66 +111,39 @@
       ]
     },
     {
-      "title": "orailnoor/cross-platform-llm-client",
-      "url": "https://github.com/orailnoor/cross-platform-llm-client",
-      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
+      "title": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,143",
-      "forks": "420",
-      "addStars": "211",
+      "stars": "24,545",
+      "forks": "1,358",
+      "addStars": "21",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54399984?s=40&v=4",
-          "name": "techjarves",
-          "url": "https://github.com/techjarves"
+          "avatar": "https://avatars.githubusercontent.com/u/391987?s=40&v=4",
+          "name": "lemire",
+          "url": "https://github.com/lemire"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34442749?s=40&v=4",
-          "name": "orailnoor",
-          "url": "https://github.com/orailnoor"
+          "avatar": "https://avatars.githubusercontent.com/u/654882?s=40&v=4",
+          "name": "jkeiser",
+          "url": "https://github.com/jkeiser"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "flameshot-org/flameshot",
-      "url": "https://github.com/flameshot-org/flameshot",
-      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "31,507",
-      "forks": "2,098",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46930769?s=40&v=4",
-          "name": "borgmanJeremy",
-          "url": "https://github.com/borgmanJeremy"
+          "avatar": "https://avatars.githubusercontent.com/u/37128715?s=40&v=4",
+          "name": "geofflangdale",
+          "url": "https://github.com/geofflangdale"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14951430?s=40&v=4",
-          "name": "lupoDharkael",
-          "url": "https://github.com/lupoDharkael"
+          "avatar": "https://avatars.githubusercontent.com/u/3541498?s=40&v=4",
+          "name": "pauldreik",
+          "url": "https://github.com/pauldreik"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
-          "name": "weblate",
-          "url": "https://github.com/weblate"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15923484?s=40&v=4",
-          "name": "panpuchkov",
-          "url": "https://github.com/panpuchkov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29044423?s=40&v=4",
-          "name": "veracioux",
-          "url": "https://github.com/veracioux"
+          "avatar": "https://avatars.githubusercontent.com/u/8302742?s=40&v=4",
+          "name": "FranciscoThiesen",
+          "url": "https://github.com/FranciscoThiesen"
         }
       ]
     },
@@ -111,8 +153,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "134,010",
-      "forks": "25,365",
+      "stars": "134,063",
+      "forks": "25,395",
       "addStars": "120",
       "contributors": [
         {
@@ -143,71 +185,29 @@
       ]
     },
     {
-      "title": "deepseek-ai/3FS",
-      "url": "https://github.com/deepseek-ai/3FS",
-      "description": "A high-performance distributed file system designed to address the challenges of AI training and inference workloads.",
+      "title": "orailnoor/cross-platform-llm-client",
+      "url": "https://github.com/orailnoor/cross-platform-llm-client",
+      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "10,450",
-      "forks": "1,153",
-      "addStars": "5",
+      "stars": "2,155",
+      "forks": "424",
+      "addStars": "211",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7477599?s=40&v=4",
-          "name": "SF-Zhou",
-          "url": "https://github.com/SF-Zhou"
+          "avatar": "https://avatars.githubusercontent.com/u/54399984?s=40&v=4",
+          "name": "techjarves",
+          "url": "https://github.com/techjarves"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13906397?s=40&v=4",
-          "name": "yiyuanliu",
-          "url": "https://github.com/yiyuanliu"
+          "avatar": "https://avatars.githubusercontent.com/u/34442749?s=40&v=4",
+          "name": "orailnoor",
+          "url": "https://github.com/orailnoor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15710934?s=40&v=4",
-          "name": "huww98",
-          "url": "https://github.com/huww98"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3086004?s=40&v=4",
-          "name": "qieqieplus",
-          "url": "https://github.com/qieqieplus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10238125?s=40&v=4",
-          "name": "KuribohG",
-          "url": "https://github.com/KuribohG"
-        }
-      ]
-    },
-    {
-      "title": "noctalia-dev/umbriel",
-      "url": "https://github.com/noctalia-dev/umbriel",
-      "description": "A Wayland compositor designed for daily use, with scrolling, dwindle, master, and stacking layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "1,608",
-      "forks": "121",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2170677?s=40&v=4",
-          "name": "ItsLemmy",
-          "url": "https://github.com/ItsLemmy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52084453?s=40&v=4",
-          "name": "Ly-sec",
-          "url": "https://github.com/Ly-sec"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/304616174?s=40&v=4",
-          "name": "Yocraft-2000",
-          "url": "https://github.com/Yocraft-2000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66127592?s=40&v=4",
-          "name": "iamnitesh108",
-          "url": "https://github.com/iamnitesh108"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -217,7 +217,7 @@
       "description": "Cross-platform GUI proxy utility (Empowered by sing-box)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,825",
+      "stars": "7,832",
       "forks": "462",
       "addStars": "25",
       "contributors": [
@@ -249,236 +249,113 @@
       ]
     },
     {
-      "title": "LibreSprite/LibreSprite",
-      "url": "https://github.com/LibreSprite/LibreSprite",
-      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+      "title": "mg-chao/snow-shot",
+      "url": "https://github.com/mg-chao/snow-shot",
+      "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,776",
-      "forks": "621",
-      "addStars": "10",
+      "stars": "6,939",
+      "forks": "449",
+      "addStars": "54",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39654?s=40&v=4",
-          "name": "dacap",
-          "url": "https://github.com/dacap"
+          "avatar": "https://avatars.githubusercontent.com/u/87016106?s=40&v=4",
+          "name": "mg-chao",
+          "url": "https://github.com/mg-chao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11994138?s=40&v=4",
-          "name": "felipemanga",
-          "url": "https://github.com/felipemanga"
+          "avatar": "https://avatars.githubusercontent.com/u/75017711?s=40&v=4",
+          "name": "ayangweb",
+          "url": "https://github.com/ayangweb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25780951?s=40&v=4",
-          "name": "maujin111",
-          "url": "https://github.com/maujin111"
+          "avatar": "https://avatars.githubusercontent.com/u/182907634?s=40&v=4",
+          "name": "vladelaina",
+          "url": "https://github.com/vladelaina"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63455151?s=40&v=4",
-          "name": "Zughy",
-          "url": "https://github.com/Zughy"
+          "avatar": "https://avatars.githubusercontent.com/u/7350620?s=40&v=4",
+          "name": "doumao",
+          "url": "https://github.com/doumao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1131371?s=40&v=4",
-          "name": "rautesamtr",
-          "url": "https://github.com/rautesamtr"
+          "avatar": "https://avatars.githubusercontent.com/u/32795958?s=40&v=4",
+          "name": "gaylong9",
+          "url": "https://github.com/gaylong9"
         }
       ]
     },
     {
-      "title": "dariulone/cyberpunk-vr-port",
-      "url": "https://github.com/dariulone/cyberpunk-vr-port",
-      "description": "",
+      "title": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "558",
-      "forks": "59",
-      "addStars": "8",
+      "stars": "16,495",
+      "forks": "2,520",
+      "addStars": "24",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/120137964?s=40&v=4",
-          "name": "dariulone",
-          "url": "https://github.com/dariulone"
+          "avatar": "https://avatars.githubusercontent.com/u/8401806?s=40&v=4",
+          "name": "wangzhaode",
+          "url": "https://github.com/wangzhaode"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4934309?s=40&v=4",
-          "name": "iPowerTech",
-          "url": "https://github.com/iPowerTech"
+          "avatar": "https://avatars.githubusercontent.com/u/58166196?s=40&v=4",
+          "name": "MNNTeam",
+          "url": "https://github.com/MNNTeam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5484403?s=40&v=4",
+          "name": "jxt1234",
+          "url": "https://github.com/jxt1234"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10155763?s=40&v=4",
+          "name": "Yogayu",
+          "url": "https://github.com/Yogayu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2675838?s=40&v=4",
+          "name": "Juude",
+          "url": "https://github.com/Juude"
         }
       ]
     },
     {
-      "title": "mozilla-ai/llamafile",
-      "url": "https://github.com/mozilla-ai/llamafile",
-      "description": "Distribute and run LLMs with a single file.",
+      "title": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "26,613",
-      "forks": "1,675",
-      "addStars": "18",
+      "stars": "2,314",
+      "forks": "222",
+      "addStars": "23",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/49262?s=40&v=4",
-          "name": "jart",
-          "url": "https://github.com/jart"
+          "avatar": "https://avatars.githubusercontent.com/u/44143868?s=40&v=4",
+          "name": "harry7557558",
+          "url": "https://github.com/harry7557558"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4476645?s=40&v=4",
-          "name": "aittalam",
-          "url": "https://github.com/aittalam"
+          "avatar": "https://avatars.githubusercontent.com/u/77882176?s=40&v=4",
+          "name": "IAMSebyi",
+          "url": "https://github.com/IAMSebyi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&v=4",
-          "name": "cjpais",
-          "url": "https://github.com/cjpais"
+          "avatar": "https://avatars.githubusercontent.com/u/24575521?s=40&v=4",
+          "name": "debsahu",
+          "url": "https://github.com/debsahu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42821?s=40&v=4",
-          "name": "stlhood",
-          "url": "https://github.com/stlhood"
+          "avatar": "https://avatars.githubusercontent.com/u/3869356?s=40&v=4",
+          "name": "ev5unleash",
+          "url": "https://github.com/ev5unleash"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "53,061",
-      "forks": "5,034",
-      "addStars": "367",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
-          "name": "oneandonlydean",
-          "url": "https://github.com/oneandonlydean"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
-          "name": "adriadam10",
-          "url": "https://github.com/adriadam10"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67475268?s=40&v=4",
-          "name": "MarcZX10",
-          "url": "https://github.com/MarcZX10"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
-          "name": "boykopovar",
-          "url": "https://github.com/boykopovar"
-        }
-      ]
-    },
-    {
-      "title": "moonlight-stream/moonlight-qt",
-      "url": "https://github.com/moonlight-stream/moonlight-qt",
-      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "19,468",
-      "forks": "1,529",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&v=4",
-          "name": "cgutman",
-          "url": "https://github.com/cgutman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5506073?s=40&v=4",
-          "name": "raidancampbell",
-          "url": "https://github.com/raidancampbell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5084309?s=40&v=4",
-          "name": "jorys-paulin",
-          "url": "https://github.com/jorys-paulin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42119227?s=40&v=4",
-          "name": "Kaitul",
-          "url": "https://github.com/Kaitul"
-        }
-      ]
-    },
-    {
-      "title": "notepad-plus-plus/notepad-plus-plus",
-      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
-      "description": "Notepad++ official repository",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "29,844",
-      "forks": "5,429",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90293?s=40&v=4",
-          "name": "donho",
-          "url": "https://github.com/donho"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55940305?s=40&v=4",
-          "name": "ozone10",
-          "url": "https://github.com/ozone10"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13075183?s=40&v=4",
-          "name": "xomx",
-          "url": "https://github.com/xomx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14791461?s=40&v=4",
-          "name": "SinghRajenM",
-          "url": "https://github.com/SinghRajenM"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12630740?s=40&v=4",
-          "name": "chcg",
-          "url": "https://github.com/chcg"
-        }
-      ]
-    },
-    {
-      "title": "YimMenu/YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "1,826",
-      "forks": "411",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96936658?s=40&v=4",
-          "name": "maybegreat48",
-          "url": "https://github.com/maybegreat48"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110748953?s=40&v=4",
-          "name": "Mr-X-GTA",
-          "url": "https://github.com/Mr-X-GTA"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18056374?s=40&v=4",
-          "name": "playday3008",
-          "url": "https://github.com/playday3008"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24372625?s=40&v=4",
-          "name": "Deadlineem",
-          "url": "https://github.com/Deadlineem"
+          "avatar": "https://avatars.githubusercontent.com/u/7759954?s=40&v=4",
+          "name": "MotivaCG",
+          "url": "https://github.com/MotivaCG"
         }
       ]
     }

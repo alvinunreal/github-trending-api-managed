@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 07:18:21 GMT",
+  "pubDate": "Wed, 11 Nov 2026 13:18:12 GMT",
   "items": [
     {
       "title": "bazel-contrib/rules_perl",
@@ -42,6 +42,38 @@
       ]
     },
     {
+      "title": "googleapis/googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "8,825",
+      "forks": "2,640",
+      "addStars": "58",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
+          "name": "googleapis-publisher",
+          "url": "https://github.com/googleapis-publisher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1617025?s=40&v=4",
+          "name": "pongad",
+          "url": "https://github.com/pongad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25352356?s=40&v=4",
+          "name": "neozwu",
+          "url": "https://github.com/neozwu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
+          "name": "yoshi-code-bot",
+          "url": "https://github.com/yoshi-code-bot"
+        }
+      ]
+    },
+    {
       "title": "uber/hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
@@ -75,38 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
           "name": "jonathanbaker7",
           "url": "https://github.com/jonathanbaker7"
-        }
-      ]
-    },
-    {
-      "title": "googleapis/googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "8,823",
-      "forks": "2,640",
-      "addStars": "58",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
-          "name": "googleapis-publisher",
-          "url": "https://github.com/googleapis-publisher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1617025?s=40&v=4",
-          "name": "pongad",
-          "url": "https://github.com/pongad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25352356?s=40&v=4",
-          "name": "neozwu",
-          "url": "https://github.com/neozwu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
-          "name": "yoshi-code-bot",
-          "url": "https://github.com/yoshi-code-bot"
         }
       ]
     },
@@ -185,8 +185,8 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "23,218",
-      "forks": "1,439",
+      "stars": "23,219",
+      "forks": "1,438",
       "addStars": "116",
       "contributors": [
         {
@@ -208,6 +208,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
           "name": "distroless-bot",
           "url": "https://github.com/distroless-bot"
+        }
+      ]
+    },
+    {
+      "title": "tilt-dev/tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "244",
+      "forks": "196",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/278641?s=40&v=4",
+          "name": "nicks",
+          "url": "https://github.com/nicks"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
+          "name": "milas",
+          "url": "https://github.com/milas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6332648?s=40&v=4",
+          "name": "maiamcc",
+          "url": "https://github.com/maiamcc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7453991?s=40&v=4",
+          "name": "landism",
+          "url": "https://github.com/landism"
         }
       ]
     },
@@ -244,34 +276,71 @@
       ]
     },
     {
-      "title": "tilt-dev/tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
+      "title": "cel-expr/cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "244",
-      "forks": "195",
-      "addStars": "1",
+      "stars": "4,053",
+      "forks": "312",
+      "addStars": "50",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/278641?s=40&v=4",
-          "name": "nicks",
-          "url": "https://github.com/nicks"
+          "avatar": "https://avatars.githubusercontent.com/u/483300?s=40&v=4",
+          "name": "TristonianJones",
+          "url": "https://github.com/TristonianJones"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
-          "name": "milas",
-          "url": "https://github.com/milas"
+          "avatar": "https://avatars.githubusercontent.com/u/32469398?s=40&v=4",
+          "name": "JimLarson",
+          "url": "https://github.com/JimLarson"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6332648?s=40&v=4",
-          "name": "maiamcc",
-          "url": "https://github.com/maiamcc"
+          "avatar": "https://avatars.githubusercontent.com/u/997958?s=40&v=4",
+          "name": "jcking",
+          "url": "https://github.com/jcking"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7453991?s=40&v=4",
-          "name": "landism",
-          "url": "https://github.com/landism"
+          "avatar": "https://avatars.githubusercontent.com/u/2355949?s=40&v=4",
+          "name": "l46kok",
+          "url": "https://github.com/l46kok"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179320?s=40&v=4",
+          "name": "eobrain",
+          "url": "https://github.com/eobrain"
+        }
+      ]
+    },
+    {
+      "title": "aspect-build/rules_py",
+      "url": "https://github.com/aspect-build/rules_py",
+      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "149",
+      "forks": "101",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
+          "name": "jbedard",
+          "url": "https://github.com/jbedard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/704767?s=40&v=4",
+          "name": "arrdem",
+          "url": "https://github.com/arrdem"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13787208?s=40&v=4",
+          "name": "xangcastle",
+          "url": "https://github.com/xangcastle"
         }
       ]
     }

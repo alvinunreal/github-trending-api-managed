@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 07:18:21 GMT",
+  "pubDate": "Wed, 11 Nov 2026 13:18:12 GMT",
   "items": [
     {
       "title": "qualcomm-linux/meta-qcom",
@@ -10,8 +10,8 @@
       "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "175",
-      "forks": "397",
+      "stars": "176",
+      "forks": "398",
       "addStars": "0",
       "contributors": [
         {
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/4164703?s=40&v=4",
           "name": "quaresmajose",
           "url": "https://github.com/quaresmajose"
+        }
+      ]
+    },
+    {
+      "title": "space-grade-linux/meta-sgl",
+      "url": "https://github.com/space-grade-linux/meta-sgl",
+      "description": "",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "61",
+      "forks": "21",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28444365?s=40&v=4",
+          "name": "robwoolley",
+          "url": "https://github.com/robwoolley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/317648?s=40&v=4",
+          "name": "mrpollo",
+          "url": "https://github.com/mrpollo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/119699?s=40&v=4",
+          "name": "balister",
+          "url": "https://github.com/balister"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/240630?s=40&v=4",
+          "name": "asimonov",
+          "url": "https://github.com/asimonov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58344653?s=40&v=4",
+          "name": "alenik22",
+          "url": "https://github.com/alenik22"
         }
       ]
     },
@@ -79,39 +116,39 @@
       ]
     },
     {
-      "title": "kraj/meta-clang",
-      "url": "https://github.com/kraj/meta-clang",
-      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+      "title": "sbabic/meta-swupdate",
+      "url": "https://github.com/sbabic/meta-swupdate",
+      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "198",
-      "forks": "253",
+      "stars": "187",
+      "forks": "128",
       "addStars": "0",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1411982?s=40&v=4",
+          "name": "sbabic",
+          "url": "https://github.com/sbabic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/638766?s=40&v=4",
+          "name": "diegorondini",
+          "url": "https://github.com/diegorondini"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
           "name": "kraj",
           "url": "https://github.com/kraj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
-          "name": "shr-project",
-          "url": "https://github.com/shr-project"
+          "avatar": "https://avatars.githubusercontent.com/u/2828301?s=40&v=4",
+          "name": "texierp",
+          "url": "https://github.com/texierp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
-          "name": "rossburton",
-          "url": "https://github.com/rossburton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
-          "name": "dankm",
-          "url": "https://github.com/dankm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9674237?s=40&v=4",
-          "name": "Ecordonnier",
-          "url": "https://github.com/Ecordonnier"
+          "avatar": "https://avatars.githubusercontent.com/u/34969493?s=40&v=4",
+          "name": "kk6ho",
+          "url": "https://github.com/kk6ho"
         }
       ]
     },
@@ -153,76 +190,108 @@
       ]
     },
     {
-      "title": "sbabic/meta-swupdate",
-      "url": "https://github.com/sbabic/meta-swupdate",
-      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
+      "title": "mendersoftware/meta-mender",
+      "url": "https://github.com/mendersoftware/meta-mender",
+      "description": "Yocto Project meta layer for the Mender client",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "187",
-      "forks": "128",
+      "stars": "189",
+      "forks": "218",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1411982?s=40&v=4",
-          "name": "sbabic",
-          "url": "https://github.com/sbabic"
+          "avatar": "https://avatars.githubusercontent.com/u/41870?s=40&v=4",
+          "name": "bboozzoo",
+          "url": "https://github.com/bboozzoo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/638766?s=40&v=4",
-          "name": "diegorondini",
-          "url": "https://github.com/diegorondini"
+          "avatar": "https://avatars.githubusercontent.com/u/86428782?s=40&v=4",
+          "name": "danielskinstad",
+          "url": "https://github.com/danielskinstad"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
-          "name": "kraj",
-          "url": "https://github.com/kraj"
+          "avatar": "https://avatars.githubusercontent.com/u/6329055?s=40&v=4",
+          "name": "pasinskim",
+          "url": "https://github.com/pasinskim"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2828301?s=40&v=4",
-          "name": "texierp",
-          "url": "https://github.com/texierp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34969493?s=40&v=4",
-          "name": "kk6ho",
-          "url": "https://github.com/kk6ho"
+          "avatar": "https://avatars.githubusercontent.com/u/12238099?s=40&v=4",
+          "name": "GregorioDiStefano",
+          "url": "https://github.com/GregorioDiStefano"
         }
       ]
     },
     {
-      "title": "OE4T/meta-tegra",
-      "url": "https://github.com/OE4T/meta-tegra",
-      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
+      "title": "openbmc/openbmc",
+      "url": "https://github.com/openbmc/openbmc",
+      "description": "OpenBMC Distribution",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "585",
-      "forks": "326",
-      "addStars": "2",
+      "stars": "2,616",
+      "forks": "1,198",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3137284?s=40&v=4",
-          "name": "madisongh",
-          "url": "https://github.com/madisongh"
+          "avatar": "https://avatars.githubusercontent.com/u/105009?s=40&v=4",
+          "name": "williamspatrick",
+          "url": "https://github.com/williamspatrick"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15719516?s=40&v=4",
-          "name": "ichergui",
-          "url": "https://github.com/ichergui"
+          "avatar": "https://avatars.githubusercontent.com/u/1612261?s=40&v=4",
+          "name": "geissonator",
+          "url": "https://github.com/geissonator"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48104?s=40&v=4",
-          "name": "kekiefer",
-          "url": "https://github.com/kekiefer"
+          "avatar": "https://avatars.githubusercontent.com/u/8423748?s=40&v=4",
+          "name": "bradbishop",
+          "url": "https://github.com/bradbishop"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/227565?s=40&v=4",
-          "name": "dwalkes",
-          "url": "https://github.com/dwalkes"
+          "avatar": "https://avatars.githubusercontent.com/u/207355?s=40&v=4",
+          "name": "shenki",
+          "url": "https://github.com/shenki"
         },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/526481?s=40&v=4",
+          "name": "amboar",
+          "url": "https://github.com/amboar"
+        }
+      ]
+    },
+    {
+      "title": "kraj/meta-clang",
+      "url": "https://github.com/kraj/meta-clang",
+      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "198",
+      "forks": "253",
+      "addStars": "0",
+      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
           "name": "kraj",
           "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
+          "name": "rossburton",
+          "url": "https://github.com/rossburton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
+          "name": "dankm",
+          "url": "https://github.com/dankm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9674237?s=40&v=4",
+          "name": "Ecordonnier",
+          "url": "https://github.com/Ecordonnier"
         }
       ]
     },
@@ -260,43 +329,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/19584951?s=40&v=4",
           "name": "OnkelUlla",
           "url": "https://github.com/OnkelUlla"
-        }
-      ]
-    },
-    {
-      "title": "OpenCentauri/cosmos",
-      "url": "https://github.com/OpenCentauri/cosmos",
-      "description": "Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "326",
-      "forks": "55",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6130792?s=40&v=4",
-          "name": "jamesturton",
-          "url": "https://github.com/jamesturton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38142618?s=40&v=4",
-          "name": "suchmememanyskill",
-          "url": "https://github.com/suchmememanyskill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1937248?s=40&v=4",
-          "name": "pdscomp",
-          "url": "https://github.com/pdscomp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31422391?s=40&v=4",
-          "name": "Atomique13",
-          "url": "https://github.com/Atomique13"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7476666?s=40&v=4",
-          "name": "timiv",
-          "url": "https://github.com/timiv"
         }
       ]
     }
