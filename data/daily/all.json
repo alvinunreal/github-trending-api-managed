@@ -2,86 +2,17 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Nov 2026 07:18:15 GMT",
+  "pubDate": "Thu, 12 Nov 2026 13:18:21 GMT",
   "items": [
-    {
-      "title": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "25,554",
-      "forks": "1,989",
-      "addStars": "2,776",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
-          "name": "cixzhang",
-          "url": "https://github.com/cixzhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-          "name": "rubyycheung",
-          "url": "https://github.com/rubyycheung"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
-          "name": "josephfarina",
-          "url": "https://github.com/josephfarina"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&v=4",
-          "name": "vjeux",
-          "url": "https://github.com/vjeux"
-        }
-      ]
-    },
-    {
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "70,719",
-      "forks": "56,993",
-      "addStars": "278",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-          "name": "ZhuLinsen",
-          "url": "https://github.com/ZhuLinsen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-          "name": "massif-01",
-          "url": "https://github.com/massif-01"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-          "name": "freesme",
-          "url": "https://github.com/freesme"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
-          "name": "Activer007",
-          "url": "https://github.com/Activer007"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36181736?s=40&v=4",
-          "name": "birdxs",
-          "url": "https://github.com/birdxs"
-        }
-      ]
-    },
     {
       "title": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,008",
-      "forks": "151",
-      "addStars": "159",
+      "stars": "2,286",
+      "forks": "166",
+      "addStars": "799",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
@@ -106,19 +37,93 @@
       ]
     },
     {
-      "title": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": "",
-      "languageColor": "",
-      "stars": "11,171",
-      "forks": "453",
-      "addStars": "361",
+      "title": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "12,111",
+      "forks": "958",
+      "addStars": "663",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/124599?s=40&v=4",
-          "name": "shadcn",
-          "url": "https://github.com/shadcn"
+          "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
+          "name": "mldangelo-oai",
+          "url": "https://github.com/mldangelo-oai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/269041055?s=40&v=4",
+          "name": "ianw-oai",
+          "url": "https://github.com/ianw-oai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/272643392?s=40&v=4",
+          "name": "kmbroai",
+          "url": "https://github.com/kmbroai"
+        }
+      ]
+    },
+    {
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "95,932",
+      "forks": "10,754",
+      "addStars": "79",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
+          "name": "ljharb",
+          "url": "https://github.com/ljharb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
+          "name": "PeterDaveHello",
+          "url": "https://github.com/PeterDaveHello"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&v=4",
+          "name": "creationix",
+          "url": "https://github.com/creationix"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&v=4",
+          "name": "koenpunt",
+          "url": "https://github.com/koenpunt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&v=4",
+          "name": "lukechilds",
+          "url": "https://github.com/lukechilds"
+        }
+      ]
+    },
+    {
+      "title": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": "1,362",
+      "forks": "127",
+      "addStars": "390",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11896738?s=40&v=4",
+          "name": "pookjw",
+          "url": "https://github.com/pookjw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66147452?s=40&v=4",
+          "name": "SamZong233",
+          "url": "https://github.com/SamZong233"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -126,19 +131,157 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6299331?s=40&v=4",
-          "name": "erikpr1994",
-          "url": "https://github.com/erikpr1994"
+          "avatar": "https://avatars.githubusercontent.com/u/74815888?s=40&v=4",
+          "name": "Jonathan0827",
+          "url": "https://github.com/Jonathan0827"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/888909?s=40&v=4",
-          "name": "beastawakens",
-          "url": "https://github.com/beastawakens"
+          "avatar": "https://avatars.githubusercontent.com/u/78680745?s=40&v=4",
+          "name": "adgk2349",
+          "url": "https://github.com/adgk2349"
+        }
+      ]
+    },
+    {
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "13,512",
+      "forks": "997",
+      "addStars": "974",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
+          "name": "jjmata",
+          "url": "https://github.com/jjmata"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10128372?s=40&v=4",
-          "name": "morinim",
-          "url": "https://github.com/morinim"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
+          "name": "zachgoll",
+          "url": "https://github.com/zachgoll"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&v=4",
+          "name": "Shpigford",
+          "url": "https://github.com/Shpigford"
+        }
+      ]
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "29,578",
+      "forks": "3,385",
+      "addStars": "151",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
+          "name": "wenshao",
+          "url": "https://github.com/wenshao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/224605497?s=40&v=4",
+          "name": "qwencoder",
+          "url": "https://github.com/qwencoder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11473889?s=40&v=4",
+          "name": "yiliang114",
+          "url": "https://github.com/yiliang114"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/480123?s=40&v=4",
+          "name": "tanzhenxin",
+          "url": "https://github.com/tanzhenxin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/269191875?s=40&v=4",
+          "name": "qwen-code-dev-bot",
+          "url": "https://github.com/qwen-code-dev-bot"
+        }
+      ]
+    },
+    {
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "1,838",
+      "forks": "388",
+      "addStars": "58",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71890694?s=40&v=4",
+          "name": "ashhart",
+          "url": "https://github.com/ashhart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/600316?s=40&v=4",
+          "name": "jschmied",
+          "url": "https://github.com/jschmied"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/288991054?s=40&v=4",
+          "name": "BobClawblaw",
+          "url": "https://github.com/BobClawblaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106273?s=40&v=4",
+          "name": "laudney",
+          "url": "https://github.com/laudney"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15323295?s=40&v=4",
+          "name": "BlivionIaG",
+          "url": "https://github.com/BlivionIaG"
+        }
+      ]
+    },
+    {
+      "title": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "123,508",
+      "forks": "38,052",
+      "addStars": "133",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
+          "name": "Trott",
+          "url": "https://github.com/Trott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80?s=40&v=4",
+          "name": "ry",
+          "url": "https://github.com/ry"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&v=4",
+          "name": "bnoordhuis",
+          "url": "https://github.com/bnoordhuis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&v=4",
+          "name": "addaleax",
+          "url": "https://github.com/addaleax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&v=4",
+          "name": "isaacs",
+          "url": "https://github.com/isaacs"
         }
       ]
     },
@@ -148,9 +291,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "116,164",
-      "forks": "12,172",
-      "addStars": "787",
+      "stars": "116,365",
+      "forks": "12,190",
+      "addStars": "812",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -180,157 +323,140 @@
       ]
     },
     {
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "50,053",
-      "forks": "3,492",
-      "addStars": "708",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-          "name": "ctate",
-          "url": "https://github.com/ctate"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-          "name": "Railly",
-          "url": "https://github.com/Railly"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-          "name": "lahfir",
-          "url": "https://github.com/lahfir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "13,212",
-      "forks": "975",
-      "addStars": "1,078",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
-          "name": "jjmata",
-          "url": "https://github.com/jjmata"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
-          "name": "zachgoll",
-          "url": "https://github.com/zachgoll"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&v=4",
-          "name": "Shpigford",
-          "url": "https://github.com/Shpigford"
-        }
-      ]
-    },
-    {
-      "title": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "7,546",
-      "forks": "459",
-      "addStars": "645",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25392815?s=40&v=4",
-          "name": "kingpanther13",
-          "url": "https://github.com/kingpanther13"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3122659?s=40&v=4",
-          "name": "julienld",
-          "url": "https://github.com/julienld"
-        }
-      ]
-    },
-    {
-      "title": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,939",
-      "forks": "951",
-      "addStars": "52",
+      "stars": "25,982",
+      "forks": "2,018",
+      "addStars": "1,789",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
-          "name": "mldangelo-oai",
-          "url": "https://github.com/mldangelo-oai"
+          "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+          "name": "cixzhang",
+          "url": "https://github.com/cixzhang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-          "name": "codex",
-          "url": "https://github.com/codex"
+          "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+          "name": "rubyycheung",
+          "url": "https://github.com/rubyycheung"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/269041055?s=40&v=4",
-          "name": "ianw-oai",
-          "url": "https://github.com/ianw-oai"
+          "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+          "name": "josephfarina",
+          "url": "https://github.com/josephfarina"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/272643392?s=40&v=4",
-          "name": "kmbroai",
-          "url": "https://github.com/kmbroai"
+          "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&v=4",
+          "name": "vjeux",
+          "url": "https://github.com/vjeux"
         }
       ]
     },
     {
-      "title": "TheAlgorithms/Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "67,147",
-      "forks": "21,519",
-      "addStars": "51",
+      "title": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "11,252",
+      "forks": "1,395",
+      "addStars": "291",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&v=4",
-          "name": "alxkm",
-          "url": "https://github.com/alxkm"
+          "avatar": "https://avatars.githubusercontent.com/u/1574202?s=40&v=4",
+          "name": "davidmckayv",
+          "url": "https://github.com/davidmckayv"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&v=4",
-          "name": "vil02",
-          "url": "https://github.com/vil02"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4",
-          "name": "Hardvan",
-          "url": "https://github.com/Hardvan"
+          "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+          "name": "kevin9327",
+          "url": "https://github.com/kevin9327"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4",
-          "name": "yanglbme",
-          "url": "https://github.com/yanglbme"
+          "avatar": "https://avatars.githubusercontent.com/u/27702539?s=40&v=4",
+          "name": "guidovizoso",
+          "url": "https://github.com/guidovizoso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67006255?s=40&v=4",
+          "name": "Ayush7614",
+          "url": "https://github.com/Ayush7614"
+        }
+      ]
+    },
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "68,895",
+      "forks": "10,725",
+      "addStars": "636",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
+          "name": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49880456?s=40&v=4",
+          "name": "Tanishq-1",
+          "url": "https://github.com/Tanishq-1"
+        }
+      ]
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "134,283",
+      "forks": "25,473",
+      "addStars": "162",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4",
+          "name": "ggerganov",
+          "url": "https://github.com/ggerganov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&v=4",
+          "name": "ngxson",
+          "url": "https://github.com/ngxson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4",
+          "name": "CISC",
+          "url": "https://github.com/CISC"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&v=4",
+          "name": "JohannesGaessler",
+          "url": "https://github.com/JohannesGaessler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&v=4",
+          "name": "slaren",
+          "url": "https://github.com/slaren"
         }
       ]
     }

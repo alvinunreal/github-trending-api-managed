@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Nov 2026 07:18:15 GMT",
+  "pubDate": "Thu, 12 Nov 2026 13:18:21 GMT",
   "items": [
     {
       "title": "verilator/verilator",
@@ -10,8 +10,8 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "4,077",
-      "forks": "980",
+      "stars": "4,078",
+      "forks": "981",
       "addStars": "21",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,753",
-      "forks": "1,158",
+      "stars": "3,754",
+      "forks": "1,159",
       "addStars": "15",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "13,231",
-      "forks": "1,276",
+      "stars": "13,235",
+      "forks": "1,278",
       "addStars": "53",
       "contributors": [
         {
@@ -107,43 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
           "name": "xianbaoqian",
           "url": "https://github.com/xianbaoqian"
-        }
-      ]
-    },
-    {
-      "title": "openhwfoundation/cvw",
-      "url": "https://github.com/openhwfoundation/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "662",
-      "forks": "597",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
-          "name": "davidharrishmc",
-          "url": "https://github.com/davidharrishmc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/568353?s=40&v=4",
-          "name": "rosethompson",
-          "url": "https://github.com/rosethompson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25440394?s=40&v=4",
-          "name": "jordancarlin",
-          "url": "https://github.com/jordancarlin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51968757?s=40&v=4",
-          "name": "BBracker",
-          "url": "https://github.com/BBracker"
         }
       ]
     },
@@ -185,76 +148,39 @@
       ]
     },
     {
-      "title": "chipsalliance/caliptra-ss",
-      "url": "https://github.com/chipsalliance/caliptra-ss",
-      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
+      "title": "openhwfoundation/cvw",
+      "url": "https://github.com/openhwfoundation/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "56",
-      "forks": "67",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
-          "name": "calebofearth",
-          "url": "https://github.com/calebofearth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
-          "name": "ekarabu",
-          "url": "https://github.com/ekarabu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7507042?s=40&v=4",
-          "name": "clayton8",
-          "url": "https://github.com/clayton8"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142342517?s=40&v=4",
-          "name": "nileshbpat",
-          "url": "https://github.com/nileshbpat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
-          "name": "Nitsirks",
-          "url": "https://github.com/Nitsirks"
-        }
-      ]
-    },
-    {
-      "title": "syntacore/scr1",
-      "url": "https://github.com/syntacore/scr1",
-      "description": "SCR1 is a high-quality open-source RISC-V MCU core in Verilog",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "1,017",
-      "forks": "370",
+      "stars": "662",
+      "forks": "597",
       "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15090512?s=40&v=4",
-          "name": "dp-sc",
-          "url": "https://github.com/dp-sc"
+          "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
+          "name": "davidharrishmc",
+          "url": "https://github.com/davidharrishmc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15090569?s=40&v=4",
-          "name": "eb-sc",
-          "url": "https://github.com/eb-sc"
+          "avatar": "https://avatars.githubusercontent.com/u/568353?s=40&v=4",
+          "name": "rosethompson",
+          "url": "https://github.com/rosethompson"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/88322117?s=40&v=4",
-          "name": "skokoulin-sc",
-          "url": "https://github.com/skokoulin-sc"
+          "avatar": "https://avatars.githubusercontent.com/u/25440394?s=40&v=4",
+          "name": "jordancarlin",
+          "url": "https://github.com/jordancarlin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
-          "name": "wsnyder",
-          "url": "https://github.com/wsnyder"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15073101?s=40&v=4",
-          "name": "ar-sc",
-          "url": "https://github.com/ar-sc"
+          "avatar": "https://avatars.githubusercontent.com/u/51968757?s=40&v=4",
+          "name": "BBracker",
+          "url": "https://github.com/BBracker"
         }
       ]
     }

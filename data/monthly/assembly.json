@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Nov 2026 07:18:15 GMT",
+  "pubDate": "Thu, 12 Nov 2026 13:18:21 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -10,7 +10,7 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "76,602",
+      "stars": "76,610",
       "forks": "8,321",
       "addStars": "2,455",
       "contributors": [
@@ -106,6 +106,43 @@
       ]
     },
     {
+      "title": "pret/pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "2,548",
+      "forks": "1,005",
+      "addStars": "30",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1654211?s=40&v=4",
+          "name": "yenatch",
+          "url": "https://github.com/yenatch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35663410?s=40&v=4",
+          "name": "Rangi42",
+          "url": "https://github.com/Rangi42"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101238?s=40&v=4",
+          "name": "kanzure",
+          "url": "https://github.com/kanzure"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1761576?s=40&v=4",
+          "name": "roukaour",
+          "url": "https://github.com/roukaour"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1895773?s=40&v=4",
+          "name": "PikalaxALT",
+          "url": "https://github.com/PikalaxALT"
+        }
+      ]
+    },
+    {
       "title": "apple/swift-crypto",
       "url": "https://github.com/apple/swift-crypto",
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
@@ -143,39 +180,39 @@
       ]
     },
     {
-      "title": "pret/pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
+      "title": "cirosantilli/x86-bare-metal-examples",
+      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "2,548",
-      "forks": "1,004",
-      "addStars": "30",
+      "stars": "5,445",
+      "forks": "431",
+      "addStars": "56",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1654211?s=40&v=4",
-          "name": "yenatch",
-          "url": "https://github.com/yenatch"
+          "avatar": "https://avatars.githubusercontent.com/u/1429315?s=40&v=4",
+          "name": "cirosantilli",
+          "url": "https://github.com/cirosantilli"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35663410?s=40&v=4",
-          "name": "Rangi42",
-          "url": "https://github.com/Rangi42"
+          "avatar": "https://avatars.githubusercontent.com/u/11829057?s=40&v=4",
+          "name": "liujunming",
+          "url": "https://github.com/liujunming"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/101238?s=40&v=4",
-          "name": "kanzure",
-          "url": "https://github.com/kanzure"
+          "avatar": "https://avatars.githubusercontent.com/u/8661784?s=40&v=4",
+          "name": "mpetch",
+          "url": "https://github.com/mpetch"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1761576?s=40&v=4",
-          "name": "roukaour",
-          "url": "https://github.com/roukaour"
+          "avatar": "https://avatars.githubusercontent.com/u/762988?s=40&v=4",
+          "name": "davidbilge",
+          "url": "https://github.com/davidbilge"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1895773?s=40&v=4",
-          "name": "PikalaxALT",
-          "url": "https://github.com/PikalaxALT"
+          "avatar": "https://avatars.githubusercontent.com/u/1664036?s=40&v=4",
+          "name": "antekone",
+          "url": "https://github.com/antekone"
         }
       ]
     },
@@ -217,49 +254,12 @@
       ]
     },
     {
-      "title": "cirosantilli/x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "5,446",
-      "forks": "431",
-      "addStars": "56",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1429315?s=40&v=4",
-          "name": "cirosantilli",
-          "url": "https://github.com/cirosantilli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11829057?s=40&v=4",
-          "name": "liujunming",
-          "url": "https://github.com/liujunming"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8661784?s=40&v=4",
-          "name": "mpetch",
-          "url": "https://github.com/mpetch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/762988?s=40&v=4",
-          "name": "davidbilge",
-          "url": "https://github.com/davidbilge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1664036?s=40&v=4",
-          "name": "antekone",
-          "url": "https://github.com/antekone"
-        }
-      ]
-    },
-    {
       "title": "ebitengine/purego",
       "url": "https://github.com/ebitengine/purego",
       "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "4,103",
+      "stars": "4,107",
       "forks": "140",
       "addStars": "88",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "3,190",
+      "stars": "3,191",
       "forks": "1,055",
       "addStars": "42",
       "contributors": [
@@ -324,112 +324,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/107464696?s=40&v=4",
           "name": "zchamski",
           "url": "https://github.com/zchamski"
-        }
-      ]
-    },
-    {
-      "title": "aws/aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "864",
-      "forks": "239",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109690?s=40&v=4",
-          "name": "davidben",
-          "url": "https://github.com/davidben"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21203?s=40&v=4",
-          "name": "agl",
-          "url": "https://github.com/agl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/103147162?s=40&v=4",
-          "name": "justsmth",
-          "url": "https://github.com/justsmth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78765052?s=40&v=4",
-          "name": "jargh",
-          "url": "https://github.com/jargh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11924508?s=40&v=4",
-          "name": "samuel40791765",
-          "url": "https://github.com/samuel40791765"
-        }
-      ]
-    },
-    {
-      "title": "apache/arrow-go",
-      "url": "https://github.com/apache/arrow-go",
-      "description": "Official Go implementation of Apache Arrow",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "419",
-      "forks": "171",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/555095?s=40&v=4",
-          "name": "zeroshade",
-          "url": "https://github.com/zeroshade"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38443830?s=40&v=4",
-          "name": "fallintoplace",
-          "url": "https://github.com/fallintoplace"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1070920?s=40&v=4",
-          "name": "sbinet",
-          "url": "https://github.com/sbinet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4",
-          "name": "kou",
-          "url": "https://github.com/kou"
-        }
-      ]
-    },
-    {
-      "title": "ThirteenAG/GTAIV.EFLC.FusionFix",
-      "url": "https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix",
-      "description": "This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "3,529",
-      "forks": "126",
-      "addStars": "160",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4904157?s=40&v=4",
-          "name": "ThirteenAG",
-          "url": "https://github.com/ThirteenAG"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133570309?s=40&v=4",
-          "name": "1heart2",
-          "url": "https://github.com/1heart2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133058741?s=40&v=4",
-          "name": "Parallellines0451",
-          "url": "https://github.com/Parallellines0451"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41953894?s=40&v=4",
-          "name": "sTc2201",
-          "url": "https://github.com/sTc2201"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11007651?s=40&v=4",
-          "name": "Tomasak",
-          "url": "https://github.com/Tomasak"
         }
       ]
     },
@@ -471,6 +365,43 @@
       ]
     },
     {
+      "title": "aws/aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "864",
+      "forks": "239",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109690?s=40&v=4",
+          "name": "davidben",
+          "url": "https://github.com/davidben"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21203?s=40&v=4",
+          "name": "agl",
+          "url": "https://github.com/agl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103147162?s=40&v=4",
+          "name": "justsmth",
+          "url": "https://github.com/justsmth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78765052?s=40&v=4",
+          "name": "jargh",
+          "url": "https://github.com/jargh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11924508?s=40&v=4",
+          "name": "samuel40791765",
+          "url": "https://github.com/samuel40791765"
+        }
+      ]
+    },
+    {
       "title": "cemu-project/cemu_graphic_packs",
       "url": "https://github.com/cemu-project/cemu_graphic_packs",
       "description": "Community Graphic Packs for Cemu",
@@ -504,6 +435,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/6061770?s=40&v=4",
           "name": "alexkiri",
           "url": "https://github.com/alexkiri"
+        }
+      ]
+    },
+    {
+      "title": "ThirteenAG/GTAIV.EFLC.FusionFix",
+      "url": "https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix",
+      "description": "This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "3,530",
+      "forks": "126",
+      "addStars": "160",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4904157?s=40&v=4",
+          "name": "ThirteenAG",
+          "url": "https://github.com/ThirteenAG"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/133570309?s=40&v=4",
+          "name": "1heart2",
+          "url": "https://github.com/1heart2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/133058741?s=40&v=4",
+          "name": "Parallellines0451",
+          "url": "https://github.com/Parallellines0451"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41953894?s=40&v=4",
+          "name": "sTc2201",
+          "url": "https://github.com/sTc2201"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11007651?s=40&v=4",
+          "name": "Tomasak",
+          "url": "https://github.com/Tomasak"
+        }
+      ]
+    },
+    {
+      "title": "vxunderground/MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "18,916",
+      "forks": "2,107",
+      "addStars": "144",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57078196?s=40&v=4",
+          "name": "vxunderground",
+          "url": "https://github.com/vxunderground"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25308360?s=40&v=4",
+          "name": "TheDuchy",
+          "url": "https://github.com/TheDuchy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7806106?s=40&v=4",
+          "name": "f0wl",
+          "url": "https://github.com/f0wl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26669887?s=40&v=4",
+          "name": "luca364",
+          "url": "https://github.com/luca364"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32627482?s=40&v=4",
+          "name": "EduApps-CDG",
+          "url": "https://github.com/EduApps-CDG"
         }
       ]
     },
@@ -545,76 +550,34 @@
       ]
     },
     {
-      "title": "vxunderground/MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "title": "apache/arrow-go",
+      "url": "https://github.com/apache/arrow-go",
+      "description": "Official Go implementation of Apache Arrow",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "18,915",
-      "forks": "2,107",
-      "addStars": "144",
+      "stars": "419",
+      "forks": "171",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57078196?s=40&v=4",
-          "name": "vxunderground",
-          "url": "https://github.com/vxunderground"
+          "avatar": "https://avatars.githubusercontent.com/u/555095?s=40&v=4",
+          "name": "zeroshade",
+          "url": "https://github.com/zeroshade"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25308360?s=40&v=4",
-          "name": "TheDuchy",
-          "url": "https://github.com/TheDuchy"
+          "avatar": "https://avatars.githubusercontent.com/u/38443830?s=40&v=4",
+          "name": "fallintoplace",
+          "url": "https://github.com/fallintoplace"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7806106?s=40&v=4",
-          "name": "f0wl",
-          "url": "https://github.com/f0wl"
+          "avatar": "https://avatars.githubusercontent.com/u/1070920?s=40&v=4",
+          "name": "sbinet",
+          "url": "https://github.com/sbinet"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26669887?s=40&v=4",
-          "name": "luca364",
-          "url": "https://github.com/luca364"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32627482?s=40&v=4",
-          "name": "EduApps-CDG",
-          "url": "https://github.com/EduApps-CDG"
-        }
-      ]
-    },
-    {
-      "title": "virtualagc/virtualagc",
-      "url": "https://github.com/virtualagc/virtualagc",
-      "description": "Virtual Apollo Guidance Computer (AGC) software",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "3,349",
-      "forks": "426",
-      "addStars": "61",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11841400?s=40&v=4",
-          "name": "rburkey2005",
-          "url": "https://github.com/rburkey2005"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94056?s=40&v=4",
-          "name": "thewonderidiot",
-          "url": "https://github.com/thewonderidiot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/505070?s=40&v=4",
-          "name": "jimlawton",
-          "url": "https://github.com/jimlawton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3825050?s=40&v=4",
-          "name": "xxxxxxxxxxxxx",
-          "url": "https://github.com/xxxxxxxxxxxxx"
+          "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4",
+          "name": "kou",
+          "url": "https://github.com/kou"
         }
       ]
     },
@@ -625,7 +588,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "530",
-      "forks": "77",
+      "forks": "78",
       "addStars": "9",
       "contributors": [
         {

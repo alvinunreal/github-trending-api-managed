@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Monthly Trending",
   "description": "Monthly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Nov 2026 07:18:15 GMT",
+  "pubDate": "Thu, 12 Nov 2026 13:18:21 GMT",
   "items": [
     {
       "title": "Orama-Interactive/Pixelorama",
@@ -10,7 +10,7 @@
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "11,079",
+      "stars": "11,083",
       "forks": "613",
       "addStars": "592",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,253",
+      "stars": "6,252",
       "forks": "413",
       "addStars": "288",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "GDScript",
       "languageColor": "#355570",
       "stars": "6,167",
-      "forks": "367",
+      "forks": "368",
       "addStars": "124",
       "contributors": [
         {
@@ -116,45 +116,13 @@
       ]
     },
     {
-      "title": "hi-godot/godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "3,505",
-      "forks": "193",
-      "addStars": "602",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
-          "name": "dsarno",
-          "url": "https://github.com/dsarno"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/177586398?s=40&v=4",
-          "name": "Clubhouse1661",
-          "url": "https://github.com/Clubhouse1661"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11672598?s=40&v=4",
-          "name": "azereki",
-          "url": "https://github.com/azereki"
-        }
-      ]
-    },
-    {
       "title": "godotengine/godot-demo-projects",
       "url": "https://github.com/godotengine/godot-demo-projects",
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
       "stars": "9,786",
-      "forks": "2,300",
+      "forks": "2,301",
       "addStars": "171",
       "contributors": [
         {
@@ -185,12 +153,44 @@
       ]
     },
     {
+      "title": "hi-godot/godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "3,509",
+      "forks": "193",
+      "addStars": "602",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
+          "name": "dsarno",
+          "url": "https://github.com/dsarno"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177586398?s=40&v=4",
+          "name": "Clubhouse1661",
+          "url": "https://github.com/Clubhouse1661"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11672598?s=40&v=4",
+          "name": "azereki",
+          "url": "https://github.com/azereki"
+        }
+      ]
+    },
+    {
       "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
       "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,316",
+      "stars": "3,317",
       "forks": "330",
       "addStars": "132",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "A Camera addon for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,657",
+      "stars": "3,658",
       "forks": "145",
       "addStars": "69",
       "contributors": [
@@ -292,6 +292,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/504259?s=40&v=4",
           "name": "TranquilMarmot",
           "url": "https://github.com/TranquilMarmot"
+        }
+      ]
+    },
+    {
+      "title": "yurineko73/Godot-MCP-Native",
+      "url": "https://github.com/yurineko73/Godot-MCP-Native",
+      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "874",
+      "forks": "74",
+      "addStars": "37",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48822620?s=40&v=4",
+          "name": "yurineko73",
+          "url": "https://github.com/yurineko73"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7535532?s=40&v=4",
+          "name": "millionart",
+          "url": "https://github.com/millionart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107033608?s=40&v=4",
+          "name": "AkazaAkali",
+          "url": "https://github.com/AkazaAkali"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37502927?s=40&v=4",
+          "name": "9bingyin",
+          "url": "https://github.com/9bingyin"
         }
       ]
     }
