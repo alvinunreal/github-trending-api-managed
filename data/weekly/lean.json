@@ -2,45 +2,8 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 07:18:16 GMT",
+  "pubDate": "Fri, 13 Nov 2026 13:18:15 GMT",
   "items": [
-    {
-      "title": "leanprover/lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "9,987",
-      "forks": "1,103",
-      "addStars": "100",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
-          "name": "leodemoura",
-          "url": "https://github.com/leodemoura"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109126?s=40&v=4",
-          "name": "Kha",
-          "url": "https://github.com/Kha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9020483?s=40&v=4",
-          "name": "tydeu",
-          "url": "https://github.com/tydeu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
-          "name": "gebner",
-          "url": "https://github.com/gebner"
-        }
-      ]
-    },
     {
       "title": "leanprover-community/mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
@@ -79,71 +42,113 @@
       ]
     },
     {
-      "title": "kim-em/hex-dev",
-      "url": "https://github.com/kim-em/hex-dev",
-      "description": "Development monorepo for Hex: verified computational algebra in Lean 4 (polynomial factoring, LLL, and friends). Released aggregate: https://github.com/leanprover/hex",
+      "title": "leanprover/lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "24",
-      "forks": "3",
-      "addStars": "2",
+      "stars": "9,989",
+      "forks": "1,103",
+      "addStars": "100",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
+          "name": "leodemoura",
+          "url": "https://github.com/leodemoura"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109126?s=40&v=4",
+          "name": "Kha",
+          "url": "https://github.com/Kha"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
           "name": "kim-em",
           "url": "https://github.com/kim-em"
         },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9020483?s=40&v=4",
+          "name": "tydeu",
+          "url": "https://github.com/tydeu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
+          "name": "gebner",
+          "url": "https://github.com/gebner"
+        }
+      ]
+    },
+    {
+      "title": "ethereum/EthLib",
+      "url": "https://github.com/ethereum/EthLib",
+      "description": "Formally verified Ethereum primitives, written in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "98",
+      "forks": "28",
+      "addStars": "17",
+      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-          "name": "codex",
-          "url": "https://github.com/codex"
+          "avatar": "https://avatars.githubusercontent.com/u/60488569?s=40&v=4",
+          "name": "tcoratger",
+          "url": "https://github.com/tcoratger"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
-          "name": "web-flow",
-          "url": "https://github.com/web-flow"
+          "avatar": "https://avatars.githubusercontent.com/u/29233688?s=40&v=4",
+          "name": "Giulio2002",
+          "url": "https://github.com/Giulio2002"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95511699?s=40&v=4",
+          "name": "jtraglia",
+          "url": "https://github.com/jtraglia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41830259?s=40&v=4",
+          "name": "Th0rgal",
+          "url": "https://github.com/Th0rgal"
         }
       ]
     },
     {
-      "title": "leanprover/lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "title": "google-deepmind/formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "125",
-      "forks": "30",
-      "addStars": "0",
+      "stars": "1,360",
+      "forks": "593",
+      "addStars": "12",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
-          "name": "mhuisi",
-          "url": "https://github.com/mhuisi"
+          "avatar": "https://avatars.githubusercontent.com/u/3491627?s=40&v=4",
+          "name": "mo271",
+          "url": "https://github.com/mo271"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
+          "avatar": "https://avatars.githubusercontent.com/u/72892199?s=40&v=4",
+          "name": "Paul-Lez",
+          "url": "https://github.com/Paul-Lez"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
-          "name": "Garmelon",
-          "url": "https://github.com/Garmelon"
+          "avatar": "https://avatars.githubusercontent.com/u/47568553?s=40&v=4",
+          "name": "smmercuri",
+          "url": "https://github.com/smmercuri"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
-          "name": "Vierkantor",
-          "url": "https://github.com/Vierkantor"
+          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
+          "name": "YaelDillies",
+          "url": "https://github.com/YaelDillies"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
-          "name": "jcommelin",
-          "url": "https://github.com/jcommelin"
+          "avatar": "https://avatars.githubusercontent.com/u/2724932?s=40&v=4",
+          "name": "veljjanoski",
+          "url": "https://github.com/veljjanoski"
         }
       ]
     },
@@ -185,39 +190,39 @@
       ]
     },
     {
-      "title": "google-deepmind/formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "leanprover/lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "1,360",
-      "forks": "590",
-      "addStars": "12",
+      "stars": "125",
+      "forks": "30",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3491627?s=40&v=4",
-          "name": "mo271",
-          "url": "https://github.com/mo271"
+          "avatar": "https://avatars.githubusercontent.com/u/10852073?s=40&v=4",
+          "name": "mhuisi",
+          "url": "https://github.com/mhuisi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/72892199?s=40&v=4",
-          "name": "Paul-Lez",
-          "url": "https://github.com/Paul-Lez"
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47568553?s=40&v=4",
-          "name": "smmercuri",
-          "url": "https://github.com/smmercuri"
+          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
+          "name": "Garmelon",
+          "url": "https://github.com/Garmelon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
-          "name": "YaelDillies",
-          "url": "https://github.com/YaelDillies"
+          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
+          "name": "Vierkantor",
+          "url": "https://github.com/Vierkantor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2724932?s=40&v=4",
-          "name": "veljjanoski",
-          "url": "https://github.com/veljjanoski"
+          "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
+          "name": "jcommelin",
+          "url": "https://github.com/jcommelin"
         }
       ]
     },
@@ -255,43 +260,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/5636705?s=40&v=4",
           "name": "jcommelin",
           "url": "https://github.com/jcommelin"
-        }
-      ]
-    },
-    {
-      "title": "leanprover-community/quote4",
-      "url": "https://github.com/leanprover-community/quote4",
-      "description": "Intuitive, type-safe expression quotations for Lean 4.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "111",
-      "forks": "28",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
-          "name": "gebner",
-          "url": "https://github.com/gebner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
-          "name": "Garmelon",
-          "url": "https://github.com/Garmelon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
-          "name": "eric-wieser",
-          "url": "https://github.com/eric-wieser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
-          "name": "Vierkantor",
-          "url": "https://github.com/Vierkantor"
         }
       ]
     },
@@ -407,6 +375,43 @@
       ]
     },
     {
+      "title": "leanprover-community/quote4",
+      "url": "https://github.com/leanprover-community/quote4",
+      "description": "Intuitive, type-safe expression quotations for Lean 4.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "111",
+      "forks": "28",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
+          "name": "gebner",
+          "url": "https://github.com/gebner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
+          "name": "Garmelon",
+          "url": "https://github.com/Garmelon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
+          "name": "eric-wieser",
+          "url": "https://github.com/eric-wieser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2116570?s=40&v=4",
+          "name": "Vierkantor",
+          "url": "https://github.com/Vierkantor"
+        }
+      ]
+    },
+    {
       "title": "leanprover-community/ProofWidgets4",
       "url": "https://github.com/leanprover-community/ProofWidgets4",
       "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
@@ -440,43 +445,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/11077553?s=40&v=4",
           "name": "Garmelon",
           "url": "https://github.com/Garmelon"
-        }
-      ]
-    },
-    {
-      "title": "leanprover-community/NNG4",
-      "url": "https://github.com/leanprover-community/NNG4",
-      "description": "Natural Number Game",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "394",
-      "forks": "98",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31867827?s=40&v=4",
-          "name": "kbuzzard",
-          "url": "https://github.com/kbuzzard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9141564?s=40&v=4",
-          "name": "joneugster",
-          "url": "https://github.com/joneugster"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3168777?s=40&v=4",
-          "name": "abentkamp",
-          "url": "https://github.com/abentkamp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3647317?s=40&v=4",
-          "name": "JiechengZhao",
-          "url": "https://github.com/JiechengZhao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
-          "name": "pitmonticone",
-          "url": "https://github.com/pitmonticone"
         }
       ]
     },
@@ -518,13 +486,50 @@
       ]
     },
     {
+      "title": "leanprover-community/NNG4",
+      "url": "https://github.com/leanprover-community/NNG4",
+      "description": "Natural Number Game",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "394",
+      "forks": "98",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31867827?s=40&v=4",
+          "name": "kbuzzard",
+          "url": "https://github.com/kbuzzard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9141564?s=40&v=4",
+          "name": "joneugster",
+          "url": "https://github.com/joneugster"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3168777?s=40&v=4",
+          "name": "abentkamp",
+          "url": "https://github.com/abentkamp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3647317?s=40&v=4",
+          "name": "JiechengZhao",
+          "url": "https://github.com/JiechengZhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
+          "name": "pitmonticone",
+          "url": "https://github.com/pitmonticone"
+        }
+      ]
+    },
+    {
       "title": "leanprover-community/physlib",
       "url": "https://github.com/leanprover-community/physlib",
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "836",
-      "forks": "224",
+      "forks": "225",
       "addStars": "13",
       "contributors": [
         {

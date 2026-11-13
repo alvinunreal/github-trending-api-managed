@@ -2,45 +2,8 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 07:18:16 GMT",
+  "pubDate": "Fri, 13 Nov 2026 13:18:15 GMT",
   "items": [
-    {
-      "title": "leanprover/lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "9,987",
-      "forks": "1,103",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
-          "name": "leodemoura",
-          "url": "https://github.com/leodemoura"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109126?s=40&v=4",
-          "name": "Kha",
-          "url": "https://github.com/Kha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9020483?s=40&v=4",
-          "name": "tydeu",
-          "url": "https://github.com/tydeu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
-          "name": "gebner",
-          "url": "https://github.com/gebner"
-        }
-      ]
-    },
     {
       "title": "google-deepmind/formal-conjectures",
       "url": "https://github.com/google-deepmind/formal-conjectures",
@@ -48,7 +11,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "1,360",
-      "forks": "590",
+      "forks": "593",
       "addStars": "2",
       "contributors": [
         {
@@ -75,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2724932?s=40&v=4",
           "name": "veljjanoski",
           "url": "https://github.com/veljjanoski"
+        }
+      ]
+    },
+    {
+      "title": "ethereum/EthLib",
+      "url": "https://github.com/ethereum/EthLib",
+      "description": "Formally verified Ethereum primitives, written in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "98",
+      "forks": "28",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60488569?s=40&v=4",
+          "name": "tcoratger",
+          "url": "https://github.com/tcoratger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29233688?s=40&v=4",
+          "name": "Giulio2002",
+          "url": "https://github.com/Giulio2002"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95511699?s=40&v=4",
+          "name": "jtraglia",
+          "url": "https://github.com/jtraglia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41830259?s=40&v=4",
+          "name": "Th0rgal",
+          "url": "https://github.com/Th0rgal"
         }
       ]
     },
@@ -116,108 +116,76 @@
       ]
     },
     {
-      "title": "leanprover/cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
+      "title": "leanprover/lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "809",
-      "forks": "225",
-      "addStars": "1",
+      "stars": "9,989",
+      "forks": "1,103",
+      "addStars": "16",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
-          "name": "chenson2018",
-          "url": "https://github.com/chenson2018"
+          "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
+          "name": "leodemoura",
+          "url": "https://github.com/leodemoura"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
-          "name": "ctchou",
-          "url": "https://github.com/ctchou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
-          "name": "SamuelSchlesinger",
-          "url": "https://github.com/SamuelSchlesinger"
+          "avatar": "https://avatars.githubusercontent.com/u/109126?s=40&v=4",
+          "name": "Kha",
+          "url": "https://github.com/Kha"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
           "name": "kim-em",
           "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9020483?s=40&v=4",
+          "name": "tydeu",
+          "url": "https://github.com/tydeu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
+          "name": "gebner",
+          "url": "https://github.com/gebner"
         }
       ]
     },
     {
-      "title": "Verified-zkEVM/ArkLib",
-      "url": "https://github.com/Verified-zkEVM/ArkLib",
-      "description": "Formally Verified Arguments of Knowledge in Lean",
+      "title": "facebookresearch/atlas-lean",
+      "url": "https://github.com/facebookresearch/atlas-lean",
+      "description": "ATLAS Autoformalized Textbook Library At Scale",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "357",
-      "forks": "129",
+      "stars": "333",
+      "forks": "54",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22353552?s=40&v=4",
-          "name": "quangvdao",
-          "url": "https://github.com/quangvdao"
+          "avatar": "https://avatars.githubusercontent.com/u/1993519?s=40&v=4",
+          "name": "akiezun",
+          "url": "https://github.com/akiezun"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25369263?s=40&v=4",
-          "name": "alexanderlhicks",
-          "url": "https://github.com/alexanderlhicks"
+          "avatar": "https://avatars.githubusercontent.com/u/75760207?s=40&v=4",
+          "name": "zibo-yang",
+          "url": "https://github.com/zibo-yang"
         },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30024844?s=40&v=4",
-          "name": "Ferinko",
-          "url": "https://github.com/Ferinko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5365540?s=40&v=4",
-          "name": "ElijahVlasov",
-          "url": "https://github.com/ElijahVlasov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/156920630?s=40&v=4",
-          "name": "katyhr",
-          "url": "https://github.com/katyhr"
-        }
-      ]
-    },
-    {
-      "title": "ethereum/EthLib",
-      "url": "https://github.com/ethereum/EthLib",
-      "description": "Formally verified Ethereum primitives, written in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "98",
-      "forks": "27",
-      "addStars": "1",
-      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/60488569?s=40&v=4",
-          "name": "tcoratger",
-          "url": "https://github.com/tcoratger"
+          "avatar": "https://avatars.githubusercontent.com/u/32422309?s=40&v=4",
+          "name": "niketp03",
+          "url": "https://github.com/niketp03"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29233688?s=40&v=4",
-          "name": "Giulio2002",
-          "url": "https://github.com/Giulio2002"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95511699?s=40&v=4",
-          "name": "jtraglia",
-          "url": "https://github.com/jtraglia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41830259?s=40&v=4",
-          "name": "Th0rgal",
-          "url": "https://github.com/Th0rgal"
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
         }
       ]
     }
