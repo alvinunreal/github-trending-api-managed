@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Sat, 14 Nov 2026 07:18:16 GMT</pubDate>
+    <pubDate>Sat, 14 Nov 2026 13:18:15 GMT</pubDate>
     <item>
       <title>firemodels/fds</title>
       <link>https://github.com/firemodels/fds</link>
@@ -88,7 +88,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>409</stars>
-      <forks>792</forks>
+      <forks>793</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -115,6 +115,44 @@
           <avatar>https://avatars.githubusercontent.com/u/145258?s=40&amp;v=4</avatar>
           <name>vchuravy</name>
           <url>https://github.com/vchuravy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MPAS-Dev/MPAS-Model</title>
+      <link>https://github.com/MPAS-Dev/MPAS-Model</link>
+      <description>Repository for MPAS models and shared framework releases.</description>
+      <guid>https://github.com/MPAS-Dev/MPAS-Model</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>323</stars>
+      <forks>439</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3979544?s=40&amp;v=4</avatar>
+          <name>mgduda</name>
+          <url>https://github.com/mgduda</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/334984?s=40&amp;v=4</avatar>
+          <name>douglasjacobsen</name>
+          <url>https://github.com/douglasjacobsen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4036816?s=40&amp;v=4</avatar>
+          <name>mark-petersen</name>
+          <url>https://github.com/mark-petersen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4182034?s=40&amp;v=4</avatar>
+          <name>matthewhoffman</name>
+          <url>https://github.com/matthewhoffman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4108894?s=40&amp;v=4</avatar>
+          <name>ldfowler58</name>
+          <url>https://github.com/ldfowler58</url>
         </contributor>
       </contributors>
     </item>
@@ -233,44 +271,6 @@
       </contributors>
     </item>
     <item>
-      <title>wrf-model/WRF</title>
-      <link>https://github.com/wrf-model/WRF</link>
-      <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
-      <guid>https://github.com/wrf-model/WRF</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>1,805</stars>
-      <forks>901</forks>
-      <addStars>30</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12666234?s=40&amp;v=4</avatar>
-          <name>davegill</name>
-          <url>https://github.com/davegill</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12705680?s=40&amp;v=4</avatar>
-          <name>weiwangncar</name>
-          <url>https://github.com/weiwangncar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17932284?s=40&amp;v=4</avatar>
-          <name>dudhia</name>
-          <url>https://github.com/dudhia</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12705538?s=40&amp;v=4</avatar>
-          <name>mkavulich</name>
-          <url>https://github.com/mkavulich</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17932506?s=40&amp;v=4</avatar>
-          <name>jamiebresch</name>
-          <url>https://github.com/jamiebresch</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>nasa/cea</title>
       <link>https://github.com/nasa/cea</link>
       <description>CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product concentrations to determine thermodynamic and transport properties. It includes a large database of species with thermodynamic curve-fit data, and can be used for rocket performance, detonation parameters, and shock-wave analysis.</description>
@@ -305,6 +305,44 @@
           <avatar>https://avatars.githubusercontent.com/u/89459804?s=40&amp;v=4</avatar>
           <name>btmy87</name>
           <url>https://github.com/btmy87</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>wrf-model/WRF</title>
+      <link>https://github.com/wrf-model/WRF</link>
+      <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
+      <guid>https://github.com/wrf-model/WRF</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>1,805</stars>
+      <forks>902</forks>
+      <addStars>30</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12666234?s=40&amp;v=4</avatar>
+          <name>davegill</name>
+          <url>https://github.com/davegill</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12705680?s=40&amp;v=4</avatar>
+          <name>weiwangncar</name>
+          <url>https://github.com/weiwangncar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17932284?s=40&amp;v=4</avatar>
+          <name>dudhia</name>
+          <url>https://github.com/dudhia</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12705538?s=40&amp;v=4</avatar>
+          <name>mkavulich</name>
+          <url>https://github.com/mkavulich</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17932506?s=40&amp;v=4</avatar>
+          <name>jamiebresch</name>
+          <url>https://github.com/jamiebresch</url>
         </contributor>
       </contributors>
     </item>

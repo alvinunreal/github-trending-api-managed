@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Weekly Trending",
   "description": "Weekly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 07:18:16 GMT",
+  "pubDate": "Sat, 14 Nov 2026 13:18:15 GMT",
   "items": [
     {
       "title": "blockscout/blockscout",
@@ -74,6 +74,38 @@
       ]
     },
     {
+      "title": "plausible/analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "29,844",
+      "forks": "1,938",
+      "addStars": "66",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
+          "name": "ukutaht",
+          "url": "https://github.com/ukutaht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
+          "name": "aerosol",
+          "url": "https://github.com/aerosol"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
+          "name": "zoldar",
+          "url": "https://github.com/zoldar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
+          "name": "RobertJoonas",
+          "url": "https://github.com/RobertJoonas"
+        }
+      ]
+    },
+    {
       "title": "elixir-lsp/elixir-ls",
       "url": "https://github.com/elixir-lsp/elixir-ls",
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
@@ -107,43 +139,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/55809?s=40&v=4",
           "name": "scohen",
           "url": "https://github.com/scohen"
-        }
-      ]
-    },
-    {
-      "title": "supabase/realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "7,683",
-      "forks": "486",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1172600?s=40&v=4",
-          "name": "abc3",
-          "url": "https://github.com/abc3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1697301?s=40&v=4",
-          "name": "filipecabaco",
-          "url": "https://github.com/filipecabaco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5532241?s=40&v=4",
-          "name": "w3b6x9",
-          "url": "https://github.com/w3b6x9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1019814?s=40&v=4",
-          "name": "chasers",
-          "url": "https://github.com/chasers"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30873?s=40&v=4",
-          "name": "edgurgel",
-          "url": "https://github.com/edgurgel"
         }
       ]
     },
@@ -190,7 +185,7 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "9,263",
+      "stars": "9,265",
       "forks": "1,039",
       "addStars": "31",
       "contributors": [
@@ -213,38 +208,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "plausible/analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "29,845",
-      "forks": "1,939",
-      "addStars": "66",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
-          "name": "ukutaht",
-          "url": "https://github.com/ukutaht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
-          "name": "aerosol",
-          "url": "https://github.com/aerosol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
-          "name": "zoldar",
-          "url": "https://github.com/zoldar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
-          "name": "RobertJoonas",
-          "url": "https://github.com/RobertJoonas"
         }
       ]
     },
@@ -309,6 +272,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1877644?s=40&v=4",
           "name": "AndrewDryga",
           "url": "https://github.com/AndrewDryga"
+        }
+      ]
+    },
+    {
+      "title": "supabase/realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "7,683",
+      "forks": "486",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1172600?s=40&v=4",
+          "name": "abc3",
+          "url": "https://github.com/abc3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1697301?s=40&v=4",
+          "name": "filipecabaco",
+          "url": "https://github.com/filipecabaco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5532241?s=40&v=4",
+          "name": "w3b6x9",
+          "url": "https://github.com/w3b6x9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1019814?s=40&v=4",
+          "name": "chasers",
+          "url": "https://github.com/chasers"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30873?s=40&v=4",
+          "name": "edgurgel",
+          "url": "https://github.com/edgurgel"
         }
       ]
     }
