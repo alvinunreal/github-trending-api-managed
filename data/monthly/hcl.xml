@@ -3,7 +3,45 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Sun, 15 Nov 2026 07:18:16 GMT</pubDate>
+    <pubDate>Sun, 15 Nov 2026 13:18:13 GMT</pubDate>
+    <item>
+      <title>semgrep/semgrep-rules</title>
+      <link>https://github.com/semgrep/semgrep-rules</link>
+      <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+      <guid>https://github.com/semgrep/semgrep-rules</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>1,298</stars>
+      <forks>624</forks>
+      <addStars>28</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2419690?s=40&amp;v=4</avatar>
+          <name>LewisArdern</name>
+          <url>https://github.com/LewisArdern</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2299241?s=40&amp;v=4</avatar>
+          <name>inkz</name>
+          <url>https://github.com/inkz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23181670?s=40&amp;v=4</avatar>
+          <name>colleend</name>
+          <url>https://github.com/colleend</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/98792107?s=40&amp;v=4</avatar>
+          <name>kurt-r2c</name>
+          <url>https://github.com/kurt-r2c</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3809983?s=40&amp;v=4</avatar>
+          <name>0xDC0DE</name>
+          <url>https://github.com/0xDC0DE</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>terraform-aws-modules/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -114,44 +152,6 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-      <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>590</stars>
-      <forks>3,803</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
-          <name>magreenbaum</name>
-          <url>https://github.com/magreenbaum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
-          <name>betajobot</name>
-          <url>https://github.com/betajobot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>terraform-aws-modules/terraform-aws-vpc</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
       <description>Terraform module to create AWS VPC resources 🇺🇦</description>
@@ -228,6 +228,44 @@
       </contributors>
     </item>
     <item>
+      <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+      <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>590</stars>
+      <forks>3,803</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
+          <name>antonbabenko</name>
+          <url>https://github.com/antonbabenko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
+          <name>semantic-release-bot</name>
+          <url>https://github.com/semantic-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
+          <name>bryantbiggs</name>
+          <url>https://github.com/bryantbiggs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
+          <name>magreenbaum</name>
+          <url>https://github.com/magreenbaum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
+          <name>betajobot</name>
+          <url>https://github.com/betajobot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>terraform-aws-modules/terraform-aws-rds-aurora</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</link>
       <description>Terraform module to create AWS RDS Aurora resources 🇺🇦</description>
@@ -300,44 +338,6 @@
           <avatar>https://avatars.githubusercontent.com/u/318490?s=40&amp;v=4</avatar>
           <name>pdecat</name>
           <url>https://github.com/pdecat</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>semgrep/semgrep-rules</title>
-      <link>https://github.com/semgrep/semgrep-rules</link>
-      <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-      <guid>https://github.com/semgrep/semgrep-rules</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>1,298</stars>
-      <forks>623</forks>
-      <addStars>28</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2419690?s=40&amp;v=4</avatar>
-          <name>LewisArdern</name>
-          <url>https://github.com/LewisArdern</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2299241?s=40&amp;v=4</avatar>
-          <name>inkz</name>
-          <url>https://github.com/inkz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23181670?s=40&amp;v=4</avatar>
-          <name>colleend</name>
-          <url>https://github.com/colleend</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/98792107?s=40&amp;v=4</avatar>
-          <name>kurt-r2c</name>
-          <url>https://github.com/kurt-r2c</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3809983?s=40&amp;v=4</avatar>
-          <name>0xDC0DE</name>
-          <url>https://github.com/0xDC0DE</url>
         </contributor>
       </contributors>
     </item>
@@ -451,39 +451,6 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-google-modules/terraform-google-iam</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
-      <description>Manages multiple IAM roles for resources on Google Cloud</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-iam</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>244</stars>
-      <forks>191</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
-          <name>cloud-foundation-bot</name>
-          <url>https://github.com/cloud-foundation-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/667688?s=40&amp;v=4</avatar>
-          <name>cray0000</name>
-          <url>https://github.com/cray0000</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>terraform-google-modules/terraform-google-network</title>
       <link>https://github.com/terraform-google-modules/terraform-google-network</link>
       <description>Sets up a new VPC network on Google Cloud</description>
@@ -512,15 +479,15 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-google-modules/terraform-google-service-accounts</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
-      <description>Creates one or more service accounts and grants them basic roles</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-service-accounts</guid>
+      <title>terraform-google-modules/terraform-google-iam</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
+      <description>Manages multiple IAM roles for resources on Google Cloud</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-iam</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>157</stars>
-      <forks>119</forks>
-      <addStars>1</addStars>
+      <stars>244</stars>
+      <forks>191</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
@@ -528,9 +495,14 @@
           <url>https://github.com/cloud-foundation-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66007?s=40&amp;v=4</avatar>
-          <name>ludoo</name>
-          <url>https://github.com/ludoo</url>
+          <avatar>https://avatars.githubusercontent.com/u/667688?s=40&amp;v=4</avatar>
+          <name>cray0000</name>
+          <url>https://github.com/cray0000</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>

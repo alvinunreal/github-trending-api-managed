@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 07:18:16 GMT",
+  "pubDate": "Sun, 15 Nov 2026 13:18:13 GMT",
   "items": [
     {
       "title": "JustVugg/colibri",
@@ -10,8 +10,8 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "51,188",
-      "forks": "6,150",
+      "stars": "51,246",
+      "forks": "6,188",
       "addStars": "2,461",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,097",
-      "forks": "1,869",
+      "stars": "12,109",
+      "forks": "1,872",
       "addStars": "924",
       "contributors": [
         {
@@ -79,50 +79,13 @@
       ]
     },
     {
-      "title": "ventoy/Ventoy",
-      "url": "https://github.com/ventoy/Ventoy",
-      "description": "A new bootable USB solution.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "80,907",
-      "forks": "5,097",
-      "addStars": "298",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59477474?s=40&v=4",
-          "name": "ventoy",
-          "url": "https://github.com/ventoy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67432394?s=40&v=4",
-          "name": "wiz64",
-          "url": "https://github.com/wiz64"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53147200?s=40&v=4",
-          "name": "VenusGirl",
-          "url": "https://github.com/VenusGirl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54566818?s=40&v=4",
-          "name": "crasadure",
-          "url": "https://github.com/crasadure"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31486344?s=40&v=4",
-          "name": "AnomSanjaya",
-          "url": "https://github.com/AnomSanjaya"
-        }
-      ]
-    },
-    {
       "title": "DarkFlippers/unleashed-firmware",
       "url": "https://github.com/DarkFlippers/unleashed-firmware",
       "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "22,743",
-      "forks": "1,987",
+      "stars": "22,744",
+      "forks": "1,988",
       "addStars": "78",
       "contributors": [
         {
@@ -153,12 +116,86 @@
       ]
     },
     {
+      "title": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "80,910",
+      "forks": "5,098",
+      "addStars": "298",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59477474?s=40&v=4",
+          "name": "ventoy",
+          "url": "https://github.com/ventoy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67432394?s=40&v=4",
+          "name": "wiz64",
+          "url": "https://github.com/wiz64"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53147200?s=40&v=4",
+          "name": "VenusGirl",
+          "url": "https://github.com/VenusGirl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54566818?s=40&v=4",
+          "name": "crasadure",
+          "url": "https://github.com/crasadure"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31486344?s=40&v=4",
+          "name": "AnomSanjaya",
+          "url": "https://github.com/AnomSanjaya"
+        }
+      ]
+    },
+    {
+      "title": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "154,878",
+      "forks": "14,223",
+      "addStars": "625",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/543275?s=40&v=4",
+          "name": "rom1v",
+          "url": "https://github.com/rom1v"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1330321?s=40&v=4",
+          "name": "yume-chan",
+          "url": "https://github.com/yume-chan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5494432?s=40&v=4",
+          "name": "npes87184",
+          "url": "https://github.com/npes87184"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/639467?s=40&v=4",
+          "name": "brunoais",
+          "url": "https://github.com/brunoais"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2694559?s=40&v=4",
+          "name": "rootkea",
+          "url": "https://github.com/rootkea"
+        }
+      ]
+    },
+    {
       "title": "redis/redis",
       "url": "https://github.com/redis/redis",
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "77,525",
+      "stars": "77,520",
       "forks": "25,060",
       "addStars": "257",
       "contributors": [
@@ -190,39 +227,39 @@
       ]
     },
     {
-      "title": "Genymobile/scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
+      "title": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "154,856",
-      "forks": "14,221",
-      "addStars": "625",
+      "stars": "35,034",
+      "forks": "8,126",
+      "addStars": "73",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/543275?s=40&v=4",
-          "name": "rom1v",
-          "url": "https://github.com/rom1v"
+          "avatar": "https://avatars.githubusercontent.com/u/7525026?s=40&v=4",
+          "name": "nothings",
+          "url": "https://github.com/nothings"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1330321?s=40&v=4",
-          "name": "yume-chan",
-          "url": "https://github.com/yume-chan"
+          "avatar": "https://avatars.githubusercontent.com/u/1077496?s=40&v=4",
+          "name": "rygorous",
+          "url": "https://github.com/rygorous"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5494432?s=40&v=4",
-          "name": "npes87184",
-          "url": "https://github.com/npes87184"
+          "avatar": "https://avatars.githubusercontent.com/u/815310?s=40&v=4",
+          "name": "BSVino",
+          "url": "https://github.com/BSVino"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/639467?s=40&v=4",
-          "name": "brunoais",
-          "url": "https://github.com/brunoais"
+          "avatar": "https://avatars.githubusercontent.com/u/8225057?s=40&v=4",
+          "name": "ocornut",
+          "url": "https://github.com/ocornut"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2694559?s=40&v=4",
-          "name": "rootkea",
-          "url": "https://github.com/rootkea"
+          "avatar": "https://avatars.githubusercontent.com/u/7214365?s=40&v=4",
+          "name": "rwhitworth",
+          "url": "https://github.com/rwhitworth"
         }
       ]
     },
@@ -232,8 +269,8 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "79,596",
-      "forks": "11,266",
+      "stars": "79,601",
+      "forks": "11,264",
       "addStars": "467",
       "contributors": [
         {
@@ -264,39 +301,39 @@
       ]
     },
     {
-      "title": "nothings/stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
+      "title": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,032",
-      "forks": "8,125",
-      "addStars": "73",
+      "stars": "64,324",
+      "forks": "28,765",
+      "addStars": "166",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7525026?s=40&v=4",
-          "name": "nothings",
-          "url": "https://github.com/nothings"
+          "avatar": "https://avatars.githubusercontent.com/u/54884?s=40&v=4",
+          "name": "gitster",
+          "url": "https://github.com/gitster"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1077496?s=40&v=4",
-          "name": "rygorous",
-          "url": "https://github.com/rygorous"
+          "avatar": "https://avatars.githubusercontent.com/u/45925?s=40&v=4",
+          "name": "peff",
+          "url": "https://github.com/peff"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/815310?s=40&v=4",
-          "name": "BSVino",
-          "url": "https://github.com/BSVino"
+          "avatar": "https://avatars.githubusercontent.com/u/127790?s=40&v=4",
+          "name": "dscho",
+          "url": "https://github.com/dscho"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8225057?s=40&v=4",
-          "name": "ocornut",
-          "url": "https://github.com/ocornut"
+          "avatar": "https://avatars.githubusercontent.com/u/4056630?s=40&v=4",
+          "name": "pks-t",
+          "url": "https://github.com/pks-t"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7214365?s=40&v=4",
-          "name": "rwhitworth",
-          "url": "https://github.com/rwhitworth"
+          "avatar": "https://avatars.githubusercontent.com/u/45301?s=40&v=4",
+          "name": "avar",
+          "url": "https://github.com/avar"
         }
       ]
     }
