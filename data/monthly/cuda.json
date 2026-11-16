@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 16 Nov 2026 07:18:17 GMT",
+  "pubDate": "Mon, 16 Nov 2026 13:18:18 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -10,8 +10,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,934",
-      "forks": "1,761",
+      "stars": "6,936",
+      "forks": "1,762",
       "addStars": "320",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,487",
+      "stars": "31,490",
       "forks": "3,826",
       "addStars": "364",
       "contributors": [
@@ -159,7 +159,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "9,199",
-      "forks": "1,533",
+      "forks": "1,534",
       "addStars": "256",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "897",
+      "stars": "898",
       "forks": "266",
       "addStars": "29",
       "contributors": [
@@ -223,28 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
           "name": "achirkin",
           "url": "https://github.com/achirkin"
-        }
-      ]
-    },
-    {
-      "title": "deepseek-ai/DeepSelect",
-      "url": "https://github.com/deepseek-ai/DeepSelect",
-      "description": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "548",
-      "forks": "77",
-      "addStars": "59",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30743214?s=40&v=4",
-          "name": "interestingLSY",
-          "url": "https://github.com/interestingLSY"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36212773?s=40&v=4",
-          "name": "skip2004",
-          "url": "https://github.com/skip2004"
         }
       ]
     },
@@ -286,6 +264,28 @@
       ]
     },
     {
+      "title": "deepseek-ai/DeepSelect",
+      "url": "https://github.com/deepseek-ai/DeepSelect",
+      "description": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "548",
+      "forks": "77",
+      "addStars": "59",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30743214?s=40&v=4",
+          "name": "interestingLSY",
+          "url": "https://github.com/interestingLSY"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36212773?s=40&v=4",
+          "name": "skip2004",
+          "url": "https://github.com/skip2004"
+        }
+      ]
+    },
+    {
       "title": "thu-ml/SageAttention",
       "url": "https://github.com/thu-ml/SageAttention",
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
@@ -319,6 +319,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
           "name": "guilhermeleobas",
           "url": "https://github.com/guilhermeleobas"
+        }
+      ]
+    },
+    {
+      "title": "mirage-project/mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "2,618",
+      "forks": "277",
+      "addStars": "66",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
+          "name": "jiazhihao",
+          "url": "https://github.com/jiazhihao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82456363?s=40&v=4",
+          "name": "yzhou442",
+          "url": "https://github.com/yzhou442"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99570243?s=40&v=4",
+          "name": "xinhaoc",
+          "url": "https://github.com/xinhaoc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48128384?s=40&v=4",
+          "name": "wmdi",
+          "url": "https://github.com/wmdi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145248565?s=40&v=4",
+          "name": "undefined-c0der",
+          "url": "https://github.com/undefined-c0der"
         }
       ]
     }

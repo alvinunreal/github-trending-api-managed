@@ -2,47 +2,15 @@
   "title": "GitHub Elixir Languages Weekly Trending",
   "description": "Weekly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 16 Nov 2026 07:18:17 GMT",
+  "pubDate": "Mon, 16 Nov 2026 13:18:18 GMT",
   "items": [
-    {
-      "title": "blockscout/blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "4,786",
-      "forks": "3,225",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4341812?s=40&v=4",
-          "name": "vbaranov",
-          "url": "https://github.com/vbaranov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6567687?s=40&v=4",
-          "name": "ayrat555",
-          "url": "https://github.com/ayrat555"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32202610?s=40&v=4",
-          "name": "nikitosing",
-          "url": "https://github.com/nikitosing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/298259?s=40&v=4",
-          "name": "KronicDeth",
-          "url": "https://github.com/KronicDeth"
-        }
-      ]
-    },
     {
       "title": "supabase/realtime",
       "url": "https://github.com/supabase/realtime",
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "7,685",
+      "stars": "7,686",
       "forks": "486",
       "addStars": "7",
       "contributors": [
@@ -111,6 +79,70 @@
       ]
     },
     {
+      "title": "blockscout/blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "4,786",
+      "forks": "3,225",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4341812?s=40&v=4",
+          "name": "vbaranov",
+          "url": "https://github.com/vbaranov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6567687?s=40&v=4",
+          "name": "ayrat555",
+          "url": "https://github.com/ayrat555"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32202610?s=40&v=4",
+          "name": "nikitosing",
+          "url": "https://github.com/nikitosing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/298259?s=40&v=4",
+          "name": "KronicDeth",
+          "url": "https://github.com/KronicDeth"
+        }
+      ]
+    },
+    {
+      "title": "plausible/analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "29,865",
+      "forks": "1,939",
+      "addStars": "60",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
+          "name": "ukutaht",
+          "url": "https://github.com/ukutaht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
+          "name": "aerosol",
+          "url": "https://github.com/aerosol"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
+          "name": "zoldar",
+          "url": "https://github.com/zoldar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
+          "name": "RobertJoonas",
+          "url": "https://github.com/RobertJoonas"
+        }
+      ]
+    },
+    {
       "title": "elixir-lsp/elixir-ls",
       "url": "https://github.com/elixir-lsp/elixir-ls",
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
@@ -144,70 +176,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/55809?s=40&v=4",
           "name": "scohen",
           "url": "https://github.com/scohen"
-        }
-      ]
-    },
-    {
-      "title": "plausible/analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "29,857",
-      "forks": "1,939",
-      "addStars": "60",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
-          "name": "ukutaht",
-          "url": "https://github.com/ukutaht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
-          "name": "aerosol",
-          "url": "https://github.com/aerosol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
-          "name": "zoldar",
-          "url": "https://github.com/zoldar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
-          "name": "RobertJoonas",
-          "url": "https://github.com/RobertJoonas"
-        }
-      ]
-    },
-    {
-      "title": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "9,274",
-      "forks": "1,043",
-      "addStars": "35",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
-          "name": "adriankumpf",
-          "url": "https://github.com/adriankumpf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
-          "name": "JakobLichterfeld",
-          "url": "https://github.com/JakobLichterfeld"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
-          "name": "swiffer",
-          "url": "https://github.com/swiffer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     },
@@ -249,6 +217,38 @@
       ]
     },
     {
+      "title": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "9,275",
+      "forks": "1,043",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
+          "name": "adriankumpf",
+          "url": "https://github.com/adriankumpf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
+          "name": "JakobLichterfeld",
+          "url": "https://github.com/JakobLichterfeld"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
+          "name": "swiffer",
+          "url": "https://github.com/swiffer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "firezone/firezone",
       "url": "https://github.com/firezone/firezone",
       "description": "Blazing-fast remote access",
@@ -286,7 +286,7 @@
       "description": "A declarative, extensible framework for building Elixir applications.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "2,565",
+      "stars": "2,567",
       "forks": "470",
       "addStars": "12",
       "contributors": [

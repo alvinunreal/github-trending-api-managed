@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Mon, 16 Nov 2026 07:18:17 GMT</pubDate>
+    <pubDate>Mon, 16 Nov 2026 13:18:18 GMT</pubDate>
     <item>
       <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
       <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
@@ -164,7 +164,45 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>590</stars>
-      <forks>3,803</forks>
+      <forks>3,802</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
+          <name>antonbabenko</name>
+          <url>https://github.com/antonbabenko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
+          <name>semantic-release-bot</name>
+          <url>https://github.com/semantic-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
+          <name>bryantbiggs</name>
+          <url>https://github.com/bryantbiggs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
+          <name>magreenbaum</name>
+          <url>https://github.com/magreenbaum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
+          <name>betajobot</name>
+          <url>https://github.com/betajobot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-aws-modules/terraform-aws-rds-aurora</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</link>
+      <description>Terraform module to create AWS RDS Aurora resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>421</stars>
+      <forks>609</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -229,44 +267,6 @@
           <avatar>https://avatars.githubusercontent.com/u/318490?s=40&amp;v=4</avatar>
           <name>pdecat</name>
           <url>https://github.com/pdecat</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>terraform-aws-modules/terraform-aws-rds-aurora</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</link>
-      <description>Terraform module to create AWS RDS Aurora resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>421</stars>
-      <forks>609</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
-          <name>magreenbaum</name>
-          <url>https://github.com/magreenbaum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
-          <name>betajobot</name>
-          <url>https://github.com/betajobot</url>
         </contributor>
       </contributors>
     </item>
@@ -431,6 +431,72 @@
       </contributors>
     </item>
     <item>
+      <title>terraform-aws-modules/terraform-aws-dynamodb-table</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
+      <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>117</stars>
+      <forks>205</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
+          <name>antonbabenko</name>
+          <url>https://github.com/antonbabenko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
+          <name>semantic-release-bot</name>
+          <url>https://github.com/semantic-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
+          <name>bryantbiggs</name>
+          <url>https://github.com/bryantbiggs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
+          <name>betajobot</name>
+          <url>https://github.com/betajobot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
+          <name>magreenbaum</name>
+          <url>https://github.com/magreenbaum</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-google-modules/terraform-google-sql-db</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-sql-db</link>
+      <description>Creates a Cloud SQL database instance</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-sql-db</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>298</stars>
+      <forks>489</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29933900?s=40&amp;v=4</avatar>
+          <name>imrannayer</name>
+          <url>https://github.com/imrannayer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/309329?s=40&amp;v=4</avatar>
+          <name>namusyaka</name>
+          <url>https://github.com/namusyaka</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>terraform-google-modules/terraform-google-cloud-storage</title>
       <link>https://github.com/terraform-google-modules/terraform-google-cloud-storage</link>
       <description>Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users</description>
@@ -455,39 +521,6 @@
           <avatar>https://avatars.githubusercontent.com/u/10992720?s=40&amp;v=4</avatar>
           <name>bharathkkb</name>
           <url>https://github.com/bharathkkb</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
-      <description>Configures opinionated GKE clusters</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>1,286</stars>
-      <forks>1,296</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14035345?s=40&amp;v=4</avatar>
-          <name>apeabody</name>
-          <url>https://github.com/apeabody</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10992720?s=40&amp;v=4</avatar>
-          <name>bharathkkb</name>
-          <url>https://github.com/bharathkkb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
         </contributor>
       </contributors>
     </item>

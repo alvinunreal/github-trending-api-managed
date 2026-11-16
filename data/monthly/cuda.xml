@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Mon, 16 Nov 2026 07:18:17 GMT</pubDate>
+    <pubDate>Mon, 16 Nov 2026 13:18:18 GMT</pubDate>
     <item>
       <title>flashinfer-ai/flashinfer</title>
       <link>https://github.com/flashinfer-ai/flashinfer</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/flashinfer-ai/flashinfer</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>6,934</stars>
-      <forks>1,761</forks>
+      <stars>6,936</stars>
+      <forks>1,762</forks>
       <addStars>320</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>31,487</stars>
+      <stars>31,490</stars>
       <forks>3,826</forks>
       <addStars>364</addStars>
       <contributors>
@@ -164,7 +164,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>9,199</stars>
-      <forks>1,533</forks>
+      <forks>1,534</forks>
       <addStars>256</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/NVIDIA/cuvs</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>897</stars>
+      <stars>898</stars>
       <forks>266</forks>
       <addStars>29</addStars>
       <contributors>
@@ -229,29 +229,6 @@
           <avatar>https://avatars.githubusercontent.com/u/9253178?s=40&amp;v=4</avatar>
           <name>achirkin</name>
           <url>https://github.com/achirkin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>deepseek-ai/DeepSelect</title>
-      <link>https://github.com/deepseek-ai/DeepSelect</link>
-      <description>DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers</description>
-      <guid>https://github.com/deepseek-ai/DeepSelect</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>548</stars>
-      <forks>77</forks>
-      <addStars>59</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30743214?s=40&amp;v=4</avatar>
-          <name>interestingLSY</name>
-          <url>https://github.com/interestingLSY</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36212773?s=40&amp;v=4</avatar>
-          <name>skip2004</name>
-          <url>https://github.com/skip2004</url>
         </contributor>
       </contributors>
     </item>
@@ -294,6 +271,29 @@
       </contributors>
     </item>
     <item>
+      <title>deepseek-ai/DeepSelect</title>
+      <link>https://github.com/deepseek-ai/DeepSelect</link>
+      <description>DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers</description>
+      <guid>https://github.com/deepseek-ai/DeepSelect</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>548</stars>
+      <forks>77</forks>
+      <addStars>59</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30743214?s=40&amp;v=4</avatar>
+          <name>interestingLSY</name>
+          <url>https://github.com/interestingLSY</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36212773?s=40&amp;v=4</avatar>
+          <name>skip2004</name>
+          <url>https://github.com/skip2004</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>thu-ml/SageAttention</title>
       <link>https://github.com/thu-ml/SageAttention</link>
       <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
@@ -328,6 +328,44 @@
           <avatar>https://avatars.githubusercontent.com/u/2712115?s=40&amp;v=4</avatar>
           <name>guilhermeleobas</name>
           <url>https://github.com/guilhermeleobas</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mirage-project/mirage</title>
+      <link>https://github.com/mirage-project/mirage</link>
+      <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+      <guid>https://github.com/mirage-project/mirage</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>2,618</stars>
+      <forks>277</forks>
+      <addStars>66</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1669058?s=40&amp;v=4</avatar>
+          <name>jiazhihao</name>
+          <url>https://github.com/jiazhihao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82456363?s=40&amp;v=4</avatar>
+          <name>yzhou442</name>
+          <url>https://github.com/yzhou442</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99570243?s=40&amp;v=4</avatar>
+          <name>xinhaoc</name>
+          <url>https://github.com/xinhaoc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48128384?s=40&amp;v=4</avatar>
+          <name>wmdi</name>
+          <url>https://github.com/wmdi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/145248565?s=40&amp;v=4</avatar>
+          <name>undefined-c0der</name>
+          <url>https://github.com/undefined-c0der</url>
         </contributor>
       </contributors>
     </item>
