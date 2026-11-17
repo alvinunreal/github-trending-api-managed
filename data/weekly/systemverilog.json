@@ -2,8 +2,45 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 07:18:22 GMT",
+  "pubDate": "Tue, 17 Nov 2026 13:18:38 GMT",
   "items": [
+    {
+      "title": "lowRISC/opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "3,766",
+      "forks": "1,168",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
+          "name": "rswarbrick",
+          "url": "https://github.com/rswarbrick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
+          "name": "cindychip",
+          "url": "https://github.com/cindychip"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
+          "name": "timothytrippel",
+          "url": "https://github.com/timothytrippel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
+          "name": "vogelpi",
+          "url": "https://github.com/vogelpi"
+        }
+      ]
+    },
     {
       "title": "verilator/verilator",
       "url": "https://github.com/verilator/verilator",
@@ -47,7 +84,7 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "13,266",
+      "stars": "13,268",
       "forks": "1,282",
       "addStars": "53",
       "contributors": [
@@ -70,43 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
           "name": "xianbaoqian",
           "url": "https://github.com/xianbaoqian"
-        }
-      ]
-    },
-    {
-      "title": "lowRISC/opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "3,765",
-      "forks": "1,167",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
-          "name": "rswarbrick",
-          "url": "https://github.com/rswarbrick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
-          "name": "cindychip",
-          "url": "https://github.com/cindychip"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
-          "name": "timothytrippel",
-          "url": "https://github.com/timothytrippel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
-          "name": "vogelpi",
-          "url": "https://github.com/vogelpi"
         }
       ]
     },
@@ -148,12 +148,49 @@
       ]
     },
     {
+      "title": "chipsalliance/caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "56",
+      "forks": "67",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
+          "name": "calebofearth",
+          "url": "https://github.com/calebofearth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
+          "name": "ekarabu",
+          "url": "https://github.com/ekarabu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7507042?s=40&v=4",
+          "name": "clayton8",
+          "url": "https://github.com/clayton8"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/142342517?s=40&v=4",
+          "name": "nileshbpat",
+          "url": "https://github.com/nileshbpat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
+          "name": "Nitsirks",
+          "url": "https://github.com/Nitsirks"
+        }
+      ]
+    },
+    {
       "title": "openhwfoundation/cvw",
       "url": "https://github.com/openhwfoundation/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "668",
+      "stars": "667",
       "forks": "598",
       "addStars": "6",
       "contributors": [

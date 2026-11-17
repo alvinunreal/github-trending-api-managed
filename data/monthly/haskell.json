@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Monthly Trending",
   "description": "Monthly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 07:18:22 GMT",
+  "pubDate": "Tue, 17 Nov 2026 13:18:38 GMT",
   "items": [
     {
       "title": "koalaman/shellcheck",
@@ -148,6 +148,38 @@
       ]
     },
     {
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "12,540",
+      "forks": "515",
+      "addStars": "67",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
+        }
+      ]
+    },
+    {
       "title": "haskell/haskell-language-server",
       "url": "https://github.com/haskell/haskell-language-server",
       "description": "Official Haskell IDE support via the language server protocol (LSP)",
@@ -180,44 +212,12 @@
       ]
     },
     {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "12,538",
-      "forks": "515",
-      "addStars": "67",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
-        }
-      ]
-    },
-    {
       "title": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "19,709",
+      "stars": "19,711",
       "forks": "1,321",
       "addStars": "215",
       "contributors": [
@@ -286,44 +286,12 @@
       ]
     },
     {
-      "title": "IntersectMBO/cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "3,174",
-      "forks": "762",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9418537?s=40&v=4",
-          "name": "Jimbo4350",
-          "url": "https://github.com/Jimbo4350"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63014?s=40&v=4",
-          "name": "newhoggy",
-          "url": "https://github.com/newhoggy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
-          "name": "dcoutts",
-          "url": "https://github.com/dcoutts"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
-          "name": "deepfire",
-          "url": "https://github.com/deepfire"
-        }
-      ]
-    },
-    {
       "title": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,952",
+      "stars": "46,953",
       "forks": "4,434",
       "addStars": "449",
       "contributors": [
@@ -351,6 +319,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/1216657?s=40&v=4",
           "name": "mpickering",
           "url": "https://github.com/mpickering"
+        }
+      ]
+    },
+    {
+      "title": "IntersectMBO/cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "3,175",
+      "forks": "762",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9418537?s=40&v=4",
+          "name": "Jimbo4350",
+          "url": "https://github.com/Jimbo4350"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63014?s=40&v=4",
+          "name": "newhoggy",
+          "url": "https://github.com/newhoggy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
+          "name": "dcoutts",
+          "url": "https://github.com/dcoutts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
+          "name": "deepfire",
+          "url": "https://github.com/deepfire"
         }
       ]
     }

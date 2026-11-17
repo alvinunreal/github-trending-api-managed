@@ -2,15 +2,52 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 07:18:22 GMT",
+  "pubDate": "Tue, 17 Nov 2026 13:18:38 GMT",
   "items": [
+    {
+      "title": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "6,948",
+      "forks": "1,766",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
+          "name": "yyihuang",
+          "url": "https://github.com/yyihuang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
+          "name": "averyhNV",
+          "url": "https://github.com/averyhNV"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
+          "name": "yzh119",
+          "url": "https://github.com/yzh119"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
+          "name": "bkryu",
+          "url": "https://github.com/bkryu"
+        }
+      ]
+    },
     {
       "title": "NVIDIA/cudnn-frontend",
       "url": "https://github.com/NVIDIA/cudnn-frontend",
       "description": "cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,003",
+      "stars": "1,004",
       "forks": "338",
       "addStars": "2",
       "contributors": [
@@ -38,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/192209249?s=40&v=4",
           "name": "0z5a",
           "url": "https://github.com/0z5a"
-        }
-      ]
-    },
-    {
-      "title": "NVIDIA/cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "1,117",
-      "forks": "261",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
-          "name": "ramakrishnap-nv",
-          "url": "https://github.com/ramakrishnap-nv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
-          "name": "GPUtester",
-          "url": "https://github.com/GPUtester"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/224634272?s=40&v=4",
-          "name": "nguidotti",
-          "url": "https://github.com/nguidotti"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1172537?s=40&v=4",
-          "name": "tmckayus",
-          "url": "https://github.com/tmckayus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/160623740?s=40&v=4",
-          "name": "aliceb-nv",
-          "url": "https://github.com/aliceb-nv"
         }
       ]
     },
@@ -121,7 +121,7 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,448",
+      "stars": "10,450",
       "forks": "1,562",
       "addStars": "0",
       "contributors": [
@@ -149,6 +149,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
           "name": "wangfakang",
           "url": "https://github.com/wangfakang"
+        }
+      ]
+    },
+    {
+      "title": "karpathy/llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "31,497",
+      "forks": "3,827",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
+          "name": "karpathy",
+          "url": "https://github.com/karpathy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
+          "name": "ngc92",
+          "url": "https://github.com/ngc92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
+          "name": "gordicaleksa",
+          "url": "https://github.com/gordicaleksa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
+          "name": "ademeure",
+          "url": "https://github.com/ademeure"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
+          "name": "rosslwheeler",
+          "url": "https://github.com/rosslwheeler"
         }
       ]
     },
@@ -190,76 +227,39 @@
       ]
     },
     {
-      "title": "flashinfer-ai/flashinfer",
-      "url": "https://github.com/flashinfer-ai/flashinfer",
-      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "title": "NVIDIA/cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,945",
-      "forks": "1,765",
-      "addStars": "9",
+      "stars": "1,118",
+      "forks": "261",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
-          "name": "yyihuang",
-          "url": "https://github.com/yyihuang"
+          "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
+          "name": "ramakrishnap-nv",
+          "url": "https://github.com/ramakrishnap-nv"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
-          "name": "averyhNV",
-          "url": "https://github.com/averyhNV"
+          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
+          "name": "GPUtester",
+          "url": "https://github.com/GPUtester"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/224634272?s=40&v=4",
+          "name": "nguidotti",
+          "url": "https://github.com/nguidotti"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
-          "name": "yzh119",
-          "url": "https://github.com/yzh119"
+          "avatar": "https://avatars.githubusercontent.com/u/1172537?s=40&v=4",
+          "name": "tmckayus",
+          "url": "https://github.com/tmckayus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
-          "name": "bkryu",
-          "url": "https://github.com/bkryu"
-        }
-      ]
-    },
-    {
-      "title": "karpathy/llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "31,495",
-      "forks": "3,826",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
-          "name": "karpathy",
-          "url": "https://github.com/karpathy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
-          "name": "ngc92",
-          "url": "https://github.com/ngc92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
-          "name": "gordicaleksa",
-          "url": "https://github.com/gordicaleksa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
-          "name": "ademeure",
-          "url": "https://github.com/ademeure"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
-          "name": "rosslwheeler",
-          "url": "https://github.com/rosslwheeler"
+          "avatar": "https://avatars.githubusercontent.com/u/160623740?s=40&v=4",
+          "name": "aliceb-nv",
+          "url": "https://github.com/aliceb-nv"
         }
       ]
     },
@@ -269,7 +269,7 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "4,012",
+      "stars": "4,013",
       "forks": "558",
       "addStars": "3",
       "contributors": [
@@ -301,34 +301,113 @@
       ]
     },
     {
-      "title": "NVIDIA/cuCollections",
-      "url": "https://github.com/NVIDIA/cuCollections",
-      "description": "",
+      "title": "NVIDIA/nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "677",
-      "forks": "124",
-      "addStars": "1",
+      "stars": "1,707",
+      "forks": "417",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12716979?s=40&v=4",
-          "name": "PointKernel",
-          "url": "https://github.com/PointKernel"
+          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
+          "name": "AddyLaddy",
+          "url": "https://github.com/AddyLaddy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15221289?s=40&v=4",
-          "name": "jrhemstad",
-          "url": "https://github.com/jrhemstad"
+          "avatar": "https://avatars.githubusercontent.com/u/24571836?s=40&v=4",
+          "name": "shanedsnyder",
+          "url": "https://github.com/shanedsnyder"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2955913?s=40&v=4",
-          "name": "sleeepyjack",
-          "url": "https://github.com/sleeepyjack"
+          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
+          "name": "sjeaugey",
+          "url": "https://github.com/sjeaugey"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/215756?s=40&v=4",
-          "name": "robertmaynard",
-          "url": "https://github.com/robertmaynard"
+          "avatar": "https://avatars.githubusercontent.com/u/29100714?s=40&v=4",
+          "name": "kgioioso",
+          "url": "https://github.com/kgioioso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24669680?s=40&v=4",
+          "name": "Bonjourz",
+          "url": "https://github.com/Bonjourz"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/nccl-extensions",
+      "url": "https://github.com/NVIDIA/nccl-extensions",
+      "description": "Communication patterns for AI, built on top of NCCL device and host APIs",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "82",
+      "forks": "30",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7534910?s=40&v=4",
+          "name": "artpol84",
+          "url": "https://github.com/artpol84"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35857453?s=40&v=4",
+          "name": "sb17v",
+          "url": "https://github.com/sb17v"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/215883944?s=40&v=4",
+          "name": "nv-lschneider",
+          "url": "https://github.com/nv-lschneider"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6676466?s=40&v=4",
+          "name": "kwen2501",
+          "url": "https://github.com/kwen2501"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36155692?s=40&v=4",
+          "name": "phu0ngng",
+          "url": "https://github.com/phu0ngng"
+        }
+      ]
+    },
+    {
+      "title": "HazyResearch/ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "3,803",
+      "forks": "349",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11230781?s=40&v=4",
+          "name": "benjaminfspector",
+          "url": "https://github.com/benjaminfspector"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31910389?s=40&v=4",
+          "name": "StuartSul",
+          "url": "https://github.com/StuartSul"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48185825?s=40&v=4",
+          "name": "Aaryan0404",
+          "url": "https://github.com/Aaryan0404"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42813008?s=40&v=4",
+          "name": "jordan-benjamin",
+          "url": "https://github.com/jordan-benjamin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29069240?s=40&v=4",
+          "name": "simran-arora",
+          "url": "https://github.com/simran-arora"
         }
       ]
     }
