@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Nov 2026 01:18:24 GMT",
+  "pubDate": "Wed, 18 Nov 2026 07:18:58 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "53,743",
-      "forks": "4,432",
+      "stars": "53,958",
+      "forks": "4,449",
       "addStars": "763",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,173",
-      "forks": "441",
+      "stars": "3,549",
+      "forks": "482",
       "addStars": "591",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,344",
-      "forks": "514",
+      "stars": "9,484",
+      "forks": "520",
       "addStars": "618",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "121,072",
-      "forks": "7,070",
+      "stars": "121,141",
+      "forks": "7,078",
       "addStars": "318",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "The Cloud Native Control Plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,249",
+      "stars": "12,251",
       "forks": "1,296",
       "addStars": "2",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "36,129",
-      "forks": "3,125",
+      "stars": "36,133",
+      "forks": "3,126",
       "addStars": "25",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,357",
-      "forks": "2,806",
+      "stars": "24,364",
+      "forks": "2,807",
       "addStars": "22",
       "contributors": [
         {
@@ -234,7 +234,7 @@
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,550",
+      "stars": "6,560",
       "forks": "622",
       "addStars": "71",
       "contributors": [
@@ -272,7 +272,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "2,465",
-      "forks": "654",
+      "forks": "656",
       "addStars": "16",
       "contributors": [
         {
@@ -308,8 +308,8 @@
       "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,102",
-      "forks": "12,723",
+      "stars": "52,124",
+      "forks": "12,727",
       "addStars": "79",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,493",
-      "forks": "625",
+      "stars": "2,502",
+      "forks": "630",
       "addStars": "29",
       "contributors": [
         {
@@ -382,7 +382,7 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,195",
+      "stars": "8,198",
       "forks": "1,431",
       "addStars": "27",
       "contributors": [
@@ -409,7 +409,7 @@
       "description": "ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,936",
+      "stars": "6,940",
       "forks": "1,757",
       "addStars": "16",
       "contributors": [
@@ -446,7 +446,7 @@
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "14,767",
+      "stars": "14,777",
       "forks": "796",
       "addStars": "24",
       "contributors": [
