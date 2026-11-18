@@ -2,16 +2,53 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Nov 2026 07:18:58 GMT",
+  "pubDate": "Wed, 18 Nov 2026 13:18:28 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules/terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "5,015",
+      "forks": "4,412",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
+          "name": "barryib",
+          "url": "https://github.com/barryib"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
+          "name": "brandonjbjelland",
+          "url": "https://github.com/brandonjbjelland"
+        }
+      ]
+    },
     {
       "title": "semgrep/semgrep-rules",
       "url": "https://github.com/semgrep/semgrep-rules",
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,303",
-      "forks": "626",
+      "stars": "1,304",
+      "forks": "625",
       "addStars": "28",
       "contributors": [
         {
@@ -254,33 +291,6 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "505",
-      "forks": "1,278",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
-        }
-      ]
-    },
-    {
       "title": "terraform-google-modules/terraform-google-iam",
       "url": "https://github.com/terraform-google-modules/terraform-google-iam",
       "description": "Manages multiple IAM roles for resources on Google Cloud",
@@ -313,39 +323,29 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "title": "terraform-google-modules/terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "117",
-      "forks": "205",
-      "addStars": "0",
+      "stars": "505",
+      "forks": "1,278",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Nov 2026 07:18:58 GMT",
+  "pubDate": "Wed, 18 Nov 2026 13:18:28 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,8 +10,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "52,466",
-      "forks": "3,669",
+      "stars": "52,541",
+      "forks": "3,673",
       "addStars": "3,429",
       "contributors": [
         {
@@ -37,13 +37,45 @@
       ]
     },
     {
+      "title": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "3,015",
+      "forks": "335",
+      "addStars": "956",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/176176572?s=40&v=4",
+          "name": "aaltshuler",
+          "url": "https://github.com/aaltshuler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6823991?s=40&v=4",
+          "name": "ragnorc",
+          "url": "https://github.com/ragnorc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13484327?s=40&v=4",
+          "name": "azimafroozeh",
+          "url": "https://github.com/azimafroozeh"
+        }
+      ]
+    },
+    {
       "title": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,565",
-      "forks": "4,958",
+      "stars": "37,569",
+      "forks": "4,960",
       "addStars": "759",
       "contributors": [
         {
@@ -74,45 +106,13 @@
       ]
     },
     {
-      "title": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "7,254",
-      "forks": "313",
-      "addStars": "627",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8947616?s=40&v=4",
-          "name": "pikaju",
-          "url": "https://github.com/pikaju"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31693992?s=40&v=4",
-          "name": "akoll",
-          "url": "https://github.com/akoll"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6180?s=40&v=4",
-          "name": "carllerche",
-          "url": "https://github.com/carllerche"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62555273?s=40&v=4",
-          "name": "AmeinEskinder",
-          "url": "https://github.com/AmeinEskinder"
-        }
-      ]
-    },
-    {
       "title": "zellij-org/zellij",
       "url": "https://github.com/zellij-org/zellij",
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,127",
-      "forks": "1,546",
+      "stars": "36,131",
+      "forks": "1,547",
       "addStars": "183",
       "contributors": [
         {
@@ -143,46 +143,51 @@
       ]
     },
     {
-      "title": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
+      "title": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,111",
-      "forks": "1,879",
-      "addStars": "3,817",
+      "stars": "7,259",
+      "forks": "312",
+      "addStars": "627",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-          "name": "lahfir",
-          "url": "https://github.com/lahfir"
+          "avatar": "https://avatars.githubusercontent.com/u/8947616?s=40&v=4",
+          "name": "pikaju",
+          "url": "https://github.com/pikaju"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-          "name": "ctate",
-          "url": "https://github.com/ctate"
+          "avatar": "https://avatars.githubusercontent.com/u/31693992?s=40&v=4",
+          "name": "akoll",
+          "url": "https://github.com/akoll"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6180?s=40&v=4",
+          "name": "carllerche",
+          "url": "https://github.com/carllerche"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62555273?s=40&v=4",
+          "name": "AmeinEskinder",
+          "url": "https://github.com/AmeinEskinder"
         }
       ]
     },
     {
-      "title": "ModernRelay/omnigraph",
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "description": "Object-storage native graph database with branching and typed ontology",
+      "title": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,994",
-      "forks": "334",
-      "addStars": "956",
+      "stars": "6,629",
+      "forks": "1,093",
+      "addStars": "1,468",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/176176572?s=40&v=4",
-          "name": "aaltshuler",
-          "url": "https://github.com/aaltshuler"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6823991?s=40&v=4",
-          "name": "ragnorc",
-          "url": "https://github.com/ragnorc"
+          "avatar": "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
+          "name": "martin-olivier",
+          "url": "https://github.com/martin-olivier"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -190,9 +195,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13484327?s=40&v=4",
-          "name": "azimafroozeh",
-          "url": "https://github.com/azimafroozeh"
+          "avatar": "https://avatars.githubusercontent.com/u/55240433?s=40&v=4",
+          "name": "m-bdf",
+          "url": "https://github.com/m-bdf"
         }
       ]
     },
@@ -202,7 +207,7 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,702",
+      "stars": "4,718",
       "forks": "473",
       "addStars": "888",
       "contributors": [
@@ -229,93 +234,71 @@
       ]
     },
     {
-      "title": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
+      "title": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,613",
-      "forks": "1,093",
-      "addStars": "1,468",
+      "stars": "51,288",
+      "forks": "2,756",
+      "addStars": "399",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
-          "name": "martin-olivier",
-          "url": "https://github.com/martin-olivier"
+          "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
+          "name": "charliermarsh",
+          "url": "https://github.com/charliermarsh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&v=4",
+          "name": "MichaReiser",
+          "url": "https://github.com/MichaReiser"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55240433?s=40&v=4",
-          "name": "m-bdf",
-          "url": "https://github.com/m-bdf"
+          "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&v=4",
+          "name": "AlexWaygood",
+          "url": "https://github.com/AlexWaygood"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&v=4",
+          "name": "sharkdp",
+          "url": "https://github.com/sharkdp"
         }
       ]
     },
     {
-      "title": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "title": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "129,971",
-      "forks": "20,859",
-      "addStars": "1,031",
+      "stars": "3,642",
+      "forks": "375",
+      "addStars": "135",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
-          "name": "rustdesk",
-          "url": "https://github.com/rustdesk"
+          "avatar": "https://avatars.githubusercontent.com/u/186739590?s=40&v=4",
+          "name": "elyasmnvidian",
+          "url": "https://github.com/elyasmnvidian"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
-          "name": "fufesou",
-          "url": "https://github.com/fufesou"
+          "avatar": "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
+          "name": "nachiketb-nvidia",
+          "url": "https://github.com/nachiketb-nvidia"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
-          "name": "21pages",
-          "url": "https://github.com/21pages"
+          "avatar": "https://avatars.githubusercontent.com/u/180418?s=40&v=4",
+          "name": "grahamking",
+          "url": "https://github.com/grahamking"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
-          "name": "Kingtous",
-          "url": "https://github.com/Kingtous"
+          "avatar": "https://avatars.githubusercontent.com/u/196090752?s=40&v=4",
+          "name": "ryan-lempka",
+          "url": "https://github.com/ryan-lempka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
-          "name": "Heap-Hop",
-          "url": "https://github.com/Heap-Hop"
-        }
-      ]
-    },
-    {
-      "title": "GyulyVGC/sniffnet",
-      "url": "https://github.com/GyulyVGC/sniffnet",
-      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "43,056",
-      "forks": "2,023",
-      "addStars": "730",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100347457?s=40&v=4",
-          "name": "GyulyVGC",
-          "url": "https://github.com/GyulyVGC"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101053125?s=40&v=4",
-          "name": "Crirock",
-          "url": "https://github.com/Crirock"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48846352?s=40&v=4",
-          "name": "joshuamegnauth54",
-          "url": "https://github.com/joshuamegnauth54"
+          "avatar": "https://avatars.githubusercontent.com/u/208532109?s=40&v=4",
+          "name": "ayushag-nv",
+          "url": "https://github.com/ayushag-nv"
         }
       ]
     }

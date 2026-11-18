@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Weekly Trending",
   "description": "Weekly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Nov 2026 07:18:58 GMT",
+  "pubDate": "Wed, 18 Nov 2026 13:18:28 GMT",
   "items": [
     {
       "title": "janestreet/magic-trace",
@@ -10,7 +10,7 @@
       "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "6,421",
+      "stars": "6,422",
       "forks": "233",
       "addStars": "61",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "3,352",
+      "stars": "3,355",
       "forks": "297",
       "addStars": "38",
       "contributors": [
@@ -79,39 +79,76 @@
       ]
     },
     {
-      "title": "AeneasVerif/aeneas",
-      "url": "https://github.com/AeneasVerif/aeneas",
-      "description": "A verification toolchain for Rust programs",
+      "title": "semgrep/semgrep-interfaces",
+      "url": "https://github.com/semgrep/semgrep-interfaces",
+      "description": "Store the ATD/openapi/protobuf/... interfaces between semgrep components",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "1,214",
-      "forks": "156",
-      "addStars": "31",
+      "stars": "20",
+      "forks": "20",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14029289?s=40&v=4",
-          "name": "sonmarcho",
-          "url": "https://github.com/sonmarcho"
+          "avatar": "https://avatars.githubusercontent.com/u/332336?s=40&v=4",
+          "name": "aryx",
+          "url": "https://github.com/aryx"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6783654?s=40&v=4",
-          "name": "Nadrieril",
-          "url": "https://github.com/Nadrieril"
+          "avatar": "https://avatars.githubusercontent.com/u/698597?s=40&v=4",
+          "name": "jbergler",
+          "url": "https://github.com/jbergler"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6841566?s=40&v=4",
-          "name": "R1kM",
-          "url": "https://github.com/R1kM"
+          "avatar": "https://avatars.githubusercontent.com/u/343265?s=40&v=4",
+          "name": "mjambon",
+          "url": "https://github.com/mjambon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43295942?s=40&v=4",
-          "name": "ayhon",
-          "url": "https://github.com/ayhon"
+          "avatar": "https://avatars.githubusercontent.com/u/49291449?s=40&v=4",
+          "name": "brandonspark",
+          "url": "https://github.com/brandonspark"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51876429?s=40&v=4",
-          "name": "oliver-butterley",
-          "url": "https://github.com/oliver-butterley"
+          "avatar": "https://avatars.githubusercontent.com/u/47466291?s=40&v=4",
+          "name": "mmcqd",
+          "url": "https://github.com/mmcqd"
+        }
+      ]
+    },
+    {
+      "title": "ocaml/dune",
+      "url": "https://github.com/ocaml/dune",
+      "description": "A composable build system for OCaml.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "1,935",
+      "forks": "512",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139003?s=40&v=4",
+          "name": "rgrinberg",
+          "url": "https://github.com/rgrinberg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8614547?s=40&v=4",
+          "name": "Alizter",
+          "url": "https://github.com/Alizter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/661909?s=40&v=4",
+          "name": "anmonteiro",
+          "url": "https://github.com/anmonteiro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/496345?s=40&v=4",
+          "name": "emillon",
+          "url": "https://github.com/emillon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/617530?s=40&v=4",
+          "name": "mefyl",
+          "url": "https://github.com/mefyl"
         }
       ]
     },
@@ -149,6 +186,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/956926?s=40&v=4",
           "name": "ben-willmore",
           "url": "https://github.com/ben-willmore"
+        }
+      ]
+    },
+    {
+      "title": "AeneasVerif/aeneas",
+      "url": "https://github.com/AeneasVerif/aeneas",
+      "description": "A verification toolchain for Rust programs",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "1,214",
+      "forks": "156",
+      "addStars": "31",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14029289?s=40&v=4",
+          "name": "sonmarcho",
+          "url": "https://github.com/sonmarcho"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6783654?s=40&v=4",
+          "name": "Nadrieril",
+          "url": "https://github.com/Nadrieril"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6841566?s=40&v=4",
+          "name": "R1kM",
+          "url": "https://github.com/R1kM"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43295942?s=40&v=4",
+          "name": "ayhon",
+          "url": "https://github.com/ayhon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51876429?s=40&v=4",
+          "name": "oliver-butterley",
+          "url": "https://github.com/oliver-butterley"
         }
       ]
     }
