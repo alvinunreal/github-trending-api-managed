@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Nov 2026 07:18:17 GMT",
+  "pubDate": "Thu, 19 Nov 2026 13:18:19 GMT",
   "items": [
     {
       "title": "lowRISC/opentitan",
@@ -47,8 +47,8 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "13,277",
-      "forks": "1,283",
+      "stars": "13,280",
+      "forks": "1,284",
       "addStars": "53",
       "contributors": [
         {
@@ -70,43 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
           "name": "xianbaoqian",
           "url": "https://github.com/xianbaoqian"
-        }
-      ]
-    },
-    {
-      "title": "verilator/verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "4,096",
-      "forks": "992",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
-          "name": "wsnyder",
-          "url": "https://github.com/wsnyder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
-          "name": "gezalore",
-          "url": "https://github.com/gezalore"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
-          "name": "RRozak",
-          "url": "https://github.com/RRozak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
-          "name": "toddstrader",
-          "url": "https://github.com/toddstrader"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/140522618?s=40&v=4",
-          "name": "YilouWang",
-          "url": "https://github.com/YilouWang"
         }
       ]
     },
@@ -222,39 +185,76 @@
       ]
     },
     {
-      "title": "openhwfoundation/cvw",
-      "url": "https://github.com/openhwfoundation/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "title": "pulp-platform/common_cells",
+      "url": "https://github.com/pulp-platform/common_cells",
+      "description": "Common SystemVerilog components",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "669",
-      "forks": "599",
-      "addStars": "7",
+      "stars": "816",
+      "forks": "210",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
-          "name": "davidharrishmc",
-          "url": "https://github.com/davidharrishmc"
+          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
+          "name": "andreaskurth",
+          "url": "https://github.com/andreaskurth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/568353?s=40&v=4",
-          "name": "rosethompson",
-          "url": "https://github.com/rosethompson"
+          "avatar": "https://avatars.githubusercontent.com/u/17752123?s=40&v=4",
+          "name": "colluca",
+          "url": "https://github.com/colluca"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25440394?s=40&v=4",
-          "name": "jordancarlin",
-          "url": "https://github.com/jordancarlin"
+          "avatar": "https://avatars.githubusercontent.com/u/6498078?s=40&v=4",
+          "name": "niwis",
+          "url": "https://github.com/niwis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/109749469?s=40&v=4",
+          "name": "phsauter",
+          "url": "https://github.com/phsauter"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51968757?s=40&v=4",
-          "name": "BBracker",
-          "url": "https://github.com/BBracker"
+          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
+          "name": "stmach",
+          "url": "https://github.com/stmach"
+        }
+      ]
+    },
+    {
+      "title": "verilator/verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "4,097",
+      "forks": "992",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
+          "name": "wsnyder",
+          "url": "https://github.com/wsnyder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
+          "name": "gezalore",
+          "url": "https://github.com/gezalore"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
+          "name": "RRozak",
+          "url": "https://github.com/RRozak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
+          "name": "toddstrader",
+          "url": "https://github.com/toddstrader"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/140522618?s=40&v=4",
+          "name": "YilouWang",
+          "url": "https://github.com/YilouWang"
         }
       ]
     }

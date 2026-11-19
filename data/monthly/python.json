@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Nov 2026 07:18:17 GMT",
+  "pubDate": "Thu, 19 Nov 2026 13:18:19 GMT",
   "items": [
     {
       "title": "anthropics/skills",
@@ -10,8 +10,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "197,364",
-      "forks": "23,112",
+      "stars": "197,536",
+      "forks": "23,136",
       "addStars": "15,769",
       "contributors": [
         {
@@ -42,13 +42,35 @@
       ]
     },
     {
+      "title": "Jakeschincariol/instagram-agent-skill",
+      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+      "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "7,207",
+      "forks": "1,400",
+      "addStars": "5,309",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/196724947?s=40&v=4",
+          "name": "Jakeschincariol",
+          "url": "https://github.com/Jakeschincariol"
+        }
+      ]
+    },
+    {
       "title": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,622",
-      "forks": "7,338",
+      "stars": "60,705",
+      "forks": "7,349",
       "addStars": "19,065",
       "contributors": [
         {
@@ -79,8 +101,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "114,308",
-      "forks": "13,136",
+      "stars": "114,437",
+      "forks": "13,148",
       "addStars": "20,046",
       "contributors": [
         {
@@ -116,8 +138,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,748",
-      "forks": "3,830",
+      "stars": "30,816",
+      "forks": "3,836",
       "addStars": "11,532",
       "contributors": [
         {
@@ -148,14 +170,14 @@
       ]
     },
     {
-      "title": "kajisho5/ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,088",
-      "forks": "759",
-      "addStars": "6,030",
+      "stars": "11,825",
+      "forks": "1,552",
+      "addStars": "5,774",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -163,9 +185,41 @@
           "url": "https://github.com/claude"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/66463177?s=40&v=4",
+          "name": "injectifytest",
+          "url": "https://github.com/injectifytest"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49252733?s=40&v=4",
+          "name": "elementalsouls",
+          "url": "https://github.com/elementalsouls"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli"
+        }
+      ]
+    },
+    {
+      "title": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "8,162",
+      "forks": "766",
+      "addStars": "6,030",
+      "contributors": [
+        {
           "avatar": "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
           "name": "kajisho5",
           "url": "https://github.com/kajisho5"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -175,8 +229,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,539",
-      "forks": "4,031",
+      "stars": "36,557",
+      "forks": "4,033",
       "addStars": "6,534",
       "contributors": [
         {
@@ -202,39 +256,39 @@
       ]
     },
     {
-      "title": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,177",
-      "forks": "3,617",
-      "addStars": "5,306",
+      "stars": "123,128",
+      "forks": "23,606",
+      "addStars": "11,672",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
-          "name": "Soulter",
-          "url": "https://github.com/Soulter"
+          "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+          "name": "Yijia-Xiao",
+          "url": "https://github.com/Yijia-Xiao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
-          "name": "Raven95676",
-          "url": "https://github.com/Raven95676"
+          "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
+          "name": "EdwardoSunny",
+          "url": "https://github.com/EdwardoSunny"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67079377?s=40&v=4",
-          "name": "RC-CHN",
-          "url": "https://github.com/RC-CHN"
+          "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
+          "name": "CadeYu",
+          "url": "https://github.com/CadeYu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/62183434?s=40&v=4",
-          "name": "zouyonghe",
-          "url": "https://github.com/zouyonghe"
+          "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
+          "name": "luohy15",
+          "url": "https://github.com/luohy15"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/110004162?s=40&v=4",
-          "name": "anka-afk",
-          "url": "https://github.com/anka-afk"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -244,7 +298,7 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,859",
+      "stars": "26,903",
       "forks": "2,392",
       "addStars": "6,381",
       "contributors": [
@@ -276,8 +330,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,277",
-      "forks": "10,888",
+      "stars": "104,321",
+      "forks": "10,898",
       "addStars": "16,193",
       "contributors": [
         {
@@ -308,39 +362,71 @@
       ]
     },
     {
-      "title": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "123,106",
-      "forks": "23,604",
-      "addStars": "11,672",
+      "stars": "70,539",
+      "forks": "6,281",
+      "addStars": "5,361",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
-          "name": "Yijia-Xiao",
-          "url": "https://github.com/Yijia-Xiao"
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
-          "name": "EdwardoSunny",
-          "url": "https://github.com/EdwardoSunny"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
-          "name": "CadeYu",
-          "url": "https://github.com/CadeYu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
-          "name": "luohy15",
-          "url": "https://github.com/luohy15"
+          "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+          "name": "tmchow",
+          "url": "https://github.com/tmchow"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&v=4",
+          "name": "iliaal",
+          "url": "https://github.com/iliaal"
+        }
+      ]
+    },
+    {
+      "title": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "47,196",
+      "forks": "3,622",
+      "addStars": "5,306",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
+          "name": "Soulter",
+          "url": "https://github.com/Soulter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
+          "name": "Raven95676",
+          "url": "https://github.com/Raven95676"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67079377?s=40&v=4",
+          "name": "RC-CHN",
+          "url": "https://github.com/RC-CHN"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62183434?s=40&v=4",
+          "name": "zouyonghe",
+          "url": "https://github.com/zouyonghe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110004162?s=40&v=4",
+          "name": "anka-afk",
+          "url": "https://github.com/anka-afk"
         }
       ]
     },
@@ -350,8 +436,8 @@
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,399",
-      "forks": "2,220",
+      "stars": "16,415",
+      "forks": "2,223",
       "addStars": "3,008",
       "contributors": [
         {
@@ -382,8 +468,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "144,573",
-      "forks": "23,231",
+      "stars": "144,643",
+      "forks": "23,251",
       "addStars": "12,482",
       "contributors": [
         {
@@ -414,50 +500,13 @@
       ]
     },
     {
-      "title": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "70,932",
-      "forks": "5,565",
-      "addStars": "12,972",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
-          "name": "blader",
-          "url": "https://github.com/blader"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8268155?s=40&v=4",
-          "name": "Scott-Emberson",
-          "url": "https://github.com/Scott-Emberson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/243858445?s=40&v=4",
-          "name": "warp-agent",
-          "url": "https://github.com/warp-agent"
-        }
-      ]
-    },
-    {
       "title": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,883",
-      "forks": "10,357",
+      "stars": "104,894",
+      "forks": "10,369",
       "addStars": "2,985",
       "contributors": [
         {
@@ -469,75 +518,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/109919500?s=40&v=4",
           "name": "YuriiMotov",
           "url": "https://github.com/YuriiMotov"
-        }
-      ]
-    },
-    {
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "70,299",
-      "forks": "6,262",
-      "addStars": "5,361",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
-          "name": "tmchow",
-          "url": "https://github.com/tmchow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&v=4",
-          "name": "iliaal",
-          "url": "https://github.com/iliaal"
-        }
-      ]
-    },
-    {
-      "title": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "92,350",
-      "forks": "39,364",
-      "addStars": "1,220",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&v=4",
-          "name": "balloob",
-          "url": "https://github.com/balloob"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
-          "name": "bdraco",
-          "url": "https://github.com/bdraco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6771947?s=40&v=4",
-          "name": "epenet",
-          "url": "https://github.com/epenet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&v=4",
-          "name": "frenck",
-          "url": "https://github.com/frenck"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14281572?s=40&v=4",
-          "name": "emontnemery",
-          "url": "https://github.com/emontnemery"
         }
       ]
     }

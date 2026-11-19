@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Nov 2026 07:18:17 GMT",
+  "pubDate": "Thu, 19 Nov 2026 13:18:19 GMT",
   "items": [
     {
       "title": "dakra/ghostel",
@@ -10,7 +10,7 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,164",
+      "stars": "1,165",
       "forks": "79",
       "addStars": "23",
       "contributors": [
@@ -79,6 +79,43 @@
       ]
     },
     {
+      "title": "melpa/melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "2,989",
+      "forks": "2,843",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636?s=40&v=4",
+          "name": "purcell",
+          "url": "https://github.com/purcell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38066?s=40&v=4",
+          "name": "milkypostman",
+          "url": "https://github.com/milkypostman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/554281?s=40&v=4",
+          "name": "syohex",
+          "url": "https://github.com/syohex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3079551?s=40&v=4",
+          "name": "yasuyk",
+          "url": "https://github.com/yasuyk"
+        }
+      ]
+    },
+    {
       "title": "google/styleguide",
       "url": "https://github.com/google/styleguide",
       "description": "Style guides for Google-originated open-source projects",
@@ -111,12 +148,86 @@
       ]
     },
     {
+      "title": "magit/transient",
+      "url": "https://github.com/magit/transient",
+      "description": "Transient commands",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "891",
+      "forks": "76",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
+          "name": "monnier",
+          "url": "https://github.com/monnier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1297788?s=40&v=4",
+          "name": "kyleam",
+          "url": "https://github.com/kyleam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20908835?s=40&v=4",
+          "name": "Eli-Zaretskii",
+          "url": "https://github.com/Eli-Zaretskii"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50191376?s=40&v=4",
+          "name": "josephmturner",
+          "url": "https://github.com/josephmturner"
+        }
+      ]
+    },
+    {
+      "title": "xenodium/agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "2,076",
+      "forks": "264",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8107219?s=40&v=4",
+          "name": "xenodium",
+          "url": "https://github.com/xenodium"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/312540?s=40&v=4",
+          "name": "nhojb",
+          "url": "https://github.com/nhojb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/255802?s=40&v=4",
+          "name": "liaowang11",
+          "url": "https://github.com/liaowang11"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/592734?s=40&v=4",
+          "name": "fritzgrabo",
+          "url": "https://github.com/fritzgrabo"
+        }
+      ]
+    },
+    {
       "title": "doomemacs/core",
       "url": "https://github.com/doomemacs/core",
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "22,831",
+      "stars": "22,833",
       "forks": "3,139",
       "addStars": "21",
       "contributors": [
@@ -218,43 +329,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/4078489?s=40&v=4",
           "name": "maikol-solis",
           "url": "https://github.com/maikol-solis"
-        }
-      ]
-    },
-    {
-      "title": "xenodium/agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "2,074",
-      "forks": "264",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8107219?s=40&v=4",
-          "name": "xenodium",
-          "url": "https://github.com/xenodium"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/312540?s=40&v=4",
-          "name": "nhojb",
-          "url": "https://github.com/nhojb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/255802?s=40&v=4",
-          "name": "liaowang11",
-          "url": "https://github.com/liaowang11"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/592734?s=40&v=4",
-          "name": "fritzgrabo",
-          "url": "https://github.com/fritzgrabo"
         }
       ]
     }

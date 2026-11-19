@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Nov 2026 07:18:17 GMT",
+  "pubDate": "Thu, 19 Nov 2026 13:18:19 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -11,7 +11,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "31,507",
-      "forks": "3,831",
+      "forks": "3,832",
       "addStars": "84",
       "contributors": [
         {
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
           "name": "rosslwheeler",
           "url": "https://github.com/rosslwheeler"
+        }
+      ]
+    },
+    {
+      "title": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "6,962",
+      "forks": "1,775",
+      "addStars": "62",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
+          "name": "yyihuang",
+          "url": "https://github.com/yyihuang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
+          "name": "averyhNV",
+          "url": "https://github.com/averyhNV"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
+          "name": "yzh119",
+          "url": "https://github.com/yzh119"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
+          "name": "bkryu",
+          "url": "https://github.com/bkryu"
         }
       ]
     },
@@ -79,39 +116,71 @@
       ]
     },
     {
-      "title": "flashinfer-ai/flashinfer",
-      "url": "https://github.com/flashinfer-ai/flashinfer",
-      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "title": "NVIDIA/cuCollections",
+      "url": "https://github.com/NVIDIA/cuCollections",
+      "description": "",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,962",
-      "forks": "1,773",
-      "addStars": "62",
+      "stars": "678",
+      "forks": "127",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
-          "name": "yyihuang",
-          "url": "https://github.com/yyihuang"
+          "avatar": "https://avatars.githubusercontent.com/u/12716979?s=40&v=4",
+          "name": "PointKernel",
+          "url": "https://github.com/PointKernel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
-          "name": "averyhNV",
-          "url": "https://github.com/averyhNV"
+          "avatar": "https://avatars.githubusercontent.com/u/15221289?s=40&v=4",
+          "name": "jrhemstad",
+          "url": "https://github.com/jrhemstad"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/2955913?s=40&v=4",
+          "name": "sleeepyjack",
+          "url": "https://github.com/sleeepyjack"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
-          "name": "yzh119",
-          "url": "https://github.com/yzh119"
+          "avatar": "https://avatars.githubusercontent.com/u/215756?s=40&v=4",
+          "name": "robertmaynard",
+          "url": "https://github.com/robertmaynard"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/raft",
+      "url": "https://github.com/NVIDIA/raft",
+      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "1,056",
+      "forks": "260",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
+          "name": "cjnolet",
+          "url": "https://github.com/cjnolet"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
-          "name": "bkryu",
-          "url": "https://github.com/bkryu"
+          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
+          "name": "GPUtester",
+          "url": "https://github.com/GPUtester"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
+          "name": "achirkin",
+          "url": "https://github.com/achirkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14876585?s=40&v=4",
+          "name": "divyegala",
+          "url": "https://github.com/divyegala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
+          "name": "bdice",
+          "url": "https://github.com/bdice"
         }
       ]
     },
@@ -195,7 +264,7 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "4,015",
+      "stars": "4,014",
       "forks": "558",
       "addStars": "11",
       "contributors": [
@@ -223,6 +292,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
           "name": "guilhermeleobas",
           "url": "https://github.com/guilhermeleobas"
+        }
+      ]
+    },
+    {
+      "title": "mirage-project/mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "2,623",
+      "forks": "277",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
+          "name": "jiazhihao",
+          "url": "https://github.com/jiazhihao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82456363?s=40&v=4",
+          "name": "yzhou442",
+          "url": "https://github.com/yzhou442"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99570243?s=40&v=4",
+          "name": "xinhaoc",
+          "url": "https://github.com/xinhaoc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48128384?s=40&v=4",
+          "name": "wmdi",
+          "url": "https://github.com/wmdi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145248565?s=40&v=4",
+          "name": "undefined-c0der",
+          "url": "https://github.com/undefined-c0der"
         }
       ]
     }

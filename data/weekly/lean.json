@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Nov 2026 07:18:17 GMT",
+  "pubDate": "Thu, 19 Nov 2026 13:18:19 GMT",
   "items": [
     {
       "title": "leanprover/lean4",
@@ -10,7 +10,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "10,056",
+      "stars": "10,058",
       "forks": "1,116",
       "addStars": "92",
       "contributors": [
@@ -79,50 +79,13 @@
       ]
     },
     {
-      "title": "leanprover-community/mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "4,500",
-      "forks": "1,869",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
-          "name": "YaelDillies",
-          "url": "https://github.com/YaelDillies"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
-          "name": "urkud",
-          "url": "https://github.com/urkud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
-          "name": "eric-wieser",
-          "url": "https://github.com/eric-wieser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37772949?s=40&v=4",
-          "name": "joelriou",
-          "url": "https://github.com/joelriou"
-        }
-      ]
-    },
-    {
       "title": "ethereum/EthLib",
       "url": "https://github.com/ethereum/EthLib",
       "description": "Formally verified Ethereum primitives, written in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "104",
-      "forks": "32",
+      "forks": "33",
       "addStars": "7",
       "contributors": [
         {
@@ -149,6 +112,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/60024285?s=40&v=4",
           "name": "wstran",
           "url": "https://github.com/wstran"
+        }
+      ]
+    },
+    {
+      "title": "Th0rgal/orb",
+      "url": "https://github.com/Th0rgal/orb",
+      "description": "All your AI providers, machines, and agent harnesses in one place. Free & native",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "721",
+      "forks": "75",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41830259?s=40&v=4",
+          "name": "Th0rgal",
+          "url": "https://github.com/Th0rgal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6303520?s=40&v=4",
+          "name": "adrienlacombe",
+          "url": "https://github.com/adrienlacombe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241987901?s=40&v=4",
+          "name": "garvrao80",
+          "url": "https://github.com/garvrao80"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29175356?s=40&v=4",
+          "name": "KultureElectric",
+          "url": "https://github.com/KultureElectric"
         }
       ]
     },
@@ -190,13 +190,50 @@
       ]
     },
     {
+      "title": "leanprover-community/mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "4,500",
+      "forks": "1,872",
+      "addStars": "33",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
+          "name": "YaelDillies",
+          "url": "https://github.com/YaelDillies"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
+          "name": "urkud",
+          "url": "https://github.com/urkud"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/425260?s=40&v=4",
+          "name": "eric-wieser",
+          "url": "https://github.com/eric-wieser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37772949?s=40&v=4",
+          "name": "joelriou",
+          "url": "https://github.com/joelriou"
+        }
+      ]
+    },
+    {
       "title": "leanprover-community/physlib",
       "url": "https://github.com/leanprover-community/physlib",
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "841",
-      "forks": "230",
+      "stars": "842",
+      "forks": "231",
       "addStars": "8",
       "contributors": [
         {
@@ -223,6 +260,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
           "name": "pitmonticone",
           "url": "https://github.com/pitmonticone"
+        }
+      ]
+    },
+    {
+      "title": "facebookresearch/atlas-lean",
+      "url": "https://github.com/facebookresearch/atlas-lean",
+      "description": "ATLAS Autoformalized Textbook Library At Scale",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "334",
+      "forks": "57",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1993519?s=40&v=4",
+          "name": "akiezun",
+          "url": "https://github.com/akiezun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37917934?s=40&v=4",
+          "name": "Deicyde",
+          "url": "https://github.com/Deicyde"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17603148?s=40&v=4",
+          "name": "VivienCabannes",
+          "url": "https://github.com/VivienCabannes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75760207?s=40&v=4",
+          "name": "zibo-yang",
+          "url": "https://github.com/zibo-yang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     }
