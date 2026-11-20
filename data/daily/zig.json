@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 20 Nov 2026 13:18:15 GMT",
+  "pubDate": "Fri, 20 Nov 2026 19:18:16 GMT",
   "items": [
     {
       "title": "vercel-labs/fx",
@@ -10,9 +10,9 @@
       "description": "Unix like coding agent",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,934",
+      "stars": "3,937",
       "forks": "460",
-      "addStars": "13",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/221089582?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,512",
-      "forks": "271",
-      "addStars": "8",
+      "stars": "2,515",
+      "forks": "272",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869085?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "516",
+      "stars": "517",
       "forks": "36",
-      "addStars": "5",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3198124?s=40&v=4",
@@ -116,7 +116,7 @@
       "description": "A websocket implementation for zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "527",
+      "stars": "528",
       "forks": "115",
       "addStars": "0",
       "contributors": [
@@ -153,9 +153,9 @@
       "description": "Zig bindings for the Lua C API",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "546",
+      "stars": "547",
       "forks": "100",
-      "addStars": "0",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7967463?s=40&v=4",
@@ -192,7 +192,7 @@
       "languageColor": "#ec915c",
       "stars": "17,410",
       "forks": "940",
-      "addStars": "5",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
@@ -229,7 +229,7 @@
       "languageColor": "#ec915c",
       "stars": "1,957",
       "forks": "71",
-      "addStars": "6",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33665156?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "13,096",
-      "forks": "388",
-      "addStars": "7",
+      "stars": "13,103",
+      "forks": "387",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/75102186?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,283",
+      "stars": "1,285",
       "forks": "111",
-      "addStars": "2",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40698010?s=40&v=4",
@@ -330,7 +330,7 @@
       "languageColor": "#ec915c",
       "stars": "7,853",
       "forks": "332",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -360,12 +360,34 @@
       ]
     },
     {
+      "title": "debpalash/Opal",
+      "url": "https://github.com/debpalash/Opal",
+      "description": "The Open-source Netflix, Spotify, Crunchyroll, Plex/Jellyfin alternative. Movies, shows, comics, manga, TV, torrents, streaming, music, podcasts, radio, wallpapers and local ai for Available on macOS, Windows, Linux, iOS & Android",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "164",
+      "forks": "24",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+          "name": "debpalash",
+          "url": "https://github.com/debpalash"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "mitchellh/libxev",
       "url": "https://github.com/mitchellh/libxev",
       "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,611",
+      "stars": "3,612",
       "forks": "226",
       "addStars": "0",
       "contributors": [
@@ -397,9 +419,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "64,271",
+      "stars": "64,282",
       "forks": "3,945",
-      "addStars": "41",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -424,9 +446,9 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,276",
-      "forks": "3,115",
-      "addStars": "10",
+      "stars": "43,277",
+      "forks": "3,116",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
@@ -456,14 +478,51 @@
       ]
     },
     {
+      "title": "beamivalice/sushi",
+      "url": "https://github.com/beamivalice/sushi",
+      "description": "Sushi engine runs very high quality quant model in Apple Silicon, using both STQ and EXL3 format with special tuning technology to achieve frontier sub 4 bits compression.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "499",
+      "forks": "41",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/197176783?s=40&v=4",
+          "name": "beamivalice",
+          "url": "https://github.com/beamivalice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22839780?s=40&v=4",
+          "name": "cnsiva",
+          "url": "https://github.com/cnsiva"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/870238?s=40&v=4",
+          "name": "jasontitus",
+          "url": "https://github.com/jasontitus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9126398?s=40&v=4",
+          "name": "yoyo930021",
+          "url": "https://github.com/yoyo930021"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98686251?s=40&v=4",
+          "name": "felk-dev",
+          "url": "https://github.com/felk-dev"
+        }
+      ]
+    },
+    {
       "title": "simoarpe/ziggity",
       "url": "https://github.com/simoarpe/ziggity",
       "description": "⚡️ Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "481",
+      "stars": "484",
       "forks": "21",
-      "addStars": "14",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3308503?s=40&v=4",
@@ -498,8 +557,8 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,352",
-      "forks": "549",
+      "stars": "2,356",
+      "forks": "550",
       "addStars": "15",
       "contributors": [
         {
