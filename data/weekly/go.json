@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Nov 2026 13:18:19 GMT",
+  "pubDate": "Mon, 23 Nov 2026 19:18:12 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "55,583",
-      "forks": "4,616",
+      "stars": "55,649",
+      "forks": "4,604",
       "addStars": "3,700",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,331",
+      "stars": "10,338",
       "forks": "584",
       "addStars": "1,933",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,197",
-      "forks": "906",
+      "stars": "8,213",
+      "forks": "909",
       "addStars": "1,381",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,302",
-      "forks": "388",
+      "stars": "3,308",
+      "forks": "380",
       "addStars": "141",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,833",
-      "forks": "817",
+      "stars": "5,859",
+      "forks": "813",
       "addStars": "4,316",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,827",
+      "stars": "17,834",
       "forks": "1,720",
       "addStars": "487",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "122,311",
-      "forks": "7,140",
+      "stars": "122,381",
+      "forks": "7,142",
       "addStars": "1,881",
       "contributors": [
         {
@@ -249,7 +249,7 @@
       "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,497",
+      "stars": "4,501",
       "forks": "937",
       "addStars": "135",
       "contributors": [
@@ -282,7 +282,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "47,985",
-      "forks": "5,078",
+      "forks": "5,076",
       "addStars": "60",
       "contributors": [
         {
@@ -313,7 +313,7 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,162",
+      "stars": "47,165",
       "forks": "9,441",
       "addStars": "158",
       "contributors": [
@@ -350,8 +350,8 @@
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,457",
-      "forks": "1,834",
+      "stars": "16,462",
+      "forks": "1,835",
       "addStars": "110",
       "contributors": [
         {
@@ -388,7 +388,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "11,974",
-      "forks": "1,121",
+      "forks": "1,123",
       "addStars": "72",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,127",
-      "forks": "6,053",
+      "stars": "39,017",
+      "forks": "6,051",
       "addStars": "752",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,646",
-      "forks": "922",
+      "stars": "39,656",
+      "forks": "927",
       "addStars": "259",
       "contributors": [
         {
@@ -474,6 +474,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4",
           "name": "simar7",
           "url": "https://github.com/simar7"
+        }
+      ]
+    },
+    {
+      "title": "misakano7545/workbuddy2api-panel",
+      "url": "https://github.com/misakano7545/workbuddy2api-panel",
+      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "1,421",
+      "forks": "359",
+      "addStars": "216",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/168344685?s=40&v=4",
+          "name": "misakano7545",
+          "url": "https://github.com/misakano7545"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49717738?s=40&v=4",
+          "name": "linguo2625469",
+          "url": "https://github.com/linguo2625469"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/271688242?s=40&v=4",
+          "name": "TYCT-tyct",
+          "url": "https://github.com/TYCT-tyct"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122072876?s=40&v=4",
+          "name": "LaplaceOrange",
+          "url": "https://github.com/LaplaceOrange"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/160254324?s=40&v=4",
+          "name": "SunshineR04",
+          "url": "https://github.com/SunshineR04"
         }
       ]
     }
